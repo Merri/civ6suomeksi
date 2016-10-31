@@ -30,7 +30,7 @@ Jos et ole asentanut gittiä, niin [käy kipaisemassa se itsellesi!](https://git
 
 1. Avaa komentorivi (tai Git Bash)
 2. Siirry Civ 6:n Mods-hakemistoon: `cd ~/Documents/My\ Games/Sid\ Meier\'s\ Civilization\ VI/Mods`
-3. Nyt tiedostot voi kopioida. Tämän voi tehdä kahdella tavalla: yksinkertaisena kopiona tai täydellisenä Git-kloonina.
+3. Nyt tiedostot voi kopioida, eli tehdä git-kloonin.
 
 Kielipaketin saat tällä loitsulla:
 
