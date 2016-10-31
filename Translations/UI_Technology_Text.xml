@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
+			<Text>TUTKIMUS VALMISTUI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
+			<Text>Onneksi olkoon! Olemme kehittäneet {1_TechnologyName[2]}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
+			<Text>NORMI VALMISTUI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
+			<Text>Hallinnon ja sosiaalilinjausten vaihdokset ovat ILMAISIA tällä vuorolla, sillä väestömme on innoissaan kokeillakseen {1_CivicName[2]}.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

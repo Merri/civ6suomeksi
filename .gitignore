@@ -1,0 +1,17 @@
+/*
+!/.gitignore
+!/civ6suomeksi.modinfo
+!/INSTALL.MD
+!/LICENSE
+!/README.MD
+!/Translations
+/Translations/*
+!/Translations/Aztec_Montezuma_ConfigText.xml
+!/Translations/Aztec_Montezuma_GameplayText.xml
+!/Translations/Aztec_Montezuma_PackageText.xml
+!/Translations/Civilizations_Text.xml
+!/Translations/Civilopedia_Text.xml
+!/Translations/InGameText.xml
+!/Translations/Religion_Text.xml
+!/Translations/Types_Text.xml
+!/Translations/UI_Technology_Text.xml

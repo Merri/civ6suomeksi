@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AZTEC_NAME">
+			<Text>Asteekit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_MONTEZUMA_NAME">
+			<Text>Montezuma</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_NAME">
+			<Text>Viiden auringon legenda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_DESCRIPTION">
+			<Text>Rakentaja voi vuoronsa aikana edistää kaupunkialueen valmistusta 20%:lla sen kokonaiskustannuksesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_NAME">
+			<Text>Tlatoanin lahjat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_DESCRIPTION">
+			<Text>Rajojen sisällä sijaitsevat ylelliset luonnonvarat kasvattavat [ICON_Amenities] elintasoa hyödyttäen kahta useampaa kaupunkia kuin yleensä. Sotilasyksiköt saavat +1 [ICON_Strength] taisteluvoimakkuutta jokaisesta erilaisesta asteekkien mailla hyödynnetystä ylellisestä luonnonvarasta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
+			<Text>Kotkasoturi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_DESCRIPTION">
+			<Text>Asteekkien oma muinaisuuden yksikkö, joka korvaa soturin. Kykenee joskus kaappaamaan toisten kansojen sotilasyksiköt muuttaen ne rakentajiksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TLACHTLI_NAME">
+			<Text>Tlachtli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION">
+			<Text>Asteekkien oma rakennus. Tarjoaa [ICON_Amenities] elintasoa, +2 [ICON_Faith] uskoa ja [ICON_GreatPerson] merkittävän kenraalin pisteen.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8ed00bf3-99f6-4360-81bf-709791a90fbf" version="1">
+	<Properties>
+		<Name>LOC_MOD_TITLE</Name>
+		<Teaser>LOC_MOD_TEASER</Teaser>
+		<Description>LOC_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS</Authors>
+		<EnabledAtStartup>1</EnabledAtStartup>
+		<EnabledByDefault>1</EnabledByDefault>
+	</Properties>
+    <Components>
+        <LocalizedText id="FINNISH_TEXT">
+            <Items>
+                <File>Translations/Aztec_Montezuma_ConfigText.xml</File>
+                <File>Translations/Aztec_Montezuma_GameplayText.xml</File>
+                <File>Translations/Aztec_Montezuma_PackageText.xml</File>
+                <File>Translations/Civilizations_Text.xml</File>
+                <File>Translations/Civilopedia_Text.xml</File>
+                <File>Translations/InGameText.xml</File>
+                <File>Translations/Religion_Text.xml</File>
+                <File>Translations/Types_Text.xml</File>
+                <File>Translations/UI_Technology_Text.xml</File>
+            </Items>
+        </LocalizedText>
+    </Components>
+	<LocalizedText>
+		<Text id="LOC_MOD_TITLE">
+			<en_US>Civilization VI suomeksi</en_US>
+			<fi_FI>Civilization VI suomeksi</fi_FI>
+		</Text>
+		<Text id="LOC_MOD_TEASER">
+			<en_US>Finnish Language Pack</en_US>
+			<fi_FI>Suomen kielipaketti</fi_FI>
+		</Text>
+		<Text id="LOC_DESCRIPTION">
+			<en_US>This language pack providers the glorious Finnish language to the game.</en_US>
+			<fi_FI>Vaatimaton suomennos tälle upean pelisarjan kuudennelle osalle.</fi_FI>
+		</Text>
+		<Text id="LOC_MOD_AUTHORS">
+			<en_US>Vesa Piittinen</en_US>
+			<fi_FI>Vesa Piittinen</fi_FI>
+		</Text>
+	</LocalizedText>
+	<Files>
+        <File>Translations/Aztec_Montezuma_ConfigText.xml</File>
+        <File>Translations/Aztec_Montezuma_GameplayText.xml</File>
+        <File>Translations/Aztec_Montezuma_PackageText.xml</File>
+        <File>Translations/Civilizations_Text.xml</File>
+        <File>Translations/Civilopedia_Text.xml</File>
+        <File>Translations/InGameText.xml</File>
+        <File>Translations/Religion_Text.xml</File>
+        <File>Translations/Types_Text.xml</File>
+        <File>Translations/UI_Technology_Text.xml</File>
+	</Files>
+</Mod>

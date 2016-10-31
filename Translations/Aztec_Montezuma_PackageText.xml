@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_TITLE">
+			<Text>Lisäosa: Asteekit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_TEASER">
+			<Text>Uusi kansa ja hallitsija: Asteekkien Montezuma</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_DESCRIPTION">
+			<Text>Sisältää uuden kansan ja hallitsijan, sekä uuden maailmanihmeen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AZTEC_MONTEZUMA_MOD_AUTHORS">
+			<Text>Firaxis</Text>
+		</Replace>
+   </LocalizedText>
+</GameData>
