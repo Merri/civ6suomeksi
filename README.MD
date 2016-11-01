@@ -20,6 +20,8 @@ Selvitä `Sid Meier's Civilization VI` käyttäjähakemisto. Esimerkkejä sijain
 
 Löydät kyseisestä hakemistosta Mods-hakemiston. Pura ZIP-tiedosto hakemistoon siten, että sinne ilmestyy uusi hakemisto, jonka nimi on `civ6suomeksi`.
 
+![Asennuksen lopputulos Windowsissa](./install-result-windows.png)
+
 Peli käynnistyy edelleen englanninkielisenä, mutta aloitettua uuden pelin vaihtuvat pelin tekstit suomenkielisiksi. Tämä "ongelma" johtuu siitä, että käännös on toteuttu modina.
 
 1. Pelitallennukset tulevat vaatimaan kielipaketin.
