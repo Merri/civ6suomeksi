@@ -3,7 +3,9 @@
 This is Finnish language pack for Sid Meier's Civilization VI.
 There are currently no installation instructions in English.
 
-2016 Vesa Piittinen | Finnish content is licensed under CC-BY-SA-4.0 | XML files may include original English game text which is property of Firaxis. This is a quality fan translation done for free and own amusement, thus keeping English originals is simply a matter of convenience to keep things simple and easy during translation and release progress.
+2016 Vesa Piittinen | Finnish content is licensed under CC-BY-SA-4.0 | XML files may include original English game text which is by Firaxis. This is a quality fan translation done for free and own amusement, thus keeping English originals is simply a matter of convenience to keep things simple and easy during translation and release progress.
+
+[Facebook](https://www.facebook.com/civ5suomeksi/) | [Civilization V suomeksi](https://github.com/Merri/civ5suomeksi/)
 
 ## Asennus ZIP-tiedostosta
 
