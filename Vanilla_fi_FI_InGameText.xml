@@ -838,58 +838,58 @@
 		</Replace>
 		<!-- ==================== City Banner ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_AERODROME_AIRCRAFT_STATIONED">
-			<Text>{1_Aircraft} / {2_Slots} aircraft stationed here.</Text>
+			<Text>{1_Aircraft} / {2_Slots} lentokonetta komennettu tänne.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_CITY_RANGE_STRIKE">
-			<Text>City Range Strike</Text>
+			<Text>Kaupungin tulitus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_DISTRICT_RANGE_STRIKE">
-			<Text>District Range Strike</Text>
+			<Text>Kaupunkialueen tulitus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_FOOD_SURPLUS">
-			<Text>{1_Food} surplus [ICON_Food] Food.</Text>
+			<Text>{1_Food} ylijäämäistä [ICON_Food] ruokaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_GARRISON_DEFENSE_STRENGTH">
-			<Text>Garrison Defense Strength</Text>
+			<Text>Varuskunnan puolustusvoimakkuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_DISTRICT_DEFENSE_STRENGTH">
-			<Text>District Defense Strength: {1_DefenseValue}</Text>
+			<Text>Kaupunkialueen puolustusvoimakkuus: {1_DefenseValue}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_GARRISON_HITPOINTS">
-			<Text>Garrison health: {1_Health}</Text>
+			<Text>Varuskunnan kesto: {1_Health}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_DISTRICT_HITPOINTS">
-			<Text>District health: {1_Health}</Text>
+			<Text>Kaupunkialueen kesto: {1_Health}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_OUTER_DEFENSE_HITPOINTS">
-			<Text>Fortification health: {1_Health}</Text>
+			<Text>Linnoituksen kesto: {1_Health}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_NUCLEAR_STRIKE_CAPABLE">
-			<Text>Nuclear Strike Capable</Text>
+			<Text>Kykenee ydinhyökkäykseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_NO_PRODUCTION">
-			<Text>Nothing currently being produced.</Text>
+			<Text>Ei tuota mitään tällä hetkellä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_POPULATION">
-			<Text>[ICON_Citizen] Population</Text>
+			<Text>[ICON_Citizen] väestö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_PRODUCING">
-			<Text>Producing: {1_Name}</Text>
+			<Text>Tuottaa: {1_Name}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_THERMONUCLEAR_STRIKE_CAPABLE">
-			<Text>Thermonuclear Strike Capable</Text>
+			<Text>Kykenee vetypommitukseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_TURNS_STARVATION">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until starvation.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other?{1_Turns} vuoroa;} nälkiintymiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_TURNS_GROWTH">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until growth.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other?{1_Turns} vuoroa;} väestönkasvuun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_TURNS_LEFT_UNTIL_COMPLETE">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other? {1_Turn} turns;} left until complete.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other? {1_Turn} vuoroa;} valmistumiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_WEAPON_UNAVAILABLE">
-			<Text>Weapon Unavailable</Text>
+			<Text>Ei asetta saatavilla</Text>
 		</Replace>
 		<!-- ==================== City Panel ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OVERVIEW_CITIZENS_TOOLTIP">
