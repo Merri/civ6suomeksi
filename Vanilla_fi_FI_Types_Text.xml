@@ -818,28 +818,28 @@
 		</Replace>
 		<!-- Eras-->
 		<Replace Language="fi_FI" Tag="LOC_ERA_ANCIENT_NAME">
-			<Text>Muinainen aika</Text>
+			<Text>Muinainen aika|muinaisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_CLASSICAL_NAME">
-			<Text>Antiikin aika</Text>
+			<Text>Antiikin aika|antiikin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_MEDIEVAL_NAME">
-			<Text>Keskiaika</Text>
+			<Text>Keskiaika|keskiajan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_RENAISSANCE_NAME">
-			<Text>Renessanssin aika</Text>
+			<Text>Renessanssin aika|renessanssin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_INDUSTRIAL_NAME">
-			<Text>Teollinen aika</Text>
+			<Text>Teollinen aika|teollisen ajan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_MODERN_NAME">
-			<Text>Moderni aika</Text>
+			<Text>Moderni aika|modernin ajan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_ATOMIC_NAME">
-			<Text>Atomiaika</Text>
+			<Text>Atomiaika|atomiajan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_INFORMATION_NAME">
-			<Text>Informaatioaika</Text>
+			<Text>Informaatioaika|informaatioajan</Text>
 		</Replace>
 		<!--Game Speeds-->
 		<Replace Language="fi_FI" Tag="LOC_GAME_SPEED">

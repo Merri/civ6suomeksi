@@ -5161,31 +5161,31 @@
 			<Text>{1_TourismInfo}Merkittävien henkilöiden aiheuttama turismi: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Tourism from Great Works in {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] Tourism[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Merkkiteosten aiheuttama turismi rakennuksessa {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_WONDER_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Tourism added by this Wonder: +{2_DistrictTourism} [ICON_Tourism] Tourism[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Tämän ihmeen aiheuttama turismi: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_ERA_TOOLTIP">
-			<Text>{1_TourismInfo}[NEWLINE]+{2_Percent}% [ICON_TOURISM] Tourism against civs who reached the {3_Era}:[NEWLINE]{4_CivList}[NEWLINE]</Text>
+			<Text>{1_TourismInfo}[NEWLINE]+{2_Percent}% [ICON_TOURISM] tursmia kansakuntia vastaan, jotka ovat saavuttaneet {3_Era[2]}:[NEWLINE]{4_CivList}[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_NO_CIVS_ELIGIBLE">
-			<Text>No civilizations this advanced.</Text>
+			<Text>Ainutkaan kansakunta ei ole riittävän kehittynyt.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_PARK_TOOLTIP">
-			<Text>Visitors are making their way to the National Park to enjoy its natural beauty.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Tourism[NEWLINE]</Text>
+			<Text>Vierailijat tungeksivat kansallispuistoon nauttiakseen sen luonnonkauneudesta.[NEWLINE]Tuottaa +{1_CurrentTourists} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_IMPROVEMENT_CULTURE_TOOLTIP">
-			<Text>Travelers are arriving from afar to see your civilization's unique structures.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Tourism[NEWLINE]</Text>
+			<Text>Matkailijat tulevat kaukaa ihailemaan kansallemme erityisiä rakennuksia.[NEWLINE]Tuottaa +{1_CurrentTourists} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_IMPROVEMENT_APPEAL_TOOLTIP">
-			<Text>Vacationers are relaxing along the shore at your Seaside Resort.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Tourism[NEWLINE]</Text>
+			<Text>Lomailijat nauttivat olostaan merenrannan lomakohteessamme.[NEWLINE]Tuottaa +{1_CurrentTourists} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_IMPROVEMENT_OTHER_TOOLTIP">
-			<Text>Tourists are arriving to see your nation's fascinating improvements.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Tourism[NEWLINE]</Text>
+			<Text>Turistit ovat saapuneet valtiomme mielenkiintoisten rakenteiden keskelle.[NEWLINE]Tuottaa +{1_CurrentTourists} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_INFO_TOOLTIP">
-			<Text>{1_TourismInfo}[NEWLINE]Lifetime Accumulation: {2_LifetimeCount} [ICON_Tourism] Tourism</Text>
+			<Text>{1_TourismInfo}[NEWLINE]Kertymä yhteensä: {2_LifetimeCount} [ICON_Tourism] turismia</Text>
 		</Replace>
 		<!-- Launch WMD/ICBM confirm dialogs -->
 		<Replace Language="fi_FI" Tag="LOC_LAUNCH_ICBM_DIALOG_ARE_YOU_SURE">
