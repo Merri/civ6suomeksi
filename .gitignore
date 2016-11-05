@@ -3,6 +3,9 @@
 !/INSTALL.MD
 !/LICENSE
 !/README.MD
+
+!/LocalizationDatabase_Data.sql
+
 !/Aztec_Montezuma_ConfigText.xml
 !/Aztec_Montezuma_GameplayText.xml
 !/Aztec_Montezuma_PackageText.xml
