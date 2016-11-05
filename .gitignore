@@ -6,12 +6,12 @@
 
 !/LocalizationDatabase_Data.sql
 
-!/Aztec_Montezuma_ConfigText.xml
-!/Aztec_Montezuma_GameplayText.xml
-!/Aztec_Montezuma_PackageText.xml
-!/Civilizations_Text.xml
-!/Civilopedia_Text.xml
-!/InGameText.xml
-!/Religion_Text.xml
-!/Types_Text.xml
-!/UI_Technology_Text.xml
+!/Vanilla_fi_FI_Aztec_Montezuma_ConfigText.xml
+!/Vanilla_fi_FI_Aztec_Montezuma_GameplayText.xml
+!/Vanilla_fi_FI_Aztec_Montezuma_PackageText.xml
+!/Vanilla_fi_FI_Civilizations_Text.xml
+!/Vanilla_fi_FI_Civilopedia_Text.xml
+!/Vanilla_fi_FI_InGameText.xml
+!/Vanilla_fi_FI_Religion_Text.xml
+!/Vanilla_fi_FI_Types_Text.xml
+!/Vanilla_fi_FI_UI_Technology_Text.xml
