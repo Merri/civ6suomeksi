@@ -18,14 +18,13 @@ Selvitä `Sid Meier's Civilization VI` käyttäjähakemisto. Esimerkkejä sijain
 - Mac OS X: `Users/KÄYTTÄJÄNIMI/Library/Application Support/Sid Meier's Civilization VI`
 - Mac OS X: `cd ~/Library/Application Support/Sid Meier's Civilization VI`
 
-Löydät kyseisestä hakemistosta Mods-hakemiston. Pura ZIP-tiedosto hakemistoon siten, että sinne ilmestyy uusi hakemisto, jonka nimi on `civ6suomeksi`.
+Tee sinne uusi hakemisto nimeltään `Text`. Pura ZIP-tiedosto hakemistoon, jolloin `Text`-hakemiston sisältö koostuu tiedostoista kuten `.gitignore`, `LICENSE`, `LocalizationDatabase_Data.sql` ja runsas määrä `Vanilla_fi_FI_`-alkuisia XML-tiedostoja.
 
 ![Asennuksen lopputulos Windowsissa](./install-result-windows.png)
 
-Peli käynnistyy edelleen englanninkielisenä, mutta aloitettua uuden pelin vaihtuvat pelin tekstit suomenkielisiksi. Tämä "ongelma" johtuu siitä, että käännös on toteuttu modina.
+### Kielen ottaminen käyttöön
 
-1. Pelitallennukset tulevat vaatimaan kielipaketin.
-2. Moninpeleissä kaikilla pelaajilla täytyy olla kielipaketti.
+Peli käynnistyy englanninkielisenä, mutta pelin kieliasetuksista (Game Options > Language) voi käydä valitsemassa listasta suomen. Tämän jälkeen pelin kieli vaihtuu suomeksi ja peli käynnistyy jatkossa aina suomenkielisenä :)
 
 
 ## Asennus käyttäen gittiä ja komentoriviä (Git Bash Windowsissa)
@@ -33,13 +32,16 @@ Peli käynnistyy edelleen englanninkielisenä, mutta aloitettua uuden pelin vaih
 Jos et ole asentanut gittiä, niin [käy kipaisemassa se itsellesi!](https://git-scm.com/download) (Asennuksen voi tehdä oletusasetuksin.)
 
 1. Avaa komentorivi (tai Git Bash)
-2. Siirry Civ 6:n Mods-hakemistoon: `cd ~/Documents/My\ Games/Sid\ Meier\'s\ Civilization\ VI/Mods`
-3. Nyt tiedostot voi kopioida, eli tehdä git-kloonin.
+2. Siirry Civ 6:n käyttäjähakemistoon: `cd ~/Documents/My\ Games/Sid\ Meier\'s\ Civilization\ VI`
+3. Nyt tiedostot voi kopioida, eli tehdä git-kloonin `Text`-hakemistoon.
 
 Kielipaketin saat tällä loitsulla:
 
-	git clone https://github.com/Merri/civ6suomeksi.git
+	git clone https://github.com/Merri/civ6suomeksi.git Text
 
-Siirtymällä `civ6suomeksi`-hakemistoon voit jatkossa päivittää kielipaketin uusimpaan versioon näin:
+Siirtymällä `Text`-hakemistoon voit jatkossa päivittää kielipaketin uusimpaan versioon näin:
 
     git pull
+
+**Huom!**<br />
+Jos `Text`-hakemisto löytyy jo ennestään, niin nimeä se vaikka uusiksi, tai poista se mikäli se on tyhjä. Tätä kirjoittaessa hakemistoa ei ole ennestään olemassa, vaan se täytyy luoda itse.
