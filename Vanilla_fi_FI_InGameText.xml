@@ -813,28 +813,28 @@
 		</Replace>
 		<!-- ==================== Unit Action Info ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_REQUIRES_TECH">
-			<Text>Requires: {1_Tech} technology</Text>
+			<Text>Vaatii teknologian: {1_Tech}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_REQUIRES_CIVIC">
-			<Text>Requires: {1_Civic} civic</Text>
+			<Text>Vaatii normin: {1_Civic}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_REQUIRES_ADJACENT_SAME_UNIT">
-			<Text>Requires adjacent unit of the same type.</Text>
+			<Text>Vaatii samantyyppisen yksikön vierelle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_PILLAGE_REQUIRES_MOVEMENT">
-			<Text>Not enough movement points left.</Text>
+			<Text>Liikepisteet ovat loppuneet.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_NEAR_GOODY_HUT">
-			<Text>Too close to Tribal Village</Text>
+			<Text>Liian lähellä heimokylää</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_FORMATION">
-			<Text>In formation with other units</Text>
+			<Text>Muodostelmassa muiden yksiköiden kanssa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_DANGER">
-			<Text>Danger</Text>
+			<Text>Vaara</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_PROMOTION_AVAILABLE">
-			<Text>Promotion available</Text>
+			<Text>Ylennys saatavilla</Text>
 		</Replace>
 		<!-- ==================== City Banner ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_AERODROME_AIRCRAFT_STATIONED">
