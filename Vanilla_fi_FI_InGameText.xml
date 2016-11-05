@@ -246,7 +246,7 @@
 			<Text>Paluu päävalikkoon; edellisen tallennuksen jälkeen tehtyä ei tallenneta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_EXIT_TO_DESKTOP">
-			<Text>Sulje Civilization IV</Text>
+			<Text>Sulje Civilization VI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_EXIT_TO_DESKTOP_TOOLTIP">
 			<Text>Sulkee pelin kokonaan; edellisen tallennuksen jälkeen tehtyä ei tallenneta.</Text>
