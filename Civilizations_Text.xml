@@ -2,726 +2,726 @@
 <GameData>
 	<LocalizedText>
 		<!-- Empire Names-->
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
 			<Text>Amerikan valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
 			<Text>Arabian valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
 			<Text>Barbaarit</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
 			<Text>Brasilian valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
 			<Text>Kiinan valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
 			<Text>Egyptin valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
 			<Text>Englannin valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
 			<Text>Ranskan valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
 			<Text>Saksan valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
 			<Text>Kreikan valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
 			<Text>Intian valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
 			<Text>Japanin valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
 			<Text>Kongon valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
 			<Text>Norjan valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
 			<Text>Rooman valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
 			<Text>Venäjän valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
 			<Text>Skyyttien valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
 			<Text>Espanjan valtakunta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
 			<Text>Sumerin valtakunta</Text>
 		</Replace>
 		<!-- City-State Empire Names-->
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
 			<Text>Amsterdamin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
 			<Text>Brysselin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
 			<Text>Buenos Airesin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
 			<Text>Karthagon kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
 			<Text>Geneven kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
 			<Text>Hattusan kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
 			<Text>Hong Kongin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
 			<Text>Jakartan kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
 			<Text>Jerusalemin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
 			<Text>Kabulin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
 			<Text>Kandyn kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
 			<Text>Kumasin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
 			<Text>La Ventan kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
 			<Text>Lissabonin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
 			<Text>Mohenjo-Daron kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
 			<Text>Preslavin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
 			<Text>Nan Madolin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
 			<Text>Soulin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
 			<Text>Tukholman kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
 			<Text>Toronton kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
 			<Text>Vallettan kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
 			<Text>Vilnan kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
 			<Text>Jerevanin kaupunkivaltio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
 			<Text>Sansibarin kaupunkivaltio</Text>
 		</Replace>
 		<!-- Adjectives -->
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
 			<Text>Amerikan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
 			<Text>Arabian</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
 			<Text>Barbaarien</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
 			<Text>Brasilian</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
 			<Text>Kiinan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
 			<Text>Egyptin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
 			<Text>Englannin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
 			<Text>Ranskan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
 			<Text>Saksan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
 			<Text>Kreikan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
 			<Text>Intian</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
 			<Text>Japanin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
 			<Text>Kongon</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
 			<Text>Norjan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
 			<Text>Rooman</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
 			<Text>Venäjän</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
 			<Text>Skyyttien</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
 			<Text>Espanjan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
 			<Text>Sumerin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
 			<Text>Amsterdamin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
 			<Text>Brysselin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
 			<Text>Buenos Airesin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
 			<Text>Karthagon</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
 			<Text>Geneven</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
 			<Text>Hattusan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
 			<Text>Hong Kongin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
 			<Text>Jakartan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
 			<Text>Jerusalemin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
 			<Text>Kabulin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
 			<Text>Kandyn</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
 			<Text>Kumasin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
 			<Text>La Ventan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
 			<Text>Lissabonin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
 			<Text>Mohenjo-Daron</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
 			<Text>Preslavin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
 			<Text>Nan Madolin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
 			<Text>Soulin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
 			<Text>Tuhkolman</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
 			<Text>Toronton</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
 			<Text>Vallettan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
 			<Text>Vilnan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
 			<Text>Jerevanin</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
 			<Text>Sansibarin</Text>
 		</Replace>
 		<!-- Civ Traits-->
-		<Replace Language="en_US" Tag="LOC_TRAIT_PLACEHOLDER">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_PLACEHOLDER">
 			<Text>[PLACEHOLDER] Kykyä ei ole toteutettu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
 			<Text>Amazon</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
 			<Text>Sademetsäruudut tarjoavat +1 läheisyysetua kaupunkialueista kampuksille, kaupallisille keskuksille, pyhille paikoille ja teatteriaukioille. Sademetsät tarjoavat +1 [ICON_Housing] asumuksia viereisille lähiöille.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
 			<Text>Dynastinen kierre</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
 			<Text>[ICON_TechBoosted] Heurekat ja [ICON_CivicBoosted] inspiraatiot tarjoavat 60% normeista ja teknologioista 50% sijasta.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
 			<Text>Huokeat rakentajat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
 			<Text>Rakentajat valmistuvat puolessa ajassa.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
 			<Text>Meiji-restauraatio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
 			<Text>Kaikki kaupunkialueet saavat ylimääräisen yleisen läheisyysedun siitä, että ovat vierekkäin.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
 			<Text>Brittien museo</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
 			<Text>Kukin arkeologinen museo voi sisältää kuusi [ICON_GreatWork_Artifact] artefaktia kolmen sijasta ja voi tukea kahta arkeologia samanaikaisesti. Arkeologiset museot teemoitetaan automaattisesti kun niissä on kuusi [ICON_GreatWork_Artifact] artefaktia.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
 			<Text>Arokansa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
 			<Text>Kevyen ratsuyksikön tai Saka-jousiratsun valmistuminen tarjoaa toisen vastaavan ilmaiseksi.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BONUS_AGAINST_BARBS_NAME">
+		<Replace Language="fi_FI" Tag="LOC_BONUS_AGAINST_BARBS_NAME">
 			<Text>Julmuus</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
 			<Text>Etu barbaareja vastaan.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
 			<Text>Eeppiset tehtävät</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
 			<Text>Barbaarien etuvartion valtaus tarjoaa myös heimokyläpalkkion normaalin [ICON_Gold] kultapalkkion lisäksi. Kaupunkivaltioiden yksiköiden värväys maksaa puolet normaalista hinnastaan.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
 			<Text>Iteru</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
 			<Text>+15% [ICON_Production] tuotantoa kaupunkialueiden ja ihmeiden valmistumiseen niiden sijaitessa joen vierellä. Tulvatasangot eivät estä kaupunkialueiden ja ihmeiden sijoittelua.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
 			<Text>Platon tasavalta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
 			<Text>Ylimääräinen vapaasti valittava paikka linjauksille kaikissa hallitustyypeissä.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
 			<Text>Äiti-Venäjä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
 			<Text>Ylimääräisiä maita perustettaessa kaupunkeja. +1 [ICON_Faith] uskoa ja +1 [ICON_Production] tuotantoa tundrasta.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
 			<Text>Viimeinen profeetta</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
 			<Text>Jos emme ole saaneet merkittävää profeettaa, saamme viimeisen kun viimeistä edeltävä profeetta lunastetaan. +1 [ICON_Science] tiedettä jokaisesta Arabian uskontoa noudattavasta ulkomaisesta kaupungista.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
 			<Text>Nkisi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
 			<Text>+2 [ICON_Food] ruokaa, +2 [ICON_Production] tuotantoa ja +4 [ICON_Gold] kultaa kustakin [ICON_GreatWork_Relic] muinaisjäännöksestä, [ICON_GreatWork_Artifact] artefaktista ja [ICON_GreatWork_Sculpture] merkittävästä taideveistoksesta niiden normaalisti antaman [ICON_Culture] kulttuurin lisäksi. Merkittävien [ICON_GreatWriter] kirjailijoiden, [ICON_GreatArtist] taiteilijoiden, [ICON_GreatMusician] muusikoiden ja [ICON_GreatMerchant] kauppiaiden pisteet saadaan kaksinkertaisina. Palatsissa on paikat viidelle merkkiteokselle.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
 			<Text>Aarrelaivasto</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
 			<Text>Voi muodostaa laivastoja ja armadoja tavanomaista aiemmin (merkantilismi). [ICON_TradeRoute] Kauppareitit useamman mantereen välillä saavat lisää [ICON_Gold] kultaa reiteistä muihin kansakuntiin ja lisää [ICON_Food] ruojaa ja [ICON_Production] tuotantoa reiteistä omien kaupunkien välillä.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
 			<Text>Perustajaisät</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
 			<Text>Hallitukselle muodostuvat perintöedut saavutetaan puolessa normaalista ajastaan.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
 			<Text>Dharma</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
 			<Text>Seuraajauskomuksen edut vaikuttavat kaupungeissa kunkin uskonnon osalta, mikäli sillä on kaupungissa vähintään yksi noudattaja.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
 			<Text>Suuri kierros</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
 			<Text>+20% [ICON_Production] tuotantoa kohden keskiajan, renessanssin ja teollisen ajan ihmeitä. Kaikkien aikojen ihmeiden muodostama [ICON_Tourism] turismi on kaksinkertainen.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
 			<Text>Ilmaiset keisarilliset kaupungit</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
 			<Text>Kaikki kaupungit voivat rakentaa yhden kaupunkialueen enemmän kuin muutoin (ylittäen normaalin [ICON_Citizen] väestöön perustuvan rajoituksen).</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
 			<Text>Kaikki tiet vievät Roomaan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
 			<Text>Kaikki perustetut ja vallatut kaupungit aloittavat kauppapaikalla. Ollessaan [ICON_TradeRoute] kauppareittietäisyydellä [ICON_Capital] pääkaupunkiin ne myös saavat tien sinne. [ICON_TradeRoute] Kauppareittimme saavat +1 [ICON_Gold] kultaa jokaisesta kulustaan oman kauppapaikkamme lävitse.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
 			<Text>Knarr</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
 			<Text>Yksiköt voivat seilata meriruutuihin laivanrakentamisen kehittämisen jälkeen. Meleelaivayksiköt parantuvat neutraalilla alueella. Yksiköihin ei vaikuta ylimääräiset [ICON_Movement] liikkumismaksut uittoontumisesta ja rantautumisesta.</Text>
 		</Replace>
 		<!-- Civilization Info -->
-		<Replace Language="en_US" Tag="LOC_CIVINFO_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_LOCATION">
 			<Text>Sijainti</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SIZE">
 			<Text>Koko</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_POPULATION">
 			<Text>Väkimäärä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_CAPITAL">
 			<Text>Pääkaupunki</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_AMERICA_LOCATION">
 			<Text>Pohjois-Amerikka</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_AMERICA_SIZE">
 			<Text>Noin 9,6 miljoonaa neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_AMERICA_POPULATION">
 			<Text>Noin 318 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_AMERICA_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_AMERICA_CAPITAL">
 			<Text>Lukuisia (Philadelphia, New York, nykyisin Washington)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ARABIA_LOCATION">
 			<Text>Aasia-Afrikka</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ARABIA_SIZE">
 			<Text>Umayyad-kalifaatin alaisuudessa arviolta 15 miljoonaa neliökm</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ARABIA_POPULATION">
 			<Text>Umayyadien aikoon noin 34 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ARABIA_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ARABIA_CAPITAL">
 			<Text>Monia (Medina, Kufa, Damaskos, Bagdad, Kairo)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_BRAZIL_LOCATION">
 			<Text>Etelä-Amerikka</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_BRAZIL_SIZE">
 			<Text>Semmoiset 8,5 miljoonaa neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_BRAZIL_POPULATION">
 			<Text>Arviolta 193 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
 			<Text>Lukuisia (Salvador, Rio de Janeiro, nykyisin Brasilia)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_CHINA_LOCATION">
 			<Text>Aasia</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_CHINA_SIZE">
 			<Text>Arviolta 9,6 miljoonaa neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_CHINA_POPULATION">
 			<Text>1,1 miljardia vuonna 1990</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_CHINA_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_CHINA_CAPITAL">
 			<Text>Monia (neljä keskeisintä: Beijing, Nanjing, Luoyang ja Chang'an)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
 			<Text>Eurooppa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ENGLAND_SIZE">
 			<Text>Semmoiset 243458,88 neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ENGLAND_POPULATION">
 			<Text>Arviolta 64,1 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
 			<Text>Lontoo (pääosin)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_EGYPT_LOCATION">
 			<Text>Afrikka</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_EGYPT_SIZE">
 			<Text>Arviolta miljoona neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_EGYPT_POPULATION">
 			<Text>Arviolta 7,5 miljoonaa (Ptolemaios-dynastia)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
 			<Text>Lukuisia (Memfis, Theba, Alexandria, Kairo)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_FRANCE_LOCATION">
 			<Text>Eurooppa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_FRANCE_SIZE">
 			<Text>Arviolta 640 600 neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_FRANCE_POPULATION">
 			<Text>Arviolta 66,6 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_FRANCE_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_FRANCE_CAPITAL">
 			<Text>Lukuisia (Orleans, Tours, Versailles, Vichy, pääosin Pariisi)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GERMANY_LOCATION">
 			<Text>Eurooppa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GERMANY_SIZE">
 			<Text>Arviolta miljoona neliökilometriä 1050 jaa.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GERMANY_POPULATION">
 			<Text>Arviolta 26,3 miljoonaa (vuonna 1780 jaa.)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
 			<Text>Ei ollut (oli siellä missä keisari kulloinkin eli)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GREECE_LOCATION">
 			<Text>Eurooppa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GREECE_SIZE">
 			<Text>Hyvin karkeasti 131,9 tuhatta neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GREECE_POPULATION">
 			<Text>Arviolta 667,5 tuhatta Peleponnesolaissodan aikaan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_GREECE_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GREECE_CAPITAL">
 			<Text>Kaikki kaupungit, mutta pääosin Sparta ja Ateena</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_INDIA_LOCATION">
 			<Text>Aasia</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_INDIA_SIZE">
 			<Text>Arviolta 3,3 miljoonaa neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_INDIA_POPULATION">
 			<Text>Arviolta 1,2 miljardia (kasvaa päivittäin)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_INDIA_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_INDIA_CAPITAL">
 			<Text>Lukuisia (Kalkutta, Delhi, nykyisin New Delhi)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_JAPAN_LOCATION">
 			<Text>Aasia</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_JAPAN_SIZE">
 			<Text>Arviolta 378 tuhatta neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_JAPAN_POPULATION">
 			<Text>Viimeisin 126,4 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_JAPAN_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_JAPAN_CAPITAL">
 			<Text>Lukuisia (liikaa luetteloitavaksi ennen Kiotoa; nykyisin Tokio)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_KONGO_LOCATION">
 			<Text>Afrikka</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_KONGO_SIZE">
 			<Text>Suurimmillaan 129,4 tuhatta neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_KONGO_POPULATION">
 			<Text>Arviolta 509 tuhatta vuonna 1650 jaa.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_KONGO_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_KONGO_CAPITAL">
 			<Text>M'banza Kongo</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_NORWAY_LOCATION">
 			<Text>Eurooppa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_NORWAY_SIZE">
 			<Text>Arviolta 385,2 tuhatta neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_NORWAY_POPULATION">
 			<Text>Viimeisin arvio 5,1 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
 			<Text>Lukuisia (Trondheim, Bergen ja Oslo)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ROME_LOCATION">
 			<Text>Eurooppa (ja Vähä-Aasia, Afrikka, Lähi-Itä ja vähän muitakin paikkoja)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ROME_SIZE">
 			<Text>Vaatimattomat 6,5 miljoonaa neliökilometriä Trajanin aikaan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ROME_POPULATION">
 			<Text>Arviolta 88 miljoonaa parhaimmillaan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_ROME_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ROME_CAPITAL">
 			<Text>Rooma</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_RUSSIA_LOCATION">
 			<Text>Eurooppa-Aasia (ja hetken aikaa pala Pohjois-Amerikkaa)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_RUSSIA_SIZE">
 			<Text>Olisiko 21,8 miljoonaa neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_RUSSIA_POPULATION">
 			<Text>Arviolta 181,5 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
 			<Text>Moskova, sitten Pietari</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
 			<Text>Aasia</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SCYTHIA_SIZE">
 			<Text>Likipitäen 994 tuhatta neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
 			<Text>Tuntematon, paras arvio 40 ja 50 tuhannen tietämillä parhaimmillaan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
 			<Text>Ei ole (ainut mainittu kaupunki historiassa on &quot;Skyyttien Neapolis&quot;, jonka Gootit tuhosivat kolmannella vuosisadalla jaa.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SPAIN_LOCATION">
 			<Text>Eurooppa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SPAIN_SIZE">
 			<Text>Noin 504,4 tuhatta neliökilometriä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SPAIN_POPULATION">
 			<Text>Noin 47,6 miljoonaa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SPAIN_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SPAIN_CAPITAL">
 			<Text>Madrid (pääosin)</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_LOCATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SUMERIA_LOCATION">
 			<Text>Aasia</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_SIZE">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SUMERIA_SIZE">
 			<Text>Mahdotonta sanoa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_POPULATION">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SUMERIA_POPULATION">
 			<Text>Arviolta 1,1 ja 1,5 miljoonan väliltä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
+		<Replace Language="fi_FI" Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
 			<Text>Monia (Lagash, Eridu, Uruk, Kish, Ur, tai mistä kuningas sattuikaan milloinkin olemaan)</Text>
 		</Replace>
 		<!-- Uniques -->
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
 			<Text>Amerikkalaisten oma rakennus: elokuvastudio</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
 			<Text>Arabien oma rakennus: Madrasa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
 			<Text>Kiinalaisten oma rakenne: Kiinan muuri</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
 			<Text>Egyptin oma rakenne: Sfinksi</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
 			<Text>Egyptin oma yksikkö: Maryannu-jousivaunu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
 			<Text>Kiinalaisten oma yksikkö: Hiipivä tiikeri</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
 			<Text>Ranskalaisten oma rakenne: Château</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
 			<Text>Saksalaisten oma kaupunkialue: Hansa</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
 			<Text>Kreikkalaisten oma kaupunkialue: Akropolis</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
 			<Text>Kereikkalaisten oma yksikkö: Hopliitti</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
 			<Text>Intialaisten oma rakenne: Porraskaivo</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
 			<Text>Japanilaisten oma rakennus: elektroniikkatehdas</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
 			<Text>Japanilaisten oma yksikkö: Samurai</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
 			<Text>Kongojen oma kaupunkialue: Mbanza</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
 			<Text>Norjalaisten oma rakennus: Sauvakirkko</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
 			<Text>Roomalaisten oma kaupunkialue: Kylpylä</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
 			<Text>Roomalaisten oma yksikkö: Legioona</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
 			<Text>Kongojen oma yksikkö: Ngao Mbeba</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
 			<Text>Venäläisten oma kaupunkialue: Lavra</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
 			<Text>Skyyttien oma rakenne: Kurgan</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
 			<Text>Skyyttien oma yksikkö: Saka-jousiratsu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
 			<Text>Espanjalaisten oma rakenne: Lähetystö</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
 			<Text>Espanjalaisten oma yksikkö: Konkistadori</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
 			<Text>Venäläisten oma yksikkö: Kasakka</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
 			<Text>Sumerien oma rakenne: Zikkurat</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
 			<Text>Sumerien oma yksikkö: Sotakärry</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
 			<Text>Intialaisten oma yksikkö: Varu</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
 			<Text>Englantilaisten oma yksikkö: Merikoira</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
 			<Text>Arabien oma yksikkö: Mamluk</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
 			<Text>Ranskalaisten oma yksikkö: Garde Impériale</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
 			<Text>Saksalaisten oma yksikkö: U-vene</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
 			<Text>Amerikkalaisten oma yksikkö: P-51 mustang</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
 			<Text>Brasilialaisten oma yksikkö: Minas Geraes</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
 			<Text>Norjalaisten oma yksikkö: Berserkki</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
 			<Text>Brasilialaisten oma kaupunkialue: Katukarnevaali</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
+		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
 			<Text>Englantilaisten oma kaupunkialue: Kuninkaallisen laivaston telakka</Text>
 		</Replace>
 	</LocalizedText>
