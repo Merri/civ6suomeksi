@@ -32,169 +32,169 @@
 			<Text>Muistuta myöhemmin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_EXPLORED_ALL">
-			<Text>You have visited all of the land and sea.</Text>
+			<Text>Tunnemme kaikki maat ja meret.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ENTIRE_WORLD_DISCOVERED">
-			<Text>The entire world has been discovered.</Text>
+			<Text>Tunnemme koko maailman.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_YOU_CANNOT_MOVE_HERE_AT_THIS_TIME">
-			<Text>You can not move here at this time.</Text>
+			<Text>Emme voi siirtyä tänne juuri nyt.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_YOU_CANNOT_MOVE_HERE">
-			<Text>You can not move here.</Text>
+			<Text>Tänne ei voi siirtyä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_INCORRECT_CIVIC">
-			<Text>That is the incorrect civic to select.</Text>
+			<Text>Valittava normi ei ole käypä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_INCORRECT_GOVERNMENT">
-			<Text>That is the incorrect governmnet to select.</Text>
+			<Text>Valittava hallitus ei ole käypä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_INCORRECT_GREAT_PERSON">
-			<Text>That is the incorrect Great Person to select</Text>
+			<Text>Valittava merkittävä henkilö ei ole käypä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_INCORRECT_PLOT">
-			<Text>That is the incorrect plot.</Text>
+			<Text>Eipä ole käypä ruutu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_INCORRECT_POLICY">
-			<Text>That is the incorrect policy to select.</Text>
+			<Text>Valittava linjaus ei ole käypä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_INCORRECT_TECHNOLOGY">
-			<Text>That is the incorrect technology to select.</Text>
+			<Text>Valittava teknologia ei ole käypä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_THIS_IS_THE_PLOT">
-			<Text>This is the plot.</Text>
+			<Text>Tämä on se ruutu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIRECTION_NORTH">
-			<Text>North</Text>
+			<Text>Pohjoinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIRECTION_SOUTH">
-			<Text>South</Text>
+			<Text>Etelä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIRECTION_WEST">
-			<Text>West</Text>
+			<Text>Länsi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIRECTION_EAST">
-			<Text>East</Text>
+			<Text>Itä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIRECTION_NORTH_WEST">
-			<Text>North-West</Text>
+			<Text>Luode</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIRECTION_NORTH_EAST">
-			<Text>North-East</Text>
+			<Text>Koillinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIRECTION_SOUTH_WEST">
-			<Text>South-West</Text>
+			<Text>Lounas</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIRECTION_SOUTH_EAST">
-			<Text>South-East</Text>
+			<Text>Kaakko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DANGER">
-			<Text>Danger</Text>
+			<Text>Vaara</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BARBARIANS_HAVE_LEARNED_OF_YOUR_PRESENCE">
-			<Text>Barbarians have learned of your presence.</Text>
+			<Text>Barbaarit ovat löytäneet meidät.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_NOT_RECOMMENDED">
-			<Text>Not Recommended</Text>
+			<Text>Ei suositeltu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RECOMMENDED">
-			<Text>Recommended</Text>
+			<Text>Suositeltu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CANAL">
-			<Text>Canal</Text>
+			<Text>Kanaali</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOO_MANY">
-			<Text>Too many</Text>
+			<Text>Liian monta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOO_FEW">
-			<Text>Too few</Text>
+			<Text>Liian vähän</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SELECT_X_MORE">
-			<Text>Select {1_amount} more.</Text>
+			<Text>Valitse {1_amount} enemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ALLOCATE_X_MORE">
-			<Text>Allocate {1_amount} more.</Text>
+			<Text>Varaa {1_amount} enemmmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SELECT_X_FEWER">
-			<Text>Select {1_amount} fewer.</Text>
+			<Text>Valitse {1_amount} vähemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SELECT_POST_THIS_MOMENT_IN_TIME">
-			<Text>Post this moment in time.</Text>
+			<Text>Julkaise tämä hetki ajassa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_CLICK">
-			<Text>Click</Text>
+			<Text>Napsauta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_DOUBLE_CLICK">
-			<Text>Double-Click</Text>
+			<Text>Tuplanapsauta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_LEFT_CLICK">
-			<Text>Left-Click</Text>
+			<Text>Napsauta vasemmalla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_RIGHT_CLICK">
-			<Text>Right-Click</Text>
+			<Text>Napsauta oikealla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_MIDDLE_CLICK">
-			<Text>Middle-Click</Text>
+			<Text>Napsauta keskimmäisellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_TOUCH">
-			<Text>Touch</Text>
+			<Text>Kosketus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_TAP">
-			<Text>Tap</Text>
+			<Text>Täppäys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_HOLD">
-			<Text>Hold</Text>
+			<Text>Pito</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_Double_TAP">
-			<Text>Double-Tap</Text>
+			<Text>Tuplatäppäys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_TWO_FINGER_HOLD">
-			<Text>Two Finger Hold</Text>
+			<Text>Kahden sormen pito</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_TWO_FINGER_TAP">
-			<Text>Two Finger Tap</Text>
+			<Text>Kahden sormen täppäys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_THREE_FINGER_TAP">
-			<Text>Three Finger Tap</Text>
+			<Text>Kolmen sormen täppäys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_FOUR_FINGER_TAP">
-			<Text>Four Finger Tap</Text>
+			<Text>Neljän sormen täppäys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_MOUSE_WHEEL_DOWN">
-			<Text>Mouse-Wheel Down</Text>
+			<Text>Hiiren rulla alas</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_MOUSE_WHEEL_UP">
-			<Text>Mouse-Wheel Up</Text>
+			<Text>Hiiren rulla ylös</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_CLICK">
-			<Text>Click</Text>
+			<Text>Napsautus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RIGHT_CLICK">
-			<Text>Right Click</Text>
+			<Text>Napsautus oikealla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_LEFT_CLICK">
-			<Text>Left Click</Text>
+			<Text>Napsautus vasemmalla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_MIDDLE_CLICK">
-			<Text>Middle Click</Text>
+			<Text>Napsautus keskimmäisellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_TO_COMPLETE">
-			<Text>{1_input} to complete.</Text>
+			<Text>{1_input} päättääksesi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_TO_ACCOMPLISH">
-			<Text>{1_input} to accomplish.</Text>
+			<Text>{1_input} toteuttaaksesi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_TO_COMPLETE_MOUSE_MOVE">
-			<Text>Move your mouse to the screen location to complete.</Text>
+			<Text>Siirrä hiiren kursori ruudun sijaintiin päättääksesi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_TO_ACCOMPLISH_MOUSE_MOVE">
-			<Text>Move your mouse to the screen location to accomplish.</Text>
+			<Text>Siirrä hiiren kursori ruudun sijaintiin toteuttaaksesi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_READY_ASK">
-			<Text>Ready?</Text>
+			<Text>Valmista?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRY_AGAIN">
-			<Text>Try again.</Text>
+			<Text>Yritä uudelleen.</Text>
 		</Replace>
 		<!-- ==================== In Game Menu (aka: shell) ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_TITLE">
