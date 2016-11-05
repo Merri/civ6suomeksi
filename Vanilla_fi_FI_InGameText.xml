@@ -450,366 +450,366 @@
 		</Replace>
 		<!-- ==================== Unit Panel (and some combat preview) ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE_DELETE">
-			<Text>Are you sure you want to remove your {1_UnitName} from the game?</Text>
+			<Text>{1_UnitName} poistuu pelistä pysyvästi, haluammeko varmasti tehdä näin?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE_NUKE">
-			<Text>Are you sure you want to launch a nuclear warhead?</Text>
+			<Text>Haluammeko varmasti laukaista ydinkärjen?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE">
-			<Text>Are you sure?</Text>
+			<Text>Olemmeko varmoja?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_DAMAGE">
-			<Text>Damage</Text>
+			<Text>Vahinko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_CHARGES">
-			<Text>Charges</Text>
+			<Text>Latauksia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_BUILDS">
-			<Text>Builds</Text>
+			<Text>Työstöjä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_SPREADS">
-			<Text>Spreads</Text>
+			<Text>Levityksiä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_ACTIONS">
-			<Text>Actions</Text>
+			<Text>Toimia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_XP">
-			<Text>XP</Text>
+			<Text>KP</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_LEVEL_ABBREVIATION">
-			<Text>LV</Text>
+			<Text>Taso</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_XP_TT">
-			<Text>{1_Current} / {2_Max} until level {3_Level}</Text>
+			<Text>{1_Current} / {2_Max} tasolle {3_Level}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_RANGED_HEXES">
-			<Text>Ranged: {1} ({2: plural 1?{2} Hex; other?{2} Hexes;})</Text>
+			<Text>Etäisyys: {1} ({2: plural 1?{2} ruutu; other?{2} ruutua;})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_MOVES">
-			<Text>{1_Moves : plural 1?move; other?moves;}</Text>
+			<Text>{1_Moves : plural 1?siirto; other?siirtoa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_ATTACK_RANGE">
-			<Text>Attack Range</Text>
+			<Text>Hyökkäysetäisyys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_MOVEMENT">
-			<Text>Movement</Text>
+			<Text>Liikepisteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_ANTI_AIR_STRENGTH">
-			<Text>Anti-Air Strength</Text>
+			<Text>IT-voimakkuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_STRENGTH">
-			<Text>Melee Strength</Text>
+			<Text>Melee-voimakkuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_RELIGIOUS_STRENGTH">
-			<Text>Religious Strength</Text>
+			<Text>Uskonvoima</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_RANGED_STRENGTH">
-			<Text>Ranged Strength</Text>
+			<Text>Tulitusvoimakkuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_BOMBARD_STRENGTH">
-			<Text>Bombard Strength</Text>
+			<Text>Tykitysvoimakkuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_CORPS_SUFFIX">
-			<Text>Corps[ICON_Corps]</Text>
+			<Text>Joukko-osasto[ICON_Corps]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_ARMY_SUFFIX">
-			<Text>Army[ICON_Army]</Text>
+			<Text>Armeija[ICON_Army]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_FLEET_SUFFIX">
-			<Text>Fleet[ICON_Corps]</Text>
+			<Text>Laivasto[ICON_Corps]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_ARMADA_SUFFIX">
 			<Text>Armada[ICON_Army]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_NO">
-			<Text>No</Text>
+			<Text>Ei</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_VS">
 			<Text>VS</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_WATER_AVAILABILITY_GUIDE">
-			<Text>WATER AVAILABILITY GUIDE</Text>
+			<Text>VEDEN SAATAVUUSOPAS</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_FRESH_WATER">
-			<Text>Fresh Water</Text>
+			<Text>Makeaa vettä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_COASTAL_WATER">
-			<Text>Coastal Water</Text>
+			<Text>Rannan vettä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_NO_WATER">
-			<Text>No Water</Text>
+			<Text>Ei vettä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_TOO_CLOSE_TO_CITY">
-			<Text>Too Close to City</Text>
+			<Text>Liian lähellä kaupunkia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_STALEMATE">
-			<Text>Stalemate</Text>
+			<Text>Tasapeli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_INEFFECTIVE">
-			<Text>Attack Ineffective</Text>
+			<Text>Tehoton hyökkäys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_VICTORY">
-			<Text>Major Victory</Text>
+			<Text>Suuri voitto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MINOR_VICTORY">
-			<Text>Minor Victory</Text>
+			<Text>Pieni voitto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_DECISIVE_VICTORY">
-			<Text>Decisive Victory</Text>
+			<Text>Varma voitto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_DEFEAT">
-			<Text>Major Defeat</Text>
+			<Text>Suuri tappio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MINOR_DEFEAT">
-			<Text>Minor Defeat</Text>
+			<Text>Pieni tappio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_TOTAL_DEFEAT">
-			<Text>Total Defeat</Text>
+			<Text>Täysi turmio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_TOTAL_CITY_DAMAGE">
-			<Text>Total City Damage</Text>
+			<Text>Täysi vahinko kaupunkiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_CITY_DAMAGE">
-			<Text>Major City Damage</Text>
+			<Text>Suuri vahinko kaupunkiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MINOR_CITY_DAMAGE">
-			<Text>Minor City Damage</Text>
+			<Text>Pieni vahinko kaupunkiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_TOTAL_WALL_DAMAGE">
-			<Text>Total Wall Damage</Text>
+			<Text>Täysi vahinko muureihin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_WALL_DAMAGE">
-			<Text>Major Wall Damage</Text>
+			<Text>Suuri vahinko muureihin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MINOR_WALL_DAMAGE">
-			<Text>Minor Wall Damage</Text>
+			<Text>Pieni vahingko muureihin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_CHOOSING_TRADE_ROUTE">
-			<Text>Choosing Route...</Text>
+			<Text>Valitaan reittiä...</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_CHOOSING_ORIGIN_CITY">
-			<Text>Choosing Origin City...</Text>
+			<Text>Valitaan lähtökaupunkia...</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_CHOOSE_PROMOTION_TEXT">
-			<Text>Choose Promotion</Text>
+			<Text>Valitse ylennys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_TRADE_ROUTE_NAME">
-			<Text>{1_OriginName} to {2_DestinationName}</Text>
+			<Text>{1_OriginName} -&raquo; {2_DestinationName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_LAND_ROUTE_RANGE">
-			<Text>Land Route Range</Text>
+			<Text>Maareittien kantama</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_SEA_ROUTE_RANGE">
-			<Text>Sea Route Range</Text>
+			<Text>Merireittien kantama</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_YES">
-			<Text>Yes</Text>
+			<Text>Kyllä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_HEALTH_TOOLTIP">
-			<Text>Health: {1_CurrentHealth}/{2_MaxHealth}</Text>
+			<Text>Kesto: {1_CurrentHealth}/{2_MaxHealth}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_WALL_HEALTH_TOOLTIP">
-			<Text>Fortification health: {1_CurrentHealth}/{2_MaxHealth}</Text>
+			<Text>Linnoituksen kesto: {1_CurrentHealth}/{2_MaxHealth}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_BASE_STRENGTH">
-			<Text>Base Strength</Text>
+			<Text>Perusvoimakkuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_TERRAIN_BONUS_DESC">
-			<Text>+{1_Value} Ideal Terrain</Text>
+			<Text>+{1_Value} soveltuvasta maastosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DEFENSIVE_IMPROVEMENT_BONUS_DESC">
-			<Text>+{1_Value} Static Fortifications</Text>
+			<Text>+{1_Value} pysyvästä linnoitteesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_TERRAIN_PENALTY">
-			<Text>[COLOR_RED]{1_Value} Unfavorable Terrain[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]{1_Value} maaston soveltumattomuudesta[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_TERRAIN_BONUS_DESC">
-			<Text>+{1_Value} Holy Ground</Text>
+			<Text>+{1_Value} pyhästä maasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_RIVER_DEFENSE_DESC">
-			<Text>+{1_Value} River Defense</Text>
+			<Text>+{1_Value} jokipuolustautumisesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_BONUS_VS_BARBARIANS">
-			<Text>+{1_Value} Advantage vs. Barbarians</Text>
+			<Text>+{1_Value} edusta barbaareihin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_FRIENDLY_TERRITORY_BONUS">
-			<Text>+{1_Value} Friendly Territory</Text>
+			<Text>+{1_Value} ystävällisiltä mailta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_FORTIFIED_DEFENSE_DESC">
-			<Text>+{1_Value} Fortified Defense</Text>
+			<Text>+{1_Value} linnoittautumispuolustuksesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_UNITS_DESC">
-			<Text>-{1_Value} Less effective vs units</Text>
+			<Text>-{1_Value} tehottomampi yksikköjä vastaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_WALLS_DESC">
-			<Text>-{1_Value} Less effective vs fortifications</Text>
+			<Text>-{1_Value} tehottomampi linnoituksia vastaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_FLANKING_BONUS_DESC">
-			<Text>+{1_Value} Flanking Bonus</Text>
+			<Text>+{1_Value} sivustaedusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_LUXURY_ATTACK_BONUS_DESC">
-			<Text>+{1_Value} Per Luxury Attack Bonus</Text>
+			<Text>+{1_Value} ylellisyyksien hyökkäysedusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_WALLS_BONUS">
-			<Text>+{1_Value} Wall Defenses</Text>
+			<Text>+{1_Value} muurien puolustuksesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_ENHANCED_WALLS_BONUS">
-			<Text>+{1_Value} Enhanced Defenses</Text>
+			<Text>+{1_Value} kestävien muurien puolustuksesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_CASTLE_BONUS">
-			<Text>+{1_Value} Castle Defenses</Text>
+			<Text>+{1_Value} linnan puolustuksesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_STARFORT_BONUS">
-			<Text>+{1_Value} Star Fort Defenses</Text>
+			<Text>+{1_Value} tähtilinnotuksen puolustuksesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_GARRISONED_UNIT_BONUS">
-			<Text>+{1_Value} Garrisoned {2_Unit}</Text>
+			<Text>+{1_Value} varuskunnasta: {2_Unit}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_PALACE_BONUS">
-			<Text>+{1_Value} Palace Guard</Text>
+			<Text>+{1_Value} palatsin vartiosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_STRENGTH_BONUS">
-			<Text>+{1_Value} from Districts</Text>
+			<Text>+{1_Value} kaupunkialueista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_ENVOY_STRENGTH_BONUS">
-			<Text>+{1_Value} from outside influence</Text>
+			<Text>+{1_Value} ulkoisesta vaikutusvallasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_SUPPORT_BONUS_DESC">
-			<Text>+{1_Value} Support Bonus</Text>
+			<Text>+{1_Value} tukietua</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_AIR_SUPPORT_BONUS_DESC">
-			<Text>+{1_Value} Supporting Air {2_UnitNum : plural 1?Unit; other?Units;}</Text>
+			<Text>+{1_Value} {2_UnitNum : plural 1?tukevasta ilmayksiköstä; other?tukevista ilmayksiköistä;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_ANTI_AIR_SUPPORT_BONUS_DESC">
-			<Text>+{1_Value} Supporting Anti-Air {2_UnitNum : plural 1?Unit; other?Units;}</Text>
+			<Text>+{1_Value} {2_UnitNum : plural 1?tukevasta IT-yksiköstä; other?tukevista IT-yksiköistä;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DAMAGED_UNIT_DESC">
-			<Text>[COLOR_RED]{1_Value}[ENDCOLOR] Damaged unit</Text>
+			<Text>[COLOR_RED]{1_Value}[ENDCOLOR] vahingoittunut yksikkö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DAMAGED_DISTRICT_DESC">
-			<Text>[COLOR_RED]{1_Value} Damaged district[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]{1_Value} vahingoittunut kaupunkialue[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_ATTACK_BONUS">
-			<Text>+{1 Value} Ranged attack bonus</Text>
+			<Text>+{1 Value} tulitushyökkäysetua</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DEFENDING_INTERCEPTOR_AIRCRAFT">
-			<Text>[COLOR_RED]Defending Interceptor Aircraft[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Puolustava torjuntakone[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DEFENDING_ANTI_AIR_UNIT">
-			<Text>[COLOR_RED]Defending Anti-Air unit[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Puolustava IT-yksikkö[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DAMAGE_FROM_INTERCEPTOR">
-			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] due to damage from interceptor</Text>
+			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] torjuntakoneen aiheuttamasta vahingosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DAMAGE_FROM_ANTI_AIR">
-			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] due to damage from anti-air</Text>
+			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] ilmatorjunnan aiheuttamasta vahingosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_RECOMMENDED">
-			<Text>Recommended</Text>
+			<Text>Suositeltu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_TRAIT_KILLER_OF_CYRUS">
-			<Text>+{1_Value} Bonus vs. Wounded units.</Text>
+			<Text>+{1_Value} etu vahingoittuneita yksiköitä vastaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_CAPTURE_CHANCE">
-			<Text>{1_Amount}% chance of capturing enemy.</Text>
+			<Text>{1_Amount}% mahdollisuus vihollisen kaappaamiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_AMPHIBIOUS_ATTACK_PENALTY">
-			<Text>{1_Amount} Amphibious attack penalty.</Text>
+			<Text>{1_Amount} haitta veden ylitse hyökkäämisestä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_PASSIVE_ABILITY">
-			<Text>PASSIVE ABILITY</Text>
+			<Text>PASSIIVINEN KYKY</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_PASSIVE_ABILITY_TOOLTIP">
 			<Text>{1_Name}: {2_EffectText}</Text>
 		</Replace>
 		<!-- ==================== Unit Flag ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ARMY_SUFFIX">
-			<Text>Army</Text>
+			<Text>Armeija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_CORPS_SUFFIX">
-			<Text>Corps</Text>
+			<Text>Joukko-osasto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ARMADA_SUFFIX">
 			<Text>Armada</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_FLEET_SUFFIX">
-			<Text>Fleet</Text>
+			<Text>Laivasto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ACTIVITY_ON_SENTRY">
-			<Text>On Sentry</Text>
+			<Text>Vartioi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ACTIVITY_ON_INTERCEPT">
-			<Text>On Intercept</Text>
+			<Text>Torjuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ACTIVITY_AWAKE">
-			<Text>Awake</Text>
+			<Text>Herätä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ACTIVITY_HOLD">
-			<Text>Hold</Text>
+			<Text>Pysyttäydy</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ACTIVITY_SLEEP">
-			<Text>Sleep</Text>
+			<Text>Nuku</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ACTIVITY_HEALING">
-			<Text>Healing</Text>
+			<Text>Paranee</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ACTIVITY_NO_ACTIVITY">
-			<Text>No Activity</Text>
+			<Text>Ei tointa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ARCHAEOLOGY_HOME_CITY">
-			<Text>Home City: {1_CityName}</Text>
+			<Text>Kotikaupunki: {1_CityName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_ARCHAEOLOGY_ARTIFACT">
-			<Text>Artifact: {1_ArtifactName} ({2_PlayerName})</Text>
+			<Text>Artefakti: {1_ArtifactName} ({2_PlayerName})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITFLAG_LEVY_ACTIVE">
-			<Text>Levied from {1_PlayerName} ({2_TurnsRemaining} [ICON_Turn] {2_TurnsRemaining : plural 1?Turn; other?Turns;} remaining)</Text>
+			<Text>Värvätty: {2_TurnsRemaining} [ICON_Turn] {2_TurnsRemaining : plural 1?vuoro; other?vuoroa;} palautukseen ({1_PlayerName})</Text>
 		</Replace>
 		<!-- ==================== Generic Popup Defaults ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_GENERIC_POPUP_ARE_YOU_SURE">
-			<Text>Are you sure?</Text>
+			<Text>Oletko varma?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GENERIC_POPUP_ACCEPT">
-			<Text>Accept</Text>
+			<Text>Hyväksy</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GENERIC_POPUP_CANCEL">
-			<Text>Cancel</Text>
+			<Text>Peruuta</Text>
 		</Replace>
 		<!-- ==================== Map Pin Popup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_POPUP_TITLE">
-			<Text>Edit Map Pin</Text>
+			<Text>Muokkaa karttapinniä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_NAME">
-			<Text>Name:</Text>
+			<Text>Nimi:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_SEND_TO_CHAT">
-			<Text>Send to Chat</Text>
+			<Text>Lähetä chattiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_SEND_TO_CHAT_TT">
-			<Text>Add this map pin to your chat text.</Text>
+			<Text>Lisää tämä karttapinni chattiviestiin.</Text>
 		</Replace>
 		<!-- ==================== Plot Info ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_PURCHASE">
-			<Text>You need {1_num} more [ICON_Gold] in order to purchase this plot.</Text>
+			<Text>Tarvitsemme {1_num} lisää [ICON_Gold] ostaaksemme tämän ruudun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLOTINFO_SWAP_TILE_OWNER">
-			<Text>Swap</Text>
+			<Text>Vaihda</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLOTINFO_SWAP_TILE_OWNER_TOOLTIP">
-			<Text>Claim this tile to be worked by this city, instead of your other city.[NEWLINE][NEWLINE]Ownership cannot be swapped if the tile has a district, a wonder, or is next to the other city's center tile.</Text>
+			<Text>Määrittää ruudun tämän kaupungin työstettäväksi toisen kaupunkimme sijasta.[NEWLINE][NEWLINE]Omistajuutta ei voi vaihtaa ruuduissa, joissa on kaupunkialue tai ihme. Kaupungin keskustan vieressä olevia ruutuja ei myöskään voi siirtää.</Text>
 		</Replace>
 		<!-- ==================== Player Change Popup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_SUFFIX">
-			<Text>'s Turn</Text>
+			<Text> suorittaa vuoronsa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_CHANGE_POPUP_START_TURN">
-			<Text>Start Turn</Text>
+			<Text>Aloita vuoro</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_CHANGE_POPUP_SAVE_GAME">
-			<Text>Save Game</Text>
+			<Text>Tallenna peli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_CHANGE_POPUP_PASSWORD">
-			<Text>Password</Text>
+			<Text>Salasana</Text>
 		</Replace>
 		<!-- ==================== Unit Action Info ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_ACTION_REQUIRES_TECH">
