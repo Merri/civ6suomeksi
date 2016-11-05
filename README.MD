@@ -9,7 +9,7 @@ There are currently no installation instructions in English.
 
 ## Asennus ZIP-tiedostosta
 
-[Lataa ZIP-tiedosto](https://github.com/Merri/civ6suomeksi/archive/master.zip)
+[Lataa ZIP-tiedosto](https://github.com/Merri/civ6suomeksi/archive/text.zip)
 
 Selvitä `Sid Meier's Civilization VI` käyttäjähakemisto. Esimerkkejä sijainnista:
 
