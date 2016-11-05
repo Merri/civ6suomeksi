@@ -899,7 +899,7 @@
 			<Text>Kaupunkialueet, rakennukset, ihmeet ja kauppapaikat.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OVERVIEW_RELIGION_TOOLTIP">
-			<Text>Kantauskomus ja uskonnolliset aseukkaat.</Text>
+			<Text>Kantauskomus ja uskonnolliset asukkaat.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_DETAILS">
 			<Text>Kaupungin tiedot</Text>
@@ -974,7 +974,7 @@
 			<Text>Rajojen kasvuun {1_Turns : plural 1?{1_Turns} vuoro; other?{1_Turns} vuoroa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_BUILDINGS">
-			<Text>Rakennukset</Text>
+			<Text>Rakennusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_BUILDINGS_AND_DISTRICTS">
 			<Text>Rakennukset ja kaupunkialueet</Text>
@@ -986,7 +986,7 @@
 			<Text>asukas</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZENS">
-			<Text>asukasta</Text>
+			<Text>Asukkaat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZENS_SATISFIED">
 			<Text>Asukkaat ovat tyytyväisiä, ei hyviä tai huonoja vaikutuksia.</Text>
@@ -1022,10 +1022,10 @@
 			<Text>Ruokaa vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_FOR">
-			<Text>-&raquo;</Text>
+			<Text>per</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_GROWTH_FOOD_PER_TURN">
-			<Text>Kasvuruokaa vuorossa</Text>
+			<Text>Ruokaa kasvuun vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_GROWTH_IN">
 			<Text>Kasvuun:</Text>
@@ -1037,7 +1037,7 @@
 			<Text>Elintason kasvuetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING">
-			<Text>Asumukset</Text>
+			<Text>asumusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
 			<Text>Vedestä {1_Water}, rakennuksista {2_Buildings}, rakenteista {3_Improvements}, lähiöistä {4_Districts}, normeista {5_Civics}</Text>
@@ -1103,7 +1103,7 @@
 			<Text>Laukaise ICBM</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_MODIFIED_GROWTH_FOOD_PER_TURN">
-			<Text>Määritelty ruokaa vuorossa</Text>
+			<Text>Ruokakerroin vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OF">
 			<Text>/</Text>
@@ -1148,7 +1148,7 @@
 			<Text>Väestönkasvu on hidastunut {1_Pct} %.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_POSSIBLE">
-			<Text>Mahdollinen</Text>
+			<Text>on mahdollista rakentaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PRODUCTION_QUEUE">
 			<Text>Tuotantojono</Text>
@@ -1184,7 +1184,7 @@
 			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} {1_Amt : plural 1? asukas; other?asukasta;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_REQUIRED">
-			<Text>Vaadittu</Text>
+			<Text>tarvitaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_REQUIRED_AMENITIES">
 			<Text>Vaadittu elintaso</Text>
@@ -1193,7 +1193,7 @@
 			<Text>Näkee nälkää</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS">
-			<Text>Tila:</Text>
+			<Text>Mieliala:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_ANGRY">
 			<Text>Vihainen</Text>
@@ -1280,16 +1280,16 @@
 			<Text>Ihmeet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YIELD_CITIZENS">
-			<Text>Asukkaiden tuottama {1_YieldName}.</Text>
+			<Text>{1_YieldName} asukkaiden toimista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YIELD_NOTHING">
 			<Text>Ei tuottoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YIELD_FOCUSING">
-			<Text>Asukkaat keskittyvät tuottamaan {1_YieldName}.</Text>
+			<Text>{1_YieldName} on asukkaiden toimien keskipisteenä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YIELD_IGNORING">
-			<Text>Asukkaat eivät huomioi {1_YieldName}.</Text>
+			<Text>{1_YieldName} jää vaille asukkaiden huomiota.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YOU">
 			<Text>Me</Text>
