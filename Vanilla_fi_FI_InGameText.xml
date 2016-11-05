@@ -893,430 +893,430 @@
 		</Replace>
 		<!-- ==================== City Panel ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OVERVIEW_CITIZENS_TOOLTIP">
-			<Text>Citizens, Amenities, and Housing.</Text>
+			<Text>Asukkaat, elintaso ja asumukset.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OVERVIEW_BUILDINGS_TOOLTIP">
-			<Text>Districts, Buildings, Wonders, and Trading Posts.</Text>
+			<Text>Kaupunkialueet, rakennukset, ihmeet ja kauppapaikat.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OVERVIEW_RELIGION_TOOLTIP">
-			<Text>Pantheon Belief, and Religious Citizens.</Text>
+			<Text>Kantauskomus ja uskonnolliset aseukkaat.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_DETAILS">
-			<Text>City Details</Text>
+			<Text>Kaupungin tiedot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_ADVISOR_TRY_BUILDING">
-			<Text>Try building a {1_Thing}.</Text>
+			<Text>{1_Thing} olisi rakentamisen väärti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_ADVISOR_TRY_BUILDING_TWO">
-			<Text>Try building a {1_Thing} or a {2_Thing}.</Text>
+			<Text>{1_Thing} tai {2_Thing} olisi rakentamisen väärti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_ADD_TO_QUEUE">
-			<Text>Add to Queue</Text>
+			<Text>Lisää jonoon</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_ADVISOR_TRY_IMPROVING">
-			<Text>Try improving the land around your city to obtain amenities.</Text>
+			<Text>Elintasoa voisi kasvattaa rakentamalla kaupunkia ympäröivälle maalle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_ALL_YIELDS">
-			<Text>Non-Food Yields</Text>
+			<Text>Ruuaton tuotanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES">
-			<Text>Amenities</Text>
+			<Text>Elintaso</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_TOOLTIP">
-			<Text>Amenities calculated as {1_Amenitiy} for {2_Citizens} Citizens / {3_DivideValue}</Text>
+			<Text>Elintaso lasketaan {1_Amenitiy} per {2_Citizens} asukasta / {3_DivideValue}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_CIVICS">
-			<Text>{1_Num} = Amenities From Civics[NEWLINE]</Text>
+			<Text>{1_Num} = elintasoa normeista[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_ENTERTAINMENT">
-			<Text>{1_Num} = Amenities From Entertainment[NEWLINE]</Text>
+			<Text>{1_Num} = elintasoa viihteestä[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_CIVICS">
-			<Text>Amenities from Civics:</Text>
+			<Text>Elintaso normeista:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_ENTERTAINMENT">
-			<Text>Amenities from Entertainment:</Text>
+			<Text>Elintaso viihteestä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_GREAT_PEOPLE">
-			<Text>Amenities from Great People:</Text>
+			<Text>Elintaso merkkihenkilöiltä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_LUXURIES">
-			<Text>Amenities from Luxury resources:</Text>
+			<Text>Elintaso ylellisyyksistä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_RELIGION">
-			<Text>Amenities from Religion:</Text>
+			<Text>Elintaso uskonnosta:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_NATIONAL_PARKS">
-			<Text>Amenities from National Parks:</Text>
+			<Text>Elintaso kansallispuistoista:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_STARTING_ERA">
-			<Text>Amenities from Starting Era:</Text>
+			<Text>Elintaso aloitusaikakaudesta:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_WAR_WEARINESS">
-			<Text>Amenities from War Weariness:</Text>
+			<Text>Elintaso sotaväsymyksestä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_BANKRUPTCY">
-			<Text>Amenities from Bankruptcy:</Text>
+			<Text>Elintaso vararikosta:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_LUXURIES">
-			<Text>{1_Num} = Amenities From Luxury resources[NEWLINE]</Text>
+			<Text>{1_Num} = elintaso ylellisyyksistä[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_REQUIRED">
-			<Text>{1_Num} = REQUIRED AMENITIES[NEWLINE][NEWLINE]</Text>
+			<Text>{1_Num} = VAADITTU ELINTASO[NEWLINE][NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_TOTAL">
-			<Text>{1_Num} = TOTAL AMENITIES[NEWLINE][NEWLINE]</Text>
+			<Text>{1_Num} = ELINTASOA YHTEENSÄ[NEWLINE][NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITY">
-			<Text>{1_Amenity : plural 1? Amenity; other? Amenities;}</Text>
+			<Text>{1_Amenity : plural 1? elintaso; other? elintasoa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_BORDER_EXPANSION">
-			<Text>Border expansion in {1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;}</Text>
+			<Text>Rajojen kasvuun {1_Turns : plural 1?{1_Turns} vuoro; other?{1_Turns} vuoroa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Rakennukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_BUILDINGS_AND_DISTRICTS">
-			<Text>Buildings and Districts</Text>
+			<Text>Rakennukset ja kaupunkialueet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CHANGE_PRODUCTION">
-			<Text>Change City Production</Text>
+			<Text>Vaihda kaupungin tuotanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZEN">
-			<Text>Citizen</Text>
+			<Text>asukas</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZENS">
-			<Text>Citizens</Text>
+			<Text>asukasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZENS_SATISFIED">
-			<Text>Citizens are satisfied, no positive or negative effects.</Text>
+			<Text>Asukkaat ovat tyytyväisiä, ei hyviä tai huonoja vaikutuksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZEN_GROWTH">
-			<Text>Citizen Growth</Text>
+			<Text>Väestönkasvu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITY_BREAKDOWN">
-			<Text>City Breakdown</Text>
+			<Text>Kaupungin yhteenveto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_COMPLETED_IN">
-			<Text>Completed in</Text>
+			<Text>Valmistuminen:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CULTURE_PER_TURN">
-			<Text>{1_Culture} Culture per turn</Text>
+			<Text>{1_Culture} kulttuuria vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CURRENT_FOCUS">
-			<Text>Current Focus</Text>
+			<Text>Nykyinen painotus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CUSTOM">
-			<Text>Custom</Text>
+			<Text>Oma</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_DISTRICTS_CONSTRUCTED">
-			<Text>{1_Turns : plural 1?District; other?Districts;} Constructed</Text>
+			<Text>{1_Turns : plural 1?kaupunkialue; other?kaupunkialuetta;} valmistettu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_DOMINANT_RELIGION">
-			<Text>Dominant Religion</Text>
+			<Text>Valtauskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_FOOD_CONSUMPTION">
-			<Text>Food consumption</Text>
+			<Text>Ruuan kulutus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_FOOD_PER_TURN">
-			<Text>Food per turn</Text>
+			<Text>Ruokaa vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_FOR">
-			<Text>for</Text>
+			<Text>-&raquo;</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_GROWTH_FOOD_PER_TURN">
-			<Text>Growth food per turn</Text>
+			<Text>Kasvuruokaa vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_GROWTH_IN">
-			<Text>Growth in</Text>
+			<Text>Kasvuun:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
-			<Text>Occupied: no growth</Text>
+			<Text>Varattu: ei kasvua</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HAPPINESS_GROWTH_BONUS">
-			<Text>Amenities growth bonus</Text>
+			<Text>Elintason kasvuetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING">
-			<Text>Housing</Text>
+			<Text>Asumukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
-			<Text>Water {1_Water}, Bldg {2_Buildings}, Improvement {3_Improvements}, Neighborhoods {4_Districts}, Civics {5_Civics}</Text>
+			<Text>Vedestä {1_Water}, rakennuksista {2_Buildings}, rakenteista {3_Improvements}, lähiöistä {4_Districts}, normeista {5_Civics}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_CAPACITY">
-			<Text>Housing Capacity</Text>
+			<Text>Asumuskapasiteetti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_FROM_BUILDINGS">
-			<Text>Housing from buildings:</Text>
+			<Text>Asumukset rakennuksista:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_FROM_CIVICS">
-			<Text>Housing from civics:</Text>
+			<Text>Asumukset normeista:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_FROM_DISTRICTS">
-			<Text>Housing from districts:</Text>
+			<Text>Asumukset kaupunkialueista:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_FROM_IMPROVEMENTS">
-			<Text>Housing from improvements:</Text>
+			<Text>Asumukset rakenteista:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_FROM_WATER">
-			<Text>Housing from water:</Text>
+			<Text>Asumukset vedestä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_FROM_GREAT_PEOPLE">
-			<Text>Housing from Great People:</Text>
+			<Text>Asumukset merkkihenkilöiltä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_FROM_STARTING_ERA">
-			<Text>Housing from Starting Era:</Text>
+			<Text>Asumukset aloitusaikakaudesta:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_MULTIPLIER">
-			<Text>Housing multiplier</Text>
+			<Text>Asumuskerroin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OCCUPATION_MULTIPLIER">
-			<Text>Occupied city multiplier</Text>
+			<Text>Varauksen kaupunkikerroin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_IN_TURNS">
-			<Text>in {1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;}</Text>
+			<Text>{1_Turns : plural 1?yhdessä vuorossa; other?{1_Turns} vuorossa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_IS_CAPITAL">
-			<Text>Is city Capital.</Text>
+			<Text>On kaupungin keskus.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_LEAVE_CITY_VIEW">
-			<Text>Leave City View</Text>
+			<Text>Poistu kaupunkinäkymästä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_LOSS_IN">
-			<Text>Loss in</Text>
+			<Text>Tappioon:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_MAXIMIZE_SPECIFIC_YIELDS">
-			<Text>Maximize specific yields in city</Text>
+			<Text>Maksimoi määrätyt tuotot kaupungissa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_MANAGE_CITIZENS">
-			<Text>Manage Citizens</Text>
+			<Text>Hallinnoi asukkaita</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TOGGLE_OVERVIEW">
-			<Text>Toggle City Details</Text>
+			<Text>Kaupungin tiedot päälle/pois</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PURCHASE_WITH_GOLD">
-			<Text>Purchase an item with [ICON_Gold] Gold</Text>
+			<Text>Osta käyttäen [ICON_Gold] kultaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PURCHASE_WITH_FAITH">
-			<Text>Purchase an item with [ICON_Faith] Faith</Text>
+			<Text>Osta käyttäen [ICON_Faith] uskoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_LAUNCH_ICBM">
-			<Text>Launch ICBM</Text>
+			<Text>Laukaise ICBM</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_MODIFIED_GROWTH_FOOD_PER_TURN">
-			<Text>Modified food per turn</Text>
+			<Text>Määritelty ruokaa vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OF">
-			<Text>of</Text>
+			<Text>/</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_NOTHING_PRODUCED">
-			<Text>Nothing being produced</Text>
+			<Text>Mitään ei tuoteta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_NOT_APPLICABLE">
-			<Text>N/A</Text>
+			<Text>-</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_NO_TRADE_ROUTES_EXIST">
-			<Text>No Trading Posts exist.</Text>
+			<Text>Ei kauppapaikkaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_NO_TRADING_POSTS">
-			<Text>No Trading Posts have been built.</Text>
+			<Text>Kauppapaikkoja ei ole rakennettu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_NO_WONDERS">
-			<Text>No Wonders have been built.</Text>
+			<Text>Ihmeitä ei ole rakennettu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OTHER_GROWTH_BONUSES">
-			<Text>Other growth bonuses</Text>
+			<Text>Muut kasvuedut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OWNER">
-			<Text>Owner: {1_Owner}</Text>
+			<Text>Omistaja: {1_Owner}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PANTHEONBELIEF_EXPLANATION">
-			<Text>The Pantheon Belief is the core Belief which holds for all cities in your civilization.</Text>
+			<Text>Kantauskomus on ydinuskomus, joka vaikuttaa kaikissa kansamme kaupungeissa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_POPULATION">
-			<Text>Population</Text>
+			<Text>Väestö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_POPULATION_GROWTH_ABOVE_AVERAGE">
-			<Text>Population growth rate above average.</Text>
+			<Text>Väestönkasvu ylitse keskiarvon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_POPULATION_GROWTH_HALTED">
-			<Text>Population growth rate halted.</Text>
+			<Text>Väestönkasvu on keskeytynyt.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_POPULATION_GROWTH_NORMAL">
-			<Text>Population growth rate normal.</Text>
+			<Text>Väestönkasvu on normaali.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_POPULATION_GROWTH_SLOWED">
-			<Text>Population growth rate slowed {1_Pct}%.</Text>
+			<Text>Väestönkasvu on hidastunut {1_Pct} %.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_POSSIBLE">
-			<Text>Possible</Text>
+			<Text>Mahdollinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PRODUCTION_QUEUE">
-			<Text>Production Queue</Text>
+			<Text>Tuotantojono</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PRODUCTION_NOTHING_PRODUCED">
-			<Text>Nothing being produced in city.</Text>
+			<Text>Mitään ei tuoteta täällä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PURCHASE_ITEM">
-			<Text>Purchase Item in City</Text>
+			<Text>Osta kaupunkiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PURCHASE_NEW_PLOT">
-			<Text>Purchase new plot: </Text>
+			<Text>Osta uusi ruutu: </Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PURCHASE_TILE">
-			<Text>Purchase Tile</Text>
+			<Text>Osta ruutu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_QUEUE">
-			<Text>Queue</Text>
+			<Text>Jono</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_RECALL_ALL_CITIZENS">
-			<Text>Recall all Citizens</Text>
+			<Text>Vedä kaikki asukkaat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_RELIGION">
-			<Text>Religion</Text>
+			<Text>Uskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_RELIGION_NO_CITIZENS">
-			<Text>There are no religous citizens in your city at this time.</Text>
+			<Text>Kaupungissamme ei ole uskonnollisia asukkaita tällä hetkellä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS">
-			<Text>Religious Citizens</Text>
+			<Text>Uskonnolliset asukkaat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS_NUMBER">
-			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} {1_Amt : plural 1? Citizen; other?Citizens;}</Text>
+			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} {1_Amt : plural 1? asukas; other?asukasta;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_REQUIRED">
-			<Text>Required</Text>
+			<Text>Vaadittu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_REQUIRED_AMENITIES">
-			<Text>Required Amenities</Text>
+			<Text>Vaadittu elintaso</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STARVING">
-			<Text>Starving</Text>
+			<Text>Näkee nälkää</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS">
-			<Text>Status:</Text>
+			<Text>Tila:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_ANGRY">
-			<Text>Angry</Text>
+			<Text>Vihainen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_CONTENT">
-			<Text>Content</Text>
+			<Text>Tyytyväinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_DISPLEASED">
-			<Text>[COLOR:StatBadCS]Displeased[ENDCOLOR]</Text>
+			<Text>[COLOR:StatBadCS]Ärsyyntynyt[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_ECSTATIC">
-			<Text>Ecstatic!</Text>
+			<Text>Ekstaasissa!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_HAPPY">
-			<Text>Happy</Text>
+			<Text>Iloinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_MISERABLE">
-			<Text>Miserable</Text>
+			<Text>Surkea</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_RESTLESS">
-			<Text>Restless</Text>
+			<Text>Levoton</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_SAD">
-			<Text>Sad</Text>
+			<Text>Surullinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_UNHAPPY">
-			<Text>[COLOR:StatBadCS]Unhappy[ENDCOLOR]</Text>
+			<Text>[COLOR:StatBadCS]Tyytymätön[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_STATUS_WARY">
-			<Text>Wary</Text>
+			<Text>Varovainen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TOTAL">
-			<Text>Total</Text>
+			<Text>Yhteensä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TOTAL_AMENITIES">
-			<Text>Total Amenities</Text>
+			<Text>Elintaso yhteensä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TOTAL_FOOD_DEFICIT">
-			<Text>Total Food Deficit</Text>
+			<Text>Ruokapula yhteensä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TOTAL_FOOD_SURPLUS">
-			<Text>Total Food Surplus</Text>
+			<Text>Ruokaylijäämä yhteensä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TOTAL_HOUSING">
-			<Text>Total Housing</Text>
+			<Text>Asumuksia yhteensä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TRADING_POSTS">
-			<Text>Trading Posts</Text>
+			<Text>Kauppapaikat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_GROWTH_VALUE">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until growth</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other?{1_Turns} vuoroa;} kasvuun</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_BORDER_GROWTH">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until border growth</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} rajojen kasvuun</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_CITIZEN_BORN">
-			<Text>{1_Turns : plural 1? {1_Turns} turn; other?{1_Turns} turns;} until a new citizen is born</Text>
+			<Text>{1_Turns : plural 1? {1_Turns} vuoro; other?{1_Turns} vuoroa;} asukkaan syntymiseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_CITIZEN_LOST">
-			<Text>{1_Turns : plural 1? {1_Turns} turn; other?{1_Turns} turns;} until a citizen is lost</Text>
+			<Text>{1_Turns : plural 1? {1_Turns} vuoro; other?{1_Turns} vuoroa;} asukkaan menettämiseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_TO_COMPLETE">
-			<Text>{1_Turns : plural 1? turn; other? turns;} to complete</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} valmistumiseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_COMPLETED">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until completed</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} valmistumiseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_GROWTH">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until growth</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} kasvuun</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_LOSS">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until loss</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoro;} menetykseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_DISTRICT_BUILT_TT">
-			<Text>This district has already been completed.</Text>
+			<Text>Tämä kaupunkialue on jo valmistettu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_UNASSIGNED_CITIZENS">
-			<Text>Unassigned Citizens</Text>
+			<Text>Työllistämättömät asukkaat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_VIEW_DISTRICT_ADJACENT_BONUSES">
-			<Text>View district adjacency yield bonuses.</Text>
+			<Text>Näytä kaupunkialueläheisyyden tuottoedut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_WONDERS">
-			<Text>Wonders</Text>
+			<Text>Ihmeet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YIELD_CITIZENS">
-			<Text>Amount of {1_YieldName} produced by Citizens.</Text>
+			<Text>Asukkaiden tuottama {1_YieldName}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YIELD_NOTHING">
-			<Text>None produced</Text>
+			<Text>Ei tuottoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YIELD_FOCUSING">
-			<Text>Focusing Citizens on {1_YieldName}.</Text>
+			<Text>Asukkaat keskittyvät tuottamaan {1_YieldName}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YIELD_IGNORING">
-			<Text>Citizens ignoring {1_YieldName}.</Text>
+			<Text>Asukkaat eivät huomioi {1_YieldName}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YOU">
-			<Text>You</Text>
+			<Text>Me</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_PANTHEON_TT">
-			<Text>Pantheon: {1_PantheonName}</Text>
+			<Text>Kantausko: {1_PantheonName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_YOUR_PANTHEON_BELIEF">
-			<Text>Your Pantheon Belief</Text>
+			<Text>Kantauskomuksemme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MINIMAP_TOOLTIP">
-			<Text>Click to move the camera.</Text>
+			<Text>Napsauta siirttäksesi kameraa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ACTION_PANEL_NEEDS_BELIEF_TOOLTIP">
-			<Text>You've unlocked a new Belief for your Religion.</Text>
+			<Text>Olemme mahdollistaneet uuden uskomuksen uskonnollemme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MINIMAP_EXPAND_TOOLTIP">
-			<Text>Show the mini-map.</Text>
+			<Text>Näytä pikkukartta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MINIMAP_COLLAPSE_TOOLTIP">
-			<Text>Hide the mini-map.</Text>
+			<Text>Piilota pikkukartta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHAT_EXPAND_TOOLTIP">
-			<Text>Expand the chat panel.</Text>
+			<Text>Laajenna chatti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHAT_COLLAPSE_TOOLTIP">
-			<Text>Shrink the chat panel.</Text>
+			<Text>Kutista chatti.</Text>
 		</Replace>
 		<!-- ==================== Production Menu (for cities) ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_NO_SUITABLE_LOCATION">
