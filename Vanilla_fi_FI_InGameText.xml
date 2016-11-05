@@ -917,7 +917,7 @@
 			<Text>Elintasoa voisi kasvattaa rakentamalla kaupunkia ympäröivälle maalle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_ALL_YIELDS">
-			<Text>Ruuaton tuotanto</Text>
+			<Text>ruuattomista tuotoista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES">
 			<Text>Elintaso</Text>
@@ -983,7 +983,7 @@
 			<Text>Vaihda kaupungin tuotanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZEN">
-			<Text>asukas</Text>
+			<Text>Asukas</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZENS">
 			<Text>Asukkaat</Text>
@@ -1022,7 +1022,7 @@
 			<Text>Ruokaa vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_FOR">
-			<Text>per</Text>
+			<Text>---</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_GROWTH_FOOD_PER_TURN">
 			<Text>Ruokaa kasvuun vuorossa</Text>
@@ -1037,7 +1037,7 @@
 			<Text>Elintason kasvuetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING">
-			<Text>asumusta</Text>
+			<Text>Asumukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
 			<Text>Vedestä {1_Water}, rakennuksista {2_Buildings}, rakenteista {3_Improvements}, lähiöistä {4_Districts}, normeista {5_Civics}</Text>
@@ -1076,7 +1076,7 @@
 			<Text>{1_Turns : plural 1?yhdessä vuorossa; other?{1_Turns} vuorossa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_IS_CAPITAL">
-			<Text>On kaupungin keskus.</Text>
+			<Text>Tämä on pääkaupunki.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_LEAVE_CITY_VIEW">
 			<Text>Poistu kaupunkinäkymästä</Text>
