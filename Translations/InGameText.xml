@@ -198,82 +198,82 @@
 		</Replace>
 		<!-- ==================== In Game Menu (aka: shell) ==================== -->
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_TITLE">
-			<Text>MENU</Text>
+			<Text>VALIKKO</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_RESTART">
-			<Text>Restart</Text>
+			<Text>Aloita uudelleen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_RESTART_TOOLTIP">
-			<Text>Restart with a new map.</Text>
+			<Text>Aloittaa uudella kartalla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_QUICK_SAVE">
-			<Text>Quick Save Game</Text>
+			<Text>Pikatallennus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_QUICK_SAVE_TOOLTIP">
-			<Text>Save your progress with a single click.</Text>
+			<Text>Tallentaa edistymisen yhdellä napsautuksella.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_SAVE">
-			<Text>Save Game</Text>
+			<Text>Tallenna peli</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_SAVE_TOOLTIP">
-			<Text>Save your progress.</Text>
+			<Text>Tallentaa tilanteen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_LOAD">
-			<Text>Load Game</Text>
+			<Text>Lataa peli</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_LOAD_TOOLTIP">
-			<Text>Load a previously saved game.</Text>
+			<Text>Avaa aiemmin tallennetun pelin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_OPTIONS">
-			<Text>Options</Text>
+			<Text>Asetukset</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_OPTIONS_TOOLTIP">
-			<Text>Settings for graphics, audio, key bindings, and more.</Text>
+			<Text>Säätönamiskoja grafiikalle, äänille, näppäinasetuksille ja muulle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_GAME_SETTINGS">
-			<Text>Game Settings</Text>
+			<Text>Pelin asetukset</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_RETIRE">
-			<Text>Retire</Text>
+			<Text>Eläköidy</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_RETIRE_TOOLTIP">
-			<Text>Retire from the game. This will count as a loss.</Text>
+			<Text>Eläköidyt pelistä. Tämä lasketaan tappioksi.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_EXIT_TO_MAIN">
-			<Text>Exit to Main Menu</Text>
+			<Text>Palaa päävalikkoon</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_EXIT_TO_MAIN_TOOLTIP">
-			<Text>Exit to the Main Menu. You will lose any progress since your last save.</Text>
+			<Text>Paluu päävalikkoon; edellisen tallennuksen jälkeen tehtyä ei tallenneta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_EXIT_TO_DESKTOP">
-			<Text>Exit to Desktop</Text>
+			<Text>Sulje Civilization IV</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_EXIT_TO_DESKTOP_TOOLTIP">
-			<Text>Exit the game completely. You will lose any progress since your last save.</Text>
+			<Text>Sulkee pelin kokonaan; edellisen tallennuksen jälkeen tehtyä ei tallenneta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_MODS_IN_USE">
-			<Text>Mods in use:</Text>
+			<Text>Käytetyt modit:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_RETURN_TO_GAME">
-			<Text>Return to Game</Text>
+			<Text>Palaa peliin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_RETURN_TO_GAME_TOOLTIP">
-			<Text>Just one more turn!</Text>
+			<Text>Vielä yksi vuoro!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_EXIT_WARNING">
-			<Text>Are you sure you wish to exit?</Text>
+			<Text>Onko poistuminen tästä pelistä sitä, mitä haluat?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_QUIT_WARNING">
-			<Text>Are you sure you wish to quit your game?</Text>
+			<Text>Onko pelin sulkeminen varmasti haluamasi asia?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_MENU_RETIRE_WARNING">
-			<Text>Are you sure you wish to retire?</Text>
+			<Text>Onko eläköytyminen varmasti tarkoituksenmukaista?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COMMON_DIALOG_YES_BUTTON_CAPTION">
-			<Text>YES</Text>
+			<Text>KYLLÄ</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COMMON_DIALOG_NO_BUTTON_CAPTION">
-			<Text>NO</Text>
+			<Text>EI</Text>
 		</Replace>
 		<!-- ==================== Game Settings Panel ==================== -->
 		<Replace Language="en_US" Tag="LOC_GAME_SETTINGS_TITLE">
@@ -5146,19 +5146,19 @@
 			<Text>{1_Title}[NEWLINE][NEWLINE]{2_TourismInfo}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_TITLE">
-			<Text>{1_Title:upper}[NEWLINE][NEWLINE]Visiting Tourists: {2_TouristCount}</Text>
+			<Text>{1_Title:upper}[NEWLINE][NEWLINE]Vierailevia turisteja: {2_TouristCount}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_WONDER_TOOLTIP">
-			<Text>Travelers from near and far are coming to see this wonder.[NEWLINE]</Text>
+			<Text>Matkailijat läheltä ja kaukaa ovat saapuneet nähdäkseen tämän ihmeen.[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_DISTRICT_TOOLTIP">
-			<Text>Tourists are arriving to see the sights in this district.[NEWLINE]</Text>
+			<Text>Turistit ovat tulleet katsomaan tämän kaupunkialueen nähtävyyksiä.[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_HOLY_CITY_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Holy City for the religion of {2_ReligionName} provides +{3_DistrictTourism} [ICON_Tourism] Tourism[NEWLINE]</Text>
+			<Text>{1_TourismInfo}{2_ReligionName}: uskonnon pyhä kaupunki tarjoaa +{3_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Tourism added by Great People: +{2_DistrictTourism} [ICON_Tourism] Tourism[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Merkittävien henkilöiden aiheuttama turismi: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Tourism from Great Works in {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] Tourism[NEWLINE]</Text>
@@ -5189,22 +5189,22 @@
 		</Replace>
 		<!-- Launch WMD/ICBM confirm dialogs -->
 		<Replace Language="en_US" Tag="LOC_LAUNCH_ICBM_DIALOG_ARE_YOU_SURE">
-			<Text>Commence launch sequence?</Text>
+			<Text>Aloita lähtölaskenta?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LAUNCH_ICBM_DIALOG_LAUNCH">
-			<Text>Fire!</Text>
+			<Text>Tulta!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LAUNCH_ICBM_DIALOG_CANCEL">
-			<Text>Stand down</Text>
+			<Text>Peräänny</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LAUNCH_WMD_DIALOG_ARE_YOU_SURE">
-			<Text>Commence bombing mission?</Text>
+			<Text>Käynnistä pommitustehtävä?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LAUNCH_WMD_DIALOG_LAUNCH">
-			<Text>Proceed!</Text>
+			<Text>Jatkakaa!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LAUNCH_WMD_DIALOG_CANCEL">
-			<Text>Stand down</Text>
+			<Text>Peräänny</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
