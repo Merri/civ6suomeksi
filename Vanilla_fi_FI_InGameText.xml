@@ -1320,133 +1320,133 @@
 		</Replace>
 		<!-- ==================== Production Menu (for cities) ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_NO_SUITABLE_LOCATION">
-			<Text>No suitable location to construct this.</Text>
+			<Text>Ei sopivaa sijaintia tämän rakentamiseksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_DISTRICT">
-			<Text>This building requires {LOC_GRAMMAR_A_AN &lt;&lt; {1_District}} district.</Text>
+			<Text>{1_District} on rakennettava, jotta tämä rakennus voidaan rakentaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_BUILDING">
-			<Text>This building requires {LOC_GRAMMAR_A_AN &lt;&lt; {1_Building}} building.</Text>
+			<Text>{1_Building} on rakennettava, jotta tämä rakennus voidaan rakentaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_IS_OCCUPIED">
-			<Text>The district is occupied by an enemy.</Text>
+			<Text>Vihollinen pitää hallussaan tätä kaupunkialuetta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_PILLAGED">
-			<Text>The required district is damaged.</Text>
+			<Text>Soveltuva kaupunkialue on vahingoittunut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_CONTAMINATED">
-			<Text>The required district is contaminated.</Text>
+			<Text>Soveltuva kaupunkialue on saastunut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_OCCUPIED_BY_ENEMY">
-			<Text>The required district is occupied by an enemy unit.</Text>
+			<Text>Soveltuva kaupunkialue on vihollisen hallussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW_SHORT">
-			<Text>Requires [ICON_Citizen] Population of {1_Population} or greater.</Text>
+			<Text>Vaatii {1_Population} tai suuremman [ICON_Citizen] asukasluvun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW">
-			<Text>The city needs to grow to population {1_Population} before another district can be added.</Text>
+			<Text>Kaupungin asukasluvun tulee kasvaa kokoon {1_Population}, jotta seuraava kaupunkialue voidaan rakentaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_NO_SUITABLE_LOCATION">
-			<Text>No suitable location to zone this district.</Text>
+			<Text>Ei soveltuvaa sijaintia tälle kaupunkialueelle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_LOCATION_IS_CONTAMINATED">
-			<Text>No suitable location to zone this district.</Text>
+			<Text>Ei soveltuvaa sijaintia tälle kaupunkialueelle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_REPAIR_LOCATION_CONTAMINATED">
-			<Text>Cannot repair, location contaminated.</Text>
+			<Text>Korjaus ei onnistu saasteen vuoksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_ALREADY_BEING_BUILT">
-			<Text>The partially-constructed {1_District} in {2_CityName} must be completed (or dismantled) before you can start on another {3_District}.</Text>
+			<Text>Kaupungin {2_CityName} osittain rakennettu {1_District[2]} tulee valmistua (tai purkaa) ennen kuin seuraava {3_District[2]} voidaan rakentaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_CONFIRM_POPUP">
-			<Text>Do you want to build a district here?</Text>
+			<Text>Haluammeko rakentaa kaupunkialueen tähän?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_CONFIRM_DISTRICT_POPUP">
-			<Text>Do you want to build {LOC_GRAMMAR_A_AN &lt;&lt; {1_DistrictName}} district here?</Text>
+			<Text>Haluammeko rakentaa {1_DistrictName[3]} tänne?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_CONFIRM_WONDER_POPUP">
-			<Text>Do you want to build the {1_WonderName} wonder here?</Text>
+			<Text>Haluammeko rakentaa {1_WonderName[3]} tänne?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_WILL_REMOVE_FEATURE">
-			<Text>Will remove the {1_Feature} on this tile.</Text>
+			<Text>{1_Feature} poistetaan tästä ruudusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_WILL_HARVEST_RESOURCE">
-			<Text>Will remove the {1_Resource} on this tile.</Text>
+			<Text>{1_Resource} poistetaan tästä ruudusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_WILL_REMOVE_IMPROVEMENT">
-			<Text>Will remove the {1_Improvement} on this tile.</Text>
+			<Text>{1_Improvement} poistetaan tästä ruudusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_WILL_COST_EXTRA_PRODUCTION">
-			<Text>Will take an extra {1_ExtraTurnsUntilComplete} {1_ExtraTurnsUntilComplete : plural 1?turn; other?turns;} to complete (costs an extra {2_ExtraProductionCost} [ICON_Production] Production).</Text>
+			<Text>Vaatii {1_ExtraTurnsUntilComplete} {1_ExtraTurnsUntilComplete : plural 1?vuoron; other?vuoron;} pidempään valmistua (maksaa {2_ExtraProductionCost} [ICON_Production] tuotantoa enemmän).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_WILL_CHANGE_TILE_OWNERSHIP">
-			<Text>Will switch this tile's owner from {1_CityName} to this city.</Text>
+			<Text>{1_CityName} menettää ruudun omistajuuden tälle kaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_NEIGHBORHOOD_TOOLTIP">
-			<Text>Will add {1_Housing} [ICON_Housing] to the city based on the tile's Appeal of: {2_AppealName}</Text>
+			<Text>Lisää {1_Housing} [ICON_Housing] kaupungille, sillä ruudun viehätys on {2_AppealName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_NEED_MILITARY_ACADEMY">
-			<Text>Corps and Armies require a Military Academy to build outright.</Text>
+			<Text>Joukko-osastojen ja armeijojen valmistus vaatii sotilasakademian.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_FULL_TRADE_ROUTE_CAPACITY">
-			<Text>Your Civilization needs more [ICON_TradeRoute] Trade Route capacity.</Text>
+			<Text>Kansakuntamme tarvitsee lisää kapasiteettia [ICON_TradeRoute] kauppareiteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRES_RESOURCE_ACCESS">
-			<Text>Your civilization needs {2_AmountNeededWithoutDistrict} {1_ResourceName} to train this type of unit. If this city has a {4_DistrictName}, you only need {3_AmountNeededWithDistrict} {1_ResourceName}.</Text>
+			<Text>{2_AmountNeededWithoutDistrict} kpl {1_ResourceName[2]} vaaditaan kansakunnallemme, jotta voimme tuottaa tätä yksikkötyyppiä. {4_DistrictName} pudottaa tässä kaupungissa vaatimuksen {3_AmountNeededWithDistrict} kpl {1_ResourceName[2]}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRES_RESOURCE_SUPPLY">
-			<Text>Not enough {1_Resource} supply is available. Each unit alive or in production uses 1 supply, and each Owned or Imported resource in any city provides 4 supply.</Text>
+			<Text>{1_Resource} on ehtynyt tarjonnaltaan. Kukin elävä ja tuotannossa oleva yksikkö syö 1 kpl tarjontaa. Kukin omistettu tai maahantuotu resurssi tuo 4 kpl tarjontaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRES_DISTRICT">
-			<Text>This unit requires a {1_District} district.</Text>
+			<Text>{1_District} vaaditaan yksikön valmistukseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_DESTROYED">
-			<Text>The district required to train this unit is damaged.</Text>
+			<Text>Yksikön valmistukseen vaadittava kaupunkialue on vahingoittunut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_DESTROYED">
-			<Text>The districts required to train this unit are damaged.</Text>
+			<Text>Yksikön valmistukseen vaaditut kaupunkialueet ovat vahingoittuneet.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_CONTAMINATED">
-			<Text>The district required to train this unit is contaminated.</Text>
+			<Text>Yksikön valmistukseen vaadittava kaupunkialue on saastunut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_CONTAMINATED">
-			<Text>The districts required to train this unit are contaminated.</Text>
+			<Text>Yksikön valmistukseen vaaditut kaupunkialueet ovat saastuneet.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_OCCUPIED_BY_ENEMY">
-			<Text>The district required to train this unit is occupied by an enemy unit.</Text>
+			<Text>Yksikön valmistukseen vaadittu kaupunkialue on vihollisen yksikön hallussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_OCCUPIED_BY_ENEMY">
-			<Text>The districts required to train this unit are occupied by enemy units.</Text>
+			<Text>Yksikön valmistukseen vaaditut kaupunkialueet ovat vihollisen yksiköiden hallussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_NO_EMPTY_AIR_SLOTS">
-			<Text>This city is at full capacity for aircraft.</Text>
+			<Text>Kaupungin lentokoneiden kapasiteetti on käytetty.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRES_POPULATION">
-			<Text>This city needs at least {1_PopulationNeeded} [ICON_Citizen] Population.</Text>
+			<Text>Kaupunki vaatii vähintään {1_PopulationNeeded} [ICON_Citizen] väkiluvun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_INSUFFICIENT_FUNDS">
-			<Text>Not enough [ICON_Gold] Gold in treasury to purchase this.</Text>
+			<Text>[ICON_Gold] Kultaa ei ole tarpeeksi, jotta voisimme ostaa tämän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_INSUFFICIENT_FAITH">
-			<Text>Not enough [ICON_Faith] Faith accumulated to purchase this.</Text>
+			<Text>[ICON_Faith] Uskoa ei ole kertynyt tarpeeksi, jotta voisimme ostaa tämän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_UNIT_STACK_ILLEGAL">
-			<Text>Too many units of the same class in this location.</Text>
+			<Text>Liian monta samantyyppistä yksikköä tässä sijainnissa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODUCTION_ITEM_REPAIR">
-			<Text>(Repair)</Text>
+			<Text>(korjaa)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODUCTION_ITEM_DECONTAMINATE">
-			<Text>(Decontaminate)</Text>
+			<Text>(puhdista)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_ADVANCE_LOCATION_PILLAGED">
-			<Text>Required project location damaged.</Text>
+			<Text>Soveltuva projektin sijainti on vahingoittunut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_ADVANCE_LOCATION_CONTAMINATED">
-			<Text>Required project location contaminated.</Text>
+			<Text>Soveltuva projektin sijainti on saastunut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_ADVANCE_LOCATION_OCCUPIED_BY_ENEMY">
-			<Text>Required project location occupied by enemy unit.</Text>
+			<Text>Soveltuva projektin sijainti on vihollisyksikön hallussa.</Text>
 		</Replace>
 		<!-- ==================== Leader Viewer Debug ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_BACK">

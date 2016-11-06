@@ -9,7 +9,7 @@
 			<Text>Rakennus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_NAME_REPLACES">
-			<Text>Rakennus (korvaa {1_BuildingName})</Text>
+			<Text>Rakennus (korvaa {1_BuildingName[3]})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_NAME">
 			<Text>Normi</Text>
@@ -18,7 +18,7 @@
 			<Text>Kaupunkialue</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_NAME_REPLACES">
-			<Text>Kaupunkialue (korvaa {1_DistrictName})</Text>
+			<Text>Kaupunkialue (korvaa {1_DistrictName[3]})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_NAME">
 			<Text>Ajanjakso</Text>
@@ -61,244 +61,244 @@
 		</Replace>
 		<!-- Buildings -->
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_AIRPORT_NAME">
-			<Text>Lentokenttä</Text>
+			<Text>Lentokenttä|lentokenttä|lentokentän</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ALHAMBRA_NAME">
-			<Text>Alhambra</Text>
+			<Text>Alhambra|Alhambra|Alhambran</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_AMPHITHEATER_NAME">
-			<Text>Amfiteatteri</Text>
+			<Text>Amfiteatteri|amfiteatteri|amfiteatterin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ARENA_NAME">
-			<Text>Areena</Text>
+			<Text>Areena|areena|areenan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ARMORY_NAME">
-			<Text>Asevarasto</Text>
+			<Text>Asevarasto|asevarasto|asevaraston</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_BANK_NAME">
-			<Text>Pankki</Text>
+			<Text>Pankki|pankki|pankin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_BARRACKS_NAME">
-			<Text>Parakit</Text>
+			<Text>Parakit|parakit|parakit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_BIG_BEN_NAME">
-			<Text>Big Ben</Text>
+			<Text>Big Ben|Big Ben|Big Benin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_BOLSHOI_THEATRE_NAME">
-			<Text>Bolshoi-teatteri</Text>
+			<Text>Bolshoi-teatteri|Bolshoi-teatteri|Bolshoi-teatterin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_BROADCAST_CENTER_NAME">
-			<Text>Lähetyskeskus</Text>
+			<Text>Lähetyskeskus|lähestyskeskus|lähetyskeskuksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_BROADWAY_NAME">
-			<Text>Broadway</Text>
+			<Text>Broadway|Broadway|Broadwayn</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_BUILDINGS">
 			<Text>Rakennukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CASTLE_NAME">
-			<Text>Keskiaikainen muuri</Text>
+			<Text>Keskiaikainen muuri|keskiaikainen muuri|keskiaikaisen muurin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CATHEDRAL_NAME">
-			<Text>Katedraali</Text>
+			<Text>Katedraali|katedraali|katedraalin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CHICHEN_ITZA_NAME">
-			<Text>Chichen Itza</Text>
+			<Text>Chichen Itza|Chichen Itza|Chichen Itzan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_COLOSSEUM_NAME">
-			<Text>Kolosseumi</Text>
+			<Text>Colosseum|Colosseum|Colosseumin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_COLOSSUS_NAME">
-			<Text>Kolossus</Text>
+			<Text>Kolossus|Kolossus|Kolossuksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CRISTO_REDENTOR_NAME">
-			<Text>Cristo Redentor</Text>
+			<Text>Cristo Redentor|Cristo Redentor|Cristo Redentorin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_EIFFEL_TOWER_NAME">
-			<Text>Eiffel-torni</Text>
+			<Text>Eiffel-torni|Eiffel-torni|Eiffel-tornin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_NAME">
-			<Text>Elektroniikkatehdas</Text>
+			<Text>Elektroniikkatehdas|elektroniikkatehdas|elektroniikkatehtaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_NAME">
-			<Text>Estádio do Maracanã</Text>
+			<Text>Estádio do Maracanã|Estádio do Maracanã|Estádio do Maracanãn</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_FACTORY_NAME">
-			<Text>Tehdas</Text>
+			<Text>Tehdas|tehdas|tehtaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_FILM_STUDIO_NAME">
-			<Text>Elokuvastudio</Text>
+			<Text>Elokuvastudio|elokuvastudio|elokuvastudion</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_FORBIDDEN_CITY_NAME">
-			<Text>Kielletty kaupunki</Text>
+			<Text>Kielletty kaupunki|Kielletty kaupunki|Kielletyn kaupungin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_GRANARY_NAME">
-			<Text>Aitta</Text>
+			<Text>Aitta|aitta|aitan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_GREAT_LIBRARY_NAME">
-			<Text>Aleksandrian kirjasto</Text>
+			<Text>Aleksandrian kirjasto|Aleksandrian kirjasto|Aleksandrian kirjaston</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_NAME">
-			<Text>Faroksen majakka</Text>
+			<Text>Faroksen majakka|Faroksen majakka|Faroksen majakan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_GREAT_ZIMBABWE_NAME">
-			<Text>Suur-Zimbabwe</Text>
+			<Text>Suur-Zimbabwe|Suur-Zimbabwe|Suur-Zimbabwen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_GURDWARA_NAME">
-			<Text>Gurdwara</Text>
+			<Text>Gurdwara|gurdwara|gurdwaran</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_HAGIA_SOPHIA_NAME">
-			<Text>Hagia Sofia</Text>
+			<Text>Hagia Sofia|Hagia Sofia|Hagia Sofian</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_HANGAR_NAME">
-			<Text>Hangaari</Text>
+			<Text>Hangaari|hangaari|hangaarin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_HANGING_GARDENS_NAME">
-			<Text>Riippuvat puutarhat</Text>
+			<Text>Riippuvat puutarhat|Riippuvat puutarhat|Riippuvat puutarhat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_HERMITAGE_NAME">
-			<Text>Eremitaasi</Text>
+			<Text>Eremitaasi|Eremitaasi|Eremitaasin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_LARGE_ROCKET_NAME">
-			<Text>Suuri raketti</Text>
+			<Text>Suuri raketti|suuri raketti|suuren raketin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_LIBRARY_NAME">
-			<Text>Kirjasto</Text>
+			<Text>Kirjasto|kirjasto|kirjaston</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_LIGHTHOUSE_NAME">
-			<Text>Majakka</Text>
+			<Text>Majakka|majakka|majakan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MADRASA_NAME">
-			<Text>Madrasa</Text>
+			<Text>Madrasa|madrasa|madrasan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MAHABODHI_TEMPLE_NAME">
-			<Text>Mahabodhi-temppeli</Text>
+			<Text>Mahabodhi-temppeli|Mahabodhi-temppeli|Mahabodhi-temppelin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MARKET_NAME">
-			<Text>Tori</Text>
+			<Text>Tori|tori|torin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MEDIUM_ROCKET_NAME">
-			<Text>Keskikokoinen raketti</Text>
+			<Text>Keskikokoinen raketti|keskikokoinen raketti|keskikokoisen raketin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MEETING_HOUSE_NAME">
-			<Text>Tapaamistalo</Text>
+			<Text>Tapaamistalo|tapaamistalo|tapaamistalon</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MILITARY_ACADEMY_NAME">
-			<Text>Sotilasakademia</Text>
+			<Text>Sotilasakademia|sotilasakademia|sotilasakademian</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MONT_ST_MICHEL_NAME">
-			<Text>Mont Saint-Michel</Text>
+			<Text>Mont Saint-Michel|Mont Saint-Michel|Mont Saint-Michelin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MONUMENT_NAME">
-			<Text>Monumentti</Text>
+			<Text>Monumentti|monumentti|monumentin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MOSQUE_NAME">
-			<Text>Moskeija</Text>
+			<Text>Moskeija|moskeija|moskeijan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MUSEUM_ART_NAME">
-			<Text>Taidemuseo</Text>
+			<Text>Taidemuseo|taidemuseo|taidemuseon</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MUSEUM_ARTIFACT_NAME">
-			<Text>Arkeologinen museo</Text>
+			<Text>Arkeologinen museo|arkeologinen museo|arkeologisen museon</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_OBSERVATORY">
-			<Text>Observatorio</Text>
+			<Text>Observatorio|observatorio|observatorion</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ORACLE_NAME">
-			<Text>Oraakkeli</Text>
+			<Text>Oraakkeli|Oraakkeli|Oraakkelin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_OXFORD_UNIVERSITY_NAME">
-			<Text>Oxfordin yliopisto</Text>
+			<Text>Oxfordin yliopisto|Oxfordin yliopisto|Oxfordin yliopiston</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_PAGODA_NAME">
-			<Text>Pagoda</Text>
+			<Text>Pagoda|pagoda|pagodan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_PALACE_NAME">
-			<Text>Palatsi</Text>
+			<Text>Palatsi|palatsi|palatsin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_PETRA_NAME">
-			<Text>Petra</Text>
+			<Text>Petra|Petra|Petran</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_POTALA_PALACE_NAME">
-			<Text>Potala-palatsi</Text>
+			<Text>Potala-palatsi|Potala-palatsi|Potala-palatsin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_POWER_PLANT_NAME">
-			<Text>Voimalaitos</Text>
+			<Text>Voimalaitos|voimalaitos|voimalaitoksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_PYRAMIDS_NAME">
-			<Text>Pyramidit</Text>
+			<Text>Pyramidit|Pyramidit|Pyramidit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_RESEARCH_LAB_NAME">
-			<Text>Tutkimuslaboratorio</Text>
+			<Text>Tutkimuslaboratorio|tutkimuslaboratorio|tutkimuslaboratorion</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_RUHR_VALLEY_NAME">
-			<Text>Ruhrin alue</Text>
+			<Text>Ruhrin alue|Ruhrin alue|Ruhrin alueen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SEAPORT_NAME">
-			<Text>Meriportti</Text>
+			<Text>Meriportti|meriportti|meriportin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SEWER_NAME">
-			<Text>Viemäri</Text>
+			<Text>Viemäri|viemäri|viemärin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SHIPYARD_NAME">
-			<Text>Telakka</Text>
+			<Text>Telakka|telakka|telakan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SHRINE_NAME">
-			<Text>Pyhättö</Text>
+			<Text>Pyhättö|pyhättö|pyhätön</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SMALL_ROCKET_NAME">
-			<Text>Pieni raketti</Text>
+			<Text>Pieni raketti|pieni raketti|pienen raketin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STABLE_NAME">
-			<Text>Talli</Text>
+			<Text>Talli|talli|tallin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STADIUM_NAME">
-			<Text>Stadioni</Text>
+			<Text>Stadioni|stadioni|stadionin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STAR_FORT_NAME">
-			<Text>Renessanssin muuri</Text>
+			<Text>Renessanssin muuri|renessanssin muuri|renessanssin muurin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STAVE_CHURCH_NAME">
-			<Text>Sauvakirkko</Text>
+			<Text>Sauvakirkko|sauvakirkko|sauvakirkon</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STOCK_EXCHANGE_NAME">
-			<Text>Pörssi</Text>
+			<Text>Pörssi|pörssi|pörssin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STONEHENGE_NAME">
-			<Text>Stonehenge</Text>
+			<Text>Stonehenge|Stonehenge|Stonehengen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_NAME">
-			<Text>Sydneyn oopperatalo</Text>
+			<Text>Sydneyn oopperatalo|Sydneyn oopperatalo|Sydneyn oopperatalon</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SYNAGOGUE_NAME">
-			<Text>Synagooga</Text>
+			<Text>Synagooga|synagooga|synagoogan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_TEMPLE_NAME">
-			<Text>Temppeli</Text>
+			<Text>Temppeli|temppeli|temppelin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_TERRACOTTA_ARMY_NAME">
-			<Text>Terrakotta-armeija</Text>
+			<Text>Terrakotta-armeija|Terrakotta-armeija|Terrakotta-armeijan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_UNIVERSITY_NAME">
-			<Text>Yliopisto</Text>
+			<Text>Yliopisto|yliopisto|yliopiston</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_VENETIAN_ARSENAL_NAME">
-			<Text>Venetsialainen asesäilö</Text>
+			<Text>Venetsialainen asesäilö|venetsialainen asesäilö|venetsialaisen asesäilön</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_WALLS_NAME">
-			<Text>Muinainen muuri</Text>
+			<Text>Muinainen muuri|muinainen muuri|muinaisen muurin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_WAT_NAME">
-			<Text>Wat</Text>
+			<Text>Wat|wat|watin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_WATER_MILL_NAME">
-			<Text>Vesimylly</Text>
+			<Text>Vesimylly|vesimylly|vesimyllyn</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_WORKSHOP_NAME">
-			<Text>Työpaja</Text>
+			<Text>Työpaja|työpaja|työpajan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ZOO_NAME">
-			<Text>Eläintarha</Text>
+			<Text>Eläintarha|eläintarha|eläintarhan</Text>
 		</Replace>
 		<!--Civics -->
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_CODE_OF_LAWS_NAME">
@@ -757,64 +757,64 @@
 		</Replace>
 		<!-- Districts -->
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_AERODROME_NAME">
-			<Text>Lentoasema</Text>
+			<Text>Lentoasema|lentoasema|lentoaseman</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_CAMPUS_NAME">
-			<Text>Kampus</Text>
+			<Text>Kampus|kampus|kampuksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_CITY_CENTER_NAME">
-			<Text>Kaupungin keskusta</Text>
+			<Text>Kaupungin keskusta|kaupungin keskusta|kaupungin keskustan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_COMMERCIAL_HUB_NAME">
-			<Text>Kaupallinen keskus</Text>
+			<Text>Kaupallinen keskus|kaupallinen keskus|kaupallisen keskuksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ENCAMPMENT_NAME">
-			<Text>Varuskunta</Text>
+			<Text>Varuskunta|varuskunta|varuskunnan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_NAME">
-			<Text>Viihdekompleksi</Text>
+			<Text>Viihdekompleksi|viihdekompleksi|viihdekompleksin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_HARBOR_NAME">
-			<Text>Satama</Text>
+			<Text>Satama|satama|sataman</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_HOLY_SITE_NAME">
-			<Text>Pyhä paikka</Text>
+			<Text>Pyhä paikka|pyhä paíkka|pyhän paikan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_THEATER_NAME">
-			<Text>Teatteriaukio</Text>
+			<Text>Teatteriaukio|teatteriaukio|teatteriaukion</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_NAME">
-			<Text>Teollisuusalue</Text>
+			<Text>Teollisuusalue|teollisuusalue|teollisuusalueen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_NEIGHBORHOOD_NAME">
-			<Text>Lähiö</Text>
+			<Text>Lähiö|lähiö|lähiön</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_AQUEDUCT_NAME">
-			<Text>Akvedukti</Text>
+			<Text>Akvedukti|akvedukti|akveduktin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_SPACEPORT_NAME">
-			<Text>Avaruusportti</Text>
+			<Text>Avaruusportti|avaruusportti|avaruusportin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ACROPOLIS_NAME">
-			<Text>Akropolis</Text>
+			<Text>Akropolis|akropolis|akropoliin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_BATH_NAME">
-			<Text>Kylpylä</Text>
+			<Text>Kylpylä|kylpylä|kylpylän</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_HANSA_NAME">
-			<Text>Hansa</Text>
+			<Text>Hansa|hansa|hansan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_LAVRA_NAME">
-			<Text>Lavra</Text>
+			<Text>Lavra|lavra|lavran</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_MBANZA_NAME">
-			<Text>Mbanza</Text>
+			<Text>Mbanza|mbanza|mbanzan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_STREET_CARNIVAL_NAME">
-			<Text>Katukarnevaali</Text>
+			<Text>Katukarnevaali|katukarnevaali|katukarnevaalin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_NAME">
-			<Text>Kuninkaallisen laivaston telakka</Text>
+			<Text>Kuninkaallisen laivaston telakka|kuninkaallisen laivaston telakka|kuninkaallisen laivaston telakan</Text>
 		</Replace>
 		<!-- Eras-->
 		<Replace Language="fi_FI" Tag="LOC_ERA_ANCIENT_NAME">
@@ -2111,153 +2111,153 @@
 		</Replace>
 		<!-- Resources: Bonus-->
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_BANANAS_NAME">
-			<Text>Banaani</Text>
+			<Text>Banaani|banaani</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_CATTLE_NAME">
-			<Text>Nauta</Text>
+			<Text>Nauta|nauta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_COPPER_NAME">
-			<Text>Kupari</Text>
+			<Text>Kupari|kupari</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_CRABS_NAME">
-			<Text>Rapu</Text>
+			<Text>Rapu|rapu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_DEER_NAME">
-			<Text>Peura</Text>
+			<Text>Peura|peura</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_FISH_NAME">
-			<Text>Kala</Text>
+			<Text>Kala|kala</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_RICE_NAME">
-			<Text>Riisi</Text>
+			<Text>Riisi|riisi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_SHEEP_NAME">
-			<Text>Lammas</Text>
+			<Text>Lammas|lammas</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_STONE_NAME">
-			<Text>Kivi</Text>
+			<Text>Kivi|kivi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_WHEAT_NAME">
-			<Text>Vehnä</Text>
+			<Text>Vehnä|vehnä</Text>
 		</Replace>
 		<!-- Resources: Luxury-->
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_CITRUS_NAME">
-			<Text>Sitrus</Text>
+			<Text>Sitrus|sitrus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_COCOA_NAME">
-			<Text>Kaakao</Text>
+			<Text>Kaakao|kaakao</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_COFFEE_NAME">
-			<Text>Kahvi</Text>
+			<Text>Kahvi|kahvi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_COTTON_NAME">
-			<Text>Puuvilla</Text>
+			<Text>Puuvilla|puuvilla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_DIAMONDS_NAME">
-			<Text>Timantti</Text>
+			<Text>Timantti|timantti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_DYES_NAME">
-			<Text>Väriaine</Text>
+			<Text>Väriaine|väriaine</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_FURS_NAME">
-			<Text>Turkis</Text>
+			<Text>Turkis|turkis</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_GYPSUM_NAME">
-			<Text>Kipsi</Text>
+			<Text>Kipsi|kipsi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_INCENSE_NAME">
-			<Text>Suitsuke</Text>
+			<Text>Suitsuke|suitsuke</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_IVORY_NAME">
-			<Text>Norsunluu</Text>
+			<Text>Norsunluu|norsunluu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_JADE_NAME">
-			<Text>Jade</Text>
+			<Text>Jade|jade</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_MARBLE_NAME">
-			<Text>Marmori</Text>
+			<Text>Marmori|marmori</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_MERCURY_NAME">
-			<Text>Elohopea</Text>
+			<Text>Elohopea|elohopea</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_PEARLS_NAME">
-			<Text>Helmi</Text>
+			<Text>Helmi|helmi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_SALT_NAME">
-			<Text>Suola</Text>
+			<Text>Suola|suola</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_SILK_NAME">
-			<Text>Silkki</Text>
+			<Text>Silkki|silkki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_SILVER_NAME">
-			<Text>Hopea</Text>
+			<Text>Hopea|hopea</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_SPICES_NAME">
-			<Text>Mauste</Text>
+			<Text>Mauste|mauste</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_SUGAR_NAME">
-			<Text>Sokeri</Text>
+			<Text>Sokeri|sokeri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_TEA_NAME">
-			<Text>Tee</Text>
+			<Text>Tee|tee</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_TRUFFLES_NAME">
-			<Text>Tryffeli</Text>
+			<Text>Tryffeli|tryffeli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_TOBACCO_NAME">
-			<Text>Tupakka</Text>
+			<Text>Tupakka|tupakka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_WHALES_NAME">
-			<Text>Valas</Text>
+			<Text>Valas|valas</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_WINE_NAME">
-			<Text>Viini</Text>
+			<Text>Viini|viini</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_JEANS_NAME">
-			<Text>Farkut</Text>
+			<Text>Farkku|farkku</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_PERFUME_NAME">
-			<Text>Parfyymi</Text>
+			<Text>Parfyymi|parfyymi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_COSMETICS_NAME">
-			<Text>Kosmetiikka</Text>
+			<Text>Kosmetiikka|kosmetiikka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_TOYS_NAME">
-			<Text>Lelu</Text>
+			<Text>Lelu|lelu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_CINNAMON_NAME">
-			<Text>Kaneli</Text>
+			<Text>Kaneli|kaneli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_CLOVES_NAME">
-			<Text>Neilikka</Text>
+			<Text>Neilikka|neilikka</Text>
 		</Replace>
 		<!-- Resources: Strategic-->
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_ALUMINUM_NAME">
-			<Text>Alumiini</Text>
+			<Text>Alumiini|alumiini</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_COAL_NAME">
-			<Text>Hiili</Text>
+			<Text>Hiili|hiili</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_HORSES_NAME">
-			<Text>Hevonen</Text>
+			<Text>Hevonen|hevonen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_IRON_NAME">
-			<Text>Rauta</Text>
+			<Text>Rauta|rauta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_NITER_NAME">
-			<Text>Salpietari</Text>
+			<Text>Salpietari|salpietari</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_OIL_NAME">
-			<Text>Öljy</Text>
+			<Text>Öljy|öljy</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_URANIUM_NAME">
-			<Text>Uraani</Text>
+			<Text>Uraani|uraani</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_ANTIQUITY_SITE_NAME">
-			<Text>Muinaisjäännös</Text>
+			<Text>Muinaisjäännös|muinaisjäännös</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESOURCE_SHIPWRECK_NAME">
-			<Text>Hylky</Text>
+			<Text>Hylky|hylky</Text>
 		</Replace>
 		<!-- Routes-->
 		<Replace Language="fi_FI" Tag="LOC_ROUTE_ANCIENT_ROAD_NAME">

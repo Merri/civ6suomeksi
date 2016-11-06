@@ -26,7 +26,7 @@
 			<Text>Asteekkien oma muinaisuuden yksikkö, joka korvaa soturin. Kykenee joskus kaappaamaan toisten kansojen sotilasyksiköt muuttaen ne rakentajiksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_TLACHTLI_NAME">
-			<Text>Tlachtli</Text>
+			<Text>Tlachtli|tlachtli|thlactlin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION">
 			<Text>Asteekkien oma rakennus. Tarjoaa [ICON_Amenities] elintasoa, +2 [ICON_Faith] uskoa ja [ICON_GreatPerson] merkittävän kenraalin pisteen.</Text>
