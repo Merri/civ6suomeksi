@@ -1551,83 +1551,83 @@
 			<Text>Aikojen loppu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_END_GAME_DEMO">
-			<Text>Herramme, valitettavasti aikamme Sid Meier's Civilization 6:n parissa on tullut päätökseensä. Mutta älkäät peljätkö! Voimme aloittaa koetuksen uuden kun yllämme on loppu!</Text>
+			<Text>Herramme, valitettavasti aikamme Sid Meier's Civilization 6:n parissa on tullut päätökseensä. Mutta älkäät peljätkö! Voimme aloittaa koetuksen uuden kun loppu on yllämme!</Text>
 		</Replace>
 		<!-- ==================== Top Panel ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_SCIENCE">
-			<Text>Science</Text>
+			<Text>Tiede</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD">
-			<Text>Gold</Text>
+			<Text>Kulta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TREASURY">
-			<Text>Current Treasury</Text>
+			<Text>Nykyinen varanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_NET">
-			<Text>{1_NetGoldRate} [ICON_Gold] Gold per [ICON_Turn] Turn</Text>
+			<Text>{1_NetGoldRate} [ICON_Gold] kultaa [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_GROSS">
-			<Text>Income: {1_GrossGoldRate} [ICON_Gold] Gold per [ICON_Turn] Turn</Text>
+			<Text>Tulot: {1_GrossGoldRate} [ICON_Gold] kultaa [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS">
-			<Text>Costs: {1_LostGoldRate} [ICON_Gold] Gold per [ICON_Turn] Turn</Text>
+			<Text>Menot: {1_LostGoldRate} [ICON_Gold] kultaa [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_BUILDINGS">
-			<Text>{1_LostGoldRate} from building maintenance</Text>
+			<Text>{1_LostGoldRate} rakennusten ylläpidosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_DISTRICTS">
-			<Text>{1_LostGoldRate} from district maintenance</Text>
+			<Text>{1_LostGoldRate} kaupunkialueiden ylläpidosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_UNITS">
-			<Text>{1_LostGoldRate} from unit maintenance</Text>
+			<Text>{1_LostGoldRate} yksiköiden ylläpidosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_WMDS">
-			<Text>{1_LostGoldRate} from WMD maintenance</Text>
+			<Text>{1_LostGoldRate} ydinaseiden ylläpidosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_HOSTILE_SPIES">
-			<Text>{1_LostGoldRate} from hostile Spy activity</Text>
+			<Text>{1_LostGoldRate} vihollisvakoojien toiminnasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_CULTURE">
-			<Text>Culture</Text>
+			<Text>Kulttuuri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_SCIENCE_YIELD">
-			<Text>Science per [ICON_Turn] Turn</Text>
+			<Text>tiedettä [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_CULTURE_YIELD">
-			<Text>Culture per [ICON_Turn] Turn</Text>
+			<Text>kulttuuria [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_YIELD">
-			<Text>Gold per [ICON_Turn] Turn</Text>
+			<Text>kultaa [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_INCOME">
-			<Text>Income: {1: number +#.#;-#.#} [ICON_Gold]</Text>
+			<Text>Tulot: {1: number +#.#;-#.#} [ICON_Gold]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_GOLD_EXPENSE">
-			<Text>Expense: {1: number +#.#;-#.#} [ICON_Gold]</Text>
+			<Text>Menot: {1: number +#.#;-#.#} [ICON_Gold]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Turismi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_FAITH">
-			<Text>Faith</Text>
+			<Text>Usko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_FAITH_BALANCE">
-			<Text>Current Faith</Text>
+			<Text>Nykyinen usko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_FAITH_YIELD">
-			<Text>Faith per [ICON_Turn] Turn</Text>
+			<Text>uskoa [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TRADE_ROUTES">
-			<Text>Trade Routes</Text>
+			<Text>Kauppareitit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_ACTIVE">
-			<Text>{1_NumOutgoingRoutes} [ICON_TradeRoute] Trade {1_NumOutgoingRoutes : plural 1?Route; other?Routes;} active</Text>
+			<Text>{1_NumOutgoingRoutes} [ICON_TradeRoute] kauppa{1_NumOutgoingRoutes : plural 1?reitti; other?reittiä;} käytössä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_CAPACITY">
-			<Text>{1_NumRouteCapacity} [ICON_TradeRoute] Trade Route capacity</Text>
+			<Text>{1_NumRouteCapacity} [ICON_TradeRoute] kauppareittien kapasiteetti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_SOURCES_HELP">
-			<Text>Commercial Hub and Harbor districts are the primary sources of [ICON_TradeRoute] Trade Route capacity.</Text>
+			<Text>Kaupalliset keskukset ja satamat ovat [ICON_TradeRoute] kauppareittien kapasiteetin ensisijainen lähde.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE">
 			<Text>Envoys</Text>
