@@ -1450,108 +1450,108 @@
 		</Replace>
 		<!-- ==================== Leader Viewer Debug ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_BACK">
-			<Text>Back To Game</Text>
+			<Text>Palaa peliin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_TOGGLE_FALLBACK">
-			<Text>Toggle Fall-back Mode</Text>
+			<Text>Varamoodi päälle/pois</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_RENDER_FALLBACK">
-			<Text>Render Fall-back Images</Text>
+			<Text>Piirrä varakuvat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_FRAME_TIME">
-			<Text>Frame Time:</Text>
+			<Text>Ruudun kesto:</Text>
 		</Replace>
 		<!-- ==================== Leader Screen ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_LEADER_SCREEN_GREETING">
-			<Text>Ah, 'tis good to finally to meet you! Rumors have travelled far and wide.</Text>
+			<Text>Ah, on hyvä viimeinkin tavata teidät! Huhut ovat kulkeneet laajalle ja kauas.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_SCREEN_DECLARE_WAR">
-			<Text>Prepare for War!</Text>
+			<Text>Valmistaudu sotaan!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_SCREEN_GOODBYE">
-			<Text>Goodbye.</Text>
+			<Text>Näkemiin.</Text>
 		</Replace>
 		<!-- ==================== Leader Viewer (Full Debug) ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_DEBUG_RENDER_STYLE">
-			<Text>Rendering Style 1</Text>
+			<Text>Piirtotyyli 1</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_DEBUG_RESET">
-			<Text>Reset</Text>
+			<Text>Nollaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_DEBUG_APPLY">
-			<Text>Apply</Text>
+			<Text>Hyväksy</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_VIEWER_DEBUG_PREVIOUS">
-			<Text>Previous</Text>
+			<Text>Edellinen</Text>
 		</Replace>
 		<!-- ==================== Benchmark System ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_TITLE">
-			<Text>BENCHMARKING</Text>
+			<Text>MITATAAN</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_RESULTS_TITLE">
-			<Text>BENCHMARKING RESULTS</Text>
+			<Text>MITTAUKSEN TULOKSET</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_FRAME">
-			<Text>Current Frame:</Text>
+			<Text>Nykyinen ruutu:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_CURRENT_FPS">
-			<Text>Current FPS:</Text>
+			<Text>Nykyinen FPS:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_FRAME_TIME">
-			<Text>Frame Time:</Text>
+			<Text>Ruudun kesto:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_AVG_FRAME_TIME">
-			<Text>Average Frame Time:</Text>
+			<Text>Keskimääräinen ruudun kesto:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_99TH_PERCENTILE">
-			<Text>99th Percentile:</Text>
+			<Text>99. prosenttipiste:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_FRAME_TIME_DISTRIBUTION">
-			<Text>Frame Time Distribution</Text>
+			<Text>Ruudun keston jakauma</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_FRAME_TIME_GRAPH">
-			<Text>Frame Time Graph</Text>
+			<Text>Ruudun keston käyrä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_AVERAGE">
-			<Text>Average:</Text>
+			<Text>Keskiarvo:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BENCHMARK_FILE">
-			<Text>File:</Text>
+			<Text>Tiedosto:</Text>
 		</Replace>
 		<!-- ==================== Unit Capture ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_UNIT_CAPTURE_DEFAULT">
-			<Text>Unit Captured</Text>
+			<Text>Yksikkö kaapattu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_CAPTURED">
-			<Text>Allowing such a vulnerable unit to remain unprotected was not a wise choice.[NEWLINE][NEWLINE]Your unit has been captured by {1_Civ}.</Text>
+			<Text>Näin haavoittuvan yksikön pitäminen suojattomana ei ollut järkevä ratkaisu.[NEWLINE][NEWLINE]{1_Civ} on kaapannut yksikkömme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CAPTURE_UNIT">
-			<Text>Another's poor decision has become your good fortune.[NEWLINE][NEWLINE]You have captured a unit from {1_civ}. </Text>
+			<Text>Muiden huonot ratkaisut ovat osoittautuneet meidän onneksemme.[NEWLINE][NEWLINE]{1_civ} menetti yksikkönsä meille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_CAPTURE_OK">
-			<Text>OK</Text>
+			<Text>Selvä</Text>
 		</Replace>
 		<!-- ==================== Victory / Defeat ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_UI_DEFEAT_OK">
-			<Text>OK</Text>
+			<Text>Selvä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_DEFEAT_PLAYER">
-			<Text>The End of Time</Text>
+			<Text>Aikojen loppu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_DEFEAT_AI">
-			<Text>Eliminated!</Text>
+			<Text>Päihitetty!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_DEFEAT_ANOTHER_PLAYER">
-			<Text>Another player is victorious.</Text>
+			<Text>Toinen pelaaja on voittanut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_VICTORY_OK">
-			<Text>Main Menu</Text>
+			<Text>Päävalikko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_VICTORY">
-			<Text>The End of Time</Text>
+			<Text>Aikojen loppu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_END_GAME_DEMO">
-			<Text>My Liege, alas, your time with Sid Meier's Civilization 6 has come to a close. But fear not! You can begin anew when Fall is upon us!</Text>
+			<Text>Herramme, valitettavasti aikamme Sid Meier's Civilization 6:n parissa on tullut päätökseensä. Mutta älkäät peljätkö! Voimme aloittaa koetuksen uuden kun yllämme on loppu!</Text>
 		</Replace>
 		<!-- ==================== Top Panel ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_SCIENCE">
