@@ -676,7 +676,7 @@
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_NUNA_DESCRIPTION">
 			<Text>Nuna</Text>
 		</Replace>
-		<Replace Language="fi_FI" TTag="LOC_CONTINENT_OCEANIA_DESCRIPTION">
+		<Replace Language="fi_FI" Tag="LOC_CONTINENT_OCEANIA_DESCRIPTION">
 			<Text>Oseania</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_PANGAEA_DESCRIPTION">
