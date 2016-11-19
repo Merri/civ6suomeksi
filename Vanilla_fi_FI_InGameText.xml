@@ -121,6 +121,21 @@
 		<Replace Language="fi_FI" Tag="LOC_SELECT_POST_THIS_MOMENT_IN_TIME">
 			<Text>Julkaise tämä hetki ajassa.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_ALERTED">
+			<Text>Hälytetty</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_ALERTED_ABOUT">
+			<Text>{1_name} aiheutti hälytyksen</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_WOKEN_UP_ALERTED">
+			<Text>Valveilla hälytyksen vuoksi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_BARBARIAN_SPOTTED_YOUR_CITY">
+			<Text>Barbaarit havaitsivat kaupunkimme!</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_BARBARIAN_SPOTTED_CITY">
+			<Text>Barbaarit ovat havainneet kansan {1_CivName} kaupungin.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_ACTION_CLICK">
 			<Text>Napsauta</Text>
 		</Replace>
@@ -265,6 +280,12 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_QUIT_WARNING">
 			<Text>Onko pelin sulkeminen varmasti haluamasi asia?</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_SHUTDOWN_WARNING">
+			<Text>Haluatko varmasti sulkea Sid Meierin Civilization VI:n?</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_SHUTDOWN_SAVE_WARNING">
+			<Text>Tallennetaanko ennen sulkemista?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_RETIRE_WARNING">
 			<Text>Onko eläköytyminen varmasti tarkoituksenmukaista?</Text>
@@ -874,7 +895,7 @@
 			<Text>[ICON_Citizen] väestö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_PRODUCING">
-			<Text>Tuottaa: {1_Name}</Text>
+			<Text>{1_Name} on työn alla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_THERMONUCLEAR_STRIKE_CAPABLE">
 			<Text>Kykenee vetypommitukseen</Text>
@@ -988,6 +1009,9 @@
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZENS">
 			<Text>Asukkaat</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZENS_LABEL">
+			<Text>{1_Amount : plural 1?asukas; other?asukasta;}</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_CITIZENS_SATISFIED">
 			<Text>Asukkaat ovat tyytyväisiä, ei hyviä tai huonoja vaikutuksia.</Text>
 		</Replace>
@@ -1039,6 +1063,9 @@
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING">
 			<Text>Asumukset</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_LABEL">
+			<Text>asumusta</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
 			<Text>Vedestä {1_Water}, rakennuksista {2_Buildings}, rakenteista {3_Improvements}, lähiöistä {4_Districts}, normeista {5_Civics}</Text>
 		</Replace>
@@ -1082,7 +1109,10 @@
 			<Text>Poistu kaupunkinäkymästä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_LOSS_IN">
-			<Text>Tappioon:</Text>
+			<Text>Menetykseen:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_SPECIALISTS">
+			<Text>Tätä ruutua työstää {1_num} yhteensä {2_maxNum} osaajasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_MAXIMIZE_SPECIFIC_YIELDS">
 			<Text>Maksimoi määrätyt tuotot kaupungissa</Text>
@@ -1247,7 +1277,7 @@
 			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other?{1_Turns} vuoroa;} kasvuun</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_BORDER_GROWTH">
-			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} rajojen kasvuun</Text>
+			<Text>{1_Turns : plural 1?vuoro; other?vuoroa;} rajojen kasvuun</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_CITIZEN_BORN">
 			<Text>{1_Turns : plural 1? {1_Turns} vuoro; other?{1_Turns} vuoroa;} asukkaan syntymiseen</Text>
@@ -1550,9 +1580,6 @@
 		<Replace Language="fi_FI" Tag="LOC_UI_VICTORY">
 			<Text>Aikojen loppu</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_UI_END_GAME_DEMO">
-			<Text>Herramme, valitettavasti aikamme Sid Meier's Civilization 6:n parissa on tullut päätökseensä. Mutta älkäät peljätkö! Voimme aloittaa koetuksen uuden kun loppu on yllämme!</Text>
-		</Replace>
 		<!-- ==================== Top Panel ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_SCIENCE">
 			<Text>Tiede</Text>
@@ -1630,13 +1657,13 @@
 			<Text>Kaupalliset keskukset ja satamat ovat [ICON_TradeRoute] kauppareittien kapasiteetin ensisijainen lähde.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE">
-			<Text>Envoys</Text>
+			<Text>Edustajat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_BALANCE">
-			<Text>{1_InfluencePointsBalance} Influence {1_InfluencePointsBalance : plural 1?point; other?points;}</Text>
+			<Text>{1_InfluencePointsBalance} {1_InfluencePointsBalance : plural 1?piste; other?pistettä;} vaikutusvaltaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_RATE">
-			<Text>+{1_InfluencePointsRate} Influence {1_InfluencePointsRate : plural 1?point; other?points;} per [ICON_Turn] Turn</Text>
+			<Text>+{1_InfluencePointsRate} {1_InfluencePointsRate : plural 1?piste; other?pistettä;} vaikutusvaltaa [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_THRESHOLD">
 			<Text>{1_EnvoysPerThreshold} [ICON_Envoy] {1_EnvoysPerThreshold : plural 1?Envoy; other?Envoys;} at {2_InfluencePointThreshold} Influence {2_InfluencePointThreshold : plural 1?point; other?points;}</Text>
@@ -2516,6 +2543,9 @@
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_FORTIFY_DESCRIPTION">
 			<Text>Fortify</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_ALERT">
+			<Text>Order the unit to fortify and sleep until it sees an enemy.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_HEAL_DESCRIPTION">
 			<Text>Fortify Until Healed</Text>
 		</Replace>
@@ -2554,6 +2584,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_DELETE_DESCRIPTION">
 			<Text>Delete Unit</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_DELETE_GOLD_REFUND">
+			<Text>Will provide {1_GoldAmount} [ICON_Gold] Gold.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_GIFT_DESCRIPTION">
 			<Text>Gift Unit</Text>
@@ -2834,7 +2867,7 @@
 			<Text>Routes upgrade to {1_RouteName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL">
-			<Text>{diplomaticReason} {diplomaticValue}</Text>
+			<Text>{diplomaticReason}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_DIPLOMACY_UNKNOWN_REASON">
 			<Text>Unknown Reason</Text>
@@ -3072,6 +3105,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_CATHEDRAL_SLOTS">
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Religious] Great {1_Amount : plural 1?Work; other?Works;} of Religious Art {1_Amount : plural 1?slot; other?slots;}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_PALACE_SLOTS">
+			<Text>{1_Amount: number +#,###;-#,###} Great Work {1_Amount : plural 1?slot; other?slots;} (holds any type)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_BUILDING_DISTRICT_COPY">
 			<Text>Bonus {1_ToYieldIcon} {2_ToYieldName} equal to the adjacency {3_FromYieldIcon} {4_FromYieldName} bonus of its district.</Text>
@@ -4297,7 +4333,7 @@
 			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Created in {4_date}[NEWLINE]Provides {5_providing} per turn when not themed.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_TOOLTIP_DUPLICATE">
-			<Text>Provides 1 [ICON_Culture] Culture 1 [ICON_Tourism] Tourism per turn when authored by an artist who already has art displayed here.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Created in {4_date}[NEWLINE]Provides 1 [ICON_Culture] Culture 1 [ICON_Tourism] Tourism per turn when authored by an artist who already has art displayed here.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ARTIFACT_TOOLTIP">
 			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Found in {4_date}[NEWLINE]Provides {5_providing} per turn.</Text>
@@ -4746,6 +4782,12 @@
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STATUS_STARVING">
 			<Text>Starving</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_BONUSES">
+			<Text>Bonuses</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_LUXURIES">
+			<Text>Luxuries</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_LUXURIES_AND_BONUSES">
 			<Text>Luxuries and Bonuses</Text>
 		</Replace>
@@ -4809,11 +4851,32 @@
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE">
 			<Text>Trade</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_DEAL_WITH">
+			<Text>Deal with {1_CivName}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_GREAT_PERSON_ACTIVATED">
+			<Text>Great Person Activated</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_GREAT_PERSON_ACTIVATED_NAME">
+			<Text>Great Person {1_Name} Activated</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_CITY_STATE">
+			<Text>City State</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
 			<Text>Imported</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_IMPORTED_TURNS">
+			<Text>Imported - {1_Turns : plural 1? turn; other? turns;}</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_EXPORTED">
 			<Text>Exported</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_EXPORTED_TURNS">
+			<Text>Exported - {1_Turns : plural 1? turn; other? turns;}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_DIPLOMACY">
+			<Text>Diplomacy</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_OWNED">
 			<Text>Owned</Text>
@@ -5120,6 +5183,12 @@
 		<Replace Language="fi_FI" Tag="LOC_DEFEAT_DEFAULT_TEXT">
 			<Text>You have been defeated.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_DEFEAT_TIME_NAME">
+			<Text>Out of Time</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_DEFEAT_TIME_TEXT">
+			<Text>You have run out of time.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_SCORE_TEXT">
 			<Text>From our humble beginnings ages ago have you forged a civilization that has withstood time itself. Though countless civilizations rise and fall around us, we do not just survive. We prosper.</Text>
 		</Replace>
@@ -5205,6 +5274,25 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LAUNCH_WMD_DIALOG_CANCEL">
 			<Text>Peräänny</Text>
+		</Replace>
+		<!-- Demo popup text -->
+		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_TITLE">
+			<Text>Ajan loppu</Text>
+		</Row>
+		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_TEXT">
+			<Text>Olet ottanut ensimmäiset askeleet rakentaaksesi sivilisaation, joka kestää aikojen koetuksen. Jatkatko tällä tiellä, tiellä jolla haastat historian suurimmat hallitsijat? Kykeneekö kansasi kulttuuri kohisemaan? Tiede valistamaan? Usko inspiroimaan? Joukkosi vyörymään? Kuinka hallitset Sid Meierin Civilization VI:ssa? Jatka matkaasi nyt.[NEWLINE][NEWLINE]Rakenna.Valtaa.Inspiroi.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_BUY">
+			<Text>Saavuta suuruus</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_BUY_TT">
+			<Text>Osta heti</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_EXIT">
+			<Text>Vaivu hämäriin</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_EXIT_TT">
+			<Text>Päävalikkoon</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

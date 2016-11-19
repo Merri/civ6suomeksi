@@ -667,11 +667,17 @@
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_NENA_DESCRIPTION">
 			<Text>Nena</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CONTINENT_NORTH_AMERICA_DESCRIPTION">
+			<Text>Pohjois-Amerikka</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_NOVOPANGAEA_DESCRIPTION">
 			<Text>Novopangaia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_NUNA_DESCRIPTION">
 			<Text>Nuna</Text>
+		</Replace>
+		<Replace Language="fi_FI" TTag="LOC_CONTINENT_OCEANIA_DESCRIPTION">
+			<Text>Oseania</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_PANGAEA_DESCRIPTION">
 			<Text>Pangaia</Text>
@@ -687,6 +693,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_SIBERIA_DESCRIPTION">
 			<Text>Siperia</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CONTINENT_SOUTH_AMERICA_DESCRIPTION">
+			<Text>Etelä-Amerikka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_TERRA_AUSTRALIS_DESCRIPTION">
 			<Text>Terra Australis</Text>

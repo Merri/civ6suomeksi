@@ -348,7 +348,7 @@
 			<Text>Aarrelaivasto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
-			<Text>Voi muodostaa laivastoja ja armadoja tavanomaista aiemmin (merkantilismi). [ICON_TradeRoute] Kauppareitit useamman mantereen välillä saavat lisää [ICON_Gold] kultaa reiteistä muihin kansakuntiin ja lisää [ICON_Food] ruojaa ja [ICON_Production] tuotantoa reiteistä omien kaupunkien välillä.</Text>
+			<Text>Voi rakentaa laivastoja ja armadoja tavanomaista aiemmin (merkantilismi). [ICON_TradeRoute] Kauppareitit useamman mantereen välillä saavat lisää [ICON_Gold] kultaa reiteistä muihin kansakuntiin ja lisää [ICON_Food] ruokaa ja [ICON_Production] tuotantoa reiteistä omien kaupunkien välillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
 			<Text>Perustajaisät</Text>
