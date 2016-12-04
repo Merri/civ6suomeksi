@@ -1383,28 +1383,28 @@
 			<Text>Teidän korkeutenne Englannin kuningatar Viktoria, laajentakaa otteenne rajojenne tuolle puolen kaikkialle maan ääriin. Älkäät peljätkö tappiota, sillä lojaalit punatakkinne ja ylivoimainen laivastonne tulee varmasti kestämään koitokset. Vakaan ja rauhallisen kosketuksenne turvin voitte tuoda kaikki maat Englannin vallan alle synnyttäen todellisen Pax Britannican.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
-			<Text>fi_FI From the first stirrings of life beneath water… to the great beasts of the Stone Age… to man taking his first upright steps, you have come far.  Now begins your greatest quest: from this early cradle of civilization on towards the stars.</Text>
+			<Text>On tultu pitkälle aikojen alun elämän synnystä vetten alla… ihmisen ensimmäisistä pystyaskelista… ja kivikauden suurista pedoista. Nyt vastassa on suurimman matkan sarastus: tästä varhaisesta sivilisaation kehdosta kohden kaukaisia tähtiä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
-			<Text>fi_FI From humble beginnings, you have shown remarkable growth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>
+			<Text>Vaatimattomasta alusta olemme osoittaneet suurta kasvua. On tullut aika siirtyä pronssista rautaan ja hallita hevosin ja miekoin. Yllä oleva taivas alkaa paljastaa salaisuuksiaan ja pala siitä kannustaa sydämiämme kohden tuntemattomia rantoja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
-			<Text>fi_FI You have built great cities of stone and seen early empires rise and fall.  Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow to understand your place in this world.</Text>
+			<Text>Olette rakentaneet mahtavia kaupunkeja kivestä ja nähneet varhaisten valtakuntien nousun ja tuhon. Pian seisotte linnojenne suurten tornien varjossa yhdessä ritarienne kanssa. Pian kansamme tarina tulee kirjatuksi. Tulemme ymmärtämään paikkamme tässä maailmassa aivan kuten nuori oppipoika oppii kantamaan miekkaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
-			<Text>fi_FI New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has grown smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>
+			<Text>Uudet voimat ovat tulleet vallalle muskettien piipusta ja yötaivaan tulikukkien loistosta. Jopa pienet sanat pitävät sisällään suuria muutoksia paperille painettuna. Maailma, joka oli ensin niin laaja ja tuntematon on pienentynyt ja tullut tutummaksi. Silti on aina kysymyksiä, jotka kaipaavat vastausta, uskoa jota koettaa, ja kansallistuntoja, joita muodostaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
-			<Text>fi_FI The steady hum of machinery, the acrid smell of smoke, vision clouded by ash and soot – these are the signs of changing times. The lure of scientific and cultural advancement is the engine driving your realm forward.  Now your challenge is to maintain the delicate balance between earth and man, between peace and war.</Text>
+			<Text>Koneiden tasainen humina, savun kitkerä haju, tuhkan ja noen pimittämä näkö – nämä ovat merkkejä muuttuvista ajoista. Tieteen ja kulttuurin edistyminen on valtakunnan veturi. Haasteeksi on noussut tasapaino ihmisen ja maan välillä, sekä sodan ja rauhan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_MODERN_DESCRIPTION">
-			<Text>fi_FI In the beginning, legends of flying men soared. And today, you are on the brink of transforming those legends into a reality. With flight and new forms of communication you can create a small and intimate world.  But at what cost? Our competing ideas of how to govern and how to live threaten to bring conflict on a global scale.  You must choose your own path through this rising din of ideological oratory.</Text>
+			<Text>Aikojen alussa legendat lentävästä ihmisestä lähtivät liitoon. Ja nyt nuo legendat ovat muuttumassa todeksi. Lentotaidon ja uusien yhteydenpitotapojen myötä on mahdollista luoda pieni ja intiimi maailma. Mutta mikä on tämän hinta? Kilpailevat aatoksemme tavoista hallita ja elää elämäämme uhkaa tuoda konfliktin kansainvälisellä tasolla. Polkumme tulee valita tämän kasvavan ideologisen retoriikan melskeessä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
-			<Text>fi_FI New frontiers of discovery expand our understanding, from the tiny atom to the majesty of outer space. Mysteries long tolerated are closer than ever to revealing their deepest secrets, beyond what we can easily see. You will choose how to use this knowledge, and push back the greatest darkness we have yet faced.</Text>
+			<Text>Uusien löydösten rintamat kasvattavat ymmärtämystämme pienestä atomista aina ulkoavaruuden uskomattomuuteen. Pitkään vallalla olleet mysteerit ovat lähempänä paljastumistaan kuin koskaan aiemmin ja saamme vastauksia asioihin, joita ei voi helposti nähdä. Valitsemme tapanne käyttää tätä tietoa ja puskemme pois suurimman pimeyden, jonka olemme kokeneet.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_INFORMATION_DESCRIPTION">
-			<Text>fi_FI A world of information rests in the palm of your hand, and networks for instantaneous communication span the globe.  Yet a unified vision of our future has never been built.  We compete in technology, culture, and politics. We have deadly weapons that could destroy our planet. Lead us carefully, but boldly, and build a global community that can stand for years to come.</Text>
+			<Text>Informaation aika lepää kättemme alla ja välittömän kommunikaation verkot kattavat maapallon. Silti yhtenäistä visiota tulevaisuudesta ei ole luotu. Kisaamme teknologiassa, kulttuurissa ja politiikassa. Hallussamme on aseita, joilla tuhota koko planeetta. On aika johtaa varoen mutta rohkeasti ja luoda kansainvälinen yhteisö, joka kestää edessä olevat vuodet.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TUTORIAL_DISABLE">
 			<Text>Poista neuvonantaja.</Text>
