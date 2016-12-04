@@ -518,7 +518,7 @@
 			<Text>Puheen voimakkuus:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPTIONS_MUTE_FOCUS">
-			<Text>Mykistä peli-ikkunan ollessa epäaktiivinen:</Text>
+			<Text>Mykistä kun peli ei ole aktiivinen:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPTIONS_CLEAR">
 			<Text>Tyhjennä</Text>
@@ -1326,61 +1326,61 @@
 			<Text>On kiinni sinusta johtaa kansasi kukoistukseen luomalla sivilisaatio, joka kestää ajasta iäisyyteen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
-			<Text>fi_FI Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader – use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses.  Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.</Text>
+			<Text>Sankarillinen Fredrik, saksalaisten kuningas, on teidän tehtävänne muodostaa valtakunta lukuisista ympäröivistä itsenäisistä kaupunkivaltioista. Teitä on siunattu sodankäynnin taidolla - käyttäkää sitä tuodaksenne kaupungit valtanne alle, jotta ne voivat kehittyä kaupan ja teollisuuden keskittymiksi. Täten suuresta Fredrikistä punaisine partoineen tullaan varmasti laulamaan mahtavimpana pyhänä saksalaisroomalaisena keisarina.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
-			<Text>fi_FI It falls to you, Catherine de Medici, to use your gifts of knowledge and of the arts to unite your people. Steer carefully through these troubled times, Queen Mother of France. You will build great wonders, drawing visitors from all corners of the earth. With your keen awareness of all things, both those seen and those hidden in the shadows, your empire will certainly stand the test of time.</Text>
+			<Text>On langennut teille, arvon Katariina de' Medici, käyttää tiedon ja taiteen lahjojanne kansanne yhdistämiseksi. Ohjatkaat varovasti, Ranskan äitikuningatar, näiden vaikeiden aikojen lävitse. Tulette rakentamaan suuria ihmeitä, jotka tuovat vieraita maailman ääristä. Ollen tietoinen kaikesta - niin siitä mikä on esillä, kuin siitä mikä on piilossa varjoissa - tulee valtakuntanne varmasti kestämään aikojen koetuksen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
-			<Text>fi_FI There will be those who underestimate you, but you are cunning and full of tricks, Queen Cleopatra. Your charm will establish indestructible alliances with the strongest leaders of the world. Keep your friends close by your side and you will find yourself untouchable, with the glory of Egypt primed to win over the world.</Text>
+			<Text>On olemassa heitä, jotka aliarvioivat teidät, kuningatar Kleopatra, mutta olette ovela ja tunnette temput. Viehättävyytenne voimin luotte vankkoja liittoja maailman vahvimpien hallitsijoiden kanssa. Pitäkää ystävät lähellänne ja huomaatte olevanne koskematon Egyptin loiston voittaessa maailman itselleen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
-			<Text>fi_FI Be kind, Gandhi Bapu, and you will find yourself surrounded by true friends. Keep the Indian people safe, guarding them with magnificent elephant warriors. Your faith will guide you to peace and harmony. Keep your mind open, and be the change you want to see in the world.</Text>
+			<Text>Löydätte itsenne keskeltä tosiystäviä, Gandhi Bapu, mikäli olette ystävällinen. Pitäkää intialaiset turvassa ja vartioikaa rajoja mahtivin elefanttisoturein. Uskonne ohjaa teidät rauhaan ja harmoniaan. Pitäkää mielenne avoimena ja olkaa se muutos, jonka haluatte maailmalle tapahtuvaksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
-			<Text>fi_FI Much rests upon your shoulders, King Gilgamesh. Your own people, and many people of the world, look to you as leader. But you are more than a mere man, and the weight of the world will never cause you to waver. Encourage the people of Sumer to settle the fertile lands along rivers, and be sure to choose your allies carefully - for there will be many vying for a piece of your strength. Venture forth, for it is time to begin your epic tale.</Text>
+			<Text>Paljon lepää harteillanne, kuningas Gilgamesh. Kansanne ja monet muut maailman kansat katsovat teidät hallitsijakseen. Olette kuitenkin enemmän kuin tavanomainen mies, eikä maailman painolasti koskaan saa teitä järkkymään. Rohkaiskaa Sumerin väkeä asettumaan joenvarsien rikkaille maille ja valitkaa liittolaisenne tarkoin, sillä monet halajavat osaa voimastanne. Käykää matkaan, sillä on tullut eeppisen tarunne aika.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_GORGO">
-			<Text>fi_FI Gorgo, Queen of Sparta; glory to you and your loyal hoplite armies! Greece savors the blessings from Ares that every victory brings. And your people applaud your thoughtful governance and cultural marvels. Stand proud, for the legacy of Greece, and of your achievements, will be told over and over again for generations.</Text>
+			<Text>Gorgo, Spartan kuningatar; kunnia teille ja uskollisille hopliittiarmeijoillenne! Kreikka nauttii Aresin siunauksista, jotka kunkin voiton mukana matkaavat. Kansanne ylistää harkitsevaa hallintoanne ja kulturelleja ihmeitänne. Seiso ylväänä Kreikan perinnön tähden ja saavutuksistanne kerrotaan alati uudelleen sukupolvesta toiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
-			<Text>fi_FI All men fear the approach of your ships, King Harald of Norway, Thunderbolt of the North. Your longboats dominate the waves, always at the ready to unleash their berserker armies on an unsuspecting shore.  May Odin bless your kingdom and may the skalds sing tales of the victories of your mighty warriors.</Text>
+			<Text>Laivojenne lähestymistä pelätään, Norjan kuningas Harald, Pohjoisen Salama. Pitkäveneenne hallitsevat aalloilla ollen alati valmiina laskemaan bersekkiarmeijat varomattomille rannoille. Odin siunatkoon kuningaskuntaasi ja kertokoot skaldit laulaen mahtavien soturienne voitoista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_HOJO">
-			<Text>fi_FI The great wave of Buddhism follows you, Shikken of Japan, Hojo Tokimune. Your people truly understand what it is to practice balance, and even your finest samurai will be well-learned and spiritually apt. Be strong, embrace the divine wind, and you will reach enlightenment.</Text>
+			<Text>Buddalaisuuden suuri aalto seuraa teitä Japanin shikken, Hojo Tokimune. Kansanne todan totta tietää kuinka harjoittaa tasapainoa ja jopa samuraistanne parhaimmat ovat hyvin oppineita ja henkisesti kykeneviä. Olkaa vahva, antakaa jumalallisen tuulen puhaltaa ja tavoitatte valaistumisen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
-			<Text>fi_FI Mother Earth has many gifts for you, King Mvemba a Nzinga. Your people know the dense woods and rainforests as their homes, and glide through them with ease.  Great also are the gifts that come from travelers of distant lands. Keep an open mind, for the inspiration of the open world will let our people create art with power and majesty.</Text>
+			<Text>Kuningas Mvemba a Nzinga, Äiti-Maalla on monia lahjoja teitä varten. Kansanne tuntee kotiensa tiheät puustot ja sademetsät kulkien niissä vaivatta. Suuret ovat myös lahjat, jotka tulevat kaukaisten maisten matkaajilta. Pitäkää mielenne avoinna, sillä maailman inspiraatiot antaa kansallemme kyvyn luoda voimallista ja ylhäistä taidetta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
-			<Text>fi_FI Your people look to you, Emperor Pedro II, to lead Brazil onto the world stage. Use your reputation as a patron of artists, scientists, and engineers to draw the greatest minds to our fertile home. For it is in the lush rainforests, teeming with life, that your people thrive. Watch them in the Carnival as they dance the samba in celebration of your great feats, Pedro the Magnanimous.</Text>
+			<Text>Kansanne odottaa teidän, arvon Pedro III, johtavan Brasilian maailmannäyttämölle. Käyttäkää mainettanne taiteen, tieteen ja insinööritaidon tukijana tuodaksenne suuret mielet osaksi hedelmällisiä maitamme; rikkaat ja elämäntäyteiset sademetsät saavat kansamme kukoistamaan! Näette heidät karnevaaleissa, kun he juhlistavat suuria saavutuksianne sambaa tanssien, Pedro Ylevämieli.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
-			<Text>fi_FI Your mastery of the spoken word is a gift of great value, silver-tongued Pericles, leader of the Greeks. Through it you can attract the devotion of a league of states, surrounding yourself with their glory. Establish cultural sites along the rocky shores of Greece to unite your people behind your strong governance.  If all goes well the Sirens will sing of the Age of Pericles!</Text>
+			<Text>Kykynne sanojen kanssa on suuri lahja, kaunokielinen Perikles, kreikkalaisten hallitsija. Sen avuin kykenette luomaan antaumuksellisen valtioiden liiton, jossa heidän mahtinsa ympäröi teidät. Muodostakaa kulttuurikohteita Kreikan kallioisille rannoille yhdistääksenne kansanne vahvan hallintonne taakse. Kaiken mennessä hyvin tulevat seireenit laulamaan Perikleen perinteistä!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
-			<Text>fi_FI Embrace the chill winds of the Motherland, Tsar Peter. Your fascination with science and culture is a gift, and you will learn much from your Grand Embassies to foreign lands. Under your rule, Russia will surely flourish and spread, absorbing all that lies around it, perhaps creating the greatest land empire seen on this earth.</Text>
+			<Text>Ottakaa maidenne kylmät viimat omaksenne, Pietari, arvon tsaari. Kiehtomuksenne tiedettä ja taidetta kohtaan on lahja ja opitte paljon ulkomaille sijoittamistanne suurlähetystöistä. Valtanne alla Venäjä tulee taatusti kukoistamaan ja kasvamaan - levittäytyen kaikkialle ympärilleen - kenties luoden mahtavimman sisämaiden valtakunnan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
-			<Text>fi_FI All Spain stands ready to answer your prayers, devout King Philip II.  From your palace at El Escorial you can send forth your followers: missionaries, apostles, and conquistadors ready to strike out across the seas to spread the good word about your most holy empire.  May the treasures they uncover fuel your quest to unite the world under one faith and one empire, making you truly the Most Catholic king.</Text>
+			<Text>Espanja kaikkinensa on valmis vastaamaan rukouksiinne, harras kuningas Filip II. Palatsistanne El Escorialissa voitte lähettää matkaan seuraajanne: lähestyssaarnaajat, apostolit ja konkistadorit, jotka ovat alati valmiit ylittämään meret ja levittämään sanaa kaikkein pyhimmästä valtakunnastamme. Tuokoon heidän löytämänsä rikkaudet voiman yhdistää maailman yhden uskon ja vallan alle, jotta Teistä tulisi katolilaisin kuningas.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_QIN">
-			<Text>fi_FI In your people lies your greatest strength, Emperor Qin Shi Huang. From all over the world, others will come to gaze upon the great walls and towering wonders of your united China. May the hands of your men never blister as they work hard and fast to raise the most impressive structures that the world will ever know. Protect them well, and you will forever be immortalized.</Text>
+			<Text>Kansassane kytee suurin voima, keisari Qin Shi Huangdi. Kaikkialta maailmasta tulevat muut katsomaan mahtavien muurienne ja kookkaiden ihmeidenne yhdistämää Kiinaa. Pysyköön miestenne kädet vailla rakkoja heidän työskennellessään ahkerasti ja vauhdilla pystyttääkseen vaikuttavimmat rakennukset, jotka maa päällään kantaa. Suojelkaa heitä ja teistä tulee kuolematon ainiaaksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
-			<Text>fi_FI The marriage of science and religion is a delicate balancing act, but one that you have mastered, Saladin. Your quest for knowledge is noble, and your people have a deep respect for you. But you need not rush into the unknown. Given time, the answers to life’s most puzzling questions will find their way back to Arabia.</Text>
+			<Text>Tieteen ja uskon liitto on vaatii äärimmäistä tasapainottelun taitoa, mutta se on jotakin, jonka te olette omaksuneet, arvon Saladin. Panostuksenne tiedon ja ymmärryksen edistämiseksi on ylväs ja siten kansanne arvostaa teitä mitä syvimmiten. Teidän ei kuitenkaan tarvitse rynnätä tuntemattomaan, sillä ajan kanssa tulevat vastaukset elämän suuriin kysymyksiin löytämään tiensä takaisin Arabiaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
-			<Text>fi_FI All people will tremble with fear and respect for you, great warrior Queen Tomyris. For it is from the back of your stallion that you shall look upon and lead the Scythian people. Great epics will be told of the horse warriors that ride forth from the steppe, and at the front line of every battle - they will find you. Ride on, fierce queen, and may your friends be true just as your enemies falter.</Text>
+			<Text>Kaikki värisevät pelosta ja kunnioituksesta teitä kohtaan, Tomyris, suuri soturikuningatar. Johdatte skyyttejä ja valvotte kansaanne ratsunne selästä. Aroilta ravaavista ja kaikkien taistelurivien kärjistä löytyvistä soturiratsuista syntyy suuria taruja - ja te johdatte heitä. Ratsastakaa, kiivas kuningatar, ja paljastukoot todelliset ystävänne vihollistenne horjuessa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
-			<Text>fi_FI Cast your net wide, oh Trajan, emperor of mighty Rome. Your legions stand at the ready to march out and establish the largest empire the world has ever seen. If you can truly get all roads to lead to Rome, yours will be an empire of great riches and luxuries.  Surely then our citizens will proclaim you as their best ruler, the Optimus Princeps.</Text>
+			<Text>Levittäkää verkkonne laajalle, oi Trajanus, suureellisen Rooman keisari. Legioonanne seisovat valmiina marssiakseen ja muodostaakseen suurimman valtakunnan, jonka maailma tulee kuunaan näkemään. Valtakuntanne totta tosiaan olemaan rikkauksien ja ylellisyyksien kyllästämä, mikäli saatte kaikki tiet viemään Roomaan. Ja sitten, sitten kansalaisemme tulevat julistamaan teidät parhaaksi hallitsijakseen ja saatte arvonimen Optimus Princeps.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
-			<Text>fi_FI And so it is upon your broad shoulders, Theodore Roosevelt, to charge forth and lead your people on their great adventure. Use your military might to give the peoples of your homeland the square deal they so desperately deserve. Surely you will raise America into the limelight and attract visitors from across the oceans just to see your lands. Bully for you, Mr. President.</Text>
+			<Text>On teidän leveiden hartioidenne varaan laskettu, Theodore Roosevelt, johtaa kansanne suurelle matkalle. Käyttäkää sotilaidenne mahtia luodaksenne kotimaidenne kansalle diili, jonka he niin epätoivoisesti ansaitsevat. Tämä varmasti nostaa Yhdysvallat parrasvaloihin ja tuo merten takaa väkeä katsomaan maitamme. Kaikkea hyvää teille, herra presidentti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
-			<Text>fi_FI Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe.  Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.</Text>
+			<Text>Teidän korkeutenne Englannin kuningatar Viktoria, laajentakaa otteenne rajojenne tuolle puolen kaikkialle maan ääriin. Älkäät peljätkö tappiota, sillä lojaalit punatakkinne ja ylivoimainen laivastonne tulee varmasti kestämään koitokset. Vakaan ja rauhallisen kosketuksenne turvin voitte tuoda kaikki maat Englannin vallan alle synnyttäen todellisen Pax Britannican.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
 			<Text>fi_FI From the first stirrings of life beneath water… to the great beasts of the Stone Age… to man taking his first upright steps, you have come far.  Now begins your greatest quest: from this early cradle of civilization on towards the stars.</Text>
