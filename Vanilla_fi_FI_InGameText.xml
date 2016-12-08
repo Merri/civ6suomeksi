@@ -2368,279 +2368,278 @@
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_HARVEST_REMOVES_RESOURCE">
 			<Text>{1_Resource} poistetaan ruudusta.</Text>
 		</Replace>
-		<!-- fi_FI -->
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_HARVEST_YIELDS_RESOURCE_AMOUNT">
-			<Text>Yields {1_Amount} {2_Icon} {3_Resource}</Text>
+			<Text>Tuottaa {1_Amount} {2_Icon} {3_Resource}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_HARVEST_YIELDS_PRODUCTION_AMOUNT">
-			<Text>Yields {1_Amount} [ICON_Production] {2_Resource}</Text>
+			<Text>Tuottaa {1_Amount} [ICON_Production] {2_Resource}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_HARVEST_YIELDS_FOOD_AMOUNT">
-			<Text>Yields {1_Amount} [ICON_Food] {2_Resource}</Text>
+			<Text>Tuottaa {1_Amount} [ICON_Food] {2_Resource}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_REMOVES_FEATURE">
-			<Text>Removes {1_Feature} from the plot.</Text>
+			<Text>{1_Feature} poistetaan ruudusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_YIELDS_CULTURE_AMOUNT">
-			<Text>Yields {1_Amount} [ICON_Culture] {2_Yield}</Text>
+			<Text>Tuottaa {1_Amount} [ICON_Culture] {2_Yield}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_YIELDS_FAITH_AMOUNT">
-			<Text>Yields {1_Amount} [ICON_Faith] {2_Yield}</Text>
+			<Text>Tuottaa {1_Amount} [ICON_Faith] {2_Yield}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_YIELDS_FOOD_AMOUNT">
-			<Text>Yields {1_Amount} [ICON_Food] {2_Yield}</Text>
+			<Text>Tuottaa {1_Amount} [ICON_Food] {2_Yield}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_YIELDS_GOLD_AMOUNT">
-			<Text>Yields {1_Amount} [ICON_Gold] {2_Yield}</Text>
+			<Text>Tuottaa {1_Amount} [ICON_Gold] {2_Yield}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_YIELDS_PRODUCTION_AMOUNT">
-			<Text>Yields {1_Amount} [ICON_Production] {2_Yield}</Text>
+			<Text>Tuottaa {1_Amount} [ICON_Production] {2_Yield}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_YIELDS_SCIENCE_AMOUNT">
-			<Text>Yields {1_Amount} [ICON_Science] {2_Yield}</Text>
+			<Text>Tuottaa {1_Amount} [ICON_Science] {2_Yield}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_SECOND_GROWTH">
-			<Text>[COLOR_RED]No yield from removing second-growth {1_Feature}.[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]{1_Feature} on luotu itse, joten sen poistosta ei tule tuottoa.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_YIELDS">
 			<Text>+{1_Amount} {2_Icon} {3_YieldType}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_HOUSING">
-			<Text>Provides {1_Amount:number #.#} [ICON_Housing] Housing</Text>
+			<Text>Tarjoaa {1_Amount:number #.#} [ICON_Housing] asumuksia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_YIELD_FROM_APPEAL">
-			<Text>Appealing location provides +{1_Amount} {2_Icon} {3_YieldType}</Text>
+			<Text>Viehättävä sijainti tarjoaa +{1_Amount} {2_Icon} {3_YieldType}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_GRANT_DEFENSE">
-			<Text>+{1_Value} [ICON_Strength] defense strength for occupying unit</Text>
+			<Text>+{1_Value} [ICON_Strength] puolustusvoimakkuutta ruutua miehittävälle yksikölle</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_GRANT_FORTIFICATION">
-			<Text>Fortification bonus applied to occupying unit.</Text>
+			<Text>Miehittävällä yksiköllä on nyt linnoittautusmisetu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_AIR_BASE">
-			<Text>Air base with {1_Amount} slots for aircraft.</Text>
+			<Text>{1_Amount} paikkaa lentokoneille tässä tukikohdassa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_PLANT_REQUIRES_CIVIC">
-			<Text>Requires Civic: {1_Civic}</Text>
+			<Text>Vaatii normin: {1_Civic}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_MOVE_TO_DESCRIPTION">
-			<Text>Move To</Text>
+			<Text>Siirry</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_MOVE_TO_UNIT_DESCRIPTION">
-			<Text>Move To Unit</Text>
+			<Text>Siirry yksikköön</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_WMD_STRIKE_DESCRIPTION">
-			<Text>WMD Strike</Text>
+			<Text>Massatuhoisku</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_COASTAL_RAID">
-			<Text>Coastal Raid</Text>
+			<Text>Ryövää rannikko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_PILLAGE_DESCRIPTION">
-			<Text>Pillage</Text>
+			<Text>Tärvele</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_PILLAGE_ROUTE_DESCRIPTION">
-			<Text>Pillage Road</Text>
+			<Text>Tärvele tie</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_PLANT_FOREST_DESCRIPTION">
-			<Text>Plant Woods</Text>
+			<Text>Istuta metsä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_RANGE_ATTACK_DESCRIPTION">
-			<Text>Ranged Attack</Text>
+			<Text>Tulita</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REBASE_DESCRIPTION">
-			<Text>Re-Base</Text>
+			<Text>Vaihda tukikohta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REMOVE_FEATURE_DESCRIPTION">
-			<Text>Remove Feature</Text>
+			<Text>Poista piirre</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REMOVE_HERESY_DESCRIPTION">
-			<Text>Remove Heresy</Text>
+			<Text>Poista kerettiläisyys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REMOVE_IMPROVEMENT_DESCRIPTION">
-			<Text>Remove Improvement</Text>
+			<Text>Poista rakenne</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REPAIR_DESCRIPTION">
-			<Text>Repair</Text>
+			<Text>Korjaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REPAIR_ROUTE_DESCRIPTION">
-			<Text>Repair Road</Text>
+			<Text>Korjaa tie</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_RETRAIN_DESCRIPTION">
-			<Text>Retrain</Text>
+			<Text>Uudelleenkouluta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REST_REPAIR_DESCRIPTION">
-			<Text>Rest and Repair</Text>
+			<Text>Lepää ja korjaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_ROUTE_TO_DESCRIPTION">
-			<Text>Route To</Text>
+			<Text>Siirry ruutuun</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPREAD_RELIGION_DESCRIPTION">
-			<Text>Spread Religion</Text>
+			<Text>Levitä uskoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_COUNTERSPY_DESCRIPTION">
-			<Text>Counterspy</Text>
+			<Text>Vastavakoile</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_DISRUPT_ROCKETRY_DESCRIPTION">
-			<Text>Disrupt Rocketry</Text>
+			<Text>Vahingoita raketteja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_GAIN_SOURCES_DESCRIPTION">
-			<Text>Gain Sources</Text>
+			<Text>Hanki lähteitä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_GREAT_WORK_HEIST_DESCRIPTION">
-			<Text>Great Work Heist</Text>
+			<Text>Varasta merkittävä teos</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_LISTENING_POST_DESCRIPTION">
-			<Text>Listening Post</Text>
+			<Text>Asetu kuulolle</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_RECRUIT_PARTISANS_DESCRIPTION">
-			<Text>Recruit Partisans</Text>
+			<Text>Palkkaa sissejä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_SABOTAGE_PRODUCTION_DESCRIPTION">
-			<Text>Sabotage Production</Text>
+			<Text>Sabotoi tuotanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_SIPHON_FUNDS_DESCRIPTION">
-			<Text>Siphon Funds</Text>
+			<Text>Vuole varoja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_STEAL_TECH_BOOST_DESCRIPTION">
-			<Text>Steal Tech Boost</Text>
+			<Text>Vasta teknologiaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_TRAVEL_NEW_CITY_DESCRIPTION">
-			<Text>Travel To New City</Text>
+			<Text>Matkusta toiseen kaupunkiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SWAP_UNITS_DESCRIPTION">
-			<Text>Swap Units</Text>
+			<Text>Vaihda yksiköt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_UPGRADE_DESCRIPTION">
-			<Text>Unit Upgrade</Text>
+			<Text>Yksikön päivitys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_UPGRADE_INFO">
-			<Text>Upgrade to {1_Unit}: {2_Amount} [ICON_Gold]Gold</Text>
+			<Text>Päivitys {1_Unit[4]}: {2_Amount} [ICON_Gold] kultaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_UPGRADE_INSUFFICIENT_FUNDS">
-			<Text>Not enough [ICON_Gold] Gold in treasury.</Text>
+			<Text>[ICON_Gold] Kultaa ei ole riittävästi varannossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_UPGRADE_MUST_BE_IN_TERRITORY">
-			<Text>Must be in friendly territory.</Text>
+			<Text>Tulee sijaita ystävällisillä alueilla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_APOSTLE_REQUIRED_CHARGES">
-			<Text>Must still have 2 spread charges.</Text>
+			<Text>2 levitystä tulee olla käytettävissä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_UPGRADE_REQUIRES_RESOURCE_ACCESS">
-			<Text>Your Civilization needs {2_AmountNeeded} {1_ResourceName} to upgrade this type of unit.</Text>
+			<Text>{2_AmountNeeded} {1_ResourceName} vaaditaan tämän yksikkötyypin päivittämiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_UPGRADE_REQUIRES_RESOURCE_SUPPLY">
-			<Text>Not enough {1_Resource} supply is available. Each unit alive or in production uses 1 supply, and each Owned or Imported resource in any city provides 4 supply.</Text>
+			<Text>Resurssia ({1_Resource}) ei ole riittävästi saatavilla. Kukin valmisteilla tai palveluksessa oleva yksikkö käyttää yhden (1) tarjonnasta. Minkä tahansa kaupungin omistama tai maahantuoma resurssi kasvattaa tarjontaa neljällä (4).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_WAIT_FOR_DESCRIPTION">
-			<Text>Alert</Text>
+			<Text>Valvo</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SKIP_TURN_DESCRIPTION">
-			<Text>Skip Turn</Text>
+			<Text>Ohita vuoro</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SLEEP_DESCRIPTION">
-			<Text>Sleep</Text>
+			<Text>Nuku</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_FORTIFY_DESCRIPTION">
-			<Text>Fortify</Text>
+			<Text>Vartioi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_ALERT">
-			<Text>Order the unit to fortify and sleep until it sees an enemy.</Text>
+			<Text>Yksikkö vartioi ja menee uneen, mutta herää nähdessään vihollisen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_HEAL_DESCRIPTION">
-			<Text>Fortify Until Healed</Text>
+			<Text>Vartioi kunnes parantunut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_MAKE_TRADE_ROUTE_DESCRIPTION">
-			<Text>Make Trade Route</Text>
+			<Text>Muodosta kauppareitti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_TELEPORT_TO_CITY_DESCRIPTION">
-			<Text>Transfer to Another City</Text>
+			<Text>Siirrä toiseen kaupunkiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_CANNOT_HEAL_OUTSIDE_FRIENDLY_TERRITORY">
-			<Text>Cannot heal outside friendly territory</Text>
+			<Text>Parantuminen onnistuu vain ystävällisillä mailla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_CANNOT_HEAL_IN_ENEMY_TERRITORY">
 			<Text>{LOC_UNITOPERATION_CANNOT_HEAL_OUTSIDE_FRIENDLY_TERRITORY}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_CANNOT_DESIGNATE_PARK">
-			<Text>Must be on a valid National Park tile.</Text>
+			<Text>Tulee sijaita kansallispuistoksi soveltuvalla ruudulla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_WAKE_DESCRIPTION">
-			<Text>Wake Up</Text>
+			<Text>Herätä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_PROMOTE_DESCRIPTION">
-			<Text>Promotion Available!</Text>
+			<Text>Ylennys saatavilla!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_UPGRADE_DESCRIPTION">
-			<Text>Upgrade Available!</Text>
+			<Text>Päivitys saatavilla!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_AUTOMATE_DESCRIPTION">
-			<Text>Automate</Text>
+			<Text>Itsenäistä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_CANCEL_DESCRIPTION">
-			<Text>Cancel</Text>
+			<Text>Peruuta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_STOP_AUTOMATION_DESCRIPTION">
-			<Text>Cancel Order</Text>
+			<Text>Peruuta käsky</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_DELETE_DESCRIPTION">
-			<Text>Delete Unit</Text>
+			<Text>Poista yksikkö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_DELETE_GOLD_REFUND">
-			<Text>Will provide {1_GoldAmount} [ICON_Gold] Gold.</Text>
+			<Text>Tämä tarjoaa {1_GoldAmount} [ICON_Gold] kultaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_GIFT_DESCRIPTION">
-			<Text>Gift Unit</Text>
+			<Text>Lahjoita yksikkö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ENTER_FORMATION_DESCRIPTION">
-			<Text>Create Escort Formation with {1_UnitName}</Text>
+			<Text>Muodostaa saattueen {1_UnitName[3]} kanssa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_EXIT_FORMATION_DESCRIPTION">
-			<Text>Exit Escort Formation</Text>
+			<Text>Poistu saattueesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_DESCRIPTION">
-			<Text>Activate Great Person</Text>
+			<Text>Käytä merkkihenkilön kykyä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_INVALID_DISTRICT">
-			<Text>Must be on a completed {1_DistrictName}.</Text>
+			<Text>Tulee suorittaa {1_DistrictName[3]} ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_NO_GREATWORK_SLOT">
-			<Text>Must occupy district or wonder with a free slot of the proper Great Work type.</Text>
+			<Text>Tulee olla ruudussa, jossa on kaupunkialue tai maailmanihme, jossa on merkkiteoksen tyypille soveltuva vapaa paikka.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_INSUFFICIENT_GOLD">
-			<Text>Requires an additional {1_GoldAmount} [ICON_Gold] Gold to activate.</Text>
+			<Text>Vaaditaan vielä {1_GoldAmount} [ICON_Gold] kultaa kyvyn käyttämiseksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_OWN_TILE">
-			<Text>Must be on a tile you own.</Text>
+			<Text>Tulee olla omistamassamme ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_UNOWNED_TILE">
-			<Text>Must be on a tile no player owns.</Text>
+			<Text>Tulee olla omistamattomassa ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ADJACENT_TO_OWNED_TILE">
-			<Text>Must be on a tile next to one you own.</Text>
+			<Text>Tulee olla omistamamme ruudun vieressä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_INCOMPLETE_SPACE_RACE_PROJECT">
-			<Text>City that owns this tile must be producing a Space Race project.</Text>
+			<Text>Ruudun omistavan kaupungin tulee suorittaa avaruusjuoksuprojektia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_VISIBLE_LUXURY">
-			<Text>Must be on a tile with a Luxury resource.</Text>
+			<Text>Tulee olla ylellisen resurssin ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_NO_MILITARY_UNIT">
-			<Text>Must be on a tile with no military units.</Text>
+			<Text>Tulee olla sotilasyksiköistä vapaassa ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_MILITARY_UNIT">
-			<Text>Must be on a tile with a military unit.</Text>
+			<Text>Tulee olla sotilasyksikön sisältävässä ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_DOMAIN_TYPE">
-			<Text>Must be on a tile with a military unit with the appropriate domain type for the great person.</Text>
+			<Text>Tulee olla soveltuvan alan sotilasyksikön sisältävässä ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_DOMAIN_TYPE_LAND">
-			<Text>Must be on a tile with a land military unit.</Text>
+			<Text>Tulee olla maasotilasyksikön sisältävässä ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_DOMAIN_TYPE_SEA">
-			<Text>Must be on a tile with a naval military unit.</Text>
+			<Text>Tulee olla meriyksikön sisältävässä ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ADJACENT_BARBARIAN_UNIT">
-			<Text>Must be next to a Barbarian unit.</Text>
+			<Text>Tulee olla barbaarin vieressä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_UNIT_WITH_MILITARY_FORMATION">
 			<Text>Must be on a tile with a military unit of the appropriate military formation type.</Text>
