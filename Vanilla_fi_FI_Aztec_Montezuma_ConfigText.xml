@@ -20,7 +20,7 @@
 			<Text>Rajojen sisällä sijaitsevat ylelliset luonnonvarat kasvattavat [ICON_Amenities] elintasoa hyödyttäen kahta useampaa kaupunkia kuin yleensä. Sotilasyksiköt saavat +1 [ICON_Strength] taisteluvoimakkuutta jokaisesta erilaisesta asteekkien mailla hyödynnetystä ylellisestä luonnonvarasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
-			<Text>Kotkasoturi</Text>
+			<Text>Kotkasoturi|kotkasoturi|kotkasoturin|kotkasoturiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_DESCRIPTION">
 			<Text>Asteekkien oma muinaisuuden yksikkö, joka korvaa soturin. Kykenee joskus kaappaamaan toisten kansojen sotilasyksiköt muuttaen ne rakentajiksi.</Text>

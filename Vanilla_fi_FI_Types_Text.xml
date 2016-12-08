@@ -2571,317 +2571,317 @@
 		</Replace>
 		<!-- Units -->
 		<Replace Language="fi_FI" Tag="LOC_UNIT_AIRCRAFT_CARRIER_NAME">
-			<Text>Lentotukialus</Text>
+			<Text>Lentotukialus|lentotukialus|lentotukialuksen|lentotukialukseksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ANTIAIR_GUN_NAME">
-			<Text>Ilmatorjuntatykki</Text>
+			<Text>Ilmatorjuntatykki|ilmatorjuntatykki|ilmatorjuntatykin|ilmatorjuntatykiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_APOSTLE_NAME">
-			<Text>Apostoli</Text>
+			<Text>Apostoli|apostoli|apostolin|apostoliksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ARCHAEOLOGIST_NAME">
-			<Text>Arkeologi</Text>
+			<Text>Arkeologi|arkeologi|arkeologin|arkeologiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ARCHER_NAME">
-			<Text>Jousimies</Text>
+			<Text>Jousimies|jousimies|jousimiehen|jousimieheksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ARTILLERY_NAME">
-			<Text>Tykki</Text>
+			<Text>Tykki|tykki|tykin|tykiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_AT_CREW_NAME">
-			<Text>Panssarintorjuja</Text>
+			<Text>Panssarintorjuja|panssarintorjuja|panssarintorjujan|panssarintorjujaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_NAME">
-			<Text>Barbaarien ratsu</Text>
+			<Text>Barbaarien ratsu|barbaarien ratsu|barbaarien ratsun|barbaarien ratsuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_NAME">
-			<Text>Barbaarien jousiratsu</Text>
+			<Text>Barbaarien jousiratsu|barbaarien jousiratsu|barbaarien jousiratsun|barbaarien jousiratsuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BARBARIAN_GALLEY_NAME">
-			<Text>Barbaarien kaleeri</Text>
+			<Text>Barbaarien kaleeri|barbaarien kaleeri|barbaarien kaleerin|barbaarien kaleeriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BATTERING_RAM_NAME">
-			<Text>Muurinsärkijä</Text>
+			<Text>Muurinsärkijä|muurinsärkijä|muurinsärkijän|muurinsärkijäksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BATTLESHIP_NAME">
-			<Text>Taistelulaiva</Text>
+			<Text>Taistelulaiva|taistelulaiva|taistelulaivan|taistelulaivaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BUILDER_NAME">
-			<Text>Rakentaja</Text>
+			<Text>Rakentaja|rakentaja|rakentajan|rakentajaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BIPLANE_NAME">
-			<Text>Kaksitaso</Text>
+			<Text>Kaksitaso|kaksitaso|kaksitason|kaksitasoksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BOMBER_NAME">
-			<Text>Pommittaja</Text>
+			<Text>Pommittaja|pommittaja|pommittajan|pommittajaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BOMBARD_NAME">
-			<Text>Bombardikanuuna</Text>
+			<Text>Bombardi|bombardi|bombardin|bombardiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_CARAVEL_NAME">
-			<Text>Karaveli</Text>
+			<Text>Karaveli|karaveli|karavelin|karaveliksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_CATAPULT_NAME">
-			<Text>Katapultti</Text>
+			<Text>Katapultti|katapultti|katapultin|katapultiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_CAVALRY_NAME">
-			<Text>Kivääriratsu</Text>
+			<Text>Kivääriratsu|kivääriratsu|kivääriratsun|kivääriratsuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_DESTROYER_NAME">
-			<Text>Hävittäjä</Text>
+			<Text>Hävittäjä|hävittäjä|hävittäjän|hävittäjäksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_CROSSBOWMAN_NAME">
-			<Text>Varsijousi</Text>
+			<Text>Varsijousi|varsijousi|varsijousen|varsijouseksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_FIELD_CANNON_NAME">
-			<Text>Kenttäkanuuna</Text>
+			<Text>Kenttäkanuuna|kenttäkanuuna|kenttäkanuunan|kenttäkanuunaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_FIGHTER_NAME">
-			<Text>Hävittäjäkone</Text>
+			<Text>Hävittäjäkone|hävittäjäkone|hävittäjäkoneen|hävittäjäkoneeksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_FRIGATE_NAME">
-			<Text>Fregatti</Text>
+			<Text>Fregatti|fregatti|fregatin|fregatiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GALLEY_NAME">
-			<Text>Kaleeri</Text>
+			<Text>Kaleeri|kaleeri|kaleerin|kaleeriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_GENERAL_NAME">
-			<Text>Merkittävä kenraali</Text>
+			<Text>Kenraali</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_GENERAL_NAME">
-			<Text>Merkittävä kenraali</Text>
+			<Text>Merkittävä kenraali|merkittävä kenraali|merkittävän kenraalin|merkittäväksi kenraaliksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_ADMIRAL_NAME">
-			<Text>Merkittävä amiraali</Text>
+			<Text>Amiraali</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_ADMIRAL_NAME">
-			<Text>Merkittävä amiraali</Text>
+			<Text>Merkittävä amiraali|merkittävä amiraali|merkittävän amiraalin|merkittäväksi amiraaliksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_ENGINEER_NAME">
-			<Text>Merkittävä insinööri</Text>
+			<Text>Insinööri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_ENGINEER_NAME">
-			<Text>Merkittävä insinööri</Text>
+			<Text>Merkittävä insinööri|merkittävä insinööri|merkittävän insinöörin|merkittäväksi insinööriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_MERCHANT_NAME">
-			<Text>Merkittävä kauppias</Text>
+			<Text>Kauppias</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_MERCHANT_NAME">
-			<Text>Merkittävä kauppias</Text>
+			<Text>Merkittävä kauppias|merkittävä kauppias|merkittävän kauppiaan|merkittäväksi kauppiaaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_PROPHET_NAME">
-			<Text>Merkittävä profeetta</Text>
+			<Text>Profeetta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_PROPHET_NAME">
-			<Text>Merkittävä profeetta</Text>
+			<Text>Merkittävä profeetta|merkittävä profeetta|merkittävän profeetan|merkittäväksi profeetaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_SCIENTIST_NAME">
-			<Text>Merkittävä tiedemies</Text>
+			<Text>Tieteentekijä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_SCIENTIST_NAME">
-			<Text>Merkittävä tiedemies</Text>
+			<Text>Merkittävä tieteentekijä|merkittävä tieteentekijä|merkittävän tieteentekijän|merkittäväksi tieteentekijäksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_WRITER_NAME">
-			<Text>Merkittävä kirjailija</Text>
+			<Text>Kirjailija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_WRITER_NAME">
-			<Text>Merkittävä kirjailija</Text>
+			<Text>Merkittävä kirjailija|merkittävä kirjailija|merkittävän kirjailijan|merkittäväksi kirjailijaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_ARTIST_NAME">
-			<Text>Merkittävä taiteilija</Text>
+			<Text>Taiteilija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_ARTIST_NAME">
-			<Text>Merkittävä taiteilija</Text>
+			<Text>Merkittävä taiteilija|merkittävä taiteilija|merkittävän taiteilijan|merkittäväksi taiteilijaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_CLASS_MUSICIAN_NAME">
-			<Text>Merkittävä muusikko</Text>
+			<Text>Muusikko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_MUSICIAN_NAME">
-			<Text>Merkittävä muusikko</Text>
+			<Text>Merkittävä muusikko|merkittävä muusikko|merkittävän muusikon|merkittäväksi muusikoksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_HEAVY_CHARIOT_NAME">
-			<Text>Raskas sotavaunu</Text>
+			<Text>Raskas sotavaunu|raskas sotavaunu|raskaan sotavaunun|raskaaksi sotavaunuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_HELICOPTER_NAME">
-			<Text>Helikopteri</Text>
+			<Text>Helikopteri|helikopteri|helikopterin|helikopteriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_HORSEMAN_NAME">
-			<Text>Ratsu</Text>
+			<Text>Ratsu|ratsu|ratsun|ratsuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_INFANTRY_NAME">
-			<Text>Rynnäkkökivääri</Text>
+			<Text>Rynnäkkökivääri|rynnäkkökivääri|rynnäkkökiväärin|rynnäkkökivääriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_INQUISITOR_NAME">
-			<Text>Inkvisiittori</Text>
+			<Text>Inkvisiittori|inkvisiittori|inkvisiittorin|inkvisiittoriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_IRONCLAD_NAME">
-			<Text>Panssarilaiva</Text>
+			<Text>Panssarilaiva|panssarilaiva|panssarilaivan|panssarilaivaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_JET_BOMBER_NAME">
-			<Text>Suihkupommittaja</Text>
+			<Text>Suihkupommittaja|suihkupommittaja|suihkupommittajan|suihkupommittajaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_JET_FIGHTER_NAME">
-			<Text>Suihkuhävittäjä</Text>
+			<Text>Suihkuhävittäjä|suihkuhävittäjä|suihkuhävittäjän|suihkuhävittäjäksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_KNIGHT_NAME">
-			<Text>Ritari</Text>
+			<Text>Ritari|ritari|ritarin|ritariksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MACHINE_GUN_NAME">
-			<Text>Konekivääri</Text>
+			<Text>Konekivääri|konekivääri|konekiväärin|konekivääriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MECHANIZED_INFANTRY_NAME">
-			<Text>Rynnäkkövaunu</Text>
+			<Text>Rynnäkkövaunu|rynnäkkövaunu|rynnäkkövaunun|rynnäkkövaunuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MEDIC_NAME">
-			<Text>Lääkintämies</Text>
+			<Text>Kenttälääkäri|kenttälääkäri|kenttälääkärin|kenttälääkäriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MILITARY_ENGINEER_NAME">
-			<Text>Sotilasinsinööri</Text>
+			<Text>Sotilasinsinööri|sotilasinsinööri|sotilasinsinöörin|sotilasinsinööriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MISSILE_CRUISER_NAME">
-			<Text>Ohjusristeilijä</Text>
+			<Text>Ohjusristeilijä|ohjusristeilijä|ohjusristeilijän|ohjusristeilijäksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MISSIONARY_NAME">
-			<Text>Lähetyssaarnaaja</Text>
+			<Text>Lähetyssaarnaaja|lähetyssaarnaaja|lähetyssaarnaajan|lähetyssaarnaajaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MODERN_AT_NAME">
-			<Text>Moderni panssarintorjuja</Text>
+			<Text>Moderni panssarintorjuja|moderni panssarintorjuja|modernin panssarintorjujan|moderniksi panssarintorjujaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MODERN_ARMOR_NAME">
-			<Text>Panssarivaunu</Text>
+			<Text>Panssarivaunu|panssarivaunu|panssarivaunun|panssarivaunuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MUSKETMAN_NAME">
-			<Text>Musketööri</Text>
+			<Text>Musketööri|musketööri|musketöörin|musketööriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_NATURALIST_NAME">
-			<Text>Luonnonsuojelija</Text>
+			<Text>Luonnonsuojelija|luonnonsuojelija|luonnonsuojelijan|luonnonsuojelijaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME">
-			<Text>Ydinsukellusvene</Text>
+			<Text>Ydinsukellusvene|ydinsukellusvene|ydinsukellusveneen|ydinsukellusveneeksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_OBSERVATION_BALLOON_NAME">
-			<Text>Havaintoilmapallo</Text>
+			<Text>Havaintopallo|havaintopallo|havaintopallon|havaintopalloksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_PIKEMAN_NAME">
-			<Text>Piikkimies</Text>
+			<Text>Piikkimies|piikkimies|piikkimiehen|piikkimieheksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_PRIVATEER_NAME">
-			<Text>Kaappari</Text>
+			<Text>Kaappari|kaappari|kaapparin|kaappariksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_QUADRIREME_NAME">
-			<Text>Nelisoutu</Text>
+			<Text>Nelisoutu|nelisoutu|nelisoudun|nelisouduksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_RANGER_NAME">
-			<Text>Samooja</Text>
+			<Text>Samooja|samooja|samoojan|samoojaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
-			<Text>Raketinheitin</Text>
+			<Text>Raketinheitin|raketinheitin|raketinheittimen|raketinheittimeksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MOBILE_SAM_NAME">
-			<Text>IT-panssarivaunu</Text>
+			<Text>IT-panssarivaunu|IT-panssarivaunu|IT-panssarivaunun|IT-panssarivaunuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SCOUT_NAME">
-			<Text>Tiedustelija</Text>
+			<Text>Tiedustelija|tiedustelija|tiedustelijan|tiedustelijaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SETTLER_NAME">
-			<Text>Uudisasuttaja</Text>
+			<Text>Uudisasuttaja|uudisasuttaja|uudisasuttajan|uudisasuttajaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SIEGE_TOWER_NAME">
-			<Text>Piiritystorni</Text>
+			<Text>Piiritystorni|piiritystorni|piiritystornin|piiritystorniksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SLINGER_NAME">
-			<Text>Linkomies</Text>
+			<Text>Linkomies|linkomies|linkomiehen|linkomieheksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SPEARMAN_NAME">
-			<Text>Keihäsmies</Text>
+			<Text>Keihäsmies|keihäsmies|keihäsmiehen|keihäsmieheksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SPY_NAME">
-			<Text>Vakooja</Text>
+			<Text>Vakooja|vakooja|vakoojan|vakoojaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SUBMARINE_NAME">
-			<Text>Sukellusvene</Text>
+			<Text>Sukellusvene|sukellusvene|sukellusveneen|sukellusveneeksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SWORDSMAN_NAME">
-			<Text>Miekkamies</Text>
+			<Text>Miekkamies|miekkamies|miekkamiehen|miekkamieheksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TANK_NAME">
-			<Text>Taisteluvaunu</Text>
+			<Text>Taisteluvaunu|taisteluvaunu|taisteluvaunun|taisteluvaunuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRADER_NAME">
-			<Text>Kauppuri</Text>
+			<Text>Kauppuri|kauppuri|kauppurin|kauppuriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_WARRIOR_NAME">
-			<Text>Soturi</Text>
+			<Text>Soturi|soturi|soturin|soturiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
-			<Text>Maryannu-jousivaunu</Text>
+			<Text>Maryannu-jousivaunu|Maryannu-jousivaunu|Maryannu-jousivaunun|Maryannu-jousivaunuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREEK_HOPLITE_NAME">
-			<Text>Hopliitti</Text>
+			<Text>Hopliitti|hopliitti|hopliitin|hopliitiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
-			<Text>Saka-jousiratsu</Text>
+			<Text>Saka-jousiratsu|Saka-jousiratsu|Saka-jousiratsun|Saka-jousiratsuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SUMERIAN_WAR_CART_NAME">
-			<Text>Sotakärry</Text>
+			<Text>Sotakärry|sotakärry|sotakärryn|sotakärryksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_NAME">
-			<Text>Rosoratsu</Text>
+			<Text>Rosoratsu|rosoratsu|rosoratsun|rosoratsuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ENGLISH_REDCOAT_NAME">
-			<Text>Punatakki</Text>
+			<Text>Punatakki|punatakki|punatakin|punatakiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_NAME">
-			<Text>Konkistadori</Text>
+			<Text>Konkistadori|konkistadori|konkistadorin|konkistadoriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ROMAN_LEGION_NAME">
-			<Text>Legioona</Text>
+			<Text>Legioona|legioona|legioonan|legioonaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_JAPANESE_SAMURAI_NAME">
-			<Text>Samurai</Text>
+			<Text>Samurai|samurai|samurain|samuraiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_NAME">
-			<Text>Berserkki</Text>
+			<Text>Berserkki|berserkki|berserkin|berserkiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_NAME">
-			<Text>Viikinkien pitkävene</Text>
+			<Text>Viikinkien pitkävene|viikinkien pitkävene|viikinkien pitkäveneen|viikinkien pitkäveneeksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_NAME">
-			<Text>Hiipivä tiikeri</Text>
+			<Text>Hiipivä tiikeri|hiipivä tiikeri|hiipivän tiikerin|hiipiväksi tiikeriksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_RUSSIAN_COSSACK_NAME">
-			<Text>Kasakka</Text>
+			<Text>Kasakka|kasakka|kasakan|kasakaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_INDIAN_VARU_NAME">
-			<Text>Varu</Text>
+			<Text>Varu|varu|varun|varuksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ARABIAN_MAMLUK_NAME">
-			<Text>Mamluk</Text>
+			<Text>Mamluk|mamluk|mamlukin|mamlukiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ENGLISH_SEADOG_NAME">
-			<Text>Merikoira</Text>
+			<Text>Merikoira|merikoira|merikoiran|merikoiraksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_NAME">
-			<Text>Ngao mbeba</Text>
+			<Text>Ngao mbeba|ngao mbeba|ngao mbeban|ngao mbebaksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
-			<Text>Garde impériale</Text>
+			<Text>Garde impériale|garde impériale|garde impérialen|garde impérialeksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GERMAN_UBOAT_NAME">
-			<Text>U-vene</Text>
+			<Text>U-vene|U-vene|U-veneen|U-veneeksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_AMERICAN_P51_NAME">
-			<Text>P-51 mustang</Text>
+			<Text>P-51 mustang|P-51 mustang|P-51 mustangin|P-51 mustangiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
-			<Text>Minas Geraes</Text>
+			<Text>Minas Geraes|Minas Geraes|Minas Geraesin|Minas Geraesiksi</Text>
 		</Replace>
 		<!-- WMDs -->
 		<Replace Language="fi_FI" Tag="LOC_WMD_NUCLEAR_DEVICE_NAME">
-			<Text>Ydinkärki</Text>
+			<Text>Ydinkärki|ydinkärki|ydinkärjen|ydinkärjeksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WMD_THERMONUCLEAR_DEVICE_NAME">
-			<Text>Vetypommi</Text>
+			<Text>Vetypommi|vetopommi|vetypommin|vetypommiksi</Text>
 		</Replace>
 		<!-- Yields -->
 		<Replace Language="fi_FI" Tag="LOC_YIELD_CULTURE_NAME">
