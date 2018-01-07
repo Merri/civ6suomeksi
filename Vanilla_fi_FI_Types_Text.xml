@@ -2380,7 +2380,7 @@
 			<Text>Lentäminen|lentämisen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_CASTLES_NAME">
-			<Text>Linnat|linnat</Text>
+			<Text>Linnat|linnojen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FUTURE_TECH_NAME">
 			<Text>Tuleva tekniikka|tulevan tekniikan</Text>

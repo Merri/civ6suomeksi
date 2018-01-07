@@ -615,7 +615,7 @@
 			<Text>Valitse ylennys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_TRADE_ROUTE_NAME">
-			<Text>{1_OriginName} -&raquo; {2_DestinationName}</Text>
+			<Text>{1_OriginName} -&gt; {2_DestinationName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_LAND_ROUTE_RANGE">
 			<Text>Maareittien kantama</Text>
@@ -1666,265 +1666,265 @@
 			<Text>+{1_InfluencePointsRate} {1_InfluencePointsRate : plural 1?piste; other?pistettä;} vaikutusvaltaa [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_THRESHOLD">
-			<Text>{1_EnvoysPerThreshold} [ICON_Envoy] {1_EnvoysPerThreshold : plural 1?Envoy; other?Envoys;} at {2_InfluencePointThreshold} Influence {2_InfluencePointThreshold : plural 1?point; other?points;}</Text>
+			<Text>{1_EnvoysPerThreshold} [ICON_Envoy] {1_EnvoysPerThreshold : plural 1?lähettiläs; other?lähettilästä;} kun {2_InfluencePointThreshold} vaikutusvallan {2_InfluencePointThreshold : plural 1?piste; other?pistettä;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_ENVOYS">
-			<Text>{1_Envoys} [ICON_Envoy] {1_Envoys : plural 1?Envoy; other?Envoys;} available</Text>
+			<Text>{1_Envoys} [ICON_Envoy] {1_Envoys : plural 1?lähettiläs; other?lähettilästä;} käytettävissä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_SOURCES_HELP">
-			<Text>Governments and policies are the primary sources of Influence points.</Text>
+			<Text>Hallitusmuodot ja linjaukset ovat vaikutusvaltapisteiden ensisijainen lähde.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_MENU">
-			<Text>MENU</Text>
+			<Text>VALIKKO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_MENU_TOOLTIP">
-			<Text>Open the Game Menu.</Text>
+			<Text>Avaa pelin valikon</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_HELP">
-			<Text>HELP</Text>
+			<Text>OHJE</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_HELP_TOOLTIP">
-			<Text>Open the Civilopedia.</Text>
+			<Text>Avaa Civilopedia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_CURRENT_DATE">
-			<Text>2100 AD</Text>
+			<Text>2100 jaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_CURRENT_TURN">
-			<Text>Turn</Text>
+			<Text>Vuoro</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TOOLTIP_DESCRIPTION">
-			<Text>Brief description</Text>
+			<Text>Lyhyt kuvaus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_GOVT_FREE_CHANGES">
-			<Text>Policy and Government changes are free this turn</Text>
+			<Text>Linjausten ja hallitusmuodon vaihto ovat ilmaisia tällä vuorolla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_ZOOM_IN">
-			<Text>Zoom In</Text>
+			<Text>Lähennä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_ZOOM_OUT">
-			<Text>Zoom Out</Text>
+			<Text>Loitonna</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_PIN_LIST">
-			<Text>Map Pins</Text>
+			<Text>Karttapinnit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_TOGGLE_MAP_PIN_LIST">
-			<Text>Map Pins</Text>
+			<Text>Karttapinnit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_PLACE_MAP_PIN">
-			<Text>Add Pin</Text>
+			<Text>Lisää pinni</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_PLACE_MAP_PIN_TT">
-			<Text>Click on a hex to place a map pin at that location.</Text>
+			<Text>Napsauta heksaruutua asettaaksesi siihen karttapinnin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_TOGGLE_GRID">
-			<Text>Toggle Grid</Text>
+			<Text>Ruudukko päälle/pois</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_SHOW_GRID">
-			<Text>Show Grid</Text>
+			<Text>Näytä ruudukko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_TOGGLE_RESOURCE_ICONS">
-			<Text>Toggle Resource Icons</Text>
+			<Text>Resurssit päälle/pois</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_TOGGLE_YIELD_ICONS">
-			<Text>Toggle Yield Icons</Text>
+			<Text>Tuotot päälle/pois</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_SHOW_RESOURCES">
-			<Text>Show Resource Icons</Text>
+			<Text>Näytä resurssikuvakkeet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_SHOW_YIELDS">
-			<Text>Show Yield Icons</Text>
+			<Text>Näytä tuottokuvakkeet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_TOGGLE_STRATEGY_VIEW">
-			<Text>Toggle Strategy View</Text>
+			<Text>Strategianäkymä päälle/pois</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_LENSES">
-			<Text>Lenses</Text>
+			<Text>Linssit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_RELIGION_LENS">
-			<Text>Religion</Text>
+			<Text>Usko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CONTINENT_LENS">
-			<Text>Continent</Text>
+			<Text>Manner</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_APPEAL_LENS">
-			<Text>Appeal</Text>
+			<Text>Houkuttelevuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_WATER_LENS">
-			<Text>Settler</Text>
+			<Text>Uudisasutus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_GOVERNMENT_LENS">
-			<Text>Government</Text>
+			<Text>Hallitusmuoto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_OWNER_LENS">
-			<Text>Political</Text>
+			<Text>Poliittinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_TOURISM_LENS">
-			<Text>Tourism</Text>
+			<Text>Turismi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_RELIGION_LENS_TOOLTIP">
-			<Text>Show majority religion and follower distribution across the map.</Text>
+			<Text>Näytä valtauskontojen jakautuminen kartalla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CONTINENT_LENS_TOOLTIP">
-			<Text>Shows geographic extent of each continent.</Text>
+			<Text>Näytä kunkin mantereen maantieteellinen laajuus.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_APPEAL_LENS_TOOLTIP">
-			<Text>Shows appeal of each tile (for Neighborhoods, Seaside Resorts, National Parks).</Text>
+			<Text>Näytä kunkin ruudun houkuttelevuus (lähiöille, rantalomakohteille ja luonnonpuistoille).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_WATER_LENS_TOOLTIP">
-			<Text>Shows recommended city sites and water availability at each tile.</Text>
+			<Text>Näytä suositellut kaupunkien sijainnit ja veden saatavuus kussakin ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_GOVERNMENT_LENS_TOOLTIP">
-			<Text>Shows distribution of governments across the map.</Text>
+			<Text>Näytä hallitusmuotojen jakautuminen kartalla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_OWNER_LENS_TOOLTIP">
-			<Text>Shows owner of each tile.</Text>
+			<Text>Näytä kunkin ruudun omistaja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_TOURISM_LENS_TOOLTIP">
-			<Text>Show the number of Visiting Tourists in each tile.</Text>
+			<Text>Näytä kussakin ruudussa vierailevien turistien määrä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_OPTIONS">
-			<Text>Map Options</Text>
+			<Text>Kartta-asetukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CIVICS_ENABLES">
-			<Text>Enables</Text>
+			<Text>Mahdollistaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHOOSE_RESEARCH">
-			<Text>Choose Research</Text>
+			<Text>Valitse tutkimus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHANGE_RESEARCH">
-			<Text>Change Research</Text>
+			<Text>Vaihda tutkimus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHANGE_CIVICS">
-			<Text>Change Civics</Text>
+			<Text>Vaihda normeja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHOOSE_CIVIC">
-			<Text>Choose Civic</Text>
+			<Text>Valitse normi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_RESEARCH_TURNS">
-			<Text>Turns:</Text>
+			<Text>Vuoroja:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_RESEARCH_REQUIRES">
-			<Text>Requires:</Text>
+			<Text>Vaatii:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_RESEARCH_TURNS_TO_USE">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other? {1_Turn} turns;} to completion.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other? {1_Turn} vuoroa;} valmistumiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHOOSE_PRODUCTION">
-			<Text>CHOOSE PRODUCTION</Text>
+			<Text>VALITSE TUOTANTO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHOOSE_CITY_FOCUS">
-			<Text>CHOOSE FOCUS</Text>
+			<Text>VALITSE PAINOTUS</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_PRODUCTION">
-			<Text>Production</Text>
+			<Text>Tuottavuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_PURCHASE">
-			<Text>Purchase</Text>
+			<Text>Osta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODPANEL_PRODUCTION">
-			<Text>[ICON_ProductionLarge]Production</Text>
+			<Text>[ICON_ProductionLarge]Tuotanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODPANEL_PURCHASE_FAITH">
-			<Text>[ICON_FaithLarge]Purchase</Text>
+			<Text>[ICON_FaithLarge]Osta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODPANEL_PURCHASE_FAITH_NO_CONTENT">
-			<Text>No items are available to purchase with [ICON_Faith]Faith at this time.</Text>
+			<Text>[ICON_Faith]Uskolla ei voi ostaa mitään tällä hetkellä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODPANEL_PURCHASE_GOLD">
-			<Text>[ICON_GoldLarge]Purchase</Text>
+			<Text>[ICON_GoldLarge]Osta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODPANEL_PURCHASE_GOLD_NO_CONTENT">
-			<Text>No items are available to purchase with [ICON_Gold]Gold at this time.</Text>
+			<Text>[ICON_Gold]Rahalla ei voi ostaa mitään tällä hetkellä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CLOSE">
-			<Text>Close</Text>
+			<Text>Sulje</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_DISTRICTS_BUILDINGS">
-			<Text>Districts and Buildings</Text>
+			<Text>Kaupunkialueet ja rakennukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Kaupunkialueet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Rakennukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_PROJECTS">
-			<Text>Projects</Text>
+			<Text>Projektit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_CIVIC_BOOST_UNLOCKED">
-			<Text>Inspiration!</Text>
+			<Text>Inspiraatio!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_TECH_BOOST_UNLOCKED">
-			<Text>Eureka!</Text>
+			<Text>Heureka!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_WORLD_WONDER_CREATED">
-			<Text>A World Wonder Has Been Created!</Text>
+			<Text>Maailmanihme on luotu!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_WORLD_WONDER_FINISHED">
-			<Text>Your civilization has finished construction on the [NEWLINE]{1_BuildingName}</Text>
+			<Text>Kansakuntamme on saanut valmiiksi...[NEWLINE]{1_BuildingName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_WORLD_WONDER_ANOTHER_PLAYER">
-			<Text>{1_buildingName}[NEWLINE]has been constructed by {2_OwnerName}.</Text>
+			<Text>{1_buildingName}[NEWLINE]{2_OwnerName} rakensi tämän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_WORLD_WONDER_UNMET_PLAYER">
-			<Text>an unmet player</Text>
+			<Text>kohtaamaton pelaaja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_PROJECT_CREATED_TITLE">
-			<Text>A Space Race Project Has Been Completed!</Text>
+			<Text>Avaruusjuoksun projekti on valmistunut!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_PROJECT_CREATED_BY_OTHER">
-			<Text>{1_CivName} moves closer to Science Victory.</Text>
+			<Text>{1_CivName} edistyi kohden tiedevoittoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_POPUP_PROJECT_CREATED_BY_UNKNOWN">
-			<Text>An unmet civilization moves closer to Science Victory.</Text>
+			<Text>Kohtaamaton kansa edistyi kohden tiedevoittoa.</Text>
 		</Replace>
 		<!-- Boost Text -->
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TO_BOOST">
-			<Text>To Boost:</Text>
+			<Text>Tehostaaksesi:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_BOOSTED">
-			<Text>BOOSTED:</Text>
+			<Text>TEHOSTETTU:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_BOOSTED_POPUP">
-			<Text>BOOSTED</Text>
+			<Text>TEHOSTETTU</Text>
 		</Replace>
 		<!-- Tech Boost Text -->
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_GOODYHUT">
-			<Text>The villagers share a hidden technical secret.</Text>
+			<Text>Kyläläiset jakavat kätketyn teknisen salaisuuden.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_WONDER">
-			<Text>While collecting knowledge from across the world you have discovered scientific wisdom unknown to your people.</Text>
+			<Text>Kerätessämme tietoa kautta maailman olemme kohdanneet meille ennestään tuntematonta viisautta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_GREAT_PERSON">
-			<Text>The ingenuity of your great person has unlocked new scientific ideas.</Text>
+			<Text>Merkittävän henkilömme nerokkuus on paljastanut uusia tieteellisiä ideoita.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_ESPIONAGE">
-			<Text>Your Spy has stolen technology secrets from a Campus in a foreign city.</Text>
+			<Text>Vakoilijamme on varastanut teknisiä salaisuuksia ulkomaiselta kampukselta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_RESEARCH_AGREEMENT">
-			<Text>Your Research Agreement has come up with a scientific breakthrough.</Text>
+			<Text>Tutkimussopimuksemme on johtanut tieteelliseen läpimurtoon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_COMPLETE">
-			<Text>Your research in {1_techString} is now complete!</Text>
+			<Text>{1_techString} on kehitetty toimestamme!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_ADVANCED">
-			<Text>Your knowledge of {1_techString} has advanced considerably.</Text>
+			<Text>Olemme huomattavasti tehostaneet {1_techString[2]} kehittämistä.</Text>
 		</Replace>
 		<!-- Civic Boost Text -->
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_GOODYHUT">
-			<Text>The villagers share the secrets of their well organized community.</Text>
+			<Text>Kyläläiset jakavat hyvin organisoidun yhteisönsä salaisuuden.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_WONDER">
-			<Text>Collecting wisdom from across the lands in your library has yielded new ideas for your people.</Text>
+			<Text>Kerätessämme viisautta kautta maailman olemme kohdanneet meille ennestään tuntemattomia ideoita.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_GREAT_PERSON">
-			<Text>The ingenuity of your great person has unlocked new ideas for your society.</Text>
+			<Text>Merkittävän henkilömme nerokkuus on paljastunut uusia yhteiskunnallisia ideoita.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_COMPLETE">
-			<Text>Your development of {1_techString} is now complete!</Text>
+			<Text>{1_techString} on kehitetty toimestamme!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_ADVANCED">
-			<Text>Your progress toward {1_techString} has advanced considerably.</Text>
+			<Text>{1_techString} on nyt nopeampaa kehittää tehostevaikutuksen ansiosta.</Text>
 		</Replace>
 		<!-- Era Desciptions -->
 		<Replace Language="fi_FI" Tag="LOC_GAME_ERA_DESC">
@@ -1932,350 +1932,350 @@
 		</Replace>
 		<!-- Warmonger Levels -->
 		<Replace Language="fi_FI" Tag="LOC_WARMONGER_LEVEL_NONE">
-			<Text>[COLOR_Civ6Green]None[ENDCOLOR]</Text>
+			<Text>[COLOR_Civ6Green]Ei vaikutusta[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WARMONGER_LEVEL_LIGHT">
-			<Text>Light</Text>
+			<Text>Kevyt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WARMONGER_LEVEL_MODERATE">
-			<Text>[COLOR_Civ6Yellow]Moderate[ENDCOLOR]</Text>
+			<Text>[COLOR_Civ6Yellow]Kohtalainen[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WARMONGER_LEVEL_HEAVY">
-			<Text>[COLOR_Civ6Red]Heavy[ENDCOLOR]</Text>
+			<Text>[COLOR_Civ6Red]Vahva[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WARMONGER_LEVEL_SEVERE">
-			<Text>[COLOR_Civ6Red]Severe[ENDCOLOR]</Text>
+			<Text>[COLOR_Civ6Red]Raju[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WARMONGER_LEVEL_EGREGIOUS">
-			<Text>[COLOR_Civ6DarkRed]Egregious[ENDCOLOR]</Text>
+			<Text>[COLOR_Civ6DarkRed]Tuima[ENDCOLOR]</Text>
 		</Replace>
 		<!-- ==================== Generic Tree ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TREE_ERA">
-			<Text>Era: {1_Era}</Text>
+			<Text>Aikakausi: {1_Era}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TREE_OPTIONS">
-			<Text>Options</Text>
+			<Text>Asetukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TREE_FILTER_W_DOTS">
-			<Text>Filter...</Text>
+			<Text>Suodata..</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TREE_SEARCH_W_DOTS">
-			<Text>Search...</Text>
+			<Text>Etsi...</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TREE_SHOW_KEY">
-			<Text>Show Key</Text>
+			<Text>Näytä avain</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TREE_HIDE_KEY">
-			<Text>Hide Key</Text>
+			<Text>Piilota avain</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TREE_SHOW_GOVERNMENT">
-			<Text>Show Government</Text>
+			<Text>Näytä hallitusmuoto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TREE_HIDE_GOVERNMENT">
-			<Text>Hide Government</Text>
+			<Text>Piilota hallitusmuoto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TREE_KEY">
-			<Text>KEY</Text>
+			<Text>AVAIN</Text>
 		</Replace>
 		<!-- ==================== Tech Tree ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TECH_KEY_AVAILABLE">
-			<Text>Available</Text>
+			<Text>Saatavilla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_KEY_UNAVAILABLE">
-			<Text>Unavailable</Text>
+			<Text>Ei saatavilla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_KEY_RESEARCHING">
-			<Text>Researching</Text>
+			<Text>Tutkitaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_KEY_COMPLETED">
-			<Text>Completed</Text>
+			<Text>Valmistui</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_TREE_HEADER">
-			<Text>TECHNOLOGY TREE</Text>
+			<Text>TEKNOLOGIAKARTTA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_TREE_TURNS">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other? {1_Turn} TURNS;}</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other? {1_Turn} VUOROA;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_TREE_TURN_NUM">
-			<Text>TURN</Text>
+			<Text>VUORO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_NONE">
-			<Text>None</Text>
+			<Text>Ei suodatusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_RECOMMENDED">
-			<Text>Recommend</Text>
+			<Text>Suositeltu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_FOOD">
-			<Text>Food</Text>
+			<Text>Ruoka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_SCIENCE">
-			<Text>Science</Text>
+			<Text>Tiede</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_PRODUCTION">
-			<Text>Production</Text>
+			<Text>Tuotanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_CULTURE">
-			<Text>Culture</Text>
+			<Text>Kulttuuri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_GOLD">
-			<Text>Gold</Text>
+			<Text>Varallisuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_FAITH">
-			<Text>Faith</Text>
+			<Text>Usko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_HOUSING">
-			<Text>Housing</Text>
+			<Text>Asumukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_AMENITIES">
-			<Text>Amenities</Text>
+			<Text>Elintaso</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_HEALTH">
-			<Text>Health</Text>
+			<Text>Terveys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_UNITS">
-			<Text>Units</Text>
+			<Text>Yksiköt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_IMPROVEMENTS">
-			<Text>Improvements</Text>
+			<Text>Rakenteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_FILTER_WONDERS">
-			<Text>Wonders</Text>
+			<Text>Ihmeet</Text>
 		</Replace>
 		<!-- ==================== World Tracker ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_WORLD_TRACKER_EMPTY">
-			<Text>The world tracker is not currently displaying any panels.  Toggle on panels from the menu button in the header.</Text>
+			<Text>Maailmavalvomo ei näytä ainuttakaan paneelia. Aseta paneeleja käyttöön otsikon valikkopainikkeen kautta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_TRACKER_HEADER">
-			<Text>World Tracker</Text>
+			<Text>Maailmavalvomo</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HIDE_RESEARCH_PANEL">
-			<Text>Research Panel</Text>
+			<Text>Tutkimuspaneeli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HIDE_CIVICS_PANEL">
-			<Text>Civics Panel</Text>
+			<Text>Normipaneeli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HIDE_CHAT_PANEL">
-			<Text>Chat Panel</Text>
+			<Text>Chattipaneeli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HIDE_CHAT_PANEL_UNREAD_MESSAGES">
-			<Text>Chat Panel ([ICON_New]{1_Number})</Text>
+			<Text>Chattipaneeli ([ICON_New]{1_Number})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_TRACKER_CHOOSE_CIVIC">
-			<Text>Choose Civic</Text>
+			<Text>Valitse normi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_TRACKER_CHOOSE_RESEARCH">
-			<Text>Choose Research</Text>
+			<Text>Valitse tutkimus</Text>
 		</Replace>
 		<!-- ==================== Research Chooser ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_CHOOSER_JUST_COMPLETED">
-			<Text>Just completed</Text>
+			<Text>Juuri valmistunut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_CHOOSER_TITLE">
-			<Text>Choose New Technology?</Text>
+			<Text>Valitse uusi teknologia?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_CHOOSER_OPEN_TECH_TREE">
-			<Text>Open Technology Tree</Text>
+			<Text>Avaa teknologiakartta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_CHOOSER_CHOOSE_RESEARCH">
-			<Text>Choose Research</Text>
+			<Text>Valitse tutkimus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_CHOOSER_TURNS">
-			<Text>Turns:</Text>
+			<Text>Vuorot:</Text>
 		</Replace>
 		<!-- ==================== Civics Chooser ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_CHOOSER_JUST_COMPLETED">
-			<Text>Just completed</Text>
+			<Text>Juuri valmistunut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_CHOOSER_CHOOSE_NEW_CIVIC">
-			<Text>Choose New Civic</Text>
+			<Text>Valitse seuraava normi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_CHOOSER_CHOOSE_CIVIC">
-			<Text>Choose Civic</Text>
+			<Text>Valitse normi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_CHOOSER_OPEN_CIVICS_TREE">
-			<Text>Open Civics Tree</Text>
+			<Text>Avaa normien kartta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_CHOOSER_TURNS">
-			<Text>Turns:</Text>
+			<Text>Vuorot:</Text>
 		</Replace>
 		<!-- ==================== Civics Tree ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_TREE_HEADER">
-			<Text>CIVICS TREE</Text>
+			<Text>NORMIEN KARTTA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_AVAILABLE">
-			<Text>Available</Text>
+			<Text>Saatavilla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_UNAVAILABLE">
-			<Text>Unavailable</Text>
+			<Text>Ei saatavilla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_RESEARCHING">
-			<Text>Researching</Text>
+			<Text>Tutkitaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_COMPLETED">
-			<Text>Completed</Text>
+			<Text>Valmistui</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_GOVERNMENT">
-			<Text>Government</Text>
+			<Text>Hallitusmuoto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_DISTRICT">
-			<Text>District</Text>
+			<Text>Kaupunkialue</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_WONDER">
-			<Text>Wonder</Text>
+			<Text>Ihme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_UNIT">
-			<Text>Unit</Text>
+			<Text>Yksikkö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_BUILDING">
-			<Text>Building</Text>
+			<Text>Rakennus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_AGREEMENT">
-			<Text>Agreement</Text>
+			<Text>Sopimus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_ABILITY">
-			<Text>Ability</Text>
+			<Text>Kyky</Text>
 		</Replace>
 		<!-- ==================== Governments Screen ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ASSIGN_ALL_POLICIES">
-			<Text>Assign All Policies</Text>
+			<Text>Määritä kaikki linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CANCEL">
-			<Text>Cancel</Text>
+			<Text>Peruuta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CHANGE_GOVERNMENTS">
-			<Text>Change Governments</Text>
+			<Text>Vaihda hallitusmuoto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CHANGE_POLICIES">
-			<Text>Change Policies</Text>
+			<Text>Vaihda linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CHOOSE_POLICIES">
-			<Text>Choose Policies</Text>
+			<Text>Valitse linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_COMPLETED_THIS_TURN">
-			<Text>{1_Civic} completed this turn!</Text>
+			<Text>{1_Civic} valmistui tällä vuorolla!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CONFIRM_GOVERNMENT">
-			<Text>Your people are enthusiastic to try this new form of government. Confirm the switch?</Text>
+			<Text>Kansamme ovat innoissaan tästä uudesta hallitusmuodosta. Toteutammeko muutokset?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CONFIRM_ANARCHY">
-			<Text>Having tried {1_GovernmentName} before, the people are wary of a return to this government. This change will plunge your nation into Anarchy for {2_Turns} turns.[NEWLINE]Confirm the switch?</Text>
+			<Text>{1_GovernmentName} on kokeiltu jo aiemmin eikä kansa ole innoissaan paluusta tähän hallitusmuotoon. Tämä muutos suistaa kansamme anarkiaan {2_Turns} vuoron ajaksi.[NEWLINE]Toteutammeko muutoksen?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CONFIRM_POLICIES">
-			<Text>Confirm Policies</Text>
+			<Text>Vahvista linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POPUP_PROMPT_POLICIES_CLOSE">
-			<Text>Are you sure you want to close the menu?[NEWLINE]Policy changes have not been confirmed!</Text>
+			<Text>Haluatko varmasti sulkea valikon?[NEWLINE]Linjausten muutoksia ei ole vielä vahvistettu!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POPUP_PROMPT_POLICIES_CONFIRM">
-			<Text>Is our policy agenda set?</Text>
+			<Text>Onko linjauksemme päätetty?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_PROMPT_YES">
-			<Text>Yes</Text>
+			<Text>Kyllä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_PROMPT_NO">
-			<Text>No</Text>
+			<Text>Ei</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_EDIT_GOVERNMENTS">
-			<Text>Edit Governments</Text>
+			<Text>Muokkaa hallitusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_EDIT_POLICIES">
-			<Text>Edit Policies</Text>
+			<Text>Muokkaa linjauksia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_NONE">
-			<Text>None</Text>
+			<Text>Ei suodatusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_MILITARY">
-			<Text>Military</Text>
+			<Text>Sotilaalliset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_ECONOMIC">
-			<Text>Economic</Text>
+			<Text>Taloudelliset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_DIPLOMATIC">
-			<Text>Diplomatic</Text>
+			<Text>Diplomaattiset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_W_DOTS">
-			<Text>Filter...</Text>
+			<Text>Suodata...</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_GREAT_PERSON">
-			<Text>Great Person</Text>
+			<Text>Merkittävät henkilöt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_WILDCARD">
-			<Text>Wildcard</Text>
+			<Text>Villit kortit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_GOVERNMENT">
-			<Text>Government</Text>
+			<Text>Hallinto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_HERITAGE_BONUSES">
-			<Text>Legacy Bonuses</Text>
+			<Text>Perinne-edut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_HERITAGE_BONUS_NEXT">
-			<Text>in {1_Turn} more {1_Turn : plural 1?turn; other?turns;} in a {2_Government}</Text>
+			<Text>saadaan {1_Turn : plural 1?yhdessä vuorossa; other?{1_Turn} vuorossa;} ({2_Government})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_HERITAGE_BONUS_PREV">
-			<Text>from {1_Government}</Text>
+			<Text>vaikutus ({1_Government})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_MY_GOVERNMENT">
-			<Text>My Government</Text>
+			<Text>Hallintomme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NEED_GOLD">
-			<Text>You Need {1_Gold} [ICON_GoldLarge] Gold</Text>
+			<Text>Tarvitsemme {1_Gold} [ICON_GoldLarge] kultaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NEW_POLICY">
-			<Text>New Policy</Text>
+			<Text>Uusi linjaus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NEXT">
-			<Text>Next</Text>
+			<Text>Seuraava</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_PENDING_POLICIES_LIST">
-			<Text>Pending Policies List</Text>
+			<Text>Täytettävien linjausten lista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICIES_LIST">
-			<Text>Policies List</Text>
+			<Text>Linjausten lista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICY_TYPE_DIPLOMATIC">
-			<Text>Diplomatic Policies</Text>
+			<Text>Diplomaattiset linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICY_TYPE_ECONOMIC">
-			<Text>Economic Policies</Text>
+			<Text>Taloudelliset linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICY_TYPE_MILITARY">
-			<Text>Military Policies</Text>
+			<Text>Sotilaalliset linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICY_TYPE_WILDCARD">
-			<Text>Wildcard Policies</Text>
+			<Text>Villit kortit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_PREVIOUS">
-			<Text>Previous</Text>
+			<Text>Edellinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_SET_POLICIES">
-			<Text>Set Policies</Text>
+			<Text>Aseta linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_UNLOCK_GOLD">
-			<Text>Unlock for {1_Gold} [ICON_GoldLarge] Gold</Text>
+			<Text>Vapauta käyttämällä {1_Gold} [ICON_GoldLarge] kultaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_VIEW_GOVERNMENTS">
-			<Text>View Governments</Text>
+			<Text>Näytä hallitusmuodot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_VIEW_POLICIES">
-			<Text>View Policies</Text>
+			<Text>Näytä linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CIVIC_REQUIRED">
-			<Text>Unlocks when the {1_CivicName} civic is completed.</Text>
+			<Text>{1_CivicName} valmistuminen vapauttaa tämän normin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NO_WILDCARD_SLOTS">
-			<Text>No Wildcard Policy slots are provided by this government.</Text>
+			<Text>Hallitusmuoto ei tarjoa paikkoja villeille korteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NO_MILITARY_SLOTS">
-			<Text>No Military Policy slots are provided by this government.</Text>
+			<Text>Hallitusmuoto ei tarjoa paikkoja sotilaallisille linjauksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NO_DIPLOMACY_SLOTS">
-			<Text>No Diplomacy Policy slots are provided by this government.</Text>
+			<Text>Hallitusmuoto ei tarjoa paikkoja diplomaattisille linjauksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NO_ECONOMIC_SLOTS">
-			<Text>No Economic Policy slots are provided by this government.</Text>
+			<Text>Hallitusmuoto ei tarjoa paikkoja taloudellisille linjauksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NO_LEGACY_BONUS">
-			<Text>Legacy bonuses are the learned benefits that stay with us as we progress through different systems of government.  The learned policy symbol indicates a government bonus that will accumulate over time.</Text>
+			<Text>Perinne-edut ovat säilyviä etuja, jotka säilyvät hallitusmuodon vaihtumisen jälkeenkin. Ajan kuluessa opittavan linjauksen symboli on esitetty ohessa.</Text>
 		</Replace>
 		<!-- ==================== Unit Operations ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_BUILD_DISTRICT">
@@ -2642,99 +2642,99 @@
 			<Text>Tulee olla barbaarin vieressä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_UNIT_WITH_MILITARY_FORMATION">
-			<Text>Must be on a tile with a military unit of the appropriate military formation type.</Text>
+			<Text>Tulee olla ruudussa, jossa on sopivan sotilaallisen muodostelman sotayksikkö.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_STANDARD_MILITARY_FORMATION">
-			<Text>Must be on a tile with a military unit that is not a Corps or an Army.</Text>
+			<Text>Tulee olla ruudussa, jonka yksikkö ei ole joukko-osasto tai armeija.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_CORPS_MILITARY_FORMATION">
-			<Text>Must be on a tile with a Corps military unit.</Text>
+			<Text>Tulee olla ruudussa sotilaallisen joukko-osastoyksikön kanssa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ARMY_MILITARY_FORMATION">
-			<Text>Must be on a tile with an Army military unit.</Text>
+			<Text>Tulee olla ruudussa sotilaallisen armeijayksikön kanssa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ADJACENT_MOUNTAIN">
-			<Text>Must be next to a Mountain.</Text>
+			<Text>Tulee olla vuoren vieressä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ON_OR_ADJACENT_NATURAL_WONDER">
-			<Text>Must be on or next to a natural wonder.</Text>
+			<Text>Tulee olla luonnonihmeessä tai sen vieressä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ON_OR_ADJACENT_FEATURE_TYPE">
-			<Text>Must be on or next to {1_FeatureTypeName} plot.</Text>
+			<Text>{1_FeatureTypeName} tulee löytyä ruudusta tai sen vierestä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_CITY_GREAT_WORK_OBJECT_TYPE">
-			<Text>Must be in a city with {LOC_GRAMMAR_A_AN_WITH_ICON &lt;&lt; {1_GreatWorkObjectTypeName} &lt;&lt; {2_IconString}} great work.</Text>
+			<Text>{2_IconString} {1_GreatWorkObjectTypeName} merkkiteos tulee löytyä kaupungista, jossa yksikkö on.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_INCOMPLETE_WONDER">
-			<Text>Must be on a wonder that is under construction.</Text>
+			<Text>Tulee olla työn alla olevassa ihmeessä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_OPEN_PLAYER_RELIC_SLOT">
-			<Text>Must have an open [ICON_GreatWork_Relic] Relic great work slot in one of your cities.</Text>
+			<Text>Tulee olla vapaa [ICON_GreatWork_Relic] muinaismuiston paikka jossakin kaupungissamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ON_MISSING_BUILDING">
-			<Text>Must be in a city without a {1_BuildingName} building.</Text>
+			<Text>{1_BuildingName} ei saa löytyä kaupungista, jossa yksikkö on.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_DISTRICT_PRODUCTION_DESCRIPTION">
-			<Text>Add Production to a District.</Text>
+			<Text>Lisää tuotantoa kaupunkialueeseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_FORM_CORPS_DESCRIPTION">
-			<Text>Form Corps</Text>
+			<Text>Muodosta joukko-osasto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_FORM_ARMY_DESCRIPTION">
-			<Text>Form Army</Text>
+			<Text>Muodosta armeija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_FORM_FLEET_DESCRIPTION">
-			<Text>Form Fleet</Text>
+			<Text>Muodosta laivasto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_FORM_ARMADA_DESCRIPTION">
-			<Text>Form Armada</Text>
+			<Text>Muodosta armada</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_AIRLIFT_DESCRIPTION">
-			<Text>Airlift</Text>
+			<Text>Ilmasiirto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_PLUNDER_TRADE_ROUTE_DESCRIPTION">
-			<Text>Plunder [ICON_TradeRoute] Trade Route</Text>
+			<Text>Ryövää [ICON_TradeRoute] kauppareitti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_PLUNDER_TRADE_ROUTE_REQUIRES_WAR_DECLARATION">
-			<Text>A [ICON_TradeRoute] Trade Route in this tile belongs to a player you are not at war with.</Text>
+			<Text>Ruudussa oleva [ICON_TradeRoute] kauppareitti kuuluu pelaajalle, jonka kanssa emme ole sodassa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_PLUNDER_TRADE_ROUTE_BLOCKED_BY_IMMUNITY">
-			<Text>A [ICON_TradeRoute] Trade Route in this tile has a special ability preventing it from being plundered.</Text>
+			<Text>Ruudussa olevalla [ICON_TradeRoute] kauppareitillä on kyky, joka estää sen tulemisen ryövätyksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_NAME_UNIT_DESCRIPTION">
-			<Text>Name Unit</Text>
+			<Text>Nimeä yksikkö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_WONDER_PRODUCTION_DESCRIPTION">
-			<Text>Add [ICON_Production] Production to a wonder.</Text>
+			<Text>Lisää [ICON_Production] tuotantoa ihmeeseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_HARVEST_WONDER_DESCRIPTION">
-			<Text>Salvage Wonder</Text>
+			<Text>Kierrätä ihme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_HARVEST_WONDER_DETAILS">
-			<Text>This World Wonder has been constructed by another civilization, so we cannot complete it. But we can reclaim its raw materials, providing the city with {1_ProductionAmont} [ICON_Production] Production.</Text>
+			<Text>Tämä maailmanihme on valmistettu toisen kansakunnan toimesta, joten emme voi saattaa sitä loppuun. Voimme kuitenkin hyödyntää raaka-aineet ja tarjota kaupungille {1_ProductionAmont} [ICON_Production] tuottavuutta.</Text>
 		</Replace>
 		<!-- ==================== National Park Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_NATIONAL_PARK_NAME">
-			<Text>{1_name} National Park</Text>
+			<Text>{1_name} luonnonpuisto</Text>
 		</Replace>
 		<!-- ==================== ToolTip Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BASE_COST">
-			<Text>Base Cost: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
+			<Text>Perushinta: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_MAINTENANCE">
-			<Text>Maintenance: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
+			<Text>Ylläpito: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BUILDING_DISTRICT_COPY">
-			<Text>Bonus {1_ToYieldIcon} {2_ToYieldName} equal to the adjacency {3_FromYieldIcon} {4_FromYieldName} bonus of its district.</Text>
+			<Text>{1_ToYieldIcon} {2_ToYieldName} etua läheisyydestä {3_FromYieldIcon} {4_FromYieldName} etuun kaupunkialueesta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BUILDING_REQUIRES">
-			<Text>Requires:</Text>
+			<Text>Vaatimukset:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_ONE_OF_FOLLOWING">
-			<Text>Requires one of the following:</Text>
+			<Text>Vaatii jonkin näistä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_BUILDING_OR">
-			<Text>{1_BuildingName} or {2_BuildingName}</Text>
+			<Text>{1_BuildingName} tai {2_BuildingName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_BUILDING">
 			<Text>{1_BuildingName}</Text>
@@ -2746,413 +2746,413 @@
 			<Text>{1_DistrictName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_ADJACENT_DISTRICT">
-			<Text>Must be adjacent to {LOC_GRAMMAR_A_AN &lt;&lt; {1_DistrictName}}</Text>
+			<Text>{1_DistrictName} tulee sijaita vieressä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_ADJACENT_RESOURCE">
-			<Text>Must be adjacent to {1_ResourceName}</Text>
+			<Text>{1_ResourceName} tulee sijaita vieressä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BUILDING_MUTUALLY_EXCLUSIVE_WITH">
-			<Text>Cannot be built in the same district with {LOC_GRAMMAR_A_AN &lt;&lt; {1_BuildingName}}</Text>
+			<Text>{1_BuildingName} ei voi sijaita samassa kaupunkialueessa tämän kanssa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_ADJACENT_RIVER">
-			<Text>Must be adjacent to a river</Text>
+			<Text>Tulee sijaita joen vieressä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
-			<Text>Must be adjacent to a mountain</Text>
+			<Text>Tulee sijaita vuoren vieressä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_COAST">
-			<Text>Must be built on coast</Text>
+			<Text>Tulee sijaita rannikolla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_LAKE">
-			<Text>Must be built on a lake</Text>
+			<Text>Tulee sijaita järvessä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_NOT_LAKE">
-			<Text>Cannot be built on a lake</Text>
+			<Text>Ei voi sijaita järvessä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_RELIGION">
-			<Text>Must have founded a religion</Text>
+			<Text>Vaatii uskonnon perustamisen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_EXTRA_REGIONAL_RANGE">
-			<Text>+{1_Amount} tile range from modifiers</Text>
+			<Text>+{1_Amount} ruudun etäisyydelle muuttujista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_INHERENT_BONUS">
-			<Text>Inherent bonus</Text>
+			<Text>Ominainen etu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
-			<Text>Legacy bonus</Text>
+			<Text>Perinne-etu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_INFLUENCE_BONUS">
-			<Text>Influence generation</Text>
+			<Text>Vaikutusvallan kertyminen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_DOESNT_UNLOCK">
-			<Text>Government[NEWLINE][NEWLINE]Unlocks when you complete the Code of Laws civic.</Text>
+			<Text>Hallinto[NEWLINE][NEWLINE]Vapautuu kun lainsäädännön normi valmistuu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_MANAGE_GOVERNMENT_AND_POLICIES">
-			<Text>Government[NEWLINE][NEWLINE]View or manage your civilization's government choice and policies under that government.</Text>
+			<Text>Hallinto[NEWLINE][NEWLINE]Katsele tai hallitse kansakuntamme hallitusmuotoa ja valitun hallinnon linjauksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_AMENITIES_WHILE_ACTIVE">
-			<Text>+{1_Amenities} Amenities for this city while being worked.</Text>
+			<Text>+{1_Amenities} elintasoa tälle kaupungille työllistettäessä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_YIELD_CONVERSIONS">
-			<Text>Earn {1_YieldFontIcon} {2_YieldName} for your Civilization equal to {3_ConversionPercent}% of any [ICON_Production] Production contributed to this project.</Text>
+			<Text>{1_YieldFontIcon} {2_YieldName} ansaitaan kansallemme {3_ConversionPercent} % edestä tähän projektiin käytetystä [ICON_Production] tuottavuudesta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_GREAT_PERSON_POINTS">
-			<Text>Earn {1_IconString} {2_GreatPersonClassName} Points upon completion.</Text>
+			<Text>Saamme {1_IconString} {2_GreatPersonClassName} pistettä valmistuessa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_GREAT_PERSON_POINTS_SPECIFIC">
-			<Text>Earn {3_PointsAmount} {1_IconString} {2_GreatPersonClassName} Points upon completion.</Text>
+			<Text>Saamme {3_PointsAmount} {1_IconString} {2_GreatPersonClassName} pistettä valmistuessa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTE_MOVEMENT_COST">
-			<Text>[ICON_Movement] Movement Cost: {1_MovementCost}</Text>
+			<Text>[ICON_Movement] Liikkumisen hinta: {1_MovementCost}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTE_SUPPORTS_BRIDGES">
-			<Text>Creates Bridges over Rivers.</Text>
+			<Text>Luo sillat jokien ylitse.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_PROMOTION_CLASS">
-			<Text>Promotion Class: {1_PromotionClassName}</Text>
+			<Text>Ylennysluokka: {1_PromotionClassName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_COMBAT_STRENGTH">
-			<Text>[ICON_Strength] Melee Strength: {1_Combat}</Text>
+			<Text>[ICON_Strength] Meleevoima: {1_Combat}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_RANGED_STRENGTH">
-			<Text>[ICON_Ranged] Ranged Strength: {1_RangedCombat} ([ICON_Range] Range {2_Range})</Text>
+			<Text>[ICON_Ranged] Etävoima: {1_RangedCombat} ([ICON_Range] etäisyys {2_Range})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BOMBARD_STRENGTH">
-			<Text>[ICON_Bombard] Bombard Strength: {1_Bombard} ([ICON_Range] Range {2_Range})</Text>
+			<Text>[ICON_Bombard] Tulitusvoima: {1_Bombard} ([ICON_Range] etäisyys {2_Range})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_MOVEMENT">
-			<Text>[ICON_Movement] Movement: {1_Movement}</Text>
+			<Text>[ICON_Movement] Liikkuminen: {1_Movement}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_CAN_BE_BOOSTED">
-			<Text>[COLOR:Green]Can be boosted[ENDCOLOR]</Text>
+			<Text>[COLOR:Green]Voidaan tehostaa[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_HAS_BEEN_BOOSTED">
-			<Text>[COLOR:Civ6Blue]Has been boosted[ENDCOLOR]</Text>
+			<Text>[COLOR:Civ6Blue]On tehostettu[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS">
-			<Text>Unlocks:</Text>
+			<Text>Mahdollistaa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_DISTRICT_CITIZEN_YIELDS_HEADER">
-			<Text>Citizen Yields (per citizen):</Text>
+			<Text>Asukastuotto (asukasta kohden):</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_DIPLOMACY">
-			<Text>Diplomacy: {1_DiplomacyAction}</Text>
+			<Text>Diplomatia: {1_DiplomacyAction}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_GOVERNMENT">
-			<Text>Government: {1_GovernmentName}</Text>
+			<Text>Hallitusmuoto: {1_GovernmentName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_POLICY">
-			<Text>Policy: {1_PolicyName}</Text>
+			<Text>Linjaus: {1_PolicyName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_BUILDING">
-			<Text>Building: {1_BuildingName}</Text>
+			<Text>Rakennus: {1_BuildingName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_DISTRICT">
-			<Text>District: {1_DistrictName}</Text>
+			<Text>Kaupunkialue: {1_DistrictName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_IMPROVEMENT">
-			<Text>Improvement: {1_ImprovementName}</Text>
+			<Text>Rakenne: {1_ImprovementName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_PROJECT">
-			<Text>Project: {1_ProjectName}</Text>
+			<Text>Projekti: {1_ProjectName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_UNIT">
-			<Text>Unit: {1_UnitName}</Text>
+			<Text>Yksikkö: {1_UnitName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_RESOURCE">
-			<Text>Reveals {1_ResourceName}</Text>
+			<Text>Paljastaa: {1_ResourceName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_ROUTE">
-			<Text>Routes upgrade to {1_RouteName}</Text>
+			<Text>Reittipäivitys: {1_RouteName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL">
 			<Text>{diplomaticReason}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_DIPLOMACY_UNKNOWN_REASON">
-			<Text>Unknown Reason</Text>
+			<Text>Tuntematon syy</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_DIPLOMACY_HIDE">
-			<Text>DO NOT DISPLAY</Text>
+			<Text>ÄLÄ NÄYTÄ</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_GOVERNMENT_SAME">
-			<Text>Same Government</Text>
+			<Text>Sama hallitusmuoto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_GOVERNMENT_DIFFERENT">
-			<Text>Different Governments</Text>
+			<Text>Eri hallitusmuodot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_INCURSION">
-			<Text>Moving forces near their cities</Text>
+			<Text>Siirrämme joukkoja heidän kaupunkiensa lähellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_PEACE">
-			<Text>Years at peace</Text>
+			<Text>Vuosia rauhassa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ARCHAEOLOGY">
-			<Text>Sending Archaeologists to their lands</Text>
+			<Text>Lähetämme arkeologeja heidän mailleen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ESPIONAGE">
-			<Text>Spying on them</Text>
+			<Text>Vakoilemme heitä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ENVIRONMENT">
-			<Text>Your effect on the environment</Text>
+			<Text>Vaikutuksemme ympäristöön</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_EXPLOITATIVE">
-			<Text>Your development of your land</Text>
+			<Text>Maankäyttömme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BROKEN_PROMISE">
-			<Text>Broke a diplomatic promise made to them</Text>
+			<Text>Rikoimme heille tekemämme diplomaattisen lupauksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KEPT_PROMISE">
-			<Text>Kept a diplomatic promise made to them</Text>
+			<Text>Pidimme heille tekemämme diplomaattisen lupauksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DECLARED_SURPRISE_WAR_ON_FRIEND">
-			<Text>Declared a surprise war on a friend</Text>
+			<Text>Julistimme yllätyssodan ystäväämme kohtaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DENOUNCED_FRIEND">
-			<Text>Denounced a friend</Text>
+			<Text>Tuomitsimme ystävämme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DECLARED_FRIENDHIP_With_FRIEND">
-			<Text>Declared friendship with a friend</Text>
+			<Text>Julistimme ystävyyden ystävän kanssa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALLIED_WITH_FRIEND">
-			<Text>Allied with a friend</Text>
+			<Text>Liittouduimme ystävän kanssa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DECLARED_SURPRISE_WAR_ON_ENEMY">
-			<Text>Declared a surprise war on an enemy</Text>
+			<Text>Julistimme yllätyshyökkäyksen vihollista kohtaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DENOUNCED_ENEMY">
-			<Text>Denounced an enemy</Text>
+			<Text>Tuomitsimme vihollisen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_DECLARED_FRIENDSHIP_WITH_ENEMY">
-			<Text>Declared friendship with an enemy</Text>
+			<Text>Julistimme ystävyyden vihollisen kanssa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALLIED_WITH_ENEMY">
-			<Text>Allied with an enemy</Text>
+			<Text>Liittouduimme vihollisen kanssa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_NO_PROMISE">
-			<Text>Decided to not make a diplomatic promise to them</Text>
+			<Text>Päätimme olla tekemättä diplomaattisen lupauksen heille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ONE_SIDED_TRADES">
-			<Text>Favorable trades to them</Text>
+			<Text>Olemme käyneet heille edullista kauppaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_RANDOM">
-			<Text>First impressions of you</Text>
+			<Text>Ensivaikutelma meistä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_SETTLED_CITIES">
-			<Text>Settled near them</Text>
+			<Text>Asutimme alueen heidän läheltään</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRADE_RELATIONS">
-			<Text>Good trade relations</Text>
+			<Text>Hyvät kauppasuhteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_WARMONGER">
-			<Text>Your warmongering</Text>
+			<Text>Sodanlietsontamme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_LAST_VIKING_KING">
-			<Text>Respects strong navies</Text>
+			<Text>Arvostaa vahvaa laivastoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AYYUBID_DYNASTY">
-			<Text>Respects those with his religious building</Text>
+			<Text>Arvostaa heidän uskonnollisia rakennuksia omistavia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BLACK_QUEEN">
-			<Text>Respects strong espionage opponents</Text>
+			<Text>Arvostaa vahvan vakoilun vastustajia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BUSHIDO">
-			<Text>Respects adding Faith/Culture to strong military</Text>
+			<Text>Arvostaa uskon ja kulttuurin sekä vahvan armeijan yhdistelmää</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_PARANOID">
-			<Text>Scared of threatening civs</Text>
+			<Text>Peloissaan uhkaavista kansoista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_QUEEN_NILE">
-			<Text>Respects strong militaries</Text>
+			<Text>Arvostaa vahvoja armeijoita</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_OPTIMUS_PRINCEPS">
-			<Text>Respects empires with a lot of land</Text>
+			<Text>Arvostaa laajamaisia valtioita</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BACKSTAB_AVERSE">
-			<Text>You are not a backstabber</Text>
+			<Text>Emme ole selkäänpuukottajia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_WITH_SHIELD_OR_ON_IT_POSITIVE">
-			<Text>Pleased to see you fight lengthy wars honorably</Text>
+			<Text>Otettu kunniallisesta toiminnastamme pitkissä sodissa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_WITH_SHIELD_OR_ON_IT_NEGATIVE">
-			<Text>Despises those who avoid war or capitulate for peace</Text>
+			<Text>Halveksuu sotaa vältteleviä ja rauhaan antautuvia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_WITH_SHIELD_OR_ON_IT">
-			<Text>Respects those who go to war and never capitulate for peace</Text>
+			<Text>Arvostaa sotaan käyviä, jotka eivät koskaan antaudu rauhaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_LUXURY_RESOURCE">
-			<Text>Luxury Resource</Text>
+			<Text>Ylellinen luonnonvara</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_BONUS_RESOURCE">
-			<Text>Bonus Resource</Text>
+			<Text>Hyödyllinen luonnonvara</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_STRATEGIC_RESOURCE">
-			<Text>Strategic Resource</Text>
+			<Text>Strateginen luonnonvara</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_ARTIFACT_RESOURCE">
-			<Text>Artifact Resource</Text>
+			<Text>Artefakti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_ARTIFACT_RESOURCE_DETAILS">
-			<Text>Send an Archaeologist unit here to excavate an [ICON_GreatWork_Artifact] Artifact, which will provide [ICON_Culture] Culture and [ICON_Tourism] Tourism when brought back to your city.</Text>
+			<Text>Lähettämällä tänne arkeologin voimme suorittaa kaivaukset [ICON_GreatWork_Artifact] artefaktille, joka alkaa tuottaa kaupungillemme [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_REQUIRES">
-			<Text>Requires</Text>
+			<Text>Vaatii</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_MAKES_OBSOLETE">
-			<Text>Makes Obsolete</Text>
+			<Text>Syrjäyttää</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_LAKE">
-			<Text>Lake</Text>
+			<Text>Järvi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_RIVER">
-			<Text>River</Text>
+			<Text>Joki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_IMPROVEMENT_RECOMMENDATION">
-			<Text>Recommended Improvement: {1_ImprovementName}</Text>
+			<Text>Suositeltu rakenne: {1_ImprovementName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SETTLEMENT_RECOMMENDATION">
-			<Text>Recommended Settlement Location</Text>
+			<Text>Suositeltu uudisasutuskohde</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_MOVEMENT_COST">
-			<Text>Movement Cost: {1_Amount}</Text>
+			<Text>Liikkumisen hinta: {1_Amount}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_DEFENSE_MODIFIER">
-			<Text>Defense Modifier: {1_Amount}</Text>
+			<Text>Puolustusmuuttuja: {1_Amount}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_CONTINENT_NONE">
-			<Text>Continent: none</Text>
+			<Text>Ei ole osa mannerta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_CONTINENT">
-			<Text>Continent: {1_Name}</Text>
+			<Text>Manner: {1_Name}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLAYER_ID">
-			<Text>Player {1_PlayerId}</Text>
+			<Text>Pelaaja {1_PlayerId}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_CITY_OWNER">
-			<Text>Owner: {1_PlayerName} ({2_CityName})</Text>
+			<Text>Omistaja: {1_PlayerName} ({2_CityName})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_ROUTE_MOVEMENT">
-			<Text>Route Movement: {1_Amount} ({2_RouteName})</Text>
+			<Text>Liikkuvuus reitillä: {1_Amount} ({2_RouteName})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_ROUTE_MOVEMENT_PILLAGED">
-			<Text>Route Movement: {1_Amount} ({2_RouteName}, pillaged)</Text>
+			<Text>Liikkuvuus reitillä: {1_Amount} ({2_RouteName}, tärvelty)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_APPEAL_BREATHTAKING">
-			<Text>Breathtaking</Text>
+			<Text>Henkeäsalpaava</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_APPEAL_CHARMING">
-			<Text>Charming</Text>
+			<Text>Viehättävä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_APPEAL_AVERAGE">
-			<Text>Average</Text>
+			<Text>Keskiverto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_APPEAL_UNINVITING">
-			<Text>Uninviting</Text>
+			<Text>Luotaantyöntävä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_APPEAL_DISGUSTING">
-			<Text>Disgusting</Text>
+			<Text>Ällöttävä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_APPEAL">
-			<Text>Appeal: {1_AppealDesc} ({2_AppealValue})</Text>
+			<Text>Houkuttelevuus: {1_AppealDesc} ({2_AppealValue})</Text>
 		</Replace>
 		<!-- ==================== Trait Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_YIELD">
 			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_Name}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_BONUS_YIELD">
-			<Text>{1_Amount: number +#,###;-#,###} {2_YieldIcon} {3_YieldName} (requires {4_TechOrCivicName})</Text>
+			<Text>{1_Amount: number +#,###;-#,###} {2_YieldIcon} {3_YieldName} (vaatii {4_TechOrCivicName})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_HAPPINESS">
-			<Text>{1_Num: number +#;-#}[ICON_Amenities] Amenities (1 per city)</Text>
+			<Text>{1_Num: number +#;-#}[ICON_Amenities] elintasoa (1 per kaupunki)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_HOUSING">
-			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Housing] Housing</Text>
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Housing] asumusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_AIRSLOTS">
-			<Text>Aircraft Capacity: {1_Amount}</Text>
+			<Text>Kapasiteetti lentokoneille: {1_Amount}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_CITIZENSLOTS">
-			<Text>Citizen Capacity: {1_Amount}</Text>
+			<Text>Asukaskapasiteetti: {1_Amount}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_WEAPONSLOTS">
-			<Text>Weapon Capacity: {1_Amount}</Text>
+			<Text>Asekapasiteetti: {1_Amount}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_AMENITY_ENTERTAINMENT">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?Amenity; other?Amenities;} from entertainment</Text>&gt;</Replace>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?elintaso; other?elintasoa;} viihteestä</Text></Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_CITIZENS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_Citizen] Citizen {1_Amount : plural 1?slot; other?slots;}</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_Citizen] {1_Amount : plural 1?paikka; other?paikkaa;} asukkaille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_OUTER_DEFENSE">
-			<Text>{1_Amount: number +#,###;-#,###} Outer defense</Text>
+			<Text>{1_Amount: number +#,###;-#,###} ulommalle puolustukselle</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_PERSON_POINTS">
-			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_GreatPersonClassName} {1_Amount : plural 1?point; other?points;} per turn.</Text>
+			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_GreatPersonClassName} {1_Amount : plural 1?piste; other?pistettä;} vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_ART_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Landscape] Great {1_Amount : plural 1?Work; other?Works;} of Art {1_Amount : plural 1?slot; other?slots;}</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Landscape] {1_Amount : plural 1?paikka; other?paikkaa;} merkittäville taideteoksille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_WRITING_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Writing] Great {1_Amount : plural 1?Work; other?Works;} of Writing {1_Amount : plural 1?slot; other?slots;}</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Writing] {1_Amount : plural 1?paikka; other?paikkaa;} merkittäville kirjallisille teoksille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_MUSIC_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Music] Great {1_Amount : plural 1?Work; other?Works;} of Music {1_Amount : plural 1?slot; other?slots;}</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Music] {1_Amount : plural 1?paikka; other?paikkaa;} merkittäville musiikkiteoksille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_RELIC_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Relic] Relic {1_Amount : plural 1?slot; other?slots;}</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Relic] {1_Amount : plural 1?paikka; other?paikkaa;} muinaismuistoille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_ARTIFACT_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Artifact] Artifact {1_Amount : plural 1?slot; other?slots;}</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Artifact] {1_Amount : plural 1?paikka; other?paikkaa;} artefakteille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_CATHEDRAL_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Religious] Great {1_Amount : plural 1?Work; other?Works;} of Religious Art {1_Amount : plural 1?slot; other?slots;}</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Religious] {1_Amount : plural 1?paikka; other?paikkaa;} uskonnolliselle taiteelle</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_PALACE_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} Great Work {1_Amount : plural 1?slot; other?slots;} (holds any type)</Text>
+			<Text>{1_Amount: number +#,###;-#,###} {1_Amount : plural 1?paikka; other?paikkaa;} merkittävälle teokselle (minkä tahansa tyyppiselle)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_BUILDING_DISTRICT_COPY">
-			<Text>Bonus {1_ToYieldIcon} {2_ToYieldName} equal to the adjacency {3_FromYieldIcon} {4_FromYieldName} bonus of its district.</Text>
+			<Text>Ylimääräinen {1_ToYieldIcon} {2_ToYieldName} vastaten {3_FromYieldIcon} {4_FromYieldName} kaupunkialueen läheisyyseduista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS">
-			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} from each adjacent {5_AdjacentObject}.</Text>
+			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} jokaisesta viereisestä ruudusta, jossa on {5_AdjacentObject}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_PER">
-			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} from every {4_Count} adjacent {5_AdjacentObject} tiles.</Text>
+			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} jokaisesta viereisestä {4_Count}:sta ruudusta, joissa on {5_AdjacentObject}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_REQUIRES_TECH_OR_CIVIC">
-			<Text>Requires {1_TechOrCivicName}.</Text>
+			<Text>Vaatii {1_TechOrCivicName[2]}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_OBSOLETE_WITH_TECH_OR_CIVIC">
-			<Text>Becomes obsolete with {1_TechOrCivicName}.</Text>
+			<Text>{1_TechOrCivicName} syrjäyttää tämän kyvyn.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_DISTRICT">
-			<Text>district</Text>
+			<Text>kaupunkialue</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RESOURCE">
-			<Text>resource</Text>
+			<Text>luonnonvara</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_SEA_RESOURCE">
-			<Text>coastal resource</Text>
+			<Text>rannikon luonnonvara</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RIVER">
-			<Text>river</Text>
+			<Text>joki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_WONDER">
-			<Text>wonder</Text>
+			<Text>ihme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_NATURAL_WONDER">
-			<Text>natural wonder</Text>
+			<Text>luonnonihme</Text>
 		</Replace>
 		<!-- ==================== Calendar Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TIME_AD">
-			<Text>{1_Date: number #} AD</Text>
+			<Text>{1_Date: number #} jaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TIME_AD_SAVE">
-			<Text>{2} AD-{1_Date}</Text>
+			<Text>{2} jaa-{1_Date}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TIME_BC">
-			<Text>{1_Date: number #} BC</Text>
+			<Text>{1_Date: number #} eaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TIME_BC_SAVE">
-			<Text>{2} BC-{1_Date}</Text>
+			<Text>{2} eaa-{1_Date}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TIME_MONTH">
 			<Text>{1_Date},{2_Month}</Text>
@@ -3161,386 +3161,386 @@
 			<Text>{1_Date}-{2_Month}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_JANUARY_NAME">
-			<Text>January</Text>
+			<Text>tammikuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_FEBRUARY_NAME">
-			<Text>February</Text>
+			<Text>helmikuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_MARCH_NAME">
-			<Text>March</Text>
+			<Text>maaliskuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_APRIL_NAME">
-			<Text>April</Text>
+			<Text>huhtikuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_MAY_NAME">
-			<Text>May</Text>
+			<Text>toukokuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_JUNE_NAME">
-			<Text>June</Text>
+			<Text>kesäkuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_JULY_NAME">
-			<Text>July</Text>
+			<Text>heinäkuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_AUGUST_NAME">
-			<Text>August</Text>
+			<Text>elokuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_SEPTEMBER_NAME">
-			<Text>September</Text>
+			<Text>syyskuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_OCTOBER_NAME">
-			<Text>October</Text>
+			<Text>lokakuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_NOVEMBER_NAME">
-			<Text>November</Text>
+			<Text>marraskuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MONTH_DECEMBER_NAME">
-			<Text>December</Text>
+			<Text>joulukuu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SEASON_WINTER_NAME">
-			<Text>Winter</Text>
+			<Text>talvi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SEASON_SPRING_NAME">
-			<Text>Spring</Text>
+			<Text>kevät</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SEASON_SUMMER_NAME">
-			<Text>Summer</Text>
+			<Text>kesä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SEASON_FALL_NAME">
-			<Text>Fall</Text>
+			<Text>syksy</Text>
 		</Replace>
 		<!-- ==================== Diplomacy Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS">
-			<Text>[COLOR_Grey]{1} Hidden {2_Agendas : plural 2?agenda; other?agendas;}</Text>
+			<Text>[COLOR_Grey]{1} {2_Agendas : plural 2?kätketty agenda; other?kätkettyä agendaa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS_TT">
-			<Text>Reach Access Level [ICON_VisSecret] OPEN in order to see hidden agendas.</Text>
+			<Text>Saatavuustasolla [ICON_VisSecret] AVOIN voimme nähdä kätketyt agendat.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR">
-			<Text>Your mother was a hamster and your father smelt of elderberries. [NEWLINE] We are now at war.</Text>
+			<Text>Äitisi oli hamsteri ja isäsi survottu seljanmarja.[NEWLINE]Olemme nyt sodassa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_REFUSE_PEACE">
-			<Text>To the last, I grapple with thee; [NEWLINE]From Hell's heart, I stab at thee;[NEWLINE]For hate's sake, I spit my last breath at thee.[NEWLINE]In other words, no.</Text>
+			<Text>Viimoiseen asti käyn kanssanne;[NEWLINE]Helvetin sydämestä teitä pistän;[NEWLINE]Vihan vuoksi syljen teille viimoisen henkäykseni.[NEWLINE]Toisin sanoen: ei.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ACCEPT_WAR">
-			<Text>Molon Labe.</Text>
+			<Text>Molon labe.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_PANEL_HEADER">
-			<Text>Foreign Relations for {1_CivName}</Text>
+			<Text>Suhteet kansaan {1_CivName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_CIV_HEADER">
-			<Text>CIVILIZATION</Text>
+			<Text>KANSAKUNTA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_CAPITAL_HEADER">
-			<Text>CAPITAL</Text>
+			<Text>PÄÄKAUPUNKI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_GOVERNMENT_HEADER">
-			<Text>GOVERNMENT</Text>
+			<Text>HALLITUS</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_RELATION_HEADER">
-			<Text>RELATIONSHIP STATUS</Text>
+			<Text>SUHTEEN TILA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_VISIBILITY_HEADER">
-			<Text>ACCESS LEVEL</Text>
+			<Text>SAATAVUUSTASO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_SCORE_HEADER">
-			<Text>SCORE</Text>
+			<Text>PISTEET</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_AT_WAR">
-			<Text>[COLOR_RED]At War![ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Sodassa![ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_AT_PEACE">
-			<Text>At Peace</Text>
+			<Text>Rauhassa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_AT_WAR_TURNS">
-			<Text>[COLOR_RED]At War![ENDCOLOR] (peace possible in {1_Turns} turns)</Text>
+			<Text>[COLOR_RED]Sodassa![ENDCOLOR] (rauha mahdollistuu {1_Turns}:ssa vuorossa)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_AT_PEACE_TURNS">
-			<Text>At Peace (war possible in {1_Turns} turns)</Text>
+			<Text>Rauhassa (sota mahdollistuu {1_Turns}:ssa vuorossa)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOPANEL_UNMET_PLAYER">
-			<Text>Unmet Player</Text>
+			<Text>Kohtaamaton pelaaja</Text>
 		</Replace>
 		<!-- ==================== ChooseArtifactPopup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_HEADER">
-			<Text>CHOOSE ARTIFACT</Text>
+			<Text>VALITE ARTEFAKTI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_NO_CHOICE_HEADER">
-			<Text>ARTIFACT FOUND</Text>
+			<Text>LÖYTYI ARTEFAKTI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_NO_TYPE">
-			<Text>Your Archaeologist {1_UnitName} has uncovered signs of an ancient conflict between {2_ActingCiv} and {3_TargetCiv}.</Text>
+			<Text>Arkeologimme {1_UnitName} on löytänyt viitteitä muinaisesta konfliktista kansakuntien {2_ActingCiv} ja {3_TargetCiv} välillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_GOODY_HUT">
-			<Text>Your Archaeologist {1_UnitName} has uncovered signs of an ancient tribal village encountered by {2_ActingCiv}.</Text>
+			<Text>Arkeologimme {1_UnitName} on löytänyt viitteitä muinaisen heimokylän rippeistä, jotka {2_ActingCiv} kohtasi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_BARBARIAN_CAMP">
-			<Text>Your Archaeologist {1_UnitName} has found the remains of a barbarian camp dispersed by {2_ActingCiv}.</Text>
+			<Text>Arkeologimme {1_UnitName} on löytänyt viitteitä barbaarien sotaleiristä, jonka {2_ActingCiv} tuhosi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_BATTLE_FOUGHT">
-			<Text>Your Archaeologist {1_UnitName} has discovered an ancient battlefield littered with items from {2_ActingCiv} and {3_TargetCiv}.</Text>
+			<Text>Arkeologimme {1_UnitName} on löytänyt muinaisen taistelukentän, joka on täynnä kansakuntien {2_ActingCiv} ja {3_TargetCiv} luomia välineitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_SHIP_SUNK">
-			<Text>Your Archaeologist {1_UnitName} has found a wreck left by a naval battle between {2_ActingCiv} and {3_TargetCiv}.</Text>
+			<Text>Arkeologimme {1_UnitName} on löytänyt hylyn muinaisesta taistelusta kansakuntien {2_ActingCiv} ja {3_TargetCiv} välillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_ERA_STRING">
-			<Text>The discovery appears to have been buried since the {1_EraName}.</Text>
+			<Text>Löytö on ollut kätkettynä maassa {1_EraName} alkaen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_MAKE_CHOICE">
-			<Text>CHOOSE which nation's artifact to uncover from this site.</Text>
+			<Text>VALITSE kumman kansan artefaktin haluamme paljastaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_NO_CHOICE">
-			<Text>After some study, it's been determined that this [ICON_GreatWork_Artifact] Artifact is from {1_ActingCiv}.</Text>
+			<Text>Tutkimisen jälkeen on päätelty, että tämä [ICON_GreatWork_Artifact] artefakti on alkujaan kuulunut kansakunnalle {1_ActingCiv}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_OK_BUTTON">
 			<Text>OK</Text>
 		</Replace>
 		<!-- ==================== Religion Panel Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_PANEL_HEADER">
-			<Text>Religion for {1_CivName}</Text>
+			<Text>Kansan {1_CivName} uskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_MY_RELIGION">
-			<Text>[COLOR_LIGHTBLUE]MY RELIGION:[ENDCOLOR]   {1_ReligionName}</Text>
+			<Text>[COLOR_LIGHTBLUE]USKONTOMME:[ENDCOLOR]   {1_ReligionName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NO_RELIGION">
-			<Text>no Religion created</Text>
+			<Text>ei uskontoja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_PANTHEON_LABEL">
-			<Text>[COLOR_LIGHTBLUE]PANTHEON BELIEF:[ENDCOLOR]</Text>
+			<Text>[COLOR_LIGHTBLUE]KANTAUSKON USKOMUS:[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_BELIEF_LABEL">
-			<Text>[COLOR_LIGHTBLUE]FULL RELIGION BELIEFS:[ENDCOLOR]</Text>
+			<Text>[COLOR_LIGHTBLUE]USKONNON USKOMUKSET:[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NEXT_STEP_LABEL">
-			<Text>[COLOR_LIGHTBLUE]NEXT STEP:[ENDCOLOR]  {1_NextStepText}</Text>
+			<Text>[COLOR_LIGHTBLUE]SEURAAVAKSI:[ENDCOLOR]  {1_NextStepText}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NEXT_STEP_FOUND_PANTHEON">
-			<Text>Accumulate {1_Number} [ICON_Faith] Faith to found a Pantheon.</Text>
+			<Text>Kerää {1_Number} [ICON_Faith] uskoa, jotta voimme muodostaa kantauskon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NEXT_STEP_CHOOSE_PANTHEON">
-			<Text>Choose your Pantheon Belief.</Text>
+			<Text>Valitse kantauskon uskomus.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NEXT_STEP_SELECT_BELIEF">
-			<Text>Choose a new Belief to add to your Religion.</Text>
+			<Text>Valitse uusi uskomus uskontoomme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NEXT_STEP_EARN_PROPHET">
-			<Text>Earn a Great Prophet to start a full Religion (which adds 2 Beliefs).</Text>
+			<Text>Ansaitse merkittävä profeetta muodostaaksesi uskonnon (lisäten kaksi uskomusta).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NEXT_STEP_USE_PROPHET">
-			<Text>Move your Prophet next to a friendly Holy Site or Stonehenge and select the Found Religion action.</Text>
+			<Text>Siirrä profeetta pyhään paikkaan tai Stonehengeen ja valitse toiminto "Muodosta uskonto".</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NEXT_STEP_EVANGELIZE_BELIEF">
-			<Text>Purchase an Apostle and have them take the Evangelize action to add another Belief.</Text>
+			<Text>Osta apostoli ja evankelisoi hänellä lisää uskomuksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGIONPANEL_NEXT_STEP_NONE">
-			<Text>None.  Your Religion is fully developed.</Text>
+			<Text>Ei tehtävää: uskonto on täydessä kukassaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_TITLE">
-			<Text>Religion</Text>
+			<Text>Uskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_MY_RELIGION">
-			<Text>My Religion</Text>
+			<Text>Uskontomme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_MY_PANTHEON">
-			<Text>My Pantheon</Text>
+			<Text>Kantauskomme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_NO_PANTHEON">
-			<Text>No Established Pantheon</Text>
+			<Text>Ei muodostettua kantauskoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_WORKING_TOWARDS_PANTHEON">
-			<Text>Working Towards A Pantheon</Text>
+			<Text>Matkalla kohden kantauskoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_WORKING_TOWARDS_RELIGION">
-			<Text>Working Towards A Religion</Text>
+			<Text>Matkalla kohden uskontoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_PANTHEON_NAME">
-			<Text>Pantheon: {1_BeliefName}</Text>
+			<Text>Kantausko: {1_BeliefName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_FOUNDER_NAME">
-			<Text>Founder: {1_FounderName}</Text>
+			<Text>Muodosti: {1_FounderName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_BELIEFS_OF_RELIGION">
-			<Text>Beliefs of {1_ReligionName}</Text>
+			<Text>{1_ReligionName[2]} uskomukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_BELIEF_COMPACT">
 			<Text>{1_BeliefName}: {2_BeliefDescription}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_RELIGION_DOMINANCE">
-			<Text>Dominant Religion in {1_DominantCities} City</Text>
+			<Text>Valtauskonto yhdessä kaupungissa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_RELIGION_DOMINANCE_PLURAL">
-			<Text>Dominant Religion in {1_DominantCities} Cities</Text>
+			<Text>Valtauskonto {1_DominantCities}:ssa kaupungissa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOLY_CITY">
-			<Text>Holy City: {1_HolyCity}</Text>
+			<Text>Pyhä kaupunki: {1_HolyCity}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOLY_CITY_NONE">
-			<Text>Holy City: Conquered, Founder Eliminated</Text>
+			<Text>Pyhä kaupunki: vallattu, muodostaja tuhottu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CITY_NAME">
 			<Text>{1_CityName} ({2_OwnerName})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CITY_SORT_TYPE_PRESENT">
-			<Text>Cities Containing Religion</Text>
+			<Text>Uskonnon sisältävät kaupungit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CITY_SORT_TYPE_FOLLOWING">
-			<Text>Cities Following Religion</Text>
+			<Text>Uskontoa noudattavat kaupungit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_LOCKED_BELIEF">
-			<Text>Locked Belief</Text>
+			<Text>Lukittu uskomus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_NO_PANTHEON_BELIEF">
-			<Text>No Pantheon Belief.</Text>
+			<Text>Ei kantauskomusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CITIES">
-			<Text>Cities:</Text>
+			<Text>Kaupungit:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_FOLLOWERS">
-			<Text>Followers:</Text>
+			<Text>Noudattajat:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CITIES_PANTHEON_BELIEF">
-			<Text>City's Pantheon Belief:</Text>
+			<Text>Kaupungin kantauskomus:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_LOCKED_BELIEF_DESCRIPTION">
-			<Text>Use an Apostle to evangelize a new belief.</Text>
+			<Text>Käytä apostolia evankelisoimaan uskomus.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CHOOSING_PANTHEON">
-			<Text>Choosing A Pantheon</Text>
+			<Text>Kantauskon valinta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CHOOSE_PANTHEON_BELIEF">
-			<Text>Choose A Pantheon Belief:</Text>
+			<Text>Valitse kantauskomus:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CHOOSE_A_BELIEF">
-			<Text>Choose a Belief:</Text>
+			<Text>Valitse uskomus:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CHOOSE_RELIGION_BELIEF">
-			<Text>Choose Your Religion Beliefs:</Text>
+			<Text>Valitse uskontomme uskomukset:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_PANTHEON_EFFECT">
-			<Text>Pantheon Effect:</Text>
+			<Text>Kantauskon vaikutus:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_ALL_RELIGIONS">
-			<Text>All Religions {1_Religions}</Text>
+			<Text>Kaikki uskonnot {1_Religions}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_RESELECT_BELIEF">
-			<Text>Reselect Belief</Text>
+			<Text>Vaihda uskomus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_RESELECT_BELIEFS">
-			<Text>Reselect Beliefs</Text>
+			<Text>Vaihda uskomukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_RESELECT_RELIGION">
-			<Text>Reselect Religion</Text>
+			<Text>Vaihda uskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_FOUND_PANTHEON">
-			<Text>Found this Pantheon</Text>
+			<Text>Perusta tämä kantausko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_FOUND_RELIGION">
-			<Text>Found this Religion</Text>
+			<Text>Perusta tämä uskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_FOUNDING_RELIGION">
-			<Text>Founding A Religion</Text>
+			<Text>Uskonnon perustaminen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_FOUNDING_RELIGION_INSTRUCTIONS">
-			<Text>(Choose a Religion from history, or choose a name and icon for a Religion of your own.)</Text>
+			<Text>(Valitse historiallinen uskonto tai aseta oman uskonnon nimi ja tunnus.)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_NO_RELIGION_CHOSEN">
-			<Text>None Chosen</Text>
+			<Text>Ei valittua</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CHOOSE_RELIGION">
-			<Text>Choose a name and icon:</Text>
+			<Text>Valitse nimi ja tunnus:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CHOOSE_RELIGION_NAME">
-			<Text>Set Religion Name</Text>
+			<Text>Aseta uskonnon nimi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_REQUIRES_NAME">
-			<Text>Requires Name</Text>
+			<Text>Vaatii nimen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CONFIRM_RELIGION">
-			<Text>Confirm</Text>
+			<Text>Vahvista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_CUSTOM">
-			<Text>Custom Religion</Text>
+			<Text>Räätälöity uskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_BUTTON">
-			<Text>Declare War!</Text>
+			<Text>Julista sota!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAKE_PEACE_BUTTON">
-			<Text>Make Peace</Text>
+			<Text>Muodosta rauha</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_NUM_FOLLOWERS_TT">
-			<Text>{1_ReligionName}: {2_NumFollowers} followers.</Text>
+			<Text>{1_ReligionName}: {2_NumFollowers} noudattajaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOLY_SITE_BONUS_TT">
-			<Text>{1_BonusAmount} Faith produced by this district.</Text>
+			<Text>{1_BonusAmount} uskoa tämän kaupunkialueen muodostamana.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOW_TO_MAKE_APOSTLE_TT">
-			<Text>You must have a Temple in a Holy Site district to purchase Apostles.</Text>
+			<Text>Temppeli tulee rakentaa pyhään paikkaan, jotta apostoleja voi ostaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOW_TO_MAKE_MISSIONARY_TT">
-			<Text>You must have a Shrine in a Holy Site district to purchase Missionaries.</Text>
+			<Text>Pyhättö tulee rakentaa pyhään paikkaan, jotta lähetyssaarnaajia voi ostaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOW_TO_MAKE_INQUISITOR_TT">
-			<Text>This religion must have spent an Apostle to Launch Inquisition before purchasing Inquisitors. They are then purchased in a city with a Temple.</Text>
+			<Text>Tämän uskonnon tulee käynnistää inkvisitio apostolin toimesta, jotta inkvisiittoreita voi ostaa. Lisäksi ostamiseen vaaditaan temppeli.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_APOSTLE_TT">
-			<Text>Apostles may convert [ICON_Citizen] Citizens to their Religion and initiate theological combat with units of other Religions.</Text>
+			<Text>Apostolit voivat käännyttää uskontoonsa [ICON_Citizen] asukkaita ja käydä uskontaistoja muiden uskontojen yksiköiden kanssa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_MISSIONARY_TT">
-			<Text>Missionaries may convert [ICON_Citizen] Citizens to their Religion. May not initiate theological combat with units of other Religions (but can defend).</Text>
+			<Text>Lähetyssaarnaajat voivat käännyttää uskontoonsa [ICON_Citizen] asukkaita. Ei voi käydä uskontaistoja muiden uskontojen yksiköiden kanssa (mutta voi puolustautua).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_INQUISITOR_TT">
-			<Text>Inquisitors may eliminate the presence of other Religions in their territory, and initiate theological combat with units of other Religions.</Text>
+			<Text>Inkvisiittorit voivat kitkeä muiden uskontojen vaikutuksen alueellaan, sekä käydä uskontaistoja muiden uskontojen yksiköiden kanssa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_UNKNOWN_CITY">
-			<Text>Unknown City</Text>
+			<Text>Tuntematon kaupunki</Text>
 		</Replace>
 		<!-- ==================== Trade Overview ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TITLE">
-			<Text>TRADE ROUTES</Text>
+			<Text>KAUPPAREITIT</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_MY_ROUTES">
-			<Text>My Routes</Text>
+			<Text>Reittimme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_ROUTES_TO_MY_CITIES">
-			<Text>Routes to my Cities</Text>
+			<Text>Reitit kaupunkeihimme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_AVAILABLE_ROUTES">
-			<Text>Available Routes</Text>
+			<Text>Mahdolliset reitit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_ORIGIN">
-			<Text>Origin</Text>
+			<Text>Lähtöpaikka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_DESTINATION">
-			<Text>Destination</Text>
+			<Text>Kohde</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_SHOW">
-			<Text>Show</Text>
+			<Text>Näytä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_MY_BENEFITS">
-			<Text>My Benefits</Text>
+			<Text>Etumme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_THEIR_BENEFITS">
-			<Text>Their Benefits</Text>
+			<Text>Heidän etunsa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_ROUTE_COMPLETED">
-			<Text>Route Completed. Choose a new Route.</Text>
+			<Text>Reitti valmistui. Valitse uusi reitti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_MOVE_UNIT_TO_CITY">
-			<Text>Move Unit to one of your City Centers.</Text>
+			<Text>Siirrä yksikkö yhteen kantakaupungeistamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_CHOOSE_ROUTE">
-			<Text>Choose a Route.</Text>
+			<Text>Valitse reitti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_PRODUCE_TRADE_UNIT">
-			<Text>Produce a Trader unit to use this Route.</Text>
+			<Text>Tuota kauppuri muodostaaksesi tämän reitin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_CITY_STATES">
-			<Text>City-States</Text>
+			<Text>Kaupunkivaltiot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_UNUSED_ROUTES">
-			<Text>Unused Routes</Text>
+			<Text>Käyttämättömät reitit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TO">
-			<Text>To</Text>
+			<Text>Minne</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOURISM_BONUS">
 			<Text>+25%</Text>
@@ -3549,28 +3549,28 @@
 			<Text>({1_ActiveRoutes}/{2_RouteCapacity} [Icon_TradeRouteLarge])</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOOLTIP_TRADE_POST_ESTABLISHED">
-			<Text>Trading Post established with this city.</Text>
+			<Text>Kauppapaikka on muodostettu tähän kaupunkiin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOOLTIP_NO_TRADE_POST">
-			<Text>No Trading Post has been established with this city.</Text>
+			<Text>Kauppapaikkaa ei ole muodostettu tähän kaupunkiin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOOLTIP_TOTAL_ROUTE_TURNS">
-			<Text>Total number of turns to complete this route.</Text>
+			<Text>Vuoroja tämän reitin valmistumiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOOLTIP_DIPLOMATIC_VIS_BONUS">
-			<Text>Diplomatic visibility increased by [ICON_TradeRoute] Trade Route with this civilization.</Text>
+			<Text>Diplomaattinen näkyvyys on kasvanut [ICON_TradeRoute] kauppareitistä tähän kansakuntaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOOLTIP_NO_DIPLOMATIC_VIS_BONUS">
-			<Text>Establish a [ICON_TradeRoute] Trade Route to increase diplomatic visibility with this civilization.</Text>
+			<Text>Muodostamalla [ICON_TradeRoute] kauppareitin voimme kasvattaa diplomaattista näkyvyyttä tähän kansakuntaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOOLTIP_TOURISM_BONUS">
-			<Text>Bonus to [ICON_Tourism] Tourism due to [ICON_TradeRoute] Trade Routes with this civilization.</Text>
+			<Text>Etuja [ICON_Tourism] turismiin [ICON_TradeRoute] kauppareitistä tähän kansakuntaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOOLTIP_NO_TOURISM_BONUS">
-			<Text>Establish a [ICON_TradeRoute] Trade Route to get [ICON_Tourism] Tourism bonus with this civilization.</Text>
+			<Text>Muodostamalla [ICON_TradeRoute] kauppareitin voimme saada etua [ICON_Tourism] turismiin tähän kansakuntaan nähden.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOOLTIP_RELIGIOUS_INFLUENCE">
-			<Text>{1_Influencer} will exert {2_ReligionName} influence on {3_Influenced}.</Text>
+			<Text>{2_ReligionName[2]} vaikutusta aiheutuu {1_Influencer} toimesta kaupunkiin {3_Influenced}.</Text>
 		</Replace>
 		<!-- ==================== World Rankings Rundown ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_TITLE">
@@ -3864,22 +3864,22 @@
 		</Replace>
 		<!-- ==================== Research Complete Popup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_COMPLETE_TECH_COMPLETE">
-			<Text>RESEARCH COMPLETED</Text>
+			<Text>TUTKIMUS VALMISTUI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_COMPLETE_CIVIC_COMPLETE">
-			<Text>CIVIC COMPLETED</Text>
+			<Text>NORMI VALMISTUI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_COMPLETE_TECH_BUTTON">
-			<Text>Continue</Text>
+			<Text>Jatka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_COMPLETE_CIVIC_BUTTON">
-			<Text>Change Government</Text>
+			<Text>Vaihda hallinto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_COMPLETE_UNLOCKED_BY_CIVIC">
-			<Text>Unlocked by this Civic ({1_Amount}):</Text>
+			<Text>Tämä normi mahdollistaa ({1_Amount}):</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_COMPLETE_UNLOCKED_BY_TECH">
-			<Text>Unlocked by this Tech ({1_Amount}):</Text>
+			<Text>Tämä tekniikka mahdollistaa ({1_Amount}):</Text>
 		</Replace>
 		<!-- ==================== City State Partial SCreen ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ADD_AN_ENVOY">
@@ -5277,7 +5277,7 @@
 		<!-- Demo popup text -->
 		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_TITLE">
 			<Text>Ajan loppu</Text>
-		</Row>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_TEXT">
 			<Text>Olet ottanut ensimmäiset askeleet rakentaaksesi sivilisaation, joka kestää aikojen koetuksen. Jatkatko tällä tiellä, tiellä jolla haastat historian suurimmat hallitsijat? Kykeneekö kansasi kulttuuri kohisemaan? Tiede valistamaan? Usko inspiroimaan? Joukkosi vyörymään? Kuinka hallitset Sid Meierin Civilization VI:ssa? Jatka matkaasi nyt.[NEWLINE][NEWLINE]Rakenna.Valtaa.Inspiroi.</Text>
 		</Replace>

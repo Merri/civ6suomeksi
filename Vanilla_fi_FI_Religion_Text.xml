@@ -6,40 +6,40 @@
 			<Text>Kantausko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_BUDDHISM">
-			<Text>Buddismi</Text>
+			<Text>Buddhalaisuus|Buddhalaisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_CATHOLICISM">
-			<Text>Katolilaisuus</Text>
+			<Text>Katolilaisuus|Katolilaisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_CONFUCIANISM">
-			<Text>Kunfutselaisuus</Text>
+			<Text>Kunfutselaisuus|Kunfutselaisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_HINDUISM">
-			<Text>Hindulaisuus</Text>
+			<Text>Hindulaisuus|Hindulaisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_ISLAM">
-			<Text>Islam</Text>
+			<Text>Islam|Islamin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_JUDAISM">
-			<Text>Juutalaisuus</Text>
+			<Text>Juutalaisuus|Juutalaisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_ORTHODOXY">
-			<Text>Ortodoksisuus</Text>
+			<Text>Ortodoksisuus|Ortodoksisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_PROTESTANTISM">
-			<Text>Protestanttisuus</Text>
+			<Text>Protestanttisuus|Protestanttisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_SHINTO">
-			<Text>Shintolaisuus</Text>
+			<Text>Shintolaisuus|Shintolaisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_SIKHISM">
-			<Text>Sikhismi</Text>
+			<Text>Sikhiläisyys|Sikhiläisyyden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_TAOISM">
-			<Text>Taolaisuus</Text>
+			<Text>Taolaisuus|Taolaisuuden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_ZOROASTRIANISM">
-			<Text>Zoroastrialaisuus</Text>
+			<Text>Zarathustralaisuus|Zarathustralaisuuden</Text>
 		</Replace>
 		<!--BELIEF CLASSES-->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
