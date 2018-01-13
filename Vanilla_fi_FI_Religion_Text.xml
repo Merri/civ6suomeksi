@@ -6,40 +6,40 @@
 			<Text>Kantausko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_BUDDHISM">
-			<Text>Buddhalaisuus|Buddhalaisuuden</Text>
+			<Text>Buddhalaisuus|Buddhalaisuuden|buddalaisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_CATHOLICISM">
-			<Text>Katolilaisuus|Katolilaisuuden</Text>
+			<Text>Katolilaisuus|Katolilaisuuden|katolilaisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_CONFUCIANISM">
-			<Text>Kunfutselaisuus|Kunfutselaisuuden</Text>
+			<Text>Kungfutselaisuus|Kungfutselaisuuden|kungfutselaisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_HINDUISM">
-			<Text>Hindulaisuus|Hindulaisuuden</Text>
+			<Text>Hindulaisuus|Hindulaisuuden|hindulaisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_ISLAM">
-			<Text>Islam|Islamin</Text>
+			<Text>Islam|Islamin|islamiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_JUDAISM">
-			<Text>Juutalaisuus|Juutalaisuuden</Text>
+			<Text>Juutalaisuus|Juutalaisuuden|juutalaisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_ORTHODOXY">
-			<Text>Ortodoksisuus|Ortodoksisuuden</Text>
+			<Text>Ortodoksisuus|Ortodoksisuuden|ortodoksisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_PROTESTANTISM">
-			<Text>Protestanttisuus|Protestanttisuuden</Text>
+			<Text>Protestanttisuus|Protestanttisuuden|prostanttisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_SHINTO">
-			<Text>Shintolaisuus|Shintolaisuuden</Text>
+			<Text>Shintolaisuus|Shintolaisuuden|shintolaisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_SIKHISM">
-			<Text>Sikhiläisyys|Sikhiläisyyden</Text>
+			<Text>Sikhiläisyys|Sikhiläisyyden|sikhiläisyyteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_TAOISM">
-			<Text>Taolaisuus|Taolaisuuden</Text>
+			<Text>Taolaisuus|Taolaisuuden|taolaisuuteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RELIGION_ZOROASTRIANISM">
-			<Text>Zarathustralaisuus|Zarathustralaisuuden</Text>
+			<Text>Zarathustralaisuus|Zarathustralaisuuden|zarathustralaisuuteen</Text>
 		</Replace>
 		<!--BELIEF CLASSES-->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">

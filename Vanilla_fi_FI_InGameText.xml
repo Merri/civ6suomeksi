@@ -3574,293 +3574,293 @@
 		</Replace>
 		<!-- ==================== World Rankings Rundown ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_TITLE">
-			<Text>WORLD RANKINGS</Text>
+			<Text>MAAILMAN TILANNE</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERALL_TAB">
-			<Text>Overall</Text>
+			<Text>Yleistilanne</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_TAB">
-			<Text>Score</Text>
+			<Text>Pisteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_TAB">
-			<Text>Science</Text>
+			<Text>Tiede</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_TAB">
-			<Text>Culture</Text>
+			<Text>Kulttuuri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_TAB">
-			<Text>Domination</Text>
+			<Text>Valtaus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_TAB">
-			<Text>Religion</Text>
+			<Text>Uskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY">
-			<Text>SCORE VICTORY</Text>
+			<Text>PISTEVOITTO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_VICTORY">
-			<Text>SCIENCE VICTORY</Text>
+			<Text>TIEDEVOITTO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_VICTORY">
-			<Text>CULTURE VICTORY</Text>
+			<Text>KULTTUURIVOITTO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_VICTORY">
-			<Text>DOMINATION VICTORY</Text>
+			<Text>VALTAUSVOITTO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_VICTORY">
-			<Text>RELIGIOUS VICTORY</Text>
+			<Text>USKONNOLLINEN VOITTO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_SCIENCE_NUM_TECHS">
-			<Text>Technologies Researched: {1_Num}</Text>
+			<Text>Kehitetyt tekniikat: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_SCIENCE_SCIENCE_RATE">
-			<Text>[ICON_Science] Science per turn: {1_Num}</Text>
+			<Text>[ICON_Science] tiedettä vuorossa: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_CULTURE_TOURISM_RATE">
-			<Text>[ICON_Tourism] Tourism per turn: {1_Num}</Text>
+			<Text>[ICON_Tourism] turismia vuorossa: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_CULTURE_CULTURE_RATE">
-			<Text>[ICON_Culture] Culture per turn: {1_Num}</Text>
+			<Text>[ICON_Culture] kulttuuria vuorossa: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_DOMINATION_MILITARY_STRENGTH">
-			<Text>Military Strength: {1_Num}</Text>
+			<Text>Sotilasmahti: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_DOMINATION_SCORE">
-			<Text>Player Score: {1_Num}</Text>
+			<Text>Pelaajan pisteet: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_RELIGION_CITIES_FOLLOWING_RELIGION">
-			<Text>Converted Cities: {1_Num}</Text>
+			<Text>Käännytettyjä kaunpukeja: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_RELIGION_FAITH_RATE">
-			<Text>[ICON_Faith] Faith per turn: {1_Num}</Text>
+			<Text>[ICON_Faith] uskoa vuorossa: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS">
-			<Text>A [COLOR:NeutralCS]SCORE[ENDCOLOR] victory occurs when no civilization has achieved any other victory by the end of the game. In this case, the civilization with the overall highest [COLOR:NeutralCS]SCORE[ENDCOLOR] will win!</Text>
+			<Text>[COLOR:NeutralCS]PISTE[ENDCOLOR]VOITTO saavutetaan kun ainutkaan kansakunta ei ole kyennyt mihinkään toiseen voittotapaan pelin loppuun mennessä. Tässä tapauksessa pelin voittaa kansakunta, jolla on eniten [COLOR:NeutralCS]PISTEITÄ[ENDCOLOR]!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_DETAILS">
-			<Text>To achieve a [COLOR:ResScienceLabelCS]SCIENCE[ENDCOLOR] victory, you must accomplish 3 major milestones:</Text>
+			<Text>[COLOR:ResScienceLabelCS]TIEDE[ENDCOLOR]VOITON saavuttaa kolmen merkkipaalun kautta:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_1">
-			<Text>Launch a satellite.</Text>
+			<Text>Laukaise satelliitti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_2">
-			<Text>Land a human on the Moon.</Text>
+			<Text>Vieraile kuussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_3">
-			<Text>Establish a Martian Colony.</Text>
+			<Text>Perusta Mars-siirtokunta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_NEXT_STEP">
-			<Text>[COLOR:ResScienceLabelCS]Next Step: {1_NextStep}[ENDCOLOR]</Text>
+			<Text>[COLOR:ResScienceLabelCS]Seuraava vaihe: {1_NextStep}[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_NEXT_STEP_BUILD">
-			<Text>Build {1_NextStep}</Text>
+			<Text>Rakenna {1_NextStep}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_NEXT_STEP_RESEARCH">
-			<Text>Research {1_NextStep}</Text>
+			<Text>Tutki {1_NextStep}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_HOW_TO_VICTORY">
-			<Text>What is a Culture Victory?</Text>
+			<Text>Miten saavuuttaa kulttuurivoiton?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_HOW_TO_TOURISM">
-			<Text>How to attract Tourists to your civilization.</Text>
+			<Text>Kuinka houkutella turisteja kansakuntaamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURISM_DETAILS">
-			<Text>Your ability to attract [COLOR:ResCultureLabelCS]VISITING TOURISTS[ENDCOLOR] to your civilization is a function of the difference between your own [ICON_Culture] Culture production, and that of the civilization whose [COLOR:ResCultureLabelCS]DOMESTIC TOURIST[ENDCOLOR] you are attempting to attract.</Text>
+			<Text>Kykymme houkutella [COLOR:ResCultureLabelCS]VIERAILEVIA TURISTEJA[ENDCOLOR] kansakuntaamme perustuu oman [ICON_Culture] kulttuurituotantomme ja houkuteltavan kansakunnan [COLOR:ResCultureLabelCS]SISÄISTEN TURISTIEN[ENDCOLOR] väliseen eroon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_VICTORY_DETAILS">
-			<Text>To achieve a [COLOR:ResCultureLabelCS]CULTURE[ENDCOLOR] victory, you must attract [COLOR:ResCultureLabelCS]VISITING TOURISTS[ENDCOLOR] by generating high amounts of [ICON_Culture] Culture and [ICON_Tourism] Tourism. Victory is achieved when you attract more [COLOR:ResCultureLabelCS]VISITING TOURISTS[ENDCOLOR] to your civilization than any other civilization has [COLOR:ResCultureLabelCS]DOMESTIC TOURISTS[ENDCOLOR] at home.</Text>
+			<Text>Saavuttaaksemme [COLOR:ResCultureLabelCS]KULTTUURI[ENDCOLOR]VOITON meidän tulee houkutella [COLOR:ResCultureLabelCS]VIERAILEVIA TURISTEJA[ENDCOLOR] tuottamalla suuria määriä [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia. Voitto saavutetaan houkuttelemalla enemmän [COLOR:ResCultureLabelCS]VIERAILEVIA TURISTEJA[ENDCOLOR] kansakuntaamme kuin millään toisella kansakunnalla on [COLOR:ResCultureLabelCS]SISÄISIÄ TURISTEJA[ENDCOLOR].</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_DETAILS_DOMESTIC_TOURISTS">
-			<Text>Your [COLOR:ResCultureLabelCS]DOMESTIC TOURISTS[ENDCOLOR] represent the tourists from your civilization that are currently happy vacationing within your borders.</Text>
+			<Text>[COLOR:ResCultureLabelCS]SISÄISET TURISTIMME[ENDCOLOR] edustavat kansakuntamme turisteja, jotka ovat tyytyväisiä kotimaan matkailuun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_DETAILS_VISITING_TOURISTS">
-			<Text>Your [COLOR:ResCultureLabelCS]VISITING TOURISTS[ENDCOLOR] represent the number of citizens you've attracted from the [COLOR:ResCultureLabelCS]DOMESTIC TOURIST[ENDCOLOR] pools of other civilizations.</Text>
+			<Text>[COLOR:ResCultureLabelCS]VIERAILEVAT TURISTIT[ENDCOLOR] edustavat kansalaisten määriä, jotka olemme joukutelleet muiden kansakuntien [COLOR:ResCultureLabelCS]SISÄISEN TURISMIN[ENDCOLOR] kokonaispotentiaalista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_WHAT_IS_VICTORY">
-			<Text>What is a Culture Victory?</Text>
+			<Text>Mikä on kulttuurivoitto?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_HOW_TO_ATTRACT_TOURISTS">
-			<Text>How to attract Tourists to your civilization.</Text>
+			<Text>Kuinka houkutella turisteja kansakuntaamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_DOMESTIC_TOURISTS">
-			<Text>Domestic Tourists</Text>
+			<Text>Sisäiset turistit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_OUR_VISITORS_FROM">
-			<Text>Our Visitors From</Text>
+			<Text>Vierailijamme kotikansat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_VISITING_TOURISTS">
-			<Text>Visiting Tourists</Text>
+			<Text>Vierailevat turistit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_DOMESTIC_TOURISTS_TOOLTIP">
-			<Text>This column indicates how many of this civilization's tourists are still vacationing within their own borders.</Text>
+			<Text>Tämä sarake kertoo kuinka moni tämän kansakunnan turisteista lomailee edelleen kotimaassaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_OUR_VISITORS_FROM_TOOLTIP">
-			<Text>This column shows how many tourists from this civilization are currently visiting us.</Text>
+			<Text>Tämä sarake näyttää moniko tämän kansakunnan turisti vierailee luonamme tällä hetkellä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_VISITING_TOURISTS_TOOLTIP">
-			<Text>This column shows the total number of visiting tourists attracted to our civ out of the current total we need to achieve a Culture Victory.</Text>
+			<Text>Tämä sarake näyttää kuinka monta vierailevaa turistia on yhteensä houkuteltu vierailemaan luonamme suhteessa siihen kokonaismäärään, joka vaaditaan kulttuurivoittoon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_HEADER">
-			<Text>[ICON_Tourism] Tourism: {1_Current} (current)[NEWLINE][ICON_Tourism] Tourism: {2_LifetimeTourism} (lifetime)[NEWLINE]</Text>
+			<Text>[ICON_Tourism] Turismi: {1_Current} (nykyinen)[NEWLINE][ICON_Tourism] Turismi: {2_LifetimeTourism} (kertymä)[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_TRADE_ROUTE">
-			<Text>{1_Tooltip}[NEWLINE]Overall [ICON_Tourism] Tourism Boosted +{2_Percent}% for Trade Route</Text>
+			<Text>{1_Tooltip}[NEWLINE][ICON_Tourism] Turismi nauttii +{2_Percent}% etua kauppareiteistä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_OPEN_BORDERS">
-			<Text>{1_Tooltip}[NEWLINE]Overall [ICON_Tourism] Tourism Boosted +{2_Percent}% for Open Borders</Text>
+			<Text>{1_Tooltip}[NEWLINE][ICON_Tourism] Turismi nauttii +{2_Percent}% etua avoimista rajoista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_GOVERNMENT">
-			<Text>{1_Tooltip}[NEWLINE]Overall [ICON_Tourism] Tourism Reduced {2_Percent}% for Different Governments</Text>
+			<Text>{1_Tooltip}[NEWLINE][ICON_Tourism] Turismi kärsii {2_Percent}% haitasta eri hallitusmuodon vuoksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_REDUCED_RELIGION1">
-			<Text>{1_Tooltip}[NEWLINE]Religious [ICON_Tourism] Tourism Reduced {2_Percent}% for Enlightenment</Text>
+			<Text>{1_Tooltip}[NEWLINE]Uskonnollinen [ICON_Tourism] turismi kärsii {2_Percent}% haitasta valaistuneisuuden vuoksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_REDUCED_RELIGION2">
-			<Text>{1_Tooltip}[NEWLINE]Religious [ICON_Tourism] Tourism Reduced {2_Percent}% for Different Religions</Text>
+			<Text>{1_Tooltip}[NEWLINE]Uskonnollinen [ICON_Tourism] turismi kärsii {2_Percent}% haitasta poikkeavan uskonnon vuoksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_PROGRESS">
-			<Text>Domination Progress</Text>
+			<Text>Valtauksen tilanne</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_HAS_ORIGINAL_CAPITAL">
-			<Text>Has original [ICON_Capital] Capital.</Text>
+			<Text>Omistaa alkuperäisen [ICON_Capital] pääkaupunginsa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_DETAILS">
-			<Text>To achieve a [COLOR:ResMilitaryLabelCS]DOMINATION[ENDCOLOR] victory, you must conquer the [ICON_Capital] Capital of every other civilization.[NEWLINE][NEWLINE]A strong military is highly recommended.</Text>
+			<Text>[COLOR:ResMilitaryLabelCS]VALTAUS[ENDCOLOR]VOITON saavuttaa valtaamalla kunkin toisen kansakunnan [ICON_Capital] pääkaupungin.[NEWLINE][NEWLINE]Vahvasta armeijasta on suuresti hyötyä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_SUMMARY">
-			<Text>{1_NumCaptured : plural 1?{1_NumCaptured} Capital; other?{1_NumCaptured} Capitals;} Captured</Text>
+			<Text>{1_NumCaptured : plural 1?{1_NumCaptured} pääkaupunki; other?{1_NumCaptured} pääkaupunkia;} vallattu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_CIVS_CONVERTED">
-			<Text>Civilizations Converted</Text>
+			<Text>Käännytettyjä kansakuntia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_DETAILS">
-			<Text>To achieve a [COLOR:ResFaithLabelCS]RELIGIOUS[ENDCOLOR] victory, your Religion must become the [COLOR:ResFaithLabelCS]PREDOMINANT[ENDCOLOR] Religion for every civilization in the game.[NEWLINE][NEWLINE]A Religion is [COLOR:ResFaithLabelCS]PREDOMINANT[ENDCOLOR] if it is followed by more than 50% of the cities in a civilization.</Text>
+			<Text>[COLOR:ResFaithLabelCS]USKONNOLLISEN[ENDCOLOR] VOITON saavuttaa levittämällä uskontomme jokaisen kansan [COLOR:ResFaithLabelCS]VALTA[ENDCOLOR]USKONNOKSI.[NEWLINE][NEWLINE]Uskonto on [COLOR:ResFaithLabelCS]VALTA[ENDCOLOR]USKONNON asemassa kansakunnassa, mikäli yli puolet kaupungeista noudattaa sitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_CONVERT_SUMMARY">
-			<Text>{1_NumConverts} Civs Converted to {2_ReligionName}</Text>
+			<Text>{1_NumConverts} kansakuntaa käännytettynä {2_ReligionName[3]}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_CONDITION">
-			<Text>at {1_NumTurns} turns</Text>
+			<Text>{1_NumTurns} vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CIVILIZATION_LABEL">
-			<Text>Civilization</Text>
+			<Text>Kansakunta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SHOW_DETAILS">
-			<Text>Show Details</Text>
+			<Text>Näytä tiedot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_SIMPLE">
-			<Text>You are leading</Text>
+			<Text>Johdamme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_DETAILS">
-			<Text>You are leading with {1_Details}</Text>
+			<Text>Johdamme {1_Details}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_OTHER_SIMPLE">
-			<Text>{1_CivName} leading</Text>
+			<Text>{1_CivName} johtaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_OTHER_DETAILS">
-			<Text>{1_CivName} leading with {2_Details}</Text>
+			<Text>{1_CivName} johtaa johtuen {2_Details}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_SIMPLE">
-			<Text>You are in {1_Place} place</Text>
+			<Text>Olemme {1_Place} sijalla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_DETAILS">
-			<Text>You are in {1_Place} place with {2_Details}</Text>
+			<Text>Olemme {1_Place} sijalla johtuen {2_Details}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OTHER_POSITION_SIMPLE">
-			<Text>You are in position {1_Place}</Text>
+			<Text>Olemme sijalla {1_Place}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OTHER_POSITION_DETAILS">
-			<Text>You are in position {1_Place} with {2_Details}</Text>
+			<Text>Olemme sijalla {1_Place} johtuen {2_Details}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_1_PLACE">
-			<Text>first</Text>
+			<Text>ensimmäisellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_2_PLACE">
-			<Text>second</Text>
+			<Text>toisella</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_3_PLACE">
-			<Text>third</Text>
+			<Text>kolmannella</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_4_PLACE">
-			<Text>fourth</Text>
+			<Text>neljännellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_5_PLACE">
-			<Text>fifth</Text>
+			<Text>viidennellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_6_PLACE">
-			<Text>sixth</Text>
+			<Text>kuudennella</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_7_PLACE">
-			<Text>seventh</Text>
+			<Text>seitsemännellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_8_PLACE">
-			<Text>eighth</Text>
+			<Text>kahdeksannella</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_9_PLACE">
-			<Text>ninth</Text>
+			<Text>yhdäksennellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_10_PLACE">
-			<Text>tenth</Text>
+			<Text>kymmenennellä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_11_PLACE">
-			<Text>eleventh</Text>
+			<Text>yhdennellätoista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_12_PLACE">
-			<Text>twelfth</Text>
+			<Text>kahdennellatoista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_STEPS_COMPLETED">
-			<Text>Steps Completed</Text>
+			<Text>Suoritetut vaihteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKING_UNMET_PLAYER">
-			<Text>Unmet Player</Text>
+			<Text>Kohtaamaton pelaaja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKING_UNMET_PLAYER_COLORED">
-			<Text>[COLOR:131,147,158,255]Unmet Player[ENDCOLOR]</Text>
+			<Text>[COLOR:131,147,158,255]Kohtaamaton pelaaja[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_REQUIREMENTS_LABEL">
-			<Text>Requirements</Text>
+			<Text>Vaatimukset</Text>
 		</Replace>
 		<!-- ==================== Scoring Categories ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_CIVICS_NAME">
-			<Text>Civics</Text>
+			<Text>Normit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_CULTURE_NAME">
-			<Text>Culture</Text>
+			<Text>Kulttuuri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_EMPIRE_NAME">
-			<Text>Empire</Text>
+			<Text>Valtakunta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_EXPLORATION_NAME">
-			<Text>Exploration</Text>
+			<Text>Kartoitus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_GREAT_PEOPLE_NAME">
-			<Text>Great People</Text>
+			<Text>Merkkihenkilöt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_MILITARY_NAME">
-			<Text>Military</Text>
+			<Text>Armeija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_PILLAGE_NAME">
-			<Text>Pillage</Text>
+			<Text>Tärvely</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_RELIGION_NAME">
-			<Text>Religion</Text>
+			<Text>Uskonto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_SCENARIO1_NAME">
-			<Text>Custom Scoring 1</Text>
+			<Text>Pisteytystapa 1</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_SCENARIO2_NAME">
-			<Text>Custom Scoring 2</Text>
+			<Text>Pisteytystapa 2</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_SCENARIO3_NAME">
-			<Text>Custom Scoring 3</Text>
+			<Text>Pisteytystapa 3</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_TRADE_NAME">
-			<Text>Trade</Text>
+			<Text>Kauppa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_TECH_NAME">
-			<Text>Technology</Text>
+			<Text>Teknologia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_WONDER_NAME">
-			<Text>Wonders</Text>
+			<Text>Ihmeet</Text>
 		</Replace>
 		<!-- ==================== Research Complete Popup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_RESEARCH_COMPLETE_TECH_COMPLETE">
