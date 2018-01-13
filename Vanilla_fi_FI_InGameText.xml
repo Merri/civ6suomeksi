@@ -3883,97 +3883,97 @@
 		</Replace>
 		<!-- ==================== City State Partial SCreen ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ADD_AN_ENVOY">
-			<Text>Add an [ICON_Envoy] Envoy between your civilization and this city-state.</Text>
+			<Text>Lisää [ICON_Envoy] lähettiläs kansakuntamme ja kaupunkivaltion välille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_AVAILABLE_QUESTS">
-			<Text>Available Quests:</Text>
+			<Text>Nykyiset tehtävät:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_BONUSES">
-			<Text>{1_CityStateName}'s Bonuses</Text>
+			<Text>Kaupungin {1_CityStateName} edut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_BONUSES_EARNED">
-			<Text>Bonuses Earned:</Text>
+			<Text>Saavutetut edut:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_CITY_STATE">
-			<Text>City-State</Text>
+			<Text>Kaupunkivaltio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_CIVILIZATIONS">
-			<Text>{1_Value} {1_Value:plural 1?Civilization; other?Civilizations;}</Text>
+			<Text>{1_Value} {1_Value:plural 1?kansakunta; other?kansakuntaa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_CONFIRM_PLACEMENT">
-			<Text>Confirm Placement</Text>
+			<Text>Vahvista sijoitus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_CURRENTLY_AT_WAR">
-			<Text>You declared war against this city-state.</Text>
+			<Text>Julistimme sodan tälle kaupunkivaltiolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DECLARE_WAR_BUTTON">
-			<Text>Declare War</Text>
+			<Text>Julista sota</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DECLARE_WAR_DETAILS">
-			<Text>A direct declaration of war will destroy all of our [ICON_Envoy] Envoys here, and prevent us from sending others until peace is made. Any active quests will be canceled. </Text>
+			<Text>Suora sodanjulistus tuhoaa kaikki [ICON_Envoy] lähettiläämme ja estää meitä lähettämästä uusia kunnes välillämme on rauha. Kaikki nykyiset tehtävät perutaan. </Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_LEVY_MILITARY_BUTTON">
-			<Text>Levy Military</Text>
+			<Text>Värvää armeija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_LEVY_MILITARY_DETAILS">
-			<Text>The Suzerain of this city-state can pay {1_GoldCost} [ICON_Gold] Gold to take temporary control of all its current military units. They will return to the city-state after {2_TurnLimit} [ICON_Turn] Turns, or if the Suzerain changes.</Text>
+			<Text>Tähän kaupunkivaltioon valta-asemassa oleva kansa voi maksaa {1_GoldCost} [ICON_Gold] kultaa ottaakseen väliaikaisesti kaikki kaupunkivaltion nykyiset sotayksiköt hallintaansa. Ne palaavat kaupunkivaltion hallintaan {2_TurnLimit} [ICON_Turn] vuorossa tai mikäli valta-asema menetetään.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_MILITARY_ALREADY_LEVIED">
-			<Text>You have already levied the military of this city-state.</Text>
+			<Text>Olemme jo värvänneet tämän kaupunkivaltion armeijan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DESTROYED">
-			<Text>Destroyed</Text>
+			<Text>Tuhottu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DESTROYED_LONG">
-			<Text>This city-state has been destroyed.</Text>
+			<Text>Tämä kaupunkivaltio on tuhottu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DIPLO_AWARE">
-			<Text>This city-state is aware of your civilization's existence.</Text>
+			<Text>Tämä kaupunkivaltio tietää kansakuntamme olevan olemassa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DIPLO_GOOD">
-			<Text>Your civilization has a good relationship with this city-state. It will not declare war on you, unless it has a foreign Suzerain that does so.</Text>
+			<Text>Kansallamme on hyvät välit tähän kaupunkivaltioon. Se ei julista meille sotaa paitsi jos valta-aseman ottanut kansa julistaa sodan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DIPLO_SUZERAIN">
-			<Text>Your civilization is the Suzerain of this city-state. You are receiving special bonuses, and the city-state will follow you into war and peace.</Text>
+			<Text>Olemme valta-asemassa tähän kaupunkivaltioon. Saamme erityisiä etuja ja kaupunkivaltio kulkee kanssamme sotaan ja rauhaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DIPLO_WAR">
-			<Text>Your civilization is at war with this city-state. You do not receive any bonuses while at war, but as long as you were not the aggressor, you can still send [ICON_Envoy] Envoys to sway its allegiance.</Text>
+			<Text>Olemme sodassa tähän kaupunkivaltioon. Emme saa mitään etuja sodan aikana, mutta voimme edelleen lähettää [ICON_Envoy] lähettiläitä, mikäli emme aloittaneet konfliktia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DISTRICT_QUEST">
-			<Text>District Quest</Text>
+			<Text>Kaupunkialuetehtävä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS">
-			<Text>Envoys</Text>
+			<Text>Lähettiläät</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS_INFLUENCE_BY_CIVILIZATION">
-			<Text>Envoy influence by civilization:</Text>
+			<Text>Lähettiläiden vaikutus per kansa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS_SENT">
-			<Text>Envoys Sent:</Text>
+			<Text>Lähettiläitä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS_SENT_ICON">
-			<Text>Envoys [ICON_Envoy] Sent:</Text>
+			<Text>[ICON_Envoy] Lähettiläitä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_INFLUENCED_BY">
-			<Text>Influenced By:</Text>
+			<Text>Vaikuttaja:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_LOOK_AT">
-			<Text>View this city-state on the map.</Text>
+			<Text>Näytä kaupunkivaltio kartalla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_MAKE_PEACE">
-			<Text>Make Peace</Text>
+			<Text>Muodosta rauha</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_NUMBER_ENVOYS">
-			<Text>[ICON_Envoy]{1_NumEnvoys} Envoys</Text>
+			<Text>[ICON_Envoy]{1_NumEnvoys} lähettilästä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_NONE">
-			<Text>None</Text>
+			<Text>Ei tunneta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_NONE_MET">
-			<Text>You have not yet met a city-state.</Text>
+			<Text>Emme ole kohdanneet kaupunkivaltiota.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_OF">
-			<Text>Of</Text>
+			<Text>nimeltään</Text>
 		</Replace>
 		<!-- Appears on 2nd of 3 lines. e.g., "City State Of Toronto" -->
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_OVERVIEW">
