@@ -4272,31 +4272,31 @@
 		</Replace>
 		<!-- ==================== Great Works Overview =================== -->
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS">
-			<Text>Great Works</Text>
+			<Text>Merkkiteokset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_SCREEN_TITLE">
-			<Text>GREAT WORKS</Text>
+			<Text>MERKKITEOKSET</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ORGANIZE_GREAT_WORKS">
-			<Text>ORGANIZE GREAT WORKS</Text>
+			<Text>JÄRJESTÄ MERKKITEOKSET</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_PLACING">
-			<Text>PLACING</Text>
+			<Text>ASETTELU</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_VIEW_GALLERY">
-			<Text>View Gallery</Text>
+			<Text>Näytä galleria</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_VIEW_GREAT_WORK">
-			<Text>View Great Work</Text>
+			<Text>Näytä teos</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_TRADE_GREAT_WORK">
-			<Text>Trade Great Work</Text>
+			<Text>Käy kauppaa teoksella</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_DISPLAY_SPACES">
-			<Text>DISPLAY SPACES</Text>
+			<Text>NÄYTÄ TILAT</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_PROVIDING">
-			<Text>PROVIDING:</Text>
+			<Text>TARJOAA:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_THEMED_BONUS">
 			<Text>[ICON_ThemeBonus_Active][COLOR:ResCultureLabelCS]THEMED[ENDCOLOR]</Text>
@@ -4305,305 +4305,305 @@
 			<Text>[ICON_ThemeBonus]Theming({1_current}/{2_total})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Turismi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_NEW_GREAT_WORK">
-			<Text>YOUR CIVILIZATION HAS PRODUCED A GREAT WORK!</Text>
+			<Text>KANSAKUNTAMME ON TUOTTANUT MERKITTÄVÄN TEOKSEN!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_VIEW_GREAT_WORKS">
-			<Text>View Great Works</Text>
+			<Text>Näytä teokset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_BACK_TO_GREAT_WORKS">
-			<Text>Back to Great Works</Text>
+			<Text>Takaisin teoksiin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_CREATED_BY">
-			<Text>Created by {1_creator}</Text>
+			<Text>Luonut {1_creator}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_CREATED_TIME">
 			<Text>{1_type}, {2_date}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_CREATED_PLACE">
-			<Text>Displayed in the {1_building}, {2_city}</Text>
+			<Text>Näytillä rakennuksessa {1_building}, {2_city}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_TOOLTIP">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Created in {4_date}[NEWLINE]Provides {5_providing} per turn.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Luonut {3_author}[NEWLINE]Luotu {4_date}[NEWLINE]Tarjoaa {5_providing} vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_TOOLTIP_THEMABLE">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Created in {4_date}[NEWLINE]Provides {5_providing} per turn when not themed.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Luonut {3_author}[NEWLINE]Luotu {4_date}[NEWLINE]Tarjoaa {5_providing} vuorossa ollessaan ilman teemaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_TOOLTIP_DUPLICATE">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Created in {4_date}[NEWLINE]Provides 1 [ICON_Culture] Culture 1 [ICON_Tourism] Tourism per turn when authored by an artist who already has art displayed here.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Luonut {3_author}[NEWLINE]Luotu {4_date}[NEWLINE]Tarjoaa 1 [ICON_Culture] kulttuuria 1 [ICON_Tourism] turismia vuorossa kun sen on tehnyt taiteilija, jolla on jo taidetta näytillä täällä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ARTIFACT_TOOLTIP">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Found in {4_date}[NEWLINE]Provides {5_providing} per turn.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Kansalta {3_author}[NEWLINE]Löydetty {4_date}[NEWLINE]Tarjoaa {5_providing} vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ARTIFACT_TOOLTIP_THEMABLE">
-			<Text>{1_name} ({2_type})[NEWLINE]Created by {3_author}[NEWLINE]Found in {4_date}[NEWLINE]Provides {5_providing} per turn when not themed.</Text>
+			<Text>{1_name} ({2_type})[NEWLINE]Kansalta {3_author}[NEWLINE]Löydetty {4_date}[NEWLINE]Tarjoaa {5_providing} vuorossa ollessaan ilman teemaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_EMPTY_TOOLTIP">
-			<Text>This slot can display Great Works of type:[NEWLINE]{1_works}</Text>
+			<Text>Tällä paikalla voidaan esittää tämäntyyppisiä merkittäviä teoksia:[NEWLINE]{1_works}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_MISMATCHED_THEME">
-			<Text>This {1_type} does not match the theme for this Museum. Add {2_type} from unique Great Artists to receive the bonus.</Text>
+			<Text>{1_type} ei täsmää tämän museon teeman kanssa. Lisää {2_type} uniikeilta merkittäviltä taiteilijoilta saadaksemme tämän edun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_MISMATCHED_ERA">
-			<Text>This {1_type} does not match the era for this Museum. Add {2_type} from unique civilizations to receive the bonus.</Text>
+			<Text>{1_type} ei täsmää tämän museon aikakauden kanssa. Lisää {2_type} uniikeilta kansakunnilta saadaksemme tämän edun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_DUPLICATE_ARTIFACT_CIVS">
-			<Text>This building contains two or more Great Works created by {1_player}. Add {2_type} from unique civilizations to receive the bonus.</Text>
+			<Text>Tässä rakennuksessa on kaksi tai useimpi teos pelaajalta {1_player}. Lisää {2_type} uniikeilta kansakunnilta saadaksemme tämän edun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ART_THEME_SINGLE">
-			<Text>This {1_type} is establishing the theme for this museum.</Text>
+			<Text>{1_type} on muodostamassa teeman tälle museolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ART_THEME_DUAL">
-			<Text>{1_type} matching the theme for this Museum. Add one more work of this type to receive the theming bonus.</Text>
+			<Text>{1_type} täsmää tämän museon teeman kanssa. Lisää vielä yksi tämäntyyppinen teos, jotta saamme teemaedun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ART_THEME_DUPLICATE_ARTIST">
-			<Text>{1_type} matches the theme, but this Museum already has a Great Work from this artist. Add Great Works of the same theme, but from unique artists to receive the bonus.</Text>
+			<Text>{1_type} täsmää teeman kanssa, mutta tässä museossa on jo teos tältä taiteilijalta. Lisää saman teeman teos, mutta uniikilta taiteilijalta, jotta saamme teemaedun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ART_MATCHED_THEME">
-			<Text>[COLOR:ResCultureLabelCS]{1_building} is now themed. [ICON_Culture] Culture and [ICON_Tourism] Tourism are doubled.[ENDCOLOR]</Text>
+			<Text>[COLOR:ResCultureLabelCS]{1_building} on nyt teemattu. [ICON_Culture] Kulttuuri ja [ICON_Tourism] turismi ovat kaksinkertaiset.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_LOCKED_FROM_MOVE">
-			<Text>Moved into this slot recently. Cannot be moved again for another {1_Turns} turns.</Text>
+			<Text>Siirretty tähän paikkaan lähiaikoina. Voidaan siirtää seuraavan kerran {1_Turns} vuoron kuluttua.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ARTIFACT_LOCKED_FROM_MOVE">
-			<Text>Artifacts may only be moved from full Archaeological Museums (those with no empty slots).</Text>
+			<Text>Artefaktit voidaan siirtää ainoastaan täysistä arkeologisista museoista (eli joissa ei ole vapaita paikkoja).</Text>
 		</Replace>
 		<!-- ==================== GreatWorkObjectTypes ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_SCULPTURE">
-			<Text>[ICON_GreatWork_Sculpture] Sculpture</Text>
+			<Text>[ICON_GreatWork_Sculpture] Veistos</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_PORTRAIT">
-			<Text>[ICON_GreatWork_Portrait] Portrait</Text>
+			<Text>[ICON_GreatWork_Portrait] Muotokuva</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_LANDSCAPE">
-			<Text>[ICON_GreatWork_Landscape] Landscape</Text>
+			<Text>[ICON_GreatWork_Landscape] Maisema</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_RELIGIOUS">
-			<Text>[ICON_GreatWork_Religious] Religious</Text>
+			<Text>[ICON_GreatWork_Religious] Uskonnollinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT">
-			<Text>[ICON_GreatWork_Artifact] Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Artefakti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_ANCIENT">
-			<Text>[ICON_GreatWork_Artifact] Ancient Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Muinainen artefakti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_CLASSICAL">
-			<Text>[ICON_GreatWork_Artifact] Classical Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Antiikin artefakti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_MEDIEVAL">
-			<Text>[ICON_GreatWork_Artifact] Medieval Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Keskiaikainen artefakti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_RENAISSANCE">
-			<Text>[ICON_GreatWork_Artifact] Renaissance Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Renessanssin artefakti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_INDUSTRIAL">
-			<Text>[ICON_GreatWork_Artifact] Industrial Artifact</Text>
+			<Text>[ICON_GreatWork_Artifact] Teollinen artefakti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_WRITING">
-			<Text>[ICON_GreatWork_Writing] Writing</Text>
+			<Text>[ICON_GreatWork_Writing] Kirjoitus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_MUSIC">
-			<Text>[ICON_GreatWork_Music] Music</Text>
+			<Text>[ICON_GreatWork_Music] Kappale</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_RELIC">
-			<Text>[ICON_GreatWork_Relic] Relic</Text>
+			<Text>[ICON_GreatWork_Relic] Muinaismuisto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_SCULPTURE_PLURAL">
-			<Text>[ICON_GreatWork_Sculpture] Sculptures</Text>
+			<Text>[ICON_GreatWork_Sculpture] Veistokset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_PORTRAIT_PLURAL">
-			<Text>[ICON_GreatWork_Portrait] Portraits</Text>
+			<Text>[ICON_GreatWork_Portrait] Muotokuvat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_LANDSCAPE_PLURAL">
-			<Text>[ICON_GreatWork_Landscape] Landscapes</Text>
+			<Text>[ICON_GreatWork_Landscape] Maisemat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_RELIGIOUS_PLURAL">
-			<Text>[ICON_GreatWork_Religious] Religious Relics</Text>
+			<Text>[ICON_GreatWork_Religious] Uskonnolliset muinaismuistot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Artefaktit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_ANCIENT_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Ancient Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Muinaiset artefaktit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_CLASSICAL_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Classical Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Antiikin artefaktit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_MEDIEVAL_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Medieval Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Keskiaikaiset artefaktit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_RENAISSANCE_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Renaissance Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Renessanssin artefaktit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_ARTIFACT_ERA_INDUSTRIAL_PLURAL">
-			<Text>[ICON_GreatWork_Artifact] Industrial Artifacts</Text>
+			<Text>[ICON_GreatWork_Artifact] Teolliset artefaktit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_WRITING_PLURAL">
-			<Text>[ICON_GreatWork_Writing] Writing</Text>
+			<Text>[ICON_GreatWork_Writing] Kirjoitukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_MUSIC_PLURAL">
-			<Text>[ICON_GreatWork_Music] Music</Text>
+			<Text>[ICON_GreatWork_Music] Kappaleet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREATWORKOBJECT_RELIC_PLURAL">
-			<Text>[ICON_GreatWork_Relic] Relics</Text>
+			<Text>[ICON_GreatWork_Relic] Muinaismuistot</Text>
 		</Replace>
 		<!-- ==================== TradeRouteChooser ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_BEGIN_ROUTE_BUTTON">
-			<Text>BEGIN ROUTE</Text>
+			<Text>PERUSTA REITTI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_RECEIVES_RESOURCE">
-			<Text>{1_City} receives:</Text>
+			<Text>{1_City} saa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_TO_DESTINATION">
-			<Text>{1_City} TO...</Text>
+			<Text>{1_City} -></Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_FILTER_SHOWROUTES">
-			<Text>Show Routes</Text>
+			<Text>Näytä reitit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_FILTER_ALL">
-			<Text>All</Text>
+			<Text>Kaikki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_FILTER_CITYSTATES">
-			<Text>City-States</Text>
+			<Text>Kaupunkivaltiot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_SELECT_DESTINATION">
-			<Text>Select a Trade Route Destination.</Text>
+			<Text>Valitse kauppareitin kohde.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_NO_TRADE_ROUTES">
-			<Text>No Available Trade Route Destinations.</Text>
+			<Text>Ei kohteita kauppareitille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_ALL_ROUTES_BUSY">
-			<Text>All available Trade Routes are in use.</Text>
+			<Text>Kaikki saatavilla olevat reitit ovat käytössä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_NO_BENEFITS_FROM_ROUTE">
-			<Text>No Benefits from Route.</Text>
+			<Text>Ei hyötyjä reitistä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_DISTRICTS">
-			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} from Districts in {4_CityName}.</Text>
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} kaupunkialueista kaupungissa {4_CityName}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TRADING_POSTS">
-			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} from your [ICON_TradingPost] Trading Posts along the path.</Text>
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} reitin varrella olevilta [ICON_TradingPost] kauppapaikoiltamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_BONUSES">
-			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} from other bonuses.</Text>
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} muista eduista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TOTAL">
-			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} total</Text>
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} yhteensä</Text>
 		</Replace>
 		<!-- ==================== DeclareWarPopup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_HEADER">
-			<Text>DECLARE WAR</Text>
+			<Text>JULISTA SOTA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_ADVISOR_TEXT">
-			<Text>Before you declare war, you may wish to consider the consequences.</Text>
+			<Text>Ennen sodanjulistusta saattaa olla aiheellista harkita seuraamuksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_WARMONGER_HEADING">
-			<Text>Warmonger Penalties</Text>
+			<Text>Sodanlietsojan haitat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_WAR_TYPE">
-			<Text>War type: {1_WarType}</Text>
+			<Text>Sodan tyyppi: {1_WarType}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_WARMONGER_DETAILS">
-			<Text>Warmonger penalty: {1_WarmongerLevel}</Text>
+			<Text>Sodanlietsojan haitta: {1_WarmongerLevel}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_HEADING">
-			<Text>Defensive Pacts Triggered</Text>
+			<Text>Voimaan astuvat puolustusliitot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_NUM_DEFENSIVE_PACTS">
-			<Text>{1_NumPacts} defensive pact(s) will be triggered.</Text>
+			<Text>{1_NumPacts} puolutustusliitto(a) astuu voimaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_DEFENSIVE_PACT_TOOLTIP">
-			<Text>Civilization that you will also go to war with:</Text>
+			<Text>Muut kansakunnat joita vastaan alamme sotia:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_CITY_STATE_HEADING">
-			<Text>City-State Effects</Text>
+			<Text>Vaikutukset kaupunkivaltioihin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_NUM_CITY_STATES">
-			<Text>{1_NumCS} city-state(s) will go to war against you.</Text>
+			<Text>{1_NumCS} kaupunkivaltio(ta) käy sotaan meitä vastaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_CITY_STATES_TOOLTIP">
-			<Text>City-State Yields Lost:</Text>
+			<Text>Menetetyt kaupunkivaltiotuotot:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_TRADE_ROUTE_HEADING">
-			<Text>Trade Route Effects</Text>
+			<Text>Vaikutukset kauppareitteihin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_MY_TRADE_ROUTES_LOST">
-			<Text>{1_NumTraders} outgoing trader(s) will be eliminated.</Text>
+			<Text>Vienti: {1_NumTraders} kauppareitti(ä) tuhotaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_TRADE_ROUTES_TO_ME_LOST">
-			<Text>{1_NumRoutes} incoming trade route(s) will be lost.</Text>
+			<Text>Tuonti: {1_NumRoutes} kauppareitti(ä) menetetään.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_TRADE_ROUTE_TOOLTIP">
-			<Text>Trade Route Yields Lost:</Text>
+			<Text>Menetetty kauppareittien tuotto:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_DEALS_HEADING">
-			<Text>Deals Terminated</Text>
+			<Text>Päättyvät sopimukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_NUM_DEALS_LOST">
-			<Text>{1_NumDeals} deals will be terminated.</Text>
+			<Text>{1_NumDeals} sopimus(ta) päättyy.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_DEALS_TOOLTIP">
-			<Text>Deals Lost:</Text>
+			<Text>Menetetyt sopimukset:</Text>
 		</Replace>
 		<!-- ==================== Victory Status Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_PANEL_HEADER">
-			<Text>Victory Status</Text>
+			<Text>Voittotilanne</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_PANEL_HEADER">
-			<Text>Culture Victory</Text>
+			<Text>Kulttuurivoitto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_SCIENCE_PANEL_HEADER">
-			<Text>Science Victory</Text>
+			<Text>Tiedevoitto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_DOMINATION_PANEL_HEADER">
-			<Text>Domination Victory</Text>
+			<Text>Valtausvoitto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_RELIGION_PANEL_HEADER">
-			<Text>Religious Victory</Text>
+			<Text>Uskonnollinen voitto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_PERCENT_HEADER">
-			<Text>PERCENT OF WIN</Text>
+			<Text>PROSENTTIA VOITOSTA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISTS_NEEDED">
-			<Text>Tourists Needed for Culture Victory: {1_Percent}</Text>
+			<Text>Kulttuurivoittoon vaadittujen turistien tila: {1_Percent}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISTS_LABEL">
-			<Text>Tourists</Text>
+			<Text>Turistit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_LIFETIMECULTURE_HEADER">
-			<Text>LIFETIME CULTURE</Text>
+			<Text>KULTTUURIKERTYMÄ</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_STAYCATIONERS_HEADER">
-			<Text>STAYCATIONERS</Text>
+			<Text>LÄHIMATKAILIJAT</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISM_HEADER">
-			<Text>TOURISM</Text>
+			<Text>TURISMI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISTS_HEADER">
-			<Text>TOURISTS</Text>
+			<Text>TURISTIT</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_SCIENCE_EARTH_SATELLITE_HEADER">
-			<Text>SATELLITE</Text>
+			<Text>SATELLIITTI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_SCIENCE_SPACEPORTS_HEADER">
-			<Text>SPACEPORTS</Text>
+			<Text>AVARUUSPORTIT</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_SCIENCE_MOON_LANDING_HEADER">
-			<Text>MOON</Text>
+			<Text>KUU</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_SCIENCE_MARS_COLONY_HEADER">
 			<Text>MARS</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_RELIGION_NONE">
-			<Text>none</Text>
+			<Text>ei ole</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_RELIGION_FOUNDED_HEADER">
-			<Text>RELIGION FOUNDED</Text>
+			<Text>USKONTO MUODOSTETTU</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_RELIGION_PREDOMINANT_HEADER">
-			<Text>PREDOMINANT RELIGION</Text>
+			<Text>VALTAUSKONTO</Text>
 		</Replace>
 		<!-- Multiplayer Last Remaining Player Popup -->
 		<Replace Language="fi_FI" Tag="TXT_KEY_MP_LAST_PLAYER">
