@@ -4074,174 +4074,174 @@
 		</Replace>
 		<!-- ==================== Great People Popup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_ABILITIES">
-			<Text>Abilities:</Text>
+			<Text>Kyvyt:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_ALL_POSSIBLE_CHOSEN">
-			<Text>All individuals of this type have already been earned.</Text>
+			<Text>Kaikki mahdolliset tämän kaltaiset henkilöt on jo ansaittu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_BACK">
-			<Text>Back</Text>
+			<Text>Takaisin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_BIOGRAPHY">
-			<Text>Biography</Text>
+			<Text>Elämäkerta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CLAIMED">
-			<Text>This Great Person has already been claimed!</Text>
+			<Text>Tämä merkittävä henkilö on jo ansaittu!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CONTRIBUTES_GREAT_WORK">
-			<Text>Contributes Great Work:</Text>
+			<Text>Tarjoaa muassaan merkittävän teoksen:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_EARN_DATE">
-			<Text>Earn Date:</Text>
+			<Text>Ansaittu:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_EXCESS_POINTS">
-			<Text>Excess Points</Text>
+			<Text>Ylijäämäiset pisteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_GREAT_PERSON">
-			<Text>Great Person:</Text>
+			<Text>Merkittävä henkilö:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_NONE_AVAILABLE">
-			<Text>None Available</Text>
+			<Text>Ei saatavilla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_PASS">
-			<Text>PASS</Text>
+			<Text>OHITA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_RECRUIT">
-			<Text>RECRUIT</Text>
+			<Text>VÄRVÄÄ</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_RECRUITED_BY">
-			<Text>Recruited By:</Text>
+			<Text>Värvääjä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_RECRUIT_PROGRESS">
-			<Text>RECRUIT PROGRESS:</Text>
+			<Text>VÄRVÄYSTILANNE:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_OR_RECRUIT_WITH_PATRONAGE">
-			<Text>Or Recruit with Patronage:</Text>
+			<Text>Tai värvää tukemalla:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_PASS_DETAILS">
-			<Text>If you do not wish to recruit this [ICON_GreatPerson] Great Person, and would rather save your [ICON_GreatPerson] Great Person points for a future opportunity, you can choose to pass. Passing costs {1_RejectCost} [ICON_GreatPerson] Great Person points and cannot be undone. The points spent will apply as a discount to the [ICON_GreatPerson] Great Person, allowing other players to acquire it for less points.</Text>
+			<Text>Voimme harkita ohittamista mikäli emme halua värvätä tätä [ICON_GreatPerson] merkittävää henkilöä voimme säästää pisteet seuraavaan tilaisuuteen. Ohittaminen maksaa {1_RejectCost} [ICON_GreatPerson] merkittävien henkilöiden pistettä ja sitä ei voi perua. Käytetyt pisteet heijastuvat alennuksena tähän [ICON_GreatPerson] merkittävään henkilöön, jolloin toiset pelaajat voivat saada hänet halvemmalla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_DETAILS">
-			<Text>You can spend {1_FaithCost} [ICON_Faith] Faith on patronage and your current [ICON_GreatPerson] Great Person points to immediately earn this [ICON_GreatPerson] Great Person. The amount of [ICON_Faith] Faith needed is based on the difference between the number of points you have and the points needed to recruit the [ICON_GreatPerson] Great Person normally.[NEWLINE][NEWLINE]You cannot perform this action if you or another player already has enough points to recruit the [ICON_GreatPerson] Great Person, or if you have previously passed over the [ICON_GreatPerson] Great Person.</Text>
+			<Text>Voimme käyttää tukemiseen {1_FaithCost} [ICON_Faith] uskoa sekä nykyiset [ICON_GreatPerson] merkittävien henkilöiden pisteet ansaitseksemme tämän [ICON_GreatPerson] merkittävän henkilön. Vaaditun [ICON_Faith] uskon määrä pohjautuu siihen, kuinka paljon nykyisistä pisteistämme puuttuu [ICON_GreatPerson] merkittävän henkilön värväykseen vaaditusta määrästä.[NEWLINE][NEWLINE]Emme voi tukea mikäli meillä tai jollakulla toisella pelaajalla on jo riittävästi pisteitä tämän [ICON_GreatPerson] merkittävän henkilön värväämiseen tai mikäli olemme aiemmin ohittaneet tämän [ICON_GreatPerson] merkittävän henkilön.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_DETAILS">
-			<Text>You can spend {1_GoldCost} [ICON_Gold] Gold on patronage and your current [ICON_GreatPerson] Great Person points to immediately earn this [ICON_GreatPerson] Great Person. The amount of [ICON_Gold] Gold needed is based on the difference between the number of points you have and the points needed to recruit the [ICON_GreatPerson] Great Person normally.[NEWLINE][NEWLINE]You cannot perform this action if you or another player already has enough points to recruit the [ICON_GreatPerson] Great Person, or if you have previously passed over the [ICON_GreatPerson] Great Person.</Text>
+			<Text>Voimme käyttää tukemiseen {1_GoldCost} [ICON_Gold] kultaa sekä nykyiset [ICON_GreatPerson] merkittävien henkilöiden pisteet ansaitseksemme tämän [ICON_GreatPerson] merkittävän henkilön. Vaaditun [ICON_Gold] kullan määrä pohjautuu siihen, kuinka paljon nykyisistä pisteistämme puuttuu [ICON_GreatPerson] merkittävän henkilön värväykseen vaaditusta määrästä.[NEWLINE][NEWLINE]Emme voi tukea mikäli meillä tai jollakulla toisella pelaajalla on jo riittävästi pisteitä tämän [ICON_GreatPerson] merkittävän henkilön värväämiseen tai mikäli olemme aiemmin ohittaneet tämän [ICON_GreatPerson] merkittävän henkilön.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_RECRUIT_DETAILS">
-			<Text>You have accumulated enough [ICON_GreatPerson] Great Person points of this type to meet its cost, and can now spend {1_RecruitCost} points to recruit this [ICON_GreatPerson] Great Person, immediately spawning it in your [ICON_Capital] Capital, or for the Great Admiral, your nearest coastal city.</Text>
+			<Text>Olemme keränneet hinnan edestä tämäntyyppisiä [ICON_GreatPerson] merkittävien henkilöiden pisteitä ja voimme nyt kuluttaa {1_RecruitCost} pisteet värvätäksemme tämän [ICON_GreatPerson] merkittävän henkilön, jolloin se ilmaantuu välittömästi [ICON_Capital] pääkaupunkiimme, tai vaihtoehtoisesti amiraalin tapauksessa lähimpään rannikkokaupunkiimme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_POINT_DETAILS">
-			<Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} {1_PointsPerTurn : plural 1?point; other?points;} per [ICON_Turn] Turn.[NEWLINE][NEWLINE]Points come primarily from districts and buildings, but can also come from world wonders and policies.</Text>
+			<Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} {1_PointsPerTurn : plural 1?piste; other?pistettä;} [ICON_Turn] vuorossa.[NEWLINE][NEWLINE]Pisteet tulevat ensisijaisesti kaupunkialueista ja rakennuksista, mutta niitä voi myös muodostua maailmanihmeistä ja linjauksista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON">
-			<Text>Cannot Recruit</Text>
+			<Text>Ei voi värvätä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_ALREADY_EARNED_MAXIMUM">
-			<Text>You have already earned the maximum allowed number of this type of Great Person.</Text>
+			<Text>Olemme jo ansainneet suurimman mahdollisen määrän tämäntyyppisiä merkittäviä henkilöitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_NO_VALID_SPAWN_SEA">
-			<Text>You must have a coastal city center or a Harbor district in order to spawn a Great Admiral.</Text>
+			<Text>Tarvitsemme kaupungin jonka keskusta on rannikolla tai vaihtoehtoisesti sataman, jotta voimme saada merkittävän amiraalin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_CLAIMED_BY_OTHER">
-			<Text>Another civilization has an active claim on this Great Person.</Text>
+			<Text>Toisella kansalla on voimassa oleva kytkös tähän merkittävään henkilöön.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_ALREADY_REJECTED">
-			<Text>You have already chosen to Pass on this Great Person.</Text>
+			<Text>Olemme jo valinneet ohittaa tämän merkittävän henkilön.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_DISALLOWED_BY_CIV_TRAIT">
-			<Text>Your civilization trait ({1_TraitName}) prevents you from earning this [ICON_GreatPerson] Great Person.</Text>
+			<Text>Kansakuntamme piirre ({1_TraitName}) estää meitä ansaitsemasta tätä [ICON_GreatPerson] merkittävää henkilöä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_CANNOT_EARN_PERSON_DISALLOWED_BY_LEADER_TRAIT">
-			<Text>Your leader trait ({1_TraitName}) prevents you from earning this [ICON_GreatPerson] Great Person.</Text>
+			<Text>Hallitsijan piirre ({1_TraitName}) estää meitä ansaitsemasta tätä [ICON_GreatPerson] merkittävää henkilöä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_RECRUITMENT_HISTORY">
-			<Text>Recruitment History</Text>
+			<Text>Värväyshistoria</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_TAB_GREAT_PEOPLE">
-			<Text>Great People</Text>
+			<Text>Merkittävät henkilöt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_TAB_PREVIOUSLY_RECRUITED">
-			<Text>Previously Recruited</Text>
+			<Text>Aiemmin värvätyt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_TITLE">
-			<Text>GREAT PEOPLE</Text>
+			<Text>MERKITTÄVÄT HENKILÖT</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_PERSON_ACTIVATED">
-			<Text>Great Person activated!</Text>
+			<Text>Merkittävä henkilö aktivoitui!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_WORK_CREATED">
-			<Text>Great Work created</Text>
+			<Text>Syntyi merkkiteos</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_RECRUITED_BY_YOU">
-			<Text>You</Text>
+			<Text>Me</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_RECRUITED_BY_UNKNOWN">
-			<Text>An unknown player</Text>
+			<Text>Tuntematon pelaaja</Text>
 		</Replace>
 		<!-- ==================== Chat Panel Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_DIPLO_TO_ALL">
-			<Text>To All</Text>
+			<Text>Kaikille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLO_TO_TEAM">
-			<Text>To Team</Text>
+			<Text>Joukkueelle</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLO_TO_SELF">
-			<Text>To Self</Text>
+			<Text>Itselle</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLO_TO_PLAYER">
-			<Text>To {1_player}</Text>
+			<Text>Pelaajalle {1_player}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SHOW_PLAYER_LIST">
-			<Text>Show Player List</Text>
+			<Text>Näytä pelaajalista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_HOST">
-			<Text>Host</Text>
+			<Text>Isäntä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="PLAYERACTION_KICKPLAYER">
-			<Text>Kick Player</Text>
+			<Text>Potki pelaaja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="PLAYERACTION_KICKPLAYER_TOOLTIP">
-			<Text>Kick this player from the game.</Text>
+			<Text>Potki tämä pelaaja pelistä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="PLAYERACTION_FRIENDREQUEST">
-			<Text>Friend Player</Text>
+			<Text>Ystävysty</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="PLAYERACTION_FRIENDREQUEST_TOOLTIP">
-			<Text>Add this player as a friend on Steam.</Text>
+			<Text>Lisää tämä pelaaja ystäväksi Steamissa.</Text>
 		</Replace>
 		<!-- ==================== Map Pin List Panel Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_DEFAULT_NAME">
-			<Text>Unnamed Pin {1_number}</Text>
+			<Text>Nimetön pinni {1_number}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_LIST_PLAYER_PIN_TOOLTIP">
-			<Text>Left click to look at pin.  Right click to edit pin.</Text>
+			<Text>Vasen napsautus tarkastellaksesi pinniä. Oikea napaustus muokataksesi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_LIST_REMOTE_PIN_TOOLTIP">
-			<Text>Left click to look at pin.</Text>
+			<Text>Vasen napsautus tarkastellaksesi pinniä.</Text>
 		</Replace>
 		<!-- ==================== Pause Panel Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_GAME_PAUSED_BY">
-			<Text>Game Paused by {1_PlayerName}</Text>
+			<Text>Pelin on tauottanut {1_PlayerName}</Text>
 		</Replace>
 		<!-- ==================== Turn Phase Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_STRATEGIC_PHASE">
-			<Text>Empire Phase</Text>
+			<Text>Hallintovaihe</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TACTICAL_PHASE">
-			<Text>Movement Phase</Text>
+			<Text>Liikkumisvaihe</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_YOUR_TURN_BANNER">
-			<Text>Your Turn!</Text>
+			<Text>Meidän vuoromme!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WAITING_ON_YOU_BANNER">
-			<Text>The game is waiting on you!</Text>
+			<Text>Peli odottaa meitä!</Text>
 		</Replace>
 		<!-- ==================== Turn Timer Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_KEY_TIME_DAYS_HOURS">
-			<Text>{1_number: number #} d {2_number: number #} h</Text>
+			<Text>{1_number: number #} pv {2_number: number #} t</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_KEY_TIME_HOURS_MINUTES">
-			<Text>{1_number: number #} h {2_number: number #} m</Text>
+			<Text>{1_number: number #} t {2_number: number #} m</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_KEY_TIME_MINS_SECONDS">
 			<Text>{1_number: number #} m {2_number: number #} s</Text>
@@ -4250,10 +4250,10 @@
 			<Text>{1_number: number #} s</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_KEY_EST_TIME_DAYS_HOURS">
-			<Text>~{1_number: number #} d {2_number: number #} h</Text>
+			<Text>~{1_number: number #} pv {2_number: number #} t</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_KEY_EST_TIME_HOURS_MINUTES">
-			<Text>~{1_number: number #} h {2_number: number #} m</Text>
+			<Text>~{1_number: number #} t {2_number: number #} m</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_KEY_EST_TIME_MINS_SECONDS">
 			<Text>~{1_number: number #} m {2_number: number #} s</Text>
@@ -4262,13 +4262,13 @@
 			<Text>~{1_number: number #} s</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_KEY_YOUR_TURN_TIME_TOOLTIP">
-			<Text>Time remaining for your turn</Text>
+			<Text>Vuoromme jäljellä oleva aika</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_KEY_ESTIMATED_TIME_TIL_YOUR_TURN_TIME_TOOLTIP">
-			<Text>Estimated time until your next turn. Game desynchronization or players with slower machines can affect this estimate.</Text>
+			<Text>Arvioitu aika seuraavaan vuoroomme. Pelin joutuminen epäsynkkaan tai hitaammalla koneella pelaavat pelaajat voivat vaikuttaa arvioon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_KEY_ESTIMATED_TIME_ELAPSED_TOOLTIP">
-			<Text>Estimated time has elapsed. This can occur due to game desynchronization or players with slower machines. Please wait.</Text>
+			<Text>Arvioitu aika on kulunut. Tämä voi johtua pelin epäsynkkaan joutumisesta tai hitaampikoneisista pelaajista. Odota hetki.</Text>
 		</Replace>
 		<!-- ==================== Great Works Overview =================== -->
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS">
