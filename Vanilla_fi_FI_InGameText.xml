@@ -20,7 +20,7 @@
 			<Text>Ok</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CANCEL">
-			<Text>Perutaa</Text>
+			<Text>Peruuta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_YES">
 			<Text>Kyllä</Text>
@@ -1666,10 +1666,10 @@
 			<Text>+{1_InfluencePointsRate} {1_InfluencePointsRate : plural 1?piste; other?pistettä;} vaikutusvaltaa [ICON_Turn] vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_THRESHOLD">
-			<Text>{1_EnvoysPerThreshold} [ICON_Envoy] {1_EnvoysPerThreshold : plural 1?lähettiläs; other?lähettilästä;} kun {2_InfluencePointThreshold} vaikutusvallan {2_InfluencePointThreshold : plural 1?piste; other?pistettä;}</Text>
+			<Text>{1_EnvoysPerThreshold} [ICON_Envoy] {1_EnvoysPerThreshold : plural 1?edustaja; other?edustajaa;} kun {2_InfluencePointThreshold} vaikutusvallan {2_InfluencePointThreshold : plural 1?piste; other?pistettä;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_ENVOYS">
-			<Text>{1_Envoys} [ICON_Envoy] {1_Envoys : plural 1?lähettiläs; other?lähettilästä;} käytettävissä</Text>
+			<Text>{1_Envoys} [ICON_Envoy] {1_Envoys : plural 1?edustaja; other?edustajaa;} käytettävissä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_SOURCES_HELP">
 			<Text>Hallitusmuodot ja linjaukset ovat vaikutusvaltapisteiden ensisijainen lähde.</Text>
@@ -3577,7 +3577,7 @@
 			<Text>MAAILMAN TILANNE</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERALL_TAB">
-			<Text>Yleistilanne</Text>
+			<Text>Katsaus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_TAB">
 			<Text>Pisteet</Text>
@@ -3634,10 +3634,10 @@
 			<Text>[ICON_Faith] uskoa vuorossa: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS">
-			<Text>[COLOR:NeutralCS]PISTE[ENDCOLOR]VOITTO saavutetaan kun ainutkaan kansakunta ei ole kyennyt mihinkään toiseen voittotapaan pelin loppuun mennessä. Tässä tapauksessa pelin voittaa kansakunta, jolla on eniten [COLOR:NeutralCS]PISTEITÄ[ENDCOLOR]!</Text>
+			<Text>[COLOR:NeutralCS]PISTEVOITTO[ENDCOLOR] saavutetaan kun ainutkaan kansakunta ei ole kyennyt mihinkään toiseen voittotapaan pelin loppuun mennessä. Tässä tapauksessa pelin voittaa kansakunta, jolla on eniten [COLOR:NeutralCS]PISTEITÄ[ENDCOLOR]!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_DETAILS">
-			<Text>[COLOR:ResScienceLabelCS]TIEDE[ENDCOLOR]VOITON saavuttaa kolmen merkkipaalun kautta:</Text>
+			<Text>[COLOR:ResScienceLabelCS]TIEDEVOITON[ENDCOLOR] saavuttaa kolmen merkkipaalun kautta:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_1">
 			<Text>Laukaise satelliitti.</Text>
@@ -3652,10 +3652,10 @@
 			<Text>[COLOR:ResScienceLabelCS]Seuraava vaihe: {1_NextStep}[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_NEXT_STEP_BUILD">
-			<Text>Rakenna {1_NextStep}</Text>
+			<Text>{1_NextStep} tarvitsee rakentaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCIENCE_NEXT_STEP_RESEARCH">
-			<Text>Tutki {1_NextStep}</Text>
+			<Text>{1_NextStep} tarvitsee kehittää</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_HOW_TO_VICTORY">
 			<Text>Miten saavuuttaa kulttuurivoiton?</Text>
@@ -3667,13 +3667,13 @@
 			<Text>Kykymme houkutella [COLOR:ResCultureLabelCS]VIERAILEVIA TURISTEJA[ENDCOLOR] kansakuntaamme perustuu oman [ICON_Culture] kulttuurituotantomme ja houkuteltavan kansakunnan [COLOR:ResCultureLabelCS]SISÄISTEN TURISTIEN[ENDCOLOR] väliseen eroon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_VICTORY_DETAILS">
-			<Text>Saavuttaaksemme [COLOR:ResCultureLabelCS]KULTTUURI[ENDCOLOR]VOITON meidän tulee houkutella [COLOR:ResCultureLabelCS]VIERAILEVIA TURISTEJA[ENDCOLOR] tuottamalla suuria määriä [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia. Voitto saavutetaan houkuttelemalla enemmän [COLOR:ResCultureLabelCS]VIERAILEVIA TURISTEJA[ENDCOLOR] kansakuntaamme kuin millään toisella kansakunnalla on [COLOR:ResCultureLabelCS]SISÄISIÄ TURISTEJA[ENDCOLOR].</Text>
+			<Text>Saavuttaaksemme [COLOR:ResCultureLabelCS]KULTTUURIVOITON[ENDCOLOR] meidän tulee houkutella [COLOR:ResCultureLabelCS]VIERAILEVIA TURISTEJA[ENDCOLOR] tuottamalla suuria määriä [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia. Voitto saavutetaan houkuttelemalla enemmän [COLOR:ResCultureLabelCS]VIERAILEVIA TURISTEJA[ENDCOLOR] kansakuntaamme kuin millään toisella kansakunnalla on [COLOR:ResCultureLabelCS]SISÄISIÄ TURISTEJA[ENDCOLOR].</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_DETAILS_DOMESTIC_TOURISTS">
 			<Text>[COLOR:ResCultureLabelCS]SISÄISET TURISTIMME[ENDCOLOR] edustavat kansakuntamme turisteja, jotka ovat tyytyväisiä kotimaan matkailuun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_DETAILS_VISITING_TOURISTS">
-			<Text>[COLOR:ResCultureLabelCS]VIERAILEVAT TURISTIT[ENDCOLOR] edustavat kansalaisten määriä, jotka olemme joukutelleet muiden kansakuntien [COLOR:ResCultureLabelCS]SISÄISEN TURISMIN[ENDCOLOR] kokonaispotentiaalista.</Text>
+			<Text>[COLOR:ResCultureLabelCS]VIERAILEVAT TURISTIT[ENDCOLOR] edustavat kansalaisten määrää, jonka olemme houkutelleet muiden kansakuntien [COLOR:ResCultureLabelCS]SISÄISEN TURISMIN[ENDCOLOR] kokonaispotentiaalista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CULTURE_WHAT_IS_VICTORY">
 			<Text>Mikä on kulttuurivoitto?</Text>
@@ -3724,19 +3724,19 @@
 			<Text>Omistaa alkuperäisen [ICON_Capital] pääkaupunginsa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_DETAILS">
-			<Text>[COLOR:ResMilitaryLabelCS]VALTAUS[ENDCOLOR]VOITON saavuttaa valtaamalla kunkin toisen kansakunnan [ICON_Capital] pääkaupungin.[NEWLINE][NEWLINE]Vahvasta armeijasta on suuresti hyötyä.</Text>
+			<Text>[COLOR:ResMilitaryLabelCS]VALTAUSVOITON[ENDCOLOR] saavuttaa valtaamalla kunkin toisen kansakunnan [ICON_Capital] pääkaupungin.[NEWLINE][NEWLINE]Vahvasta armeijasta on suuresti hyötyä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_SUMMARY">
 			<Text>{1_NumCaptured : plural 1?{1_NumCaptured} pääkaupunki; other?{1_NumCaptured} pääkaupunkia;} vallattu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_CIVS_CONVERTED">
-			<Text>Käännytettyjä kansakuntia</Text>
+			<Text>Kansakuntien käännytys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_DETAILS">
-			<Text>[COLOR:ResFaithLabelCS]USKONNOLLISEN[ENDCOLOR] VOITON saavuttaa levittämällä uskontomme jokaisen kansan [COLOR:ResFaithLabelCS]VALTA[ENDCOLOR]USKONNOKSI.[NEWLINE][NEWLINE]Uskonto on [COLOR:ResFaithLabelCS]VALTA[ENDCOLOR]USKONNON asemassa kansakunnassa, mikäli yli puolet kaupungeista noudattaa sitä.</Text>
+			<Text>[COLOR:ResFaithLabelCS]USKONNOLLISEN VOITON[ENDCOLOR] saavuttaa levittämällä uskontomme jokaisen kansan [COLOR:ResFaithLabelCS]VALTAUSKONNOKSI[ENDCOLOR].[NEWLINE][NEWLINE]Uskonto on [COLOR:ResFaithLabelCS]VALTAUSKONNON[ENDCOLOR] asemassa kansakunnassa, mikäli yli puolet kaupungeista noudattaa sitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_CONVERT_SUMMARY">
-			<Text>{1_NumConverts} kansakuntaa käännytettynä {2_ReligionName[3]}</Text>
+			<Text>{2_ReligionName}: {1_NumConverts} kansakuntaa käännytetty</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_CONDITION">
 			<Text>{1_NumTurns} vuorossa</Text>
@@ -3748,7 +3748,7 @@
 			<Text>Näytä tiedot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_SIMPLE">
-			<Text>Johdamme</Text>
+			<Text>Olemme johdossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_DETAILS">
 			<Text>Johdamme {1_Details}</Text>
@@ -3883,7 +3883,7 @@
 		</Replace>
 		<!-- ==================== City State Partial SCreen ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ADD_AN_ENVOY">
-			<Text>Lisää [ICON_Envoy] lähettiläs kansakuntamme ja kaupunkivaltion välille.</Text>
+			<Text>Lisää [ICON_Envoy] edustaja kansakuntamme ja kaupunkivaltion välille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_AVAILABLE_QUESTS">
 			<Text>Nykyiset tehtävät:</Text>
@@ -3901,7 +3901,7 @@
 			<Text>{1_Value} {1_Value:plural 1?kansakunta; other?kansakuntaa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_CONFIRM_PLACEMENT">
-			<Text>Vahvista sijoitus</Text>
+			<Text>Vahvista edustus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_CURRENTLY_AT_WAR">
 			<Text>Julistimme sodan tälle kaupunkivaltiolle.</Text>
@@ -3910,7 +3910,7 @@
 			<Text>Julista sota</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DECLARE_WAR_DETAILS">
-			<Text>Suora sodanjulistus tuhoaa kaikki [ICON_Envoy] lähettiläämme ja estää meitä lähettämästä uusia kunnes välillämme on rauha. Kaikki nykyiset tehtävät perutaan. </Text>
+			<Text>Suora sodanjulistus tuhoaa kaikki [ICON_Envoy] edustajaa ja estää meitä lähettämästä uusia kunnes välillämme on rauha. Kaikki nykyiset tehtävät perutaan. </Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_LEVY_MILITARY_BUTTON">
 			<Text>Värvää armeija</Text>
@@ -3937,22 +3937,22 @@
 			<Text>Olemme valta-asemassa tähän kaupunkivaltioon. Saamme erityisiä etuja ja kaupunkivaltio kulkee kanssamme sotaan ja rauhaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DIPLO_WAR">
-			<Text>Olemme sodassa tähän kaupunkivaltioon. Emme saa mitään etuja sodan aikana, mutta voimme edelleen lähettää [ICON_Envoy] lähettiläitä, mikäli emme aloittaneet konfliktia.</Text>
+			<Text>Olemme sodassa tähän kaupunkivaltioon. Emme saa mitään etuja sodan aikana, mutta voimme edelleen lähettää [ICON_Envoy] edustajia, mikäli emme aloittaneet konfliktia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DISTRICT_QUEST">
 			<Text>Kaupunkialuetehtävä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS">
-			<Text>Lähettiläät</Text>
+			<Text>Edustajat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS_INFLUENCE_BY_CIVILIZATION">
-			<Text>Lähettiläiden vaikutus per kansa:</Text>
+			<Text>Edustajien vaikutus kansoittain:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS_SENT">
-			<Text>Lähettiläitä:</Text>
+			<Text>Edustajia:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS_SENT_ICON">
-			<Text>[ICON_Envoy] Lähettiläitä:</Text>
+			<Text>[ICON_Envoy] Edustajia:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_INFLUENCED_BY">
 			<Text>Vaikuttaja:</Text>
@@ -3964,10 +3964,10 @@
 			<Text>Muodosta rauha</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_NUMBER_ENVOYS">
-			<Text>[ICON_Envoy]{1_NumEnvoys} lähettilästä</Text>
+			<Text>[ICON_Envoy]{1_NumEnvoys} edustajaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_NONE">
-			<Text>Ei tunneta</Text>
+			<Text>Ei kenellekään</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_NONE_MET">
 			<Text>Emme ole kohdanneet kaupunkivaltiota.</Text>
@@ -3989,7 +3989,7 @@
 			<Text>Tehtävä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_REMOVE_AN_ENVOY">
-			<Text>Poista ehdotettu [ICON_Envoy] lähettiläs kansamme ja kaupunkivaltion väliltä.</Text>
+			<Text>Poista ehdotettu [ICON_Envoy] edustaja kansamme ja kaupunkivaltion väliltä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_REPORT">
 			<Text>Kaupunkivaltioraportti</Text>
@@ -4004,13 +4004,13 @@
 			<Text>Tieteellinen tehtävä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SEND_AN_ENVOY">
-			<Text>Lähetä lähettiläs</Text>
+			<Text>Lähetä edustaja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SEND_ENVOY_AMOUNT">
 			<Text>( {1_EnvoyNum}[ICON_Envoy] ) </Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SEND_ENVOYS">
-			<Text>Lähetä {1_EnvoyNum:plural 1?lähettiläs; other?lähettiläät;}</Text>
+			<Text>Lähetä {1_EnvoyNum:plural 1?edustaja; other?edustajat;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SUZERAIN">
 			<Text>Valta-asema</Text>
@@ -4019,7 +4019,7 @@
 			<Text>Valta-aseman edut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SUZERAIN_ENVOYS">
-			<Text>3 [ICON_Envoy] lähettilästä ja enemmän kuin toisella kansalla:</Text>
+			<Text>3 [ICON_Envoy] edustajaa ja enemmän kuin millään toisella kansalla:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SUZERAIN_UNIQUE_BONUS">
 			<Text>{1_CityStateName} Erityinen etu:</Text>
@@ -4576,7 +4576,7 @@
 			<Text>KULTTUURIKERTYMÄ</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_STAYCATIONERS_HEADER">
-			<Text>LÄHIMATKAILIJAT</Text>
+			<Text>KOTIMATKAILIJAT</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISM_HEADER">
 			<Text>TURISMI</Text>
