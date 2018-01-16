@@ -4576,7 +4576,7 @@
 			<Text>KULTTUURIKERTYMÄ</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_STAYCATIONERS_HEADER">
-			<Text>KOTIMATKAILIJAT</Text>
+			<Text>KOTILOMAILIJAT</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISM_HEADER">
 			<Text>TURISMI</Text>
@@ -4607,607 +4607,607 @@
 		</Replace>
 		<!-- Multiplayer Last Remaining Player Popup -->
 		<Replace Language="fi_FI" Tag="TXT_KEY_MP_LAST_PLAYER">
-			<Text>You are the last remaining human player in the game.</Text>
+			<Text>Olet pelin viimeinen ihmispelaaja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PARTIALSCREEN_CITYSTATES_TOOLTIP">
-			<Text>City-States[NEWLINE][NEWLINE]View all the city-states you've met, manage your [ICON_Envoy] Envoys, and review any bonuses earned.</Text>
+			<Text>Kaupunkivaltiot[NEWLINE][NEWLINE]Näytä kaikki kohdatut kaupunkivaltiot, hallitse [ICON_Envoy] edustajia ja tarkasta saavutetut edut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PARTIALSCREEN_DIPLOMACY_TOOLTIP">
-			<Text>Diplomacy[NEWLINE][NEWLINE]View information about the other civilizations you've met, manage your relationships, and make deals.</Text>
+			<Text>Diplomatia[NEWLINE][NEWLINE]Näytä tiedot muista kohdatuista kansakunnista, hallitse suhteita ja muodosta sopimuksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PARTIALSCREEN_WORLDRANKINGS_TOOLTIP">
-			<Text>World Rankings[NEWLINE][NEWLINE]View the World Rankings to see how well you're doing, and what you need to do to win.</Text>
+			<Text>Sijoitukset[NEWLINE][NEWLINE]Tarkasta sijoittumisemme suhteessa muihin ja mitä tarvitsee tehdä pelin voittamiseksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PARTIALSCREEN_ESPIONAGE_TOOLTIP">
-			<Text>Espionage[NEWLINE][NEWLINE]View and manage your spies.</Text>
+			<Text>Vakoilu[NEWLINE][NEWLINE]Tarkastele ja hallitse vakoilijoitamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PARTIALSCREEN_TRADEROUTES_TOOLTIP">
-			<Text>Trade Route Overview[NEWLINE][NEWLINE]View and manage your [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>Kauppareitit[NEWLINE][NEWLINE]Tarkastele ja hallitse [ICON_TradeRoute] kauppareittejämme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_PRODUCTION_COST">
-			<Text>Cost</Text>
+			<Text>Hinta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ESPIONAGE_TITLE">
-			<Text>ESPIONAGE</Text>
+			<Text>VAKOILU</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_TRADEROUTES_TOOLTIP">
-			<Text>Outgoing [ICON_TradeRoute] Trade Routes (active / capacity)</Text>
+			<Text>Viennin [ICON_TradeRoute] kauppareitit (käytössä / kapasiteetti)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_TECHTREE_TOOLTIP">
-			<Text>Tech Tree[NEWLINE][NEWLINE]View or manage your research.</Text>
+			<Text>Teknologiakartta[NEWLINE][NEWLINE]Tarkastele tai hallitse tutkimusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CIVICSTREE_TOOLTIP">
-			<Text>Civics Tree[NEWLINE][NEWLINE]View or manage your civic focus.</Text>
+			<Text>Normien kartta[NEWLINE][NEWLINE]Tarkastele tai muuta hallinnon arvoja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_RELIGION_TOOLTIP">
-			<Text>Religion[NEWLINE][NEWLINE]View your Pantheon or Religion, as well as other Religions already established.</Text>
+			<Text>Uskonto[NEWLINE][NEWLINE]Tarkastele kantauskontoa tai uskontoa, sekä muita jo muodostettuja uskontoja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_GREATWORKS_TOOLTIP">
-			<Text>Great Works[NEWLINE][NEWLINE]View or manage the Great Works you've created.</Text>
+			<Text>Merkkiteokset[NEWLINE][NEWLINE]Tarkastele tai hallitse luomiamme merkittäviä teoksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_GREATPEOPLE_TOOLTIP">
-			<Text>Great People[NEWLINE][NEWLINE]View available [ICON_GreatPerson] Great People, as well as your progress towards earning a [ICON_GreatPerson] Great Person.</Text>
+			<Text>Merkittävät henkilöt[NEWLINE][NEWLINE]Näytä saatavilla olevat [ICON_GreatPerson] merkittävät henkilöt, sekä edistymisemme kohden seuraavaa [ICON_GreatPerson] merkittävää henkilöä.</Text>
 		</Replace>
 		<!-- ==================== REPORTS =================== -->
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_AMOUNT">
-			<Text>Amount</Text>
+			<Text>Määrä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TITLE">
-			<Text>Reports</Text>
+			<Text>Raportit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_CITY_STATE_BONUS">
-			<Text>City State Bonus</Text>
+			<Text>Kaupunkivaltioedut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_COLLAPSE">
-			<Text>Collapse</Text>
+			<Text>Pienennä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_COLLAPSE_ALL">
-			<Text>Collapse All</Text>
+			<Text>Pienennä kaikki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_COLLAPSE_SECTION">
-			<Text>Collapse Section</Text>
+			<Text>Pienennä tämä kohta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_CONTROL">
-			<Text>Control</Text>
+			<Text>Hallinta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_EXPAND">
-			<Text>Expand</Text>
+			<Text>Suurenna</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_EXPAND_ALL">
-			<Text>Expand All</Text>
+			<Text>Suurenna kaikki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_EXPAND_SECTION">
-			<Text>Expand Section</Text>
+			<Text>Suurenna tämä kohta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_FROM_AMENITIES">
-			<Text>{1_amount} from amenities</Text>
+			<Text>{1_amount} elintasosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_FROM_MODIFIERS">
-			<Text>{1_amount} from modifiers</Text>
+			<Text>{1_amount} muuttujista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_FROM_AMENITIES_MODIFIERS_TILE">
-			<Text>{1_amount} from amenities, modifiers, and tiles</Text>
+			<Text>{1_amount} elintasosta, muuttujista ja ruuduista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_FROM_OTHER">
-			<Text>{1_amount} from other</Text>
+			<Text>{1_amount} muusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_FROM_POPULATION">
-			<Text>{1_amount} from population</Text>
+			<Text>{1_amount} väestöstä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_CITY">
-			<Text>City</Text>
+			<Text>Kaupunki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_PRODUCTION">
-			<Text>Production</Text>
+			<Text>Tuotanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_FOOD">
-			<Text>Food</Text>
+			<Text>Ruoka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_GOLD">
-			<Text>Gold</Text>
+			<Text>Kulta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_FAITH">
-			<Text>Faith</Text>
+			<Text>Usko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_SCIENCE">
-			<Text>Science</Text>
+			<Text>Tiede</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_CULTURE">
-			<Text>Culture</Text>
+			<Text>Kulttuuri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Turismi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_BUILDING">
-			<Text>Building</Text>
+			<Text>Rakennus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_CIVILIZATION">
-			<Text>Civilization</Text>
+			<Text>Kansakunta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_DURATION">
-			<Text>Duration</Text>
+			<Text>Kesto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_TAXES">
-			<Text>Taxes</Text>
+			<Text>Verot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_EXPENSES">
-			<Text>Expenses</Text>
+			<Text>Kulut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_POPULATION">
-			<Text>Population</Text>
+			<Text>Väestö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_GROWTH_RATE_STATUS">
-			<Text>Growth Rate Status</Text>
+			<Text>Kasvuvauhdin tila</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_HOUSING">
-			<Text>Housing</Text>
+			<Text>Asumukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_AMENITIES">
-			<Text>Amenities</Text>
+			<Text>Elintaso</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_CITIZEN_HAPPINESS">
-			<Text>Citizen Happiness</Text>
+			<Text>Asukkaiden onnellisuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_WAR_WEARINESS">
-			<Text>War Weariness</Text>
+			<Text>Sotaväsymys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_STATUS">
-			<Text>Status</Text>
+			<Text>Tila</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_STRENGTH">
-			<Text>Strength</Text>
+			<Text>Voimakkuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_DAMAGE">
-			<Text>Damage</Text>
+			<Text>Vahinko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_DEFENSE">
-			<Text>Defense</Text>
+			<Text>Puolustus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STATUS_UNDER_SEIGE">
-			<Text>Under Siege</Text>
+			<Text>Piiritetty</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STATUS_RAZED">
-			<Text>Razed</Text>
+			<Text>Hävitetty</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STATUS_NORMAL">
-			<Text>Normal</Text>
+			<Text>Normaali</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STATUS_SLOWED">
-			<Text>Slowed</Text>
+			<Text>Hidastunut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STATUS_HALTED">
-			<Text>Halted</Text>
+			<Text>Pysähtynyt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STATUS_STARVING">
-			<Text>Starving</Text>
+			<Text>Nälissään</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_BONUSES">
-			<Text>Bonuses</Text>
+			<Text>Edut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_LUXURIES">
-			<Text>Luxuries</Text>
+			<Text>Ylellisyydet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_LUXURIES_AND_BONUSES">
-			<Text>Luxuries and Bonuses</Text>
+			<Text>Ylellisyydet ja edut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_LUXURY_RESOURCES_AND_BONUSES">
-			<Text>Luxury Resources and bonuses</Text>
+			<Text>Ylelliset luonnonvarat ja edut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_NEEDED">
-			<Text>{1_amount} / {2_max} needed.</Text>
+			<Text>{1_amount} / {2_max} tarvitaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_NET_PER_TURN">
-			<Text>Net Per Turn:</Text>
+			<Text>Netto vuorossa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_PER_TURN">
-			<Text>{1_Yield} Per Turn</Text>
+			<Text>{1_Yield} vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_BUILDING_EXPENSES">
-			<Text>Building Expenses</Text>
+			<Text>Rakennuskulut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_CITY_INCOME">
-			<Text>City Income</Text>
+			<Text>Kaupungin tulo</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_DIPLOMATIC_DEALS">
-			<Text>Diplomatic Deals</Text>
+			<Text>Diplomaattiset sopimukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_PROJECT_EXPENSES">
-			<Text>Project Expenses</Text>
+			<Text>Projektikulut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_UNIT_EXPENSES">
-			<Text>Unit Expenses</Text>
+			<Text>Yksikkökulut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_SOURCES">
-			<Text>Sources</Text>
+			<Text>Lähteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STRATEGICS">
-			<Text>Strategics</Text>
+			<Text>Strategiset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_STRATEGIC_RESOURCES">
-			<Text>Strategic Resources</Text>
+			<Text>Strategiset luonnonvarat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TAB_CITY_STATUS">
-			<Text>City Status</Text>
+			<Text>Kaupungin tila</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TAB_RESOURCES">
-			<Text>Resources</Text>
+			<Text>Luonnonvarat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TAB_YIELDS">
-			<Text>Yields</Text>
+			<Text>Tuotot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TURNS_UNTIL_COMPLETED">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until completed</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} valmistumiseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TOTAL_EXPENSES_PER_TURN">
-			<Text>Total Expenses Per Turn:</Text>
+			<Text>Kulut yhteensä vuorossa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TOTAL_INCOME_PER_TURN">
-			<Text>Total Income Per Turn:</Text>
+			<Text>Tulot yhteensä vuorossa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TOTALS">
-			<Text>Totals:</Text>
+			<Text>Yhteenveto:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE">
-			<Text>Trade</Text>
+			<Text>Kauppa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_DEAL_WITH">
-			<Text>Deal with {1_CivName}</Text>
+			<Text>Sopimus ({1_CivName})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_GREAT_PERSON_ACTIVATED">
-			<Text>Great Person Activated</Text>
+			<Text>Merkittävä henkilö aktivoitui</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_GREAT_PERSON_ACTIVATED_NAME">
-			<Text>Great Person {1_Name} Activated</Text>
+			<Text>Merkittävä henkilö {1_Name} aktivoitui</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_CITY_STATE">
-			<Text>City State</Text>
+			<Text>Kaupunkivaltio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
-			<Text>Imported</Text>
+			<Text>Tuonti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_IMPORTED_TURNS">
-			<Text>Imported - {1_Turns : plural 1? turn; other? turns;}</Text>
+			<Text>Tuonti - {1_Turns : plural 1? vuoro; other? vuoroa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_EXPORTED">
-			<Text>Exported</Text>
+			<Text>Vienti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_EXPORTED_TURNS">
-			<Text>Exported - {1_Turns : plural 1? turn; other? turns;}</Text>
+			<Text>Vienti - {1_Turns : plural 1? vuoro; other? vuoroa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_DIPLOMACY">
-			<Text>Diplomacy</Text>
+			<Text>Diplomatia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_OWNED">
-			<Text>Owned</Text>
+			<Text>Omistettu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_WITH">
-			<Text>Trade with {1_leader}</Text>
+			<Text>Kauppa ({1_leader})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TREASURY">
-			<Text>Treasury:</Text>
+			<Text>Varanto:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TURNS">
-			<Text>{1_Turns : plural 1? turn; other? turns;}</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_VIEW_REPORTS">
-			<Text>View Reports</Text>
+			<Text>Näytä raporit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_WORKED_LAND">
-			<Text>Worked Land</Text>
+			<Text>Työstetty maa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_WORKED_PLOTS">
-			<Text>Worked Plots</Text>
+			<Text>Työstetyt paikat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_WORKED_TILES">
-			<Text>Worked Tiles</Text>
+			<Text>Työstetyt ruudut</Text>
 		</Replace>
 		<!-- Player Yields ToolTips -->
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_ANARCHY">
-			<Text>No science due to anarchy.</Text>
+			<Text>Ei tiedettä anarkian vuoksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_CITIES">
-			<Text>{Value : number +#.#;-#.#} from Cities</Text>
+			<Text>{Value : number +#.#;-#.#} kaupungeista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_CITY">
-			<Text>{Value : number +#.#;-#.#} from {1_CityName}</Text>
+			<Text>{Value : number +#.#;-#.#} kaupungista {1_CityName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_BELIEFS">
-			<Text>{Value : number +#.#;-#.#} from Beliefs</Text>
+			<Text>{Value : number +#.#;-#.#} uskomuksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_TOKENS">
-			<Text>{Value : number +#.#;-#.#} from [ICON_Envoy] Envoys</Text>
+			<Text>{Value : number +#.#;-#.#} [ICON_Envoy] edustajilta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_TRIBUTARIES">
-			<Text>{Value : number +#.#;-#.#} from city-states you are Suzerain of</Text>
+			<Text>{Value : number +#.#;-#.#} kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_OTHER">
-			<Text>{Value : number +#.#;-#.#} from Other</Text>
+			<Text>{Value : number +#.#;-#.#} muusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_TRIBUTARIES">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from city-states you are Suzerain of</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ANARCHY">
-			<Text>No culture due to anarchy.</Text>
+			<Text>Ei kulttuuria anarkian vuoksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_CITIES">
-			<Text>{Value : number +#.#;-#.#} from Cities</Text>
+			<Text>{Value : number +#.#;-#.#} kaupungeista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_CITY">
-			<Text>{Value : number +#.#;-#.#} from {1_CityName}</Text>
+			<Text>{Value : number +#.#;-#.#} kaupungista {1_CityName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_BELIEFS">
-			<Text>{Value : number +#.#;-#.#} from Beliefs</Text>
+			<Text>{Value : number +#.#;-#.#} uskomuksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_TOKENS">
-			<Text>{Value : number +#.#;-#.#} from [ICON_Envoy] Envoys</Text>
+			<Text>{Value : number +#.#;-#.#} [ICON_Envoy] edustajilta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_TRIBUTARIES">
-			<Text>{Value : number +#.#;-#.#} from city-states you are Suzerain of</Text>
+			<Text>{Value : number +#.#;-#.#} kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_OTHER">
-			<Text>{Value : number +#.#;-#.#} from Other</Text>
+			<Text>{Value : number +#.#;-#.#} muusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_MODIFIER_FROM_TRIBUTARIES">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from city-states you are Suzerain of</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_ANARCHY">
-			<Text>No gold due to anarchy.</Text>
+			<Text>Ei kultaa anarkian vuoksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_CITIES">
-			<Text>{Value : number +#.#;-#.#} from Cities</Text>
+			<Text>{Value : number +#.#;-#.#} kaupungeista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_CITY">
-			<Text>{Value : number +#.#;-#.#} from {1_CityName}</Text>
+			<Text>{Value : number +#.#;-#.#} kaupungista {1_CityName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_DEALS">
-			<Text>{Value : number +#.#;-#.#} from Deals</Text>
+			<Text>{Value : number +#.#;-#.#} sopimuksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_DEAL_ITEM">
-			<Text>{Value : number +#.#;-#.#} from {1_PlayerName} for {2_turns : number ##} turns</Text>
+			<Text>{Value : number +#.#;-#.#} pelaajalta {1_PlayerName} seuraavan {2_turns : number ##} vuoron ajan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_GOLD_COST_FROM_DEALS">
-			<Text>{Value : number -#.#;+#.#} from Deals</Text>
+			<Text>{Value : number -#.#;+#.#} sopimuksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_GOLD_COST_FROM_DEAL_ITEM">
-			<Text>{Value : number -#.#;+#.#} to {1_PlayerName} for {2_turns : number ##} turns</Text>
+			<Text>{Value : number -#.#;+#.#} pelaajalle {1_PlayerName} seuraavan {2_turns : number ##} vuoron ajan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_BELIEFS">
-			<Text>{Value : number +#.#;-#.#} from Beliefs</Text>
+			<Text>{Value : number +#.#;-#.#} uskomuksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_TOKENS">
-			<Text>{Value : number +#.#;-#.#} from [ICON_Envoy] Envoys</Text>
+			<Text>{Value : number +#.#;-#.#} [ICON_Envoy] edustajilta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_TRIBUTARIES">
-			<Text>{Value : number +#.#;-#.#} from city-states you are Suzerain of</Text>
+			<Text>{Value : number +#.#;-#.#} kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_OTHER">
-			<Text>{Value : number +#.#;-#.#} from Other</Text>
+			<Text>{Value : number +#.#;-#.#} muusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_TRIBUTARIES">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from city-states you are Suzerain of</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDINGS">
-			<Text>{Value : number -#.#;+#.#} from Buildings</Text>
+			<Text>{Value : number -#.#;+#.#} rakennuksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDING">
-			<Text>{Value : number -#.#;+#.#} from {1_BuildingName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?building; other?buildings;})</Text>
+			<Text>{Value : number -#.#;+#.#} raksennuksesta {1_BuildingName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?rakennus; other?rakennusta;})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_CITIES">
-			<Text>{Value : number -#.#;+#.#} from Cities</Text>
+			<Text>{Value : number -#.#;+#.#} kaupungeista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_CITY">
-			<Text>{Value : number -#.#;+#.#} from {1_CityName}</Text>
+			<Text>{Value : number -#.#;+#.#} kaupungista {1_CityName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_DISTRICTS">
-			<Text>{Value : number -#.#;+#.#} from Districts</Text>
+			<Text>{Value : number -#.#;+#.#} kaupunkialueilta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_DISTRICT">
-			<Text>{Value : number -#.#;+#.#} from {1_DistrictName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?district; other?districts;})</Text>
+			<Text>{Value : number -#.#;+#.#} alueelta {1_DistrictName} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?kaupunkialue; other?kaupunkialuetta;})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_UNITS">
-			<Text>{Value : number -#.#;+#.#} from Units</Text>
+			<Text>{Value : number -#.#;+#.#} yksiköiltä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_UNIT">
-			<Text>{Value : number -#.#;+#.#} from {1_UnitName}  (({2_Maintenance} [ICON_Gold] - {3_Discount} [ICON_Gold]) * {4_Count} {4_Count : plural 1?unit; other?units;})</Text>
+			<Text>{Value : number -#.#;+#.#} yksiköltä {1_UnitName}  (({2_Maintenance} [ICON_Gold] - {3_Discount} [ICON_Gold]) * {4_Count} {4_Count : plural 1?yksikkö; other?yksikköä;})</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_WMDS">
-			<Text>{Value : number -#.#;+#.#} from WMDs</Text>
+			<Text>{Value : number -#.#;+#.#} massatuhoaseista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_WMD">
-			<Text>{Value : number -#.#;+#.#} from {1_WMDName}.</Text>
+			<Text>{Value : number -#.#;+#.#} massatuhoaseesta {1_WMDName}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_ANARCHY">
-			<Text>No faith due to anarchy.</Text>
+			<Text>Ei uskoa anarkian vuoksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_CITIES">
-			<Text>{Value : number +#.#;-#.#} from Cities</Text>
+			<Text>{Value : number +#.#;-#.#} kaupungeista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_CITY">
-			<Text>{Value : number +#.#;-#.#} from {1_CityName}</Text>
+			<Text>{Value : number +#.#;-#.#} kaupungista {1_CityName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_BELIEFS">
-			<Text>{Value : number +#.#;-#.#} from Beliefs</Text>
+			<Text>{Value : number +#.#;-#.#} uskomuksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_TOKENS">
-			<Text>{Value : number +#.#;-#.#} from [ICON_Envoy] Envoys</Text>
+			<Text>{Value : number +#.#;-#.#} [ICON_Envoy] edustajilta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_TRIBUTARIES">
-			<Text>{Value : number +#.#;-#.#} from city-states you are Suzerain of</Text>
+			<Text>{Value : number +#.#;-#.#} kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_FOUNDERS">
-			<Text>{Value : number +#.#;-#.#} from peaceful religion founders</Text>
+			<Text>{Value : number +#.#;-#.#} rauhanomaisista uskonnon perustajista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_OTHER">
-			<Text>{Value : number +#.#;-#.#} from Other</Text>
+			<Text>{Value : number +#.#;-#.#} muualta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_MODIFIER_FROM_TRIBUTARIES">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from city-states you are Suzerain of</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
 		<!-- City Yields ToolTips -->
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_BUILDINGS_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from {1_BuildingName}</Text>
+			<Text>{Value : number +#.#;-#.#} rakennuksesta {1_BuildingName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_BUILDINGS_SUMMARY_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Buildings</Text>
+			<Text>{Value : number +#.#;-#.#} rakennuksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_DISTRICTS_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from {1_Name}</Text>
+			<Text>{Value : number +#.#;-#.#} alueelta {1_Name}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_NUM_DISTRICTS_TOOLTIP">
-			<Text>{Value: number + #.#;-#.# } from having {1_Num : plural 1?{1} district; other?{1} districts;}.</Text>
+			<Text>{Value: number + #.#;-#.# } {1_Num : plural 1?{1} kaupunkialueesta; other?{1} kaupunkialueista;}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_HAPPINESS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Amenities</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) elintasosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_OCCUPATION_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Occupation</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) miehityksestä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_MODIFIERS_FROM_GAMEEFFECTS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Modifiers</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) muuttujista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_GAMEEFFECTS_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Modifiers</Text>
+			<Text>{Value : number +#.#;-#.#} muuttujista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_MODIFIER_GAMEEFFECTS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Modifiers</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) muuttujista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_UNIT_PRODUCTION_BONUS">
-			<Text>{Value : number +#.#;-#.#} towards units</Text>
+			<Text>{Value : number +#.#;-#.#} yksiköille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_BUILDING_PRODUCTION_BONUS">
-			<Text>{Value : number +#.#;-#.#} towards buildings</Text>
+			<Text>{Value : number +#.#;-#.#} rakennuksille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_DISTRICT_PRODUCTION_BONUS">
-			<Text>{Value : number +#.#;-#.#} towards districts</Text>
+			<Text>{Value : number +#.#;-#.#} kaupunkialueille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_GREATWORKS_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from GreatWorks</Text>
+			<Text>{Value : number +#.#;-#.#} merkkiteoksista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_RELIGIOUS_BUILDINGS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Religious Building Yield</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) uskonnollisten rakennusten tuotosta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_RELIGIOUS_FOLLOWERS_TOOLTIP">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from having {1} Religious Followers</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) {1}:sta uskonnon noudattajasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_PASSING_TRADE_ROUTES_TOOLTIP">
-			<Text>{Value : number +#.##;-#.##} from Foreign Routes Passing Through</Text>
+			<Text>{Value : number +#.##;-#.##} läpikulkevista kauppareiteistä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_INCOMING_TRADE_ROUTES_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Incoming Trade Routes</Text>
+			<Text>{Value : number +#.#;-#.#} tuonnin kauppareiteistä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_OUTGOING_TRADE_ROUTES_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Outgoing Trade Routes</Text>
+			<Text>{Value : number +#.#;-#.#} viennin kauppareiteistä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_DISTRICTS_SUMMARY_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Districts</Text>
+			<Text>{Value : number +#.#;-#.#} kaupunkialueista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_POPULATION_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Population</Text>
+			<Text>{Value : number +#.#;-#.#} väestöstä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_TILES_SUMMARY_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from Worked Tiles</Text>
+			<Text>{Value : number +#.#;-#.#} työstetyistä ruuduista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_PROJECT_TOOLTIP">
-			<Text>{Value : number +#.#;-#.#} from {1_ProjectName}</Text>
+			<Text>{Value : number +#.#;-#.#} projektista {1_ProjectName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOMACY_TRADE_UI_SELECT_TEXT">
-			<Text>Select items from your inventory to propose a trade.</Text>
+			<Text>Valitse kauppatavaraa listaltamme ehdottaaksesi kauppaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOMACY_TRADE_UI_SELECT_THEIR_TEXT">
-			<Text>Select items from their inventory to propose a trade.</Text>
+			<Text>Valitsee kauppatavaraa heidän listaltaan ehdottaaksesi kauppaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOMACY_ANOTHER_DEAL_WITH_PLAYER_PENDING">
-			<Text>Another deal with this player is pending.</Text>
+			<Text>Aiempi sopimus tämän pelaajan kanssa odottaa hyväksyntää.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_WORKED_TEXT">
-			<Text>[NEWLINE]Worked by {1_Citizens} [ICON_Citizen] {1_Citizens : plural 1?Citizen; other?Citizens;}.</Text>
+			<Text>[NEWLINE]Tätä työstää {1_Citizens} [ICON_Citizen] {1_Citizens : plural 1?asukas; other?asukasta;}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_CONTAMINATED_TEXT">
-			<Text>[COLOR:Civ6Red]CONTAMINATED: {1_Fallout} turns[ENDCOLOR]</Text>
+			<Text>[COLOR:Civ6Red]SAASTUNUT: {1_Fallout} vuoroa[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_BUILDINGS_TEXT">
-			<Text>Buildings: </Text>
+			<Text>Rakennukset: </Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_PILLAGED_TEXT">
-			<Text>(Pillaged)</Text>
+			<Text>(tärvelty)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_ADJACENCY_TEXT">
-			<Text>(Adjacency Bonus)</Text>
+			<Text>(läheisyysetu)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_IMPASSABLE_TEXT">
-			<Text>Impassable</Text>
+			<Text>Kulkukelvoton</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_CONSTRUCTION_TEXT">
-			<Text>(Under Construction)</Text>
+			<Text>(rakenteilla)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_WONDER_TEXT">
-			<Text>Wonder:[NEWLINE]</Text>
+			<Text>Ihme:[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_WOODS_OLD_GROWTH">
-			<Text>(old-growth)</Text>
+			<Text>(vanhaa metsää)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_WOODS_SECONDARY">
-			<Text>(second-growth)</Text>
+			<Text>(uutta metsää)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPTIONS_SET_KEY_BINDING_TEXT">
-			<Text>Press the desired keyboard or mouse button you wish to bind.  To cancel, click the Cancel button or press Escape.  To clear the binding, click the Clear button.</Text>
+			<Text>Paina haluamaasi näppäimistön tai hiiren painiketta, jonka haluat varata käyttöön. Peruuttaaksesi paina peruuta-nappulaa tai esciä. Voit poistaa varauksen painamalla tyhjennä-painiketta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLDTRACKER_ENABLE_TEXT">
-			<Text>Show or hide individual world tracker panels.</Text>
+			<Text>Näytä tai piilota yksittäinen paneeli.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLDTRACKER_HIDE_TEXT">
-			<Text>Toggle the world tracker.</Text>
+			<Text>Näytä tai piilota maailman seuranta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODUCTION_HIDE_DESCRIPTION">
-			<Text>There is no content to display. Uncheck &quot;Hide Unavailable Items&quot; to see the list.</Text>
+			<Text>Ei näytettävää sisältöä. Voit nähdä listan poistamalla valinnan &quot;piilota ne joita ei voi käyttää&quot;.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODUCTION_HIDE_NAME">
-			<Text>Hide Unavailable Items</Text>
+			<Text>Piilota ne joita ei voi käyttää</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODUCTION_PURCHASE_GOLD_TEXT">
-			<Text>{1_Turns} [ICON_Gold] Gold</Text>
+			<Text>{1_Turns} [ICON_Gold] kultaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODUCTION_PURCHASE_FAITH_TEXT">
-			<Text>{1_Turns} [ICON_Faith] Faith</Text>
+			<Text>{1_Turns} [ICON_Faith] uskoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_DRAG_POLICY_TEXT">
-			<Text>Drag and Drop a Policy to Slot it Here.</Text>
+			<Text>Vedä ja pudota linjaus sijoittaaksesi sen tähän paikkaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_TOGGLE_POLICY_TEXT">
-			<Text>Toggle Policy Panel</Text>
+			<Text>Näytä tai piilota linjausten paneeli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DEFEAT_DEFAULT_NAME">
-			<Text>Defeat</Text>
+			<Text>Tappio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DEFEAT_DEFAULT_TEXT">
-			<Text>You have been defeated.</Text>
+			<Text>Olemme hävinneet.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DEFEAT_TIME_NAME">
-			<Text>Out of Time</Text>
+			<Text>Aika loppui</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DEFEAT_TIME_TEXT">
-			<Text>You have run out of time.</Text>
+			<Text>Meillä ei ole enää aikaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_SCORE_TEXT">
-			<Text>From our humble beginnings ages ago have you forged a civilization that has withstood time itself. Though countless civilizations rise and fall around us, we do not just survive. We prosper.</Text>
+			<Text>Vaatimattomasta alusta olemme kasvaneet kansaksi, joka kestää ajan patinaa. Vaikka lukuisat toiset kansat kokevat nousuja ja laskuja ympärillämme, me emme ainoastaan selviydy - me kukoistamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_SCIENCE_TEXT">
-			<Text>Much as our ancestors did ages ago, we thrust forward into the unknown. The first pioneers set forth on an uneasy course, and yet once again our people thrive.</Text>
+			<Text>Mekin suuntaamme kohti tuntematonta - aivan kuten esivanhempamme aikoinaan. Ensimmäiset pioneerit lähtevät hankalalle polulle ja siitä huolimatta tulemme kukoistamaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_RELIGION_TEXT">
-			<Text>We have a basic need to believe in something greater than ourselves. We crave solace in the darkness, a light unto our path. Thanks to you, we’ve found meaning amid the Cosmos.</Text>
+			<Text>Meillä on perustarve uskoa johonkin itseämme suurempaan. Haikailemme lohtua pimeyteen ja valoa polkumme eteen. Ansiostasi olemme löytäneet tarkoituksen kosmoksessa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_CULTURE_TEXT">
-			<Text>The worth of a culture is not measured by its accomplishments, but in how those accomplishments last, and how they are remembered. The beauty that you have inspired our people to create will ensure that our culture stands for all time.</Text>
+			<Text>Kulttuurin arvoa ei mitata sen saavatuksilla, vaan sillä miten nuo saavutukset kestävät ja kuinka ne muistetaan. Kauneus jonka olette inspiroineet kansamme luoneen varmistaa sen, että kansamme kestää ajasta aikaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_DOMINATION_TEXT">
-			<Text>There are those who quibble whether power necessitates the will to use it. Whether violence begets only more violence. These questions are irrelevant. You, Great Leader, made it so.</Text>
+			<Text>Toiset ne vaan jaksavat nitistä siitä, että aiheuttaako valta tahdon käyttää sitä - johtaako väkivalta väkivallan kierteeseen. Nämä kyseenalaistukset ovat tarpeettomia. Te, Suuri Johtaja, piditte asioista huolen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_DEFAULT_TEXT">
-			<Text>Everyone else has lost... Therefore you've won!</Text>
+			<Text>Kaikki muut ovat hävinneet... siispä olemme voittaneet!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_LEGACY_TOOLTIP">
-			<Text>Legacy bonuses are based on how long a government was active within your empire. When you switch to a new government, the Legacy bonus earned from the previous government remains with your civilization.</Text>
+			<Text>Perinne-edut perustuvat siihen, miten pitkään hallitusmuoto on käytössä valtakunnassamme. Aiemman hallitusmuodon kerryttämät perinne-edut säilyvät vaihdettaessa uuteen hallitusmuotoon.</Text>
 		</Replace>
 		<!-- Tourism ToolTips -->
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_TOOLTIP">
