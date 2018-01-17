@@ -1816,7 +1816,7 @@
 			<Text>VALITSE PAINOTUS</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_PRODUCTION">
-			<Text>Tuottavuus</Text>
+			<Text>Tuotanto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_PURCHASE">
 			<Text>Osta</Text>
@@ -2711,7 +2711,7 @@
 			<Text>Kierrätä ihme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_HARVEST_WONDER_DETAILS">
-			<Text>Tämä maailmanihme on valmistettu toisen kansakunnan toimesta, joten emme voi saattaa sitä loppuun. Voimme kuitenkin hyödyntää raaka-aineet ja tarjota kaupungille {1_ProductionAmont} [ICON_Production] tuottavuutta.</Text>
+			<Text>Tämä maailmanihme on valmistettu toisen kansakunnan toimesta, joten emme voi saattaa sitä loppuun. Voimme kuitenkin hyödyntää raaka-aineet ja tarjota kaupungille {1_ProductionAmont} [ICON_Production] tuotantoa.</Text>
 		</Replace>
 		<!-- ==================== National Park Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_NATIONAL_PARK_NAME">
@@ -2794,7 +2794,7 @@
 			<Text>+{1_Amenities} elintasoa tälle kaupungille työllistettäessä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_YIELD_CONVERSIONS">
-			<Text>{1_YieldFontIcon} {2_YieldName} ansaitaan kansallemme {3_ConversionPercent} % edestä tähän projektiin käytetystä [ICON_Production] tuottavuudesta.</Text>
+			<Text>{1_YieldFontIcon} {2_YieldName} ansaitaan kansallemme {3_ConversionPercent} % edestä tähän projektiin käytetystä [ICON_Production] tuotannosta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROJECT_GREAT_PERSON_POINTS">
 			<Text>Saamme {1_IconString} {2_GreatPersonClassName} pistettä valmistuessa.</Text>
@@ -3540,7 +3540,7 @@
 			<Text>Käyttämättömät reitit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TO">
-			<Text>Minne</Text>
+			<Text>-&gt;</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRADE_OVERVIEW_TOURISM_BONUS">
 			<Text>+25%</Text>
@@ -3967,7 +3967,7 @@
 			<Text>[ICON_Envoy]{1_NumEnvoys} edustajaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_NONE">
-			<Text>Ei kenellekään</Text>
+			<Text>Ei kenelläkään</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_NONE_MET">
 			<Text>Emme ole kohdanneet kaupunkivaltiota.</Text>

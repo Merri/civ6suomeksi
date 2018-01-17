@@ -242,18 +242,18 @@
 		</Replace>
 		<!--Pantheon - Gameplay Race Bonuses-->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
-			<Text>+15% [ICON_Production] tuottavuutta muinaisuuden ja antiikin ihmeiden rakentamiseen.</Text>
+			<Text>+15% [ICON_Production] tuotantoa muinaisuuden ja antiikin ihmeiden rakentamiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
 			<Text>+1 merkittävien henkilöiden pisteitä pyhistä paikoista (profeettaan), kampuksista (tiedemieheen) ja teatteriaukioista (kirjailijaan).</Text>
 		</Replace>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuottavuutta soista, keitaista ja tulvatasangoista.</Text>
+			<Text>+1 [ICON_Production] tuotantoa soista, keitaista ja tulvatasangoista.</Text>
 		</Replace>
 		<!--Pantheon - Local Resource Bonuses-->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuottavuutta kalastajilta.</Text>
+			<Text>+1 [ICON_Production] tuotantoa kalastajilta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
 			<Text>+1 [ICON_Culture] kulttuuria laitumista.</Text>
@@ -268,7 +268,7 @@
 			<Text>+1 [ICON_Faith] uskoa ylellisten ja hyödyllisten resurssien kaivoksista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuottavuutta strategisten resurssien kaivoksista.</Text>
+			<Text>+1 [ICON_Production] tuotantoa strategisten resurssien kaivoksista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
 			<Text>+1 [ICON_Food] ruokaa [ICON_RESOURCE_WINE] viini-, [ICON_RESOURCE_INCENSE] suitsuke-, [ICON_RESOURCE_COCOA] kaakao-, [ICON_RESOURCE_TOBACCO] tupakka-, [ICON_RESOURCE_COFFEE] kahvi- ja [ICON_RESOURCE_TEA] teeplantaaseista.</Text>
@@ -278,7 +278,7 @@
 		</Replace>
 		<!--Pantheon - Military -->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
-			<Text>+25% [ICON_Production] tuottavuutta kohden muinaisuuden ja antiikin sotayksiköitä.</Text>
+			<Text>+25% [ICON_Production] tuotantoa kohden muinaisuuden ja antiikin sotayksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
 			<Text>Kasvattaa parantumista +30:lla pyhässä paikassa ja sen viereisissä ruuduissa.</Text>
@@ -307,7 +307,7 @@
 			<Text>Mahdollistaa gurdwarojen rakentamisen (+3 [ICON_Faith] uskoa ja +2 [ICON_Food] ruokaa).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
-			<Text>Mahdollistaa tapaamistalojen rakentamisen (+3 [ICON_Faith] uskoja ja +2 [ICON_Production] tuottavuutta).</Text>
+			<Text>Mahdollistaa tapaamistalojen rakentamisen (+3 [ICON_Faith] uskoja ja +2 [ICON_Production] tuotantoa).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
 			<Text>Mahdollistaa moskeijojen rakentamisen (+3 [ICON_Faith] uskoa). +1 levityskertoja lähetyssaarnaajille ja apostoleille.</Text>
@@ -338,7 +338,7 @@
 			<Text>Pyhätöt ja temppelit tarjoavat kumpainenkin +1 [ICON_Housing] asumuksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
-			<Text>+1% [ICON_Production] tuottavuutta jokaisesta uskon noudattajasta.</Text>
+			<Text>+1% [ICON_Production] tuotantoa jokaisesta uskon noudattajasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] elintasoa kaupungeissa, joissa on kaksi erikoistunutta kaupunkialuetta.</Text>
