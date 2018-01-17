@@ -2112,7 +2112,7 @@
 			<Text>Tutkitaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_COMPLETED">
-			<Text>Valmistui</Text>
+			<Text>Valmistunut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_GOVERNMENT">
 			<Text>Hallitusmuoto</Text>
@@ -2836,34 +2836,34 @@
 			<Text>Asukastuotto (asukasta kohden):</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_DIPLOMACY">
-			<Text>Diplomatia: {1_DiplomacyAction}</Text>
+			<Text>{1_DiplomacyAction} (diplomatia)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_GOVERNMENT">
-			<Text>Hallitusmuoto: {1_GovernmentName}</Text>
+			<Text>{1_GovernmentName} (hallitusmuoto)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_POLICY">
-			<Text>Linjaus: {1_PolicyName}</Text>
+			<Text>{1_PolicyName} (linjaus)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_BUILDING">
-			<Text>Rakennus: {1_BuildingName}</Text>
+			<Text>{1_BuildingName} (rakennus)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_DISTRICT">
-			<Text>Kaupunkialue: {1_DistrictName}</Text>
+			<Text>{1_DistrictName} (kaupunkialue)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_IMPROVEMENT">
-			<Text>Rakenne: {1_ImprovementName}</Text>
+			<Text>{1_ImprovementName} (rakenne)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_PROJECT">
-			<Text>Projekti: {1_ProjectName}</Text>
+			<Text>{1_ProjectName} (projekti)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_UNIT">
-			<Text>Yksikkö: {1_UnitName}</Text>
+			<Text>{1_UnitName} (yksikkö)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_RESOURCE">
-			<Text>Paljastaa: {1_ResourceName}</Text>
+			<Text>{1_ResourceName} paljastuu kartalle</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_UNLOCKS_ROUTE">
-			<Text>Reittipäivitys: {1_RouteName}</Text>
+			<Text>{1_RouteName} (reitin päivitys)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL">
 			<Text>{diplomaticReason}</Text>
@@ -2965,7 +2965,7 @@
 			<Text>Arvostaa vahvoja armeijoita</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_OPTIMUS_PRINCEPS">
-			<Text>Arvostaa laajamaisia valtioita</Text>
+			<Text>Arvostaa laajoja valtioita</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BACKSTAB_AVERSE">
 			<Text>Emme ole selkäänpuukottajia</Text>
@@ -4616,7 +4616,7 @@
 			<Text>Diplomatia[NEWLINE][NEWLINE]Näytä tiedot muista kohdatuista kansakunnista, hallitse suhteita ja muodosta sopimuksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PARTIALSCREEN_WORLDRANKINGS_TOOLTIP">
-			<Text>Sijoitukset[NEWLINE][NEWLINE]Tarkasta sijoittumisemme suhteessa muihin ja mitä tarvitsee tehdä pelin voittamiseksi.</Text>
+			<Text>Maailman tilanne[NEWLINE][NEWLINE]Tarkasta sijoittumisemme suhteessa muihin ja mitä tarvitsee tehdä pelin voittamiseksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PARTIALSCREEN_ESPIONAGE_TOOLTIP">
 			<Text>Vakoilu[NEWLINE][NEWLINE]Tarkastele ja hallitse vakoilijoitamme.</Text>
@@ -4890,7 +4890,7 @@
 			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_VIEW_REPORTS">
-			<Text>Näytä raporit</Text>
+			<Text>Näytä raportit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_WORKED_LAND">
 			<Text>Työstetty maa</Text>
