@@ -281,6 +281,9 @@
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_QUIT_WARNING">
 			<Text>Onko pelin sulkeminen varmasti haluamasi asia?</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_END_GAME_WARNING">
+			<Text>Onko pelin päättäminen varmasti haluamasi asia? Kaikkien pelaajien peli päättyy.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_SHUTDOWN_WARNING">
 			<Text>Haluatko varmasti sulkea Sid Meierin Civilization VI:n?</Text>
 		</Replace>
@@ -288,7 +291,10 @@
 			<Text>Tallennetaanko ennen sulkemista?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_RETIRE_WARNING">
-			<Text>Onko eläköytyminen varmasti tarkoituksenmukaista?</Text>
+			<Text>Onko eläköityminen varmasti tarkoituksenmukaista?</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_RESTART_WARNING">
+			<Text>Aloitetaanko peli uudelleen?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMMON_DIALOG_YES_BUTTON_CAPTION">
 			<Text>KYLLÄ</Text>
@@ -367,6 +373,9 @@
 		<Replace Language="fi_FI" Tag="LOC_ACTION_PANEL_PLEASE_WAIT_TOOLTIP">
 			<Text>Muut pelaajat suorittavat vuorojaan, odota hetki...</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ACTION_PANEL_CAN_UNREADY_TOOLTIP">
+			<Text>Napsauta jatkaaksesi vuoroa voidaksesi tehdä muutoksia. Voit tehdä näin mikäli kaikki toiset pelaajat eivät ole vielä saaneet vuorojaan valmiiksi.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ACTION_PANEL_SKIP_TURN">
 			<Text>OHITA VUORO</Text>
 		</Replace>
@@ -422,7 +431,7 @@
 			<Text>Arkeologimme tulee päättää minkä kansakunnan [ICON_GreatWork_Artifact] artefaktin hän haluaa palauttaa kotimuseoonsa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ACTION_PANEL_CITY_RANGED_ATTACK_TOOLTIP">
-			<Text>Kaupunki voi tulittaa.</Text>
+			<Text>Kaupunki voi tulittaa. Oikea napsautus merkitsee tulituksen käyttämättömäksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ACTION_PANEL_NEEDS_PRODUCTION">
 			<Text>VALITSE TUOTANTO</Text>
@@ -490,6 +499,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_SPREADS">
 			<Text>Levityksiä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_HEALS">
+			<Text>Hoitoja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_ACTIONS">
 			<Text>Toimia</Text>
@@ -710,6 +722,9 @@
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DAMAGED_DISTRICT_DESC">
 			<Text>[COLOR_RED]{1_Value} vahingoittunut kaupunkialue[ENDCOLOR]</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_EMBARKED_UNIT_STRENGTH">
+			<Text>[COLOR_RED]Muuttunut perusvoimakkuus uitossa[ENDCOLOR]</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_PREVIEW_DISTRICT_ATTACK_BONUS">
 			<Text>+{1 Value} tulitushyökkäysetua</Text>
 		</Replace>
@@ -808,6 +823,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_SEND_TO_CHAT_TT">
 			<Text>Lisää tämä karttapinni chattiviestiin.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MAP_PIN_SEND_TO_CHAT_NOT_VISIBLE_TT">
+			<Text>Karttapinni ei ole nähtävissä nykyisellä chatin kohteella.</Text>
 		</Replace>
 		<!-- ==================== Plot Info ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_PURCHASE">
@@ -912,6 +930,18 @@
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_WEAPON_UNAVAILABLE">
 			<Text>Ei asetta saatavilla</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_CONVERTS_IN_X_TURNS">
+			<Text>Kääntymiseen {1_Turns}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_RELIGIOUS_PRESSURE">
+			<Text>+{1_Pressure}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_HOUSING_INSUFFICIENT">
+			<Text>Liian vähän asumuksia</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_AMENITIES_INSUFFICIENT">
+			<Text>Liian vähän elintasoa</Text>
+		</Replace>
 		<!-- ==================== City Panel ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_OVERVIEW_CITIZENS_TOOLTIP">
 			<Text>Asukkaat, elintaso ja asumukset.</Text>
@@ -964,6 +994,9 @@
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_LUXURIES">
 			<Text>Elintaso ylellisyyksistä:</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_CITY_STATES">
+			<Text>Elintaso kaupunkivaltioilta:</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_RELIGION">
 			<Text>Elintaso uskonnosta:</Text>
 		</Replace>
@@ -972,6 +1005,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_STARTING_ERA">
 			<Text>Elintaso aloitusaikakaudesta:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_FROM_IMPROVEMENTS">
+			<Text>Elintaso rakenteista:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_WAR_WEARINESS">
 			<Text>Elintaso sotaväsymyksestä:</Text>
@@ -1348,6 +1384,9 @@
 		<Replace Language="fi_FI" Tag="LOC_HUD_CHAT_COLLAPSE_TOOLTIP">
 			<Text>Kutista chatti.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_WILL_NOT_COMPLETE">
+			<Text>Liian vähäinen vuorottainen tuotanto valmistuakseen ikinä.</Text>
+		</Replace>
 		<!-- ==================== Production Menu (for cities) ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_NO_SUITABLE_LOCATION">
 			<Text>Ei sopivaa sijaintia tämän rakentamiseksi.</Text>
@@ -1413,7 +1452,7 @@
 			<Text>{1_CityName} menettää ruudun omistajuuden tälle kaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_ZONE_NEIGHBORHOOD_TOOLTIP">
-			<Text>Lisää {1_Housing} [ICON_Housing] kaupungille, sillä ruudun viehätys on {2_AppealName}</Text>
+			<Text>Lisää {1_Housing} [ICON_Housing] asumusta kaupungille, sillä ruudun viehätys on {2_AppealName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_NEED_MILITARY_ACADEMY">
 			<Text>Joukko-osastojen ja armeijojen valmistus vaatii sotilasakademian.</Text>
@@ -1904,6 +1943,12 @@
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_RESEARCH_AGREEMENT">
 			<Text>Tutkimussopimuksemme on johtanut tieteelliseen läpimurtoon.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_TEAMMATE">
+			<Text>Tiimikaverimme on kehittänyt uuden tekniikan. Heidän tieteentekijänsä ovat täpinöissään voidessaan jakaa löydöksiään.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_CAPTURED_CITY">
+			<Text>Olemme saaneet käsiimme tieteellistä tietoa vallattuamme tämän kaupungin.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_BOOST_COMPLETE">
 			<Text>{1_techString} on kehitetty toimestamme!</Text>
 		</Replace>
@@ -1916,6 +1961,12 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_WONDER">
 			<Text>Kerätessämme viisautta kautta maailman olemme kohdanneet meille ennestään tuntemattomia ideoita.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_TEAMMATE">
+			<Text>Tiimikaverimme on kehittänyt uuden normin. Heidän asiantuntijuutensa edistää meidänkin kehittymistä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_CAPTURED_CITY">
+			<Text>Olemme saaneet kulttuurivaikutteita tämän valloitetun kaupungin asukkailta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_BOOST_GREAT_PERSON">
 			<Text>Merkittävän henkilömme nerokkuus on paljastunut uusia yhteiskunnallisia ideoita.</Text>
@@ -2151,6 +2202,9 @@
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CHOOSE_POLICIES">
 			<Text>Valitse linjaukset</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GOVT_GOVERNMENT_UNLOCKED">
+			<Text>Hallitusmuoto mahdollistui</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_COMPLETED_THIS_TURN">
 			<Text>{1_Civic} valmistui tällä vuorolla!</Text>
 		</Replace>
@@ -2182,7 +2236,7 @@
 			<Text>Muokkaa linjauksia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_NONE">
-			<Text>Ei suodatusta</Text>
+			<Text>Kaikki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_MILITARY">
 			<Text>Sotilaalliset</Text>
@@ -2217,6 +2271,9 @@
 		<Replace Language="fi_FI" Tag="LOC_GOVT_MY_GOVERNMENT">
 			<Text>Hallintomme</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GOVT_NEED_FAITH">
+			<Text>Tarvitsemme {1_Faith} [ICON_FaithLarge] uskoa</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_NEED_GOLD">
 			<Text>Tarvitsemme {1_Gold} [ICON_GoldLarge] kultaa</Text>
 		</Replace>
@@ -2249,6 +2306,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_SET_POLICIES">
 			<Text>Aseta linjaukset</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GOVT_UNLOCK_FAITH">
+			<Text>Vapauta käyttämällä {1_Faith} [ICON_FaithLarge] uskoa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_UNLOCK_GOLD">
 			<Text>Vapauta käyttämällä {1_Gold} [ICON_GoldLarge] kultaa</Text>
@@ -2422,6 +2482,15 @@
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_PLANT_REQUIRES_CIVIC">
 			<Text>Vaatii normin: {1_Civic}</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_OPERATION_SIMULATE_SPREAD_RELIGION">
+			<Text>[NEWLINE]{2_ReligionName} tulee olemaan toimen jälkeen {1_NumFollowers} asukkaan uskonto tässä kaupungissa.[NEWLINE]{3_MajorityReligionString}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_OPERATION_SIMULATE_SPREAD_RELIGION_MAJORITY">
+			<Text>{1_MajorityReligionName} tulee olemaan kaupungin valtauskonto</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_OPERATION_SIMULATE_SPREAD_RELIGION_NO_MAJORITY">
+			<Text>Kaupungissa ei tule olemaan valtauskontoa.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_MOVE_TO_DESCRIPTION">
 			<Text>Siirry</Text>
 		</Replace>
@@ -2448,6 +2517,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REBASE_DESCRIPTION">
 			<Text>Vaihda tukikohta</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_RELIGIOUS_HEAL_DESCRIPTION">
+			<Text>Hoida uskonnolliset yksiköt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_REMOVE_FEATURE_DESCRIPTION">
 			<Text>Poista piirre</Text>
@@ -2522,7 +2594,7 @@
 			<Text>Tulee sijaita ystävällisillä alueilla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_APOSTLE_REQUIRED_CHARGES">
-			<Text>2 levitystä tulee olla käytettävissä.</Text>
+			<Text>3 levitystä tulee olla käytettävissä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_UPGRADE_REQUIRES_RESOURCE_ACCESS">
 			<Text>{2_AmountNeeded} {1_ResourceName} vaaditaan tämän yksikkötyypin päivittämiseen.</Text>
@@ -2542,6 +2614,9 @@
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_FORTIFY_DESCRIPTION">
 			<Text>Vartioi</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_ALERT_DESCRIPTION">
+			<Text>Varoita</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_ALERT">
 			<Text>Yksikkö vartioi ja menee uneen, mutta herää nähdessään vihollisen.</Text>
 		</Replace>
@@ -2559,6 +2634,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_CANNOT_HEAL_IN_ENEMY_TERRITORY">
 			<Text>{LOC_UNITOPERATION_CANNOT_HEAL_OUTSIDE_FRIENDLY_TERRITORY}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_RESOURCE_REQUIRED">
+			<Text>{1_Resource} vaaditaan korjaamiseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_CANNOT_DESIGNATE_PARK">
 			<Text>Tulee sijaita kansallispuistoksi soveltuvalla ruudulla.</Text>
@@ -2700,6 +2778,18 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_PLUNDER_TRADE_ROUTE_BLOCKED_BY_IMMUNITY">
 			<Text>Ruudussa olevalla [ICON_TradeRoute] kauppareitillä on kyky, joka estää sen tulemisen ryövätyksi.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_DESCRIPTION">
+			<Text>Julista kerettiläiseksi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_REQUIRES_WAR_DECLARATION">
+			<Text>Ruudussa oleva uskonnollinen yksikkö kuuluu pelaajalle, jonka kanssa emme ole sodassa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_STARTED_THIS_RELIGION">
+			<Text>Ruudussa oleva yksikkö noudattaa uskontoa, jonka olemme muodostaneet.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_FOLLOWING_THIS_RELIGION">
+			<Text>Ruudussa oleva yksikkö noudattaa uskontoa, joka on valtauskontona suurimmassa osassa kaupunkejamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_NAME_UNIT_DESCRIPTION">
 			<Text>Nimeä yksikkö</Text>
@@ -2998,10 +3088,13 @@
 			<Text>Vaatii</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_MAKES_OBSOLETE">
-			<Text>Syrjäyttää</Text>
+			<Text>Syrjäyttää:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_LAKE">
 			<Text>Järvi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_COAST">
+			<Text>Rannikko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_RIVER">
 			<Text>Joki</Text>
@@ -3070,6 +3163,12 @@
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_AIRSLOTS">
 			<Text>Kapasiteetti lentokoneille: {1_Amount}</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ENVOYS">
+			<Text>Tarjoaa {1_Count : plural 1?yhden [ICON_Envoy] edustajan; other?{1_Count} [ICON_Envoy] edustajaa;}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_SPIES">
+			<Text>Tarjoaa {1_Count : plural 1?yhden vakoilijan; other?{1_Count} vakoilijaa;}</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_CITIZENSLOTS">
 			<Text>Asukaskapasiteetti: {1_Amount}</Text>
 		</Replace>
@@ -3131,6 +3230,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_SEA_RESOURCE">
 			<Text>rannikon luonnonvara</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RESOURCE_CLASS">
+			<Text>täsmäävä luonnonvaraluokitus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RIVER">
 			<Text>joki</Text>
@@ -3374,7 +3476,7 @@
 			<Text>Pyhä kaupunki: {1_HolyCity}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOLY_CITY_NONE">
-			<Text>Pyhä kaupunki: vallattu, muodostaja tuhottu</Text>
+			<Text>Pyhä kaupunki: vallattu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_CITY_NAME">
 			<Text>{1_CityName} ({2_OwnerName})</Text>
@@ -3481,6 +3583,9 @@
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOW_TO_MAKE_INQUISITOR_TT">
 			<Text>Tämän uskonnon tulee käynnistää inkvisitio apostolin toimesta, jotta inkvisiittoreita voi ostaa. Lisäksi ostamiseen vaaditaan temppeli.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_HOW_TO_MAKE_GURU_TT">
+			<Text>Meillä tulee olla temppeli kaupungin pyhässä paikassa, jotta voimme ostaa gurun.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_APOSTLE_TT">
 			<Text>Apostolit voivat käännyttää uskontoonsa [ICON_Citizen] asukkaita ja käydä uskontaistoja muiden uskontojen yksiköiden kanssa.</Text>
 		</Replace>
@@ -3489,6 +3594,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_INQUISITOR_TT">
 			<Text>Inkvisiittorit voivat kitkeä muiden uskontojen vaikutuksen alueellaan, sekä käydä uskontaistoja muiden uskontojen yksiköiden kanssa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_GURU_TT">
+			<Text>Gurut voivat käyttää toimen hoivatakseen itsensä sekä kaikki viereiset ystävälliset uskonnolliset yksiköt. Ei voi käydä uskontaistoja muiden uskontojen yksiköiden kanssa (mutta voi puolustautua).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_UNKNOWN_CITY">
 			<Text>Tuntematon kaupunki</Text>
@@ -3738,6 +3846,9 @@
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_CONVERT_SUMMARY">
 			<Text>{2_ReligionName}: {1_NumConverts} kansakuntaa käännytetty</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_TEAMS_RELIGIONS">
+			<Text>tiimin uskonnot</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_CONDITION">
 			<Text>{1_NumTurns} vuorossa</Text>
 		</Replace>
@@ -3749,6 +3860,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_SIMPLE">
 			<Text>Olemme johdossa</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_TEAM_SIMPLE">
+			<Text>Tiimimme johtaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_FIRST_PLACE_YOU_DETAILS">
 			<Text>Johdamme {1_Details}</Text>
@@ -3762,6 +3876,9 @@
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_SIMPLE">
 			<Text>Olemme {1_Place} sijalla</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_TEAM_SIMPLE">
+			<Text>Tiimimme on {1_Place} sijalla</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_DETAILS">
 			<Text>Olemme {1_Place} sijalla johtuen {2_Details}</Text>
 		</Replace>
@@ -3770,6 +3887,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OTHER_POSITION_DETAILS">
 			<Text>Olemme sijalla {1_Place} johtuen {2_Details}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_TEAM">
+			<Text>Tiimi {1_TeamNumber}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_1_PLACE">
 			<Text>ensimmäisellä</Text>
@@ -3807,6 +3927,30 @@
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_12_PLACE">
 			<Text>kahdennellatoista</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_13_PLACE">
+			<Text>kolmannellatoista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_14_PLACE">
+			<Text>neljännellätoista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_15_PLACE">
+			<Text>viidennellätoista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_16_PLACE">
+			<Text>kuudennellatoista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_17_PLACE">
+			<Text>seitsemännellätoista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_18_PLACE">
+			<Text>kahdeksannellatoista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_19_PLACE">
+			<Text>yhdäksennellätoista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_20_PLACE">
+			<Text>kahdennellakymmenennellä</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_STEPS_COMPLETED">
 			<Text>Suoritetut vaihteet</Text>
 		</Replace>
@@ -3818,6 +3962,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_REQUIREMENTS_LABEL">
 			<Text>Vaatimukset</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_VICTORY_DISABLED">
+			<Text>Voittotapaa ei voi saavuttaa</Text>
 		</Replace>
 		<!-- ==================== Scoring Categories ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_CIVICS_NAME">
@@ -3942,6 +4089,9 @@
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_DISTRICT_QUEST">
 			<Text>Kaupunkialuetehtävä</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_AT_WAR_WTIH">
+			<Text>{1_CityState} on sodassa pelaajan {2_PlayerAtWar} kanssa</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_ENVOYS">
 			<Text>Edustajat</Text>
 		</Replace>
@@ -3988,6 +4138,15 @@
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_QUESTS">
 			<Text>Tehtävä:</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_RELATIONSHIPS">
+			<Text>Suhteet:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_CIVILIZATION_HEADER">
+			<Text>Kansakunnat</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_CITY_STATES">
+			<Text>Kaupunkivaltiot</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_REMOVE_AN_ENVOY">
 			<Text>Poista ehdotettu [ICON_Envoy] edustaja kansamme ja kaupunkivaltion väliltä.</Text>
 		</Replace>
@@ -4025,7 +4184,7 @@
 			<Text>{1_CityStateName} Erityinen etu:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS">
-			<Text>Valta-aseman diplomaattinen etu:[NEWLINE][ICON_Bolt]Kaupunkivaltio kulkee kanssamme sotaan ja rauhaan toisia pelaajia vastaan.[NEWLINE][ICON_Bolt]Yksikkömme voivat kulkea kaupunkivaltion mailla.[NEWLINE][ICON_Bolt]Rakentajamme voivat tehdä rakenteita kaupunkivaltion maille.[NEWLINE][ICON_Bolt]Voimme nähdä kaupunkivaltiota ympäröivät maat kolmen ruudun päähän.[NEWLINE][ICON_Bolt]Voimme värvätä [ICON_Gold] kullalla kaupunkivaltion armeijan väliaikaisesti käyttöömme.[NEWLINE][ICON_Bolt]Saamme omistajuuden kaikille kaupunkivaltion luonnonvaroille:</Text>
+			<Text>Valta-aseman diplomaattinen etu:[NEWLINE][ICON_Bolt]Kaupunkivaltio kulkee kanssamme sotaan ja rauhaan toisia pelaajia vastaan.[NEWLINE][ICON_Bolt]Kaupunkivaltion alueesta tulee ystävällinen: yksikkömme voivat kulkea, parantua ja päivittyä siellä.[NEWLINE][ICON_Bolt]Rakentajamme voivat tehdä rakenteita kaupunkivaltion maille.[NEWLINE][ICON_Bolt]Voimme nähdä kaupunkivaltiota ympäröivät maat kolmen ruudun päähän.[NEWLINE][ICON_Bolt]Voimme värvätä [ICON_Gold] kullalla kaupunkivaltion armeijan väliaikaisesti käyttöömme.[NEWLINE][ICON_Bolt]Saamme omistajuuden kaikille kaupunkivaltion luonnonvaroille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SUZERAIN_NO_RESOURCES_AVAILABLE">
 			<Text>(Ei toistaiseksi saatavilla)</Text>
@@ -4035,6 +4194,12 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_TITLE">
 			<Text>Kaupunkivaltiot</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_TURNS_WAR_NO_PEACE">
+			<Text>Sodassa.[NEWLINE](Ei voi muodostaa rauhaa.)</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_SUZERAIN_WAR_NO_PEACE">
+			<Text>Sodassa kaupunkivaltioon valta-asemassa olevan kansakunnan kanssa.[NEWLINE](Ei voi muodostaa rauhaa.)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_TURNS_WAR">
 			<Text>Nyt sodassa.[NEWLINE](Rauha mahdollistuu {1_Turns:plural 1?vuoron; other?{1_Turns} vuoron;} kuluttua.)</Text>
@@ -4453,6 +4618,9 @@
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_BEGIN_ROUTE_BUTTON">
 			<Text>PERUSTA REITTI</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_REPEAT_ROUTE_BUTTON">
+			<Text>TOISTA REITTI</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_RECEIVES_RESOURCE">
 			<Text>{1_City} saa:</Text>
 		</Replace>
@@ -4491,6 +4659,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TOTAL">
 			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} yhteensä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ROUTECHOOSER_RELIGIOUS_PRESSURE_SOURCE_MAJORITY_RELIGION">
+			<Text>{1_PressureAmount} {2_PressureIconString} uskonnollista painetta: {3_ReligionName} on valtauskonto kaupungissa {4_CityName}.</Text>
 		</Replace>
 		<!-- ==================== DeclareWarPopup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_HEADER">
@@ -4546,6 +4717,13 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DECLARE_WAR_DEALS_TOOLTIP">
 			<Text>Menetetyt sopimukset:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_JOINT_WAR_CANNOT_EDIT_THEIRS_TOOLTIP">
+			<Text>Voimme muuttaa yhteissodan kohdetta vain jos olemme tarjouksen tekijä.</Text>
+		</Replace>
+		<!-- ==================== DenouncePopup ==================== -->
+		<Replace Language="fi_FI" Tag="LOC_DENOUNCE_POPUP_BODY">
+			<Text>Haluammeko varmasti tuomita pelaajan {1_PlayerName}?</Text>
 		</Replace>
 		<!-- ==================== Victory Status Text ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_PANEL_HEADER">
@@ -4609,6 +4787,9 @@
 		<Replace Language="fi_FI" Tag="TXT_KEY_MP_LAST_PLAYER">
 			<Text>Olet pelin viimeinen ihmispelaaja.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="TXT_KEY_MP_LAST_PLAYER_TITLE">
+			<Text>Aivan yksin</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PARTIALSCREEN_CITYSTATES_TOOLTIP">
 			<Text>Kaupunkivaltiot[NEWLINE][NEWLINE]Näytä kaikki kohdatut kaupunkivaltiot, hallitse [ICON_Envoy] edustajia ja tarkasta saavutetut edut.</Text>
 		</Replace>
@@ -4651,6 +4832,9 @@
 		<!-- ==================== REPORTS =================== -->
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_AMOUNT">
 			<Text>Määrä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ADJACENCY_BONUS">
+			<Text>Läheisyysedut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TITLE">
 			<Text>Raportit</Text>
@@ -4702,6 +4886,12 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_FOOD">
 			<Text>Ruoka</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_UNITNAME">
+			<Text>Yksikön nimi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_UNITCOUNT">
+			<Text>Yksiköiden määrä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_GOLD">
 			<Text>Kulta</Text>
@@ -4862,6 +5052,9 @@
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_CITY_STATE">
 			<Text>Kaupunkivaltio</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_MISC_RESOURCE_SOURCE">
+			<Text>Pelaamisedut</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
 			<Text>Tuonti</Text>
 		</Replace>
@@ -4890,7 +5083,7 @@
 			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_VIEW_REPORTS">
-			<Text>Näytä raportit</Text>
+			<Text>Raportit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_WORKED_LAND">
 			<Text>Työstetty maa</Text>
@@ -4900,6 +5093,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_WORKED_TILES">
 			<Text>Työstetyt ruudut</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_REPORTS_NUMBER_OF_TURNS">
+			<Text>{1_Turns} vuoron ajan</Text>
 		</Replace>
 		<!-- Player Yields ToolTips -->
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_ANARCHY">
@@ -4926,6 +5122,9 @@
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) merkittäviltä henkilöiltä</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ANARCHY">
 			<Text>Ei kulttuuria anarkian vuoksi.</Text>
 		</Replace>
@@ -4949,6 +5148,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) kaupunkivaltioista joihin meillä on valta-asema</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_CULTURE_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) merkittäviltä henkilöiltä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_ANARCHY">
 			<Text>Ei kultaa anarkian vuoksi.</Text>
@@ -4983,8 +5185,14 @@
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_OTHER">
 			<Text>{Value : number +#.#;-#.#} muusta</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_FROM_NATIONAL_PARKS">
+			<Text>{Value : number +#.#;-#.#} luonnonpuistoista</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) kaupunkivaltioista joihin meillä on valta-asema</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) merkittäviltä henkilöiltä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDINGS">
 			<Text>{Value : number -#.#;+#.#} rakennuksista</Text>
@@ -5034,6 +5242,9 @@
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_TRIBUTARIES">
 			<Text>{Value : number +#.#;-#.#} kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_EARNED_GREAT_PEOPLE">
+			<Text>{Value : number +#.#;-#.#} merkittäviltä henkilöiltä</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PLAYER_YIELD_FAITH_FROM_FOUNDERS">
 			<Text>{Value : number +#.#;-#.#} rauhanomaisista uskonnon perustajista</Text>
 		</Replace>
@@ -5078,6 +5289,9 @@
 			<Text>{Value : number +#.#;-#.#} rakennuksille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_DISTRICT_PRODUCTION_BONUS">
+			<Text>{Value : number +#.#;-#.#} kaupunkialueille</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_DISTRICT_PRODUCTION_MODIFIER">
 			<Text>{Value : number +#.#;-#.#} kaupunkialueille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_YIELD_FROM_GREATWORKS_TOOLTIP">
@@ -5149,6 +5363,18 @@
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_WOODS_SECONDARY">
 			<Text>(uutta metsää)</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY">
+			<Text>(ystävällinen alue)</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_2">
+			<Text>Ystävällinen alue</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_3">
+			<Text>(ystävällinen)</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_4">
+			<Text>Ystävällinen</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPTIONS_SET_KEY_BINDING_TEXT">
 			<Text>Paina haluamaasi näppäimistön tai hiiren painiketta, jonka haluat varata käyttöön. Peruuttaaksesi paina peruuta-nappulaa tai esciä. Voit poistaa varauksen painamalla tyhjennä-painiketta.</Text>
 		</Replace>
@@ -5201,7 +5427,7 @@
 			<Text>Kulttuurin arvoa ei mitata sen saavatuksilla, vaan sillä miten nuo saavutukset kestävät ja kuinka ne muistetaan. Kauneus jonka olette inspiroineet kansamme luoneen varmistaa sen, että kansamme kestää ajasta aikaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_DOMINATION_TEXT">
-			<Text>Toiset ne vaan jaksavat nitistä siitä, että aiheuttaako valta tahdon käyttää sitä - johtaako väkivalta väkivallan kierteeseen. Nämä kyseenalaistukset ovat tarpeettomia. Te, Suuri Johtaja, piditte asioista huolen.</Text>
+			<Text>Historia voittajien kirjoittamaa, vaikka se muuttuisikin aikojen saatossa. Tekosi tänään varmistaa sen, että kansanne elää loistossa huomennakin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_DEFAULT_TEXT">
 			<Text>Kaikki muut ovat hävinneet... siispä olemme voittaneet!</Text>
@@ -5226,7 +5452,7 @@
 			<Text>{1_TourismInfo}{2_ReligionName}: uskonnon pyhä kaupunki tarjoaa +{3_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Merkittävien henkilöiden aiheuttama turismi: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Merkittävien henkilöiden tai muurien aiheuttama turismi: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Merkkiteosten aiheuttama turismi rakennuksessa {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
@@ -5292,6 +5518,60 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DEMO_DIALOG_EXIT_TT">
 			<Text>Päävalikkoon</Text>
+		</Replace>
+		<!-- Turn Remaining UI text -->
+		<Replace Language="fi_FI" Tag="LOC_TURN_REMAINING">
+			<Text>vuoro jäljellä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TURNS_REMAINING">
+			<Text>vuoroa jäljellä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TURNS_REMAINING_VAL">
+			<Text>{1_Turns} vuoroa jäljellä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TURN_REMAINING_VAL">
+			<Text>{1_Turns} vuoro jäljellä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TURN_VAL_OF_VAL1">
+			<Text>Vuoro {1_Turns}/{2_MaxTurns}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TURN_VAL_OF_VAL2">
+			<Text>Vuoro {1_Turns} / {2_MaxTurns}</Text>
+		</Replace>
+		<!-- Team Related text -->
+		<Replace Language="fi_FI" Tag="LOC_TEAM_RELIGION_VICTORY_COUNTER">
+			<Text>{1_Civs}/{2_TotalCivs} kansaa käännytetty tiimin uskontoihin</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_CULTURE_VICTORY_COUNTER">
+			<Text>{1_Team} johtaa: {2_Tourists}/{3_TotalTourists} turistia houkuteltu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_RELIGION_CONVERTED_BY_CIV">
+			<Text>{1_Civ} käännytti</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_RELIGION_CONVERTED_BY_PLAYER">
+			<Text>{1_SteamID} käännytti</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_DOMINATION_CAPTURED_BY_CIV">
+			<Text>{1_Civ} valtasi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_DOMINATION_CAPTURED_BY_PLAYER">
+			<Text>{1_SteamID} valtasi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_LIST_HEADING">
+			<Text>Tiimit ja kansakunnat</Text>
+		</Replace>
+		<!-- World Builder -->
+		<Replace Language="fi_FI" Tag="LOC_WORLDBUILDER_SELECT_TOOL">
+			<Text>Tilkun valitsin</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLDBUILDER_PLACE_TOOL">
+			<Text>Sijoita tilkku</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLDBUILDER_TEXT_STRING">
+			<Text>Tekstin merkkijono</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_WORLDBUILDER_TEXT_TAG">
+			<Text>Tekstin tagi</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

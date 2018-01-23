@@ -136,9 +136,18 @@
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
 			<Text>Sadon jumalatar</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
+			<Text>Kaupunkien jumalatar</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_EARTH_GODDESS_NAME">
+			<Text>Maan jumalatar</Text>
+		</Replace>
 		<!--2. WORSHIP BELIEFS-->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_CATHEDRAL_NAME">
 			<Text>Katedraali</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_DAR_E_MEHR_NAME">
+			<Text>Tulen temppeli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GURDWARA_NAME">
 			<Text>Gurdwara</Text>
@@ -152,6 +161,9 @@
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_PAGODA_NAME">
 			<Text>Pagoda</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_STUPA_NAME">
+			<Text>Stupa</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_SYNAGOGUE_NAME">
 			<Text>Synagooga</Text>
 		</Replace>
@@ -159,6 +171,9 @@
 			<Text>Wat</Text>
 		</Replace>
 		<!--3. FOLLOWER BELIEFS-->
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_CHORAL_MUSIC_NAME">
+			<Text>Kuoromusiikki</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
 			<Text>Jumalallinen inspiraatio</Text>
 		</Replace>
@@ -174,6 +189,9 @@
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
 			<Text>Uskonnollinen yhteisö</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_WARRIOR_MONKS_NAME">
+			<Text>Soturimunkit</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_WORK_ETHIC_NAME">
 			<Text>Työetiikka</Text>
 		</Replace>
@@ -184,6 +202,9 @@
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
 			<Text>Kirkon omaisuus</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_NAME">
+			<Text>Kulttuurien välinen viestintä</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
 			<Text>Maallikkojen ministeriö</Text>
 		</Replace>
@@ -192,6 +213,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_PILGRIMAGE_NAME">
 			<Text>Pyhiinvaellus</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_UNITY_NAME">
+			<Text>Uskonnollinen yhtenäisyys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_STEWARDSHIP_NAME">
 			<Text>Viranhoitajuus</Text>
@@ -203,6 +227,9 @@
 			<Text>Maailmankirkko</Text>
 		</Replace>
 		<!--5. ENHANCER BELIEFS-->
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_BURIAL_GROUNDS_NAME">
+			<Text>Hautausmaat</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
 			<Text>Uskonpuolustaja</Text>
 		</Replace>
@@ -220,6 +247,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
 			<Text>Askeettinen isolaatio</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_NAME">
+			<Text>Uskonnollinen asuttaminen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_SCRIPTURE_NAME">
 			<Text>Pyhä kirjoitus</Text>
@@ -245,7 +275,7 @@
 			<Text>+15% [ICON_Production] tuotantoa muinaisuuden ja antiikin ihmeiden rakentamiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
-			<Text>+1 merkittävien henkilöiden pisteitä pyhistä paikoista (profeettaan), kampuksista (tiedemieheen) ja teatteriaukioista (kirjailijaan).</Text>
+			<Text>+1 [ICON_GreatPerson] merkittävien henkilöiden pisteitä pyhistä paikoista (profeettaan), kampuksista (tiedemieheen) ja teatteriaukioista (kirjailijaan).</Text>
 		</Replace>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
@@ -265,7 +295,7 @@
 			<Text>+2 [ICON_Faith] uskoa louhoksista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
-			<Text>+1 [ICON_Faith] uskoa ylellisten ja hyödyllisten resurssien kaivoksista.</Text>
+			<Text>+2 [ICON_Faith] uskoa ylellisten ja hyödyllisten resurssien kaivoksista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
 			<Text>+1 [ICON_Production] tuotantoa strategisten resurssien kaivoksista.</Text>
@@ -284,7 +314,7 @@
 			<Text>Kasvattaa parantumista +30:lla pyhässä paikassa ja sen viereisissä ruuduissa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Kahdeksan ruudun sisällä meidän pyhästä paikastamme tuhottu vihollisyksikkö tarjoaa puolet voimastaan [ICON_Faith] uskona.</Text>
+			<Text>Kahdeksan ruudun sisällä pyhästä paikasta tuhottu vihollisyksikkö tarjoaa puolet voimastaan [ICON_Faith] uskona.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
 			<Text>+50 [ICON_Faith] uskoa jokaisesta tuhotusta barbaarien etuvartiosta.</Text>
@@ -299,9 +329,18 @@
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
 			<Text>Resurssin poiskorjuu tai piirteen poisto antaa siitä saadun hyödyn määrän edestä [ICON_Faith] uskoa.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
+			<Text>+25% [ICON_Production] tuotantoa kaupunkialueiden rakentamiseen kaupungeissa, joissa ei vielä ole erikoistunutta kaupunkialuetta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_EARTH_GODDESS_DESCRIPTION">
+			<Text>+1 uskoa [ICON_Faith] ruuduista, jotka ovat houkuttelevuudeltaan vähintään viehättäviä.</Text>
+		</Replace>
 		<!--2. WORSHIP BELIEFS-->
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
 			<Text>Mahdollistaa katedraalien rakentamisen (+3 [ICON_Faith] uskoa ja 1 paikka uskonnolliselle taiteelle).</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
+			<Text>Mahdollistaa tulen temppelien (Dar-e Mehrien) rakentamisen (+3 [ICON_Faith] uskoa, +1 lisää [ICON_FAITH] jokaisesta rakentamisen tai korjaamisen jälkeisestä aikakaudesta).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
 			<Text>Mahdollistaa gurdwarojen rakentamisen (+3 [ICON_Faith] uskoa ja +2 [ICON_Food] ruokaa).</Text>
@@ -315,6 +354,9 @@
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
 			<Text>Mahdollistaa pagodien rakentamisen (+3 [ICON_Faith] uskoa ja +1 [ICON_Housing] asumuksia).</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
+			<Text>Mahdollistaa stupien rakentamisen (+3 [ICON_Faith] uskoa ja +1 [ICON_Amenities] elintasoa).</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
 			<Text>Mahdollistaa synagoogien rakentamisen (+5 [ICON_Faith] uskoa).</Text>
 		</Replace>
@@ -322,6 +364,9 @@
 			<Text>Mahdollistaa watien rakentamisen (+3 [ICON_Faith] uskoa ja +2 [ICON_Science] tiedettä).</Text>
 		</Replace>
 		<!--3. FOLLOWER BELIEFS-->
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION">
+			<Text>Pyhätöt ja temppelit tarjoavat [ICON_Culture] kulttuuria ominaisen [ICON_Faith] uskontuottonsa verran.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
 			<Text>Kaikki maailmanihmeet tarjoavat +4 [ICON_Faith] uskoa.</Text>
 		</Replace>
@@ -337,6 +382,9 @@
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
 			<Text>Pyhätöt ja temppelit tarjoavat kumpainenkin +1 [ICON_Housing] asumuksia.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
+			<Text>Mahdollistaa [ICON_Faith] uskon käyttämisen soturimunkkien koulutukseen, jotka ovat keskiaikaisia maayksiköitä ja joilla on erityiset ylennysmahdollisuudet. Ostaminen on mahdollista ainoastaan kaupungeissa, joiden pyhästä paikasta löytyy temppeli.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
 			<Text>+1% [ICON_Production] tuotantoa jokaisesta uskon noudattajasta.</Text>
 		</Replace>
@@ -347,6 +395,9 @@
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
 			<Text>+2 [ICON_Gold] kultaa jokaisesta tätä uskontoa noudattavasta kaupungista.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION">
+			<Text>+1 [ICON_Science] tiedettä joka viidennestä tätä uskontoa noudattavasta muissa kansakunnissa.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
 			<Text>Tätä uskontoa noudattavien kaupunkien alueiden pyhät paikat ja teatteriaukiot tarjoavat +1 [ICON_Faith] uskoa tai [ICON_Culture] kulttuuria tyyppinsä mukaisesti.</Text>
 		</Replace>
@@ -355,6 +406,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
 			<Text>+2 [ICON_Faith] uskoa jokaisesta tätä uskontoa seuraavasta kaupungista muissa kansakunnissa tai kaupunkivaltioissa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_UNITY_DESCRIPTION">
+			<Text>+1 [ICON_Envoy] edustaja kaupunkivaltioon kun se ensimmäistä kertaa omaksuu tämän uskonnon; tämä etu tulee mahdollisen kaupunkivaltion tehtävän tarjoaman edustajan lisäksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
 			<Text>Tätä uskontoa noudattavien kaupunkien alueiden kampukset ja kaupalliset keskukset tarjoavat+1 [ICON_Science] tiedettä tai +1 [ICON_Gold] kultaa tyyppinsä mukaisesti.</Text>
@@ -366,6 +420,9 @@
 			<Text>+1 [ICON_Culture] kulttuuria joka viidennestä tätä uskontoa noudattavasta muiden kansojen edustajasta.</Text>
 		</Replace>
 		<!--5. ENHANCER BELIEFS-->
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_BURIAL_GROUNDS_DESCRIPTION">
+			<Text>Pyhän paikan valmistuessa sen viereiset ruudut kulttuuripommittuvat omistukseemme.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
 			<Text>Taisteluyksiköt saavat +10 [ICON_Strength] taisteluvoimakkuutta ollessaan tätä uskontoa noudattavien ystävällisten kaupunkien rajojen sisäpuolella.</Text>
 		</Replace>
@@ -383,6 +440,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
 			<Text>Uskontomme paine ei koskaan putoa teologisten kamppailujen seurauksena.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
+			<Text>Kaupunki aloittaa tällä uskonnolla, mikäli kaupungin perustaa pelaaja, jonka valtauskontona tämä uskonto on.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
 			<Text>Uskonnon leviämisvimma läheisestä kaupungista on 25% voimakkaampi. Kirjapainon kehittämisen jälkeen paine on 50%.</Text>

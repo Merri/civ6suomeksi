@@ -20,6 +20,9 @@
 		<Replace Language="fi_FI" Tag="LOC_DISTRICT_NAME_REPLACES">
 			<Text>Kaupunkialue (korvaa {1_DistrictName[3]})</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ENVOY_NAME">
+			<Text>Edustaja</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_NAME">
 			<Text>Ajanjakso</Text>
 		</Replace>
@@ -40,6 +43,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ROUTE_NAME">
 			<Text>Reitti</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_SPY_NAME">
+			<Text>Vakoilija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECHNOLOGY_NAME">
 			<Text>Teknologia</Text>
@@ -113,6 +119,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CRISTO_REDENTOR_NAME">
 			<Text>Cristo Redentor|Cristo Redentor|Cristo Redentorin</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_DAR_E_MEHR_NAME">
+			<Text>Tulen temppeli|tulen temppeli|tulen temppelin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_EIFFEL_TOWER_NAME">
 			<Text>Eiffel-torni|Eiffel-torni|Eiffel-tornin</Text>
@@ -266,6 +275,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STONEHENGE_NAME">
 			<Text>Stonehenge|Stonehenge|Stonehengen</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_STUPA_NAME">
+			<Text>Stupa|stupa|stupan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_NAME">
 			<Text>Sydneyn oopperatalo|Sydneyn oopperatalo|Sydneyn oopperatalon</Text>
@@ -451,6 +463,9 @@
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_GLOBALIZATION_NAME">
 			<Text>Globalisaatio|globalisaatiota</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CIVIC_FUTURE_CIVIC_NAME">
+			<Text>Tuleva normi|tulevaa normia</Text>
+		</Replace>
 		<!-- Civilizations-->
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMERICA_NAME">
 			<Text>Amerikka</Text>
@@ -512,6 +527,9 @@
 		<!--City-States-->
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMSTERDAM_NAME">
 			<Text>Amsterdam</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_NAME">
+			<Text>Bandar Seri Begawan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRUSSELS_NAME">
 			<Text>Brysseli</Text>
@@ -2516,7 +2534,7 @@
 		</Replace>
 		<!-- Terrain -->
 		<Replace Language="fi_FI" Tag="LOC_TERRAIN_COAST_NAME">
-			<Text>Rannikko</Text>
+			<Text>Rannikko ja järvi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TERRAIN_DESERT_NAME">
 			<Text>Aavikko</Text>
@@ -2699,6 +2717,9 @@
 		<Replace Language="fi_FI" Tag="LOC_UNIT_GREAT_MUSICIAN_NAME">
 			<Text>Merkittävä muusikko|merkittävä muusikko|merkittävän muusikon|merkittäväksi muusikoksi</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNIT_GURU_NAME">
+			<Text>Guru|guru|gurun|guruksi</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_HEAVY_CHARIOT_NAME">
 			<Text>Raskas sotavaunu|raskas sotavaunu|raskaan sotavaunun|raskaaksi sotavaunuksi</Text>
 		</Replace>
@@ -2812,6 +2833,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_WARRIOR_NAME">
 			<Text>Soturi|soturi|soturin|soturiksi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UNIT_WARRIOR_MONK_NAME">
+			<Text>Soturimunkki|soturimunkki|soturimunkin|soturimunkiksi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
 			<Text>Maryannu-jousivaunu|Maryannu-jousivaunu|Maryannu-jousivaunun|Maryannu-jousivaunuksi</Text>
