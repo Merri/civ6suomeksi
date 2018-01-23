@@ -119,6 +119,9 @@
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
 			<Text>Merkittävien henkilöiden linjaukset</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME">
+			<Text>Villit kortit (linjauksissa)</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
 			<Text>Rakenteet</Text>
 		</Replace>

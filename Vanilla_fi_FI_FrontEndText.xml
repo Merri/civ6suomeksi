@@ -52,6 +52,15 @@
 		<Replace Language="fi_FI" Tag="LOC_LOAD_GAME">
 			<Text>Lataa peli</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_LOAD_CONFIG">
+			<Text>Lataa asetukset</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_LOAD_MAP">
+			<Text>Lataa kartta</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_OPEN_DIRECTORY">
+			<Text>Avaa</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_NO_FILE_SELECTED">
 			<Text>Tiedostoa ei ole valittu</Text>
 		</Replace>
@@ -92,6 +101,12 @@
 		<Replace Language="fi_FI" Tag="LOC_NO_SAVED_GAMES">
 			<Text>Ei tallennettuja pelejä</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_NO_SAVED_CONFIGS">
+			<Text>Ei tallennettuja asetuksia</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_NO_SAVED_MAPS">
+			<Text>Ei tallennettuja karttoja</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SORTBY_NAME">
 			<Text>Järjestä nimen mukaan</Text>
 		</Replace>
@@ -109,6 +124,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SAVE_MAP_BUTTON">
 			<Text>Tallenna kartta</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_SAVE_CONFIG">
+			<Text>Tallenna asetukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
 			<Text>Pilvitallennusten suurin sallittu määrä on saavutettu. Ylikirjoita tai poista tallennus.</Text>
@@ -173,6 +191,9 @@
 		<Replace Language="fi_FI" Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
 			<Text>Pelin asetukset</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
+			<Text>Säännöt:</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
 			<Text>Kartan tyyppi:</Text>
 		</Replace>
@@ -207,6 +228,16 @@
 		<Replace Language="fi_FI" Tag="LOC_PLAYERS">
 			<Text>Pelaajat</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM">
+			<Text>Tiimi|Tiimit</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_GENERIC_NAME">
+			<Text>Tiimi {1_Number}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_UNKNOWN_NAME">
+			<Text>Tuntematon tiimi</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BACK">
 			<Text>Takaisin</Text>
 		</Replace>
@@ -230,7 +261,16 @@
 			<Text>Versio ei täsmää isännän kanssa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_ABANDONED_MOD_ERROR">
-			<Text>Modin asetusvirhe.</Text>
+			<Text>Lisäsisällön käyttöönotto ei onnistunut.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_ABANDONED_MOD_MISSING">
+			<Text>Vaaditun lisäsisällön hankinta ei onnistunut.[NEWLINE]Sisältö:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+			<Text>Steam Workshop esti pääsyn vaadittuun lisäsisältöön.[NEWLINE]Sisältö:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
+			<Text>Tämä peli vaatii lisäsisältöä, jota ei ole asennettu. Lisäsisällön automaattinen lataus on tällä hetkellä pois käytöstä. Latauksen voi käydä sallimassa peliasetuksissa.[NEWLINE]Sisältö:[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
 			<Text>Verkkoyhteys on katkennut.</Text>
@@ -272,18 +312,6 @@
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
 			<Text>Moninpeli tällä koneella; vuorot pelaaja kerrallaan.</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CLOUD_GAME">
-			<Text>Pilvipeli</Text>
-		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
-			<Text>Moninpeli käyttäen FiraxisLive-pilviteknologiaa. Vaatii voimassa olevan yhteyden FiraxisLiveen.</Text>
-		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
-			<Text>Pitboss</Text>
-		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
-			<Text>Moninpeli jota ohjastaa keskitetty palvelin. Mahdollistaa pidempikestoiset pelit.</Text>
-		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MENU_BACK">
 			<Text>Takaisin</Text>
 		</Replace>
@@ -291,9 +319,8 @@
 		<Replace Language="fi_FI" Tag="LOC_CHAT_HELP_COMMAND_HINT">
 			<Text>[COLOR:ChatMessage_Help]Kirjoita /help saadaksesi chattikomentojen ohjeen.[ENDCOLOR]</Text>
 		</Replace>
-		<!-- [TEAMCODE] Cut text for team chat command. "[NEWLINE]/t Send a message to a team channel" -->
 		<Replace Language="fi_FI" Tag="LOC_CHAT_HELP_COMMAND_TEXT">
-			<Text>[COLOR:ChatMessage_Help]CHATTIKOMENNOT[NEWLINE]/g Lähetä viesti yleiselle kanavalle[NEWLINE]/w [PlayerName] Kuiskaa viesti pelaajalle[NEWLINE]/r Vastaa kuiskaukseen[NEWLINE]/help Näyttää tämän ohjeen[ENDCOLOR]</Text>
+			<Text>[COLOR:ChatMessage_Help]CHATTIKOMENNOT[NEWLINE]/t Lähetä viesti yleiselle kanavalle[NEWLINE]/w [PlayerName] Kuiskaa viesti pelaajalle[NEWLINE]/r Vastaa kuiskaukseen[NEWLINE]/help Näyttää tämän ohjeen[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Multiplayer Lobby Screen -->
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
@@ -310,6 +337,24 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_BACK">
 			<Text>TAKAISIN</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_END_GAME">
+			<Text>POISTA PELI</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
+			<Text>Päätetään peli...</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
+			<Text>Pelin päättämisessä tapahtui virhe.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
+			<Text>Pelin käynnistäminen ei onnistunut.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
+			<Text>OK</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_JOIN_GAME">
 			<Text>Liity peliin</Text>
@@ -374,8 +419,14 @@
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_MODSHOSTED">
 			<Text>Modit</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
-			<Text>PITBOSS-PELIT</Text>
+		<Replace Language="fi_FI" Tag="LOC_STAGING_ROOM_LOADING_SAVE">
+			<Text>Ladataan tallennettu peli</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
+			<Text>Peli on käynnissä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_STAGING_ROOM_JOIN_CODE">
+			<Text>Liittymiskoodi:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
 			<Text>INTERNET-PELIT</Text>
@@ -383,30 +434,26 @@
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_LAN_LOBBY">
 			<Text>PAIKALLISVERKKOPELIT</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_LOBBY_MODS">
+			<Text>Lisäsisältö</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
+			<Text>Virallinen sisältö:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
+			<Text>Yhteisön sisältö:</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_UNKNOWN">
 			<Text>Tuntematon</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
+			<Text>Tuntematon kartan koko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_TRUE">
 			<Text>Totta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_FALSE">
 			<Text>Tarua</Text>
-		</Replace>
-		<!-- Cloud Game Screen -->
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CLOUD_LIST">
-			<Text>Lista</Text>
-		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
-			<Text>Templaatti</Text>
-		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CLOUD_HOST">
-			<Text>Isäntä</Text>
-		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
-			<Text>Liity</Text>
-		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CLOUD_START">
-			<Text>Aloita</Text>
 		</Replace>
 		<!-- Options -->
 		<Replace Language="fi_FI" Tag="LOC_CONFIRM_KEY_BINDING">
@@ -463,6 +510,12 @@
 		<Replace Language="fi_FI" Tag="LOC_OPTIONS_AUTO_END_TURN">
 			<Text>Vuoron lopetus heti:</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
+			<Text>Kaupunkien tulitusten vuoroesto:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
+			<Text>Päällä ollessaan käyttämättömät kaupunkien tulitukset estävät vuoronvaihdot.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPTIONS_TIME_OF_DAY">
 			<Text>Päivän aika:</Text>
 		</Replace>
@@ -480,6 +533,12 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
 			<Text>Pelaajanimi paikallisverkossa:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
+			<Text>Lataa lisäsisältö automaattisesti:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
+			<Text>Yhteisön luoma lisäsisältö ladataan automaattisesti, mikäli se vaaditaan liityttävässä moninpelissä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
 			<Text>Steam-ohjaimen asetukset tehdään Steamin omalla käyttöliittymällä. Escape, vasen hiiren painike ja oikea hiiren painike eivät ole käytettävissä.</Text>
@@ -540,11 +599,17 @@
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
 			<Text>Määritellään pelin sisältöä...</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
+			<Text>Yhdistetään pelaajiin...</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MP_ROOM_FULL">
-			<Text>Pelissä on suurin sallittu määrä pelaajia.</Text>
+			<Text>Liittyminen ei onnistu: pelissä on jo suurin sallittu määrä pelaajia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MP_JOIN_FAILED">
 			<Text>Virhe liityttäessä moninpeliin.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MP_ROOM_GAME_STARTED">
+			<Text>Liittyminen ei onnistu: peli on jo käynnistynyt.</Text>
 		</Replace>
 		<!-- Multiplayer Staging Room Screen -->
 		<Replace Language="fi_FI" Tag="LOC_MP_SWAP_PLAYER">
@@ -567,6 +632,12 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ARE_YOU_READY">
 			<Text>Oletko valmis?</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
+			<Text>Peliasetukset</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
+			<Text>Lisäsisältö</Text>
 		</Replace>
 		<!-- Multiplayer Status Strings -->
 		<Replace Language="fi_FI" Tag="LOC_READY_LABEL">
@@ -592,10 +663,10 @@
 			<Text>Liittyvät pelaajat voivat asettua avoimiin paikkoihin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SLOTTYPE_HUMANREQ">
-			<Text>Vaatii ihmisen</Text>
+			<Text>Avoin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SLOTTYPE_HUMANREQ_TT">
-			<Text>Ihmisen vaativien paikkoen tulee täyttyä ihmispelaajilla, jotta peli voi alkaa.</Text>
+			<Text>Avoimet paikat vaativat ihmispelaajan, jotta peli voi alkaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SLOTLABEL_HOST">
 			<Text>[ICON_Host] Isäntä</Text>
@@ -869,6 +940,18 @@
 		<Replace Language="fi_FI" Tag="LOC_SETUP_CREATE_GAME">
 			<Text>Luo peli</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_SETUP_CHOOSE_RULESET">
+			<Text>Valitse säännöt</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_SETUP_CHOOSE_SCENARIO">
+			<Text>Valitse skenaario</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_SETUP_SCENARIOS">
+			<Text>Skenaariot</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_SETUP_SCENARIO">
+			<Text>Skenaario</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SETUP_CIVILIZATION">
 			<Text>Valitse kansakunta</Text>
 		</Replace>
@@ -938,6 +1021,9 @@
 		<Replace Language="fi_FI" Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
 			<Text>Ei samoja hallitsijoita</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
+			<Text>Odotetaan lisää pelaajia</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SETUP_ERROR_INVALID_OPTION">
 			<Text>Kelvoton asetus</Text>
 		</Replace>
@@ -974,6 +1060,12 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_NO_BARBARIANS">
 			<Text>Ei barbaareja</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
+			<Text>Liittolaiset jakavat näkyvyyden</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
+			<Text>Liitossa olevat pelaajat jakavat keskenään kartalla näkemänsä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_TURNTIMER_TYPE">
 			<Text>Aikamoodi</Text>
@@ -1088,6 +1180,12 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
 			<Text>Legendaarinen</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
+			<Text>Määritellyt aloituspaikat</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
+			<Text>Käytä kartalle ennalta määriteltyjä aloitussijainteja.</Text>
 		</Replace>
 		<!--Game Speed Descriptions -->
 		<Replace Language="fi_FI" Tag="LOC_GAMESPEED_MARATHON_HELP">
@@ -1421,8 +1519,14 @@
 		<Replace Language="fi_FI" Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
 			<Text>Ei samoja hallitsijoita</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_NO_TEAMS_NAME">
+			<Text>Ei tiimejä</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
 			<Text>Tämä asetus estää kahta pelaajaa valitsemasta samaa hallitsijaa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_NO_TEAMS_DESCRIPTION">
+			<Text>Tämä asetus estää tiiminä pelaamisen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LIMIT_TURNS_NAME">
 			<Text>Rajoita vuoroja</Text>
@@ -1472,6 +1576,9 @@
 		<Replace Language="fi_FI" Tag="LOC_MAINMENU_CREATE_GAME_TT">
 			<Text>Luo uusi peli käyttäen omia asetuksia.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MAINMENU_SCENARIOS_TT">
+			<Text>Pelaa erilaisemman kokemuksen tarjoava skenaario, jossa on erityisiä sääntöjä, hallitsijoita sekä tavoitteita.</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
 			<Text>Pelaa nyt, luo uusi peli tai jatka aiempaa peliä.</Text>
 		</Replace>
@@ -1505,6 +1612,39 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_DEFAULT_NAME">
 			<Text>Voitto</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_HEADER">
+			<Text>VOITTO!</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_DEFEATED_SUBHEADER">
+			<Text>TAPPIO</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ELIMINATED_SUBHEADER">
+			<Text>TUHO</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_SCORE_SUBHEADER">
+			<Text>PISTEVOITTO</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
+			<Text>TIEDEVOITTO</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_CULTURE_SUBHEADER">
+			<Text>KULTTUURIVOITTO</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
+			<Text>VALTAUSVOITTO</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
+			<Text>USKONNOLLINEN VOITTO</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
+			<Text>VOITTO: {1_ScenarioName}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
+			<Text>{1_ScenarioVictoryType}</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
+			<Text>PELIN VOITTAJA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_SCORE_NAME">
 			<Text>Pistevoitto</Text>
@@ -1559,6 +1699,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
 			<Text>Osta heti</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
+			<Text>Avaa Steamin kauppa ostaaksesi Civilization VI:n</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DEMO_COMPLETE_CONTENT">
 			<Text>Onneksi olkoon! Olet ottanut ensimmäiset askeleesi kohden ajasta iäisyyteen kestävän sivilisaation luontia. Jatkatko itsesi mittaamista historian suurimpia hallitsijoita vastaan? Kehittyykö kulttuurisi? Valistaako tieteesi? Inspiroiko uskosi? Jyrääkö sotavoimasi?[NEWLINE][NEWLINE]Kuinka hallitset Sid Meierin Civilization VI:ssa? Jatka matkaasi nyt.[NEWLINE][NEWLINE]Rakenna. Valtaa. Inspiroi.</Text>
@@ -1621,8 +1764,17 @@
 		<Replace Language="fi_FI" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
 			<Text>Yksi tai useampi tallennuksen vaatima lisäosa (DLC) on asentamatta.</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
-			<Text>Yksi tai useampi tallennuksen vaatima laajennos (expansion) on asentamatta.</Text>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_NAME_SELECT_TITLE">
+			<Text>Tiimin nimi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_TEAM_NAME_ENTRY_TITLE">
+			<Text>Anna tiimin nimi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CHOOSE_TEAM_ICON">
+			<Text>Valitse tiimin kuvake</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
+			<Text>Päivän viesti:</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

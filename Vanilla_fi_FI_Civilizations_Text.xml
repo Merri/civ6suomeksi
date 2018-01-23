@@ -63,6 +63,9 @@
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
 			<Text>Amsterdamin kaupunkivaltio</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
+			<Text>Bandar Seri Begawanin kaupunkivaltio</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
 			<Text>Brysselin kaupunkivaltio</Text>
 		</Replace>
@@ -192,6 +195,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
 			<Text>Amsterdamin</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
+			<Text>Bandar Seri Begawanin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
 			<Text>Brysselin</Text>
@@ -336,19 +342,19 @@
 			<Text>Viimeinen profeetta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
-			<Text>Jos emme ole saaneet merkittävää profeettaa, saamme viimeisen kun viimeistä edeltävä profeetta lunastetaan. +1 [ICON_Science] tiedettä jokaisesta Arabian uskontoa noudattavasta ulkomaisesta kaupungista.</Text>
+			<Text>Jos emme ole saaneet [ICON_GreatProphet] merkittävää profeettaa, saamme viimeisen kun viimeistä edeltävä profeetta lunastetaan. +1 [ICON_Science] tiedettä jokaisesta Arabian uskontoa noudattavasta ulkomaisesta kaupungista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
 			<Text>Nkisi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
-			<Text>+2 [ICON_Food] ruokaa, +2 [ICON_Production] tuotantoa ja +4 [ICON_Gold] kultaa kustakin [ICON_GreatWork_Relic] muinaisjäännöksestä, [ICON_GreatWork_Artifact] artefaktista ja [ICON_GreatWork_Sculpture] merkittävästä taideveistoksesta niiden normaalisti antaman [ICON_Culture] kulttuurin lisäksi. Merkittävien [ICON_GreatWriter] kirjailijoiden, [ICON_GreatArtist] taiteilijoiden, [ICON_GreatMusician] muusikoiden ja [ICON_GreatMerchant] kauppiaiden pisteet saadaan kaksinkertaisina. Palatsissa on paikat viidelle merkkiteokselle.</Text>
+			<Text>+2 [ICON_Food] ruokaa, +2 [ICON_Production] tuotantoa ja +4 [ICON_Gold] kultaa kustakin [ICON_GreatWork_Relic] muinaisjäännöksestä, [ICON_GreatWork_Artifact] artefaktista ja [ICON_GreatWork_Sculpture] merkittävästä taideveistoksesta niiden normaalisti antaman [ICON_Culture] kulttuurin lisäksi. Merkittävien [ICON_GreatWriter] kirjailijoiden, [ICON_GreatArtist] taiteilijoiden, [ICON_GreatMusician] muusikoiden ja [ICON_GreatMerchant] kauppiaiden pisteet saavat 50% edun. Palatsissa on paikat viidelle merkkiteokselle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
 			<Text>Aarrelaivasto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
-			<Text>Voi rakentaa laivastoja ja armadoja tavanomaista aiemmin (merkantilismi). [ICON_TradeRoute] Kauppareitit useamman mantereen välillä saavat lisää [ICON_Gold] kultaa reiteistä muihin kansakuntiin ja lisää [ICON_Food] ruokaa ja [ICON_Production] tuotantoa reiteistä omien kaupunkien välillä.</Text>
+			<Text>Voi muodostaa laivastoja ja armadoja tavanomaista aiemmin (merkantilismi). [ICON_TradeRoute] Kauppareitit useamman mantereen välillä saavat lisää [ICON_Gold] kultaa reiteistä muihin kansakuntiin ja lisää [ICON_Food] ruokaa ja [ICON_Production] tuotantoa reiteistä omien kaupunkien välillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
 			<Text>Perustajaisät</Text>
@@ -445,7 +451,7 @@
 			<Text>1,1 miljardia vuonna 1990</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_CHINA_CAPITAL">
-			<Text>Monia (neljä keskeisintä: Beijing, Nanjing, Luoyang ja Chang'an)</Text>
+			<Text>Monia (neljä keskeisintä: Nanjing, Luoyang, Chang'an ja nykyisin Beijing)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
 			<Text>Eurooppa</Text>
@@ -469,7 +475,7 @@
 			<Text>Arviolta 7,5 miljoonaa (Ptolemaios-dynastia)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_EGYPT_CAPITAL">
-			<Text>Lukuisia (Memfis, Theba, Alexandria, Kairo)</Text>
+			<Text>Lukuisia (Memfis, Theba, Alexandria ja nykyisin Kairo)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_FRANCE_LOCATION">
 			<Text>Eurooppa</Text>
@@ -493,7 +499,7 @@
 			<Text>Arviolta 26,3 miljoonaa (vuonna 1780 jaa.)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GERMANY_CAPITAL">
-			<Text>Ei ollut (oli siellä missä keisari kulloinkin eli)</Text>
+			<Text>Nykyisin Berliini</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GREECE_LOCATION">
 			<Text>Eurooppa</Text>
@@ -505,7 +511,7 @@
 			<Text>Arviolta 667,5 tuhatta Peleponnesolaissodan aikaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_GREECE_CAPITAL">
-			<Text>Kaikki kaupungit, mutta pääosin Sparta ja Ateena</Text>
+			<Text>Kaikki kaupungit, mutta pääosin Sparta ja Ateena, nykyisin Ateena</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_INDIA_LOCATION">
 			<Text>Aasia</Text>
@@ -553,7 +559,7 @@
 			<Text>Viimeisin arvio 5,1 miljoonaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_NORWAY_CAPITAL">
-			<Text>Lukuisia (Trondheim, Bergen ja Oslo)</Text>
+			<Text>Lukuisia (Trondheim, Bergen ja nykyisin Oslo)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ROME_LOCATION">
 			<Text>Eurooppa (ja Vähä-Aasia, Afrikka, Lähi-Itä ja vähän muitakin paikkoja)</Text>
