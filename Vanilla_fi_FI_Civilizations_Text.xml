@@ -451,7 +451,7 @@
 			<Text>1,1 miljardia vuonna 1990</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_CHINA_CAPITAL">
-			<Text>Monia (neljä keskeisintä: Nanjing, Luoyang, Chang'an ja nykyisin Beijing)</Text>
+			<Text>Monia (neljä keskeisintä: Nanjing, Luoyang, Chang'an ja nykyisin Peking)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVINFO_ENGLAND_LOCATION">
 			<Text>Eurooppa</Text>
