@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+			<Text>+50% taistelukokemusta jokaiselle tässä kaupungissa koulutetulle lentoyksikölle. +2 paikkaa lentoyksiköille lentoasemassa. Mahdollistaa maayksiköiden ilmasiltauksen lentokentän sisältävien lentoasemien välillä sen jälkeen kun nopean toiminnan normi on kehitetty.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
+			<Text>+25% taistelukomemusta kaikille tässä kaupungissa koulutetuille maayksiköille.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille melee- ja tulitusyksiköille.[NEWLINE][NEWLINE]Ei voi rakentaa tallilliseen varuskuntaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
+			<Text>Kasvattaa ulomman puolustuksen voimakkuutta. Tarjoaa 2 [ICON_TOURISM] turismia ympäristönsuojelun normin kehittämisen jälkeen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
+			<Text>Japanin oma rakennus. +4 [ICON_Production] tuotantoa kaikille kuuden ruudun sisällä oleville kaupungeille. Sähkön kehittämisen jälkeen tarjoaa +4 [ICON_Culture] kulttuuria kaupungilleen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
+			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
+			<Text>Amerikan oma rakennus. Modernin ajan myötä +100% [ICON_Tourism] turismin painetta tästä kaupungista muita kansoja vastaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille lentoyksiköille. +2 paikkaa lentoyksiköille lentoasemassa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille meriyksiköille. +1 [ICON_FOOD] ruokaa kaikille tämän kaupungin rannikkoruuduille.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
+			<Text>Arabian oma rakennus. Ylimääräistä [ICON_Faith] uskoa kampuksen läheisyysetujen verran.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille maayksiköille. Joukko-osaston ja armeijan kouluttamiset ovat nopeampia.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
+			<Text>Täällä luodut lähetyssaarnaajat ja apostolit saavat +1 levityskertoja.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
+			<Text>Säilöö [ICON_GreatWork_Landscape] taiteen merkkiteoksia. Ei voi rakentaa arkeologisen museon sisältävälle teatteriaukiolle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
+			<Text>Säilöö [ICON_GreatWork_Artifact] artefakteja. Ei voi rakentaa taidemuseon sisältävälle teatteriaukiolle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
+			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
+			<Text>Laivaston ja armadan kouluttamiset ovat nopeampia. +25% taistelukokemusta kaikille tässä kaupungissa koulutetuille meriyksiköille. +2 [ICON_GOLD] kultaa kaikista kaupungin rannikkoruuduista.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+			<Text>Mahdollistaa lähetyssaarnaajien ostamisen. Lähetyssaarnaajia voi ostaa ainoastaan [ICON_Faith] uskolla.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_STABLE_DESCRIPTION">
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille ratsuväkiluokan yksiköille. Ei voi rakentaa parakit sisältävään varuskuntaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille meriyksiköille. Ylimääräistä [ICON_Production] tuotantoa sataman läheisyysetujen verran.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
+			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+			<Text>Kasvattaa ulkoisen puolustuksen vahvuuden korkeimmalle mahdolliselle tasolle. Tarjoaa 3 [ICON_TOURISM] turismia ympäristönsuojelun normin kehittämisen jälkeen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
+			<Text>Norjan oma rakennus. Vaatidaan jotta apostoleja ja inkvisiittoreja voidaan ostaa [ICON_Faith] uskolla. Pyhät paikat saavat ylimääräisen normaalin läheisyysedun metsistä. +1 [ICON_PRODUCTION] tuotantoa jokaisesta tämän kaupungin rannikon luonnonvarallisesta ruudusta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+			<Text>Mahdollistaa apostolien, gurujen ja inkvisiittorien ostamisen, sekä soturimunkkien mikäli sopiva uskomus on voimassa. Nämä yksiköt on mahdollista ostaa ainoastaan käyttämällä [ICON_Faith] uskoa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_WALLS_DESCRIPTION">
+			<Text>Tarjoaa muurit kaupungin keskustan ja varuskunnan ympärille. Muurit mahdollistavat [ICON_Ranged] tulittamisen kaupungin keskustasta ja varuskunnasta, jotka tulee tuhota ennen kuin kaupunkiin voi hyökätä. Tarjoaa 1 [ICON_TOURISM] turismia ympäristönsuojelun normin kehittämisen jälkeen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
+			<Text>Kukin [ICON_RESOURCE_RICE] riisi ja [ICON_RESOURCE_WHEAT] vehnä tarjoaa +1 [ICON_Food] ruokaa. Kaupungin tulee olla joen varrella.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_ZOO_DESCRIPTION">
+			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan.</Text>
+		</Replace>
+		<!-- Wonders -->
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
+			<Text>+1 paikkaa sotilaallisille linjauksille[NEWLINE][NEWLINE]Tarjoaa samat puolustusedut kuin linnake (rakenne). Tulee rakentaa varuskunnan viereiselle mäelle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+			<Text>+1 paikkaa taloudellisille linjauksille[NEWLINE][NEWLINE]Kaksinkertaistaa tämänhetkisen kultavarannon. Tulee rakentaa pankin sisältävän kaupallisen keskuksen viereiseen ruutuun, jota reunustaa joki.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
+			<Text>Palkitsee valmistuessaan kahdella satunnaisesti valitulla ilmaisella normilla. Tulee rakentaa teatteriaukion viereiselle tasaiselle maalle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
+			<Text>+20% [ICON_Culture] kulttuuria tälle kaupungille. 1 ilmainen atomiajan normin tehostus. Tulee rakentaa teatteriaukion viereiselle tasaiselle maalle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
+			<Text>+2 [ICON_Culture] kulttuuria kaikille tämän kaupungin sademetsäruuduille. +1 [ICON_Production] tuotantoa kaikille tämän kaupungin sademetsäruuduille. Tulee rakentaa sademetsään.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>Colosseumin [ICON_Culture] kulttuuri ja [ICON_Amenities] elintaso yltävät jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan. Tulee rakentaa viihdekompleksin viereiselle tasaiselle maalle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] kauppareittien kapasiteettiin. Antaa kauppuriyksikön. Tulee rakentaa sataman ja maan vierustamaan rannikkoruutuun.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
+			<Text>Pyhien kaupunkien ja [ICON_GreatWork_Relic] muinaismuistojen [ICON_Tourism] turismin tuotto ei koe kolausta muiden kansakuntien kehitettyä valistuneisuuden normin. Kaksinkertaistaa merenrannan lomakohteiden [ICON_Tourism] turismin kaikkilla valtakunnassamme. Tulee rakentaa mäelle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
+			<Text>Kaikki kansakuntamme ruudut saavat +2 houkuttelevuutta. Tulee rakentaa kaupungin keskustan viereiselle tasaiselle maalle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
+			<Text>+2 [ICON_Amenities] elintasoa jokaiselle kansamme kaupungille. Tulee rakentaa stadionin sisältävän viihdekompleksin viereiselle tasaiselle maalle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
+			<Text>+1 paikkaa villeille korteille[NEWLINE][NEWLINE]Tulee rakentaa kaupungin keskustan viereiselle tasaiselle maalle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Tehosteet kaikille muinaisuuden ja antiikin ajan tekniikoille. Tulee rakentaa kirjaston sisältävän kampuksen viereiselle tasaiselle maalle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] liikkuvuutta kaikille meriyksiköille[NEWLINE][NEWLINE]Tulee rakentaa majakan sisältävän sataman sekä maan vierustamaan rannikkoruutuun.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] kauppareittien kapasiteettiin[NEWLINE][NEWLINE]Tästä kaupungista lähtevät [ICON_TradeRoute] kauppareittimme saavat +2 [ICON_Gold] kultaa jokaisesta kaupungin omistamasta kolmen ruudun sisällä kaupungista olevasta hyödyllisesta luonnonvarasta. Tulee rakentaa torin sisältävän kaupallisen keskuksen ja [ICON_RESOURCE_CATTLE] linnan vierustamaan ruutuun.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
+			<Text>Lähetyssaarnaajat ja apostolit voivat levittää uskoa kerran useammin. Tulee rakentaa pyhän paikan viereiselle tasaiselle maalle ja kansallamme tulee olla oma uskonto.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>Nopeuttaa kaikkien kaupunkiemme kasvua 15%. Tulee rakentaa joen viereen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
+			<Text>Tulee rakentaa joen varrelle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
+			<Text>Antaa 2 apostolia. Tulee rakentaa temppelin sisältävän pyhän paikan viereiseen metsäruutuun ja kansallamme tulee olla oma uskonto.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
+			<Text>Kaikilla apostoleillamme on marttyyrikyky normaalin toissijaisen valitsemamme kyvyn lisäksi. Tulee rakentaa tulvatasangolle tai suolle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+			<Text>Merkittävien henkilöiden värvääminen maksamalla vaatii 25% vähemmän [ICON_Faith] uskoa. Tämän kaupungin kaupunkialueet tarjoavat +2 [ICON_GreatPerson] merkittävän henkilön pistettä alueen tyypin mukaisesti (vaikkapa [ICON_GreatWriter] merkittävän kirjailijan pisteitä teatteriaukioista). Tulee rakentaa mäelle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
+			<Text>+20% [ICON_Science] tiedettä tässä kaupungissa ja palkitsee kahdella satunnaisesti valitulla tekniikalla valtumisen yhteydessä. Tulee rakentaa yliopiston sisältävän kampuksen viereiselle ruohikolle tai tasangolle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
+			<Text>+1 paikkaa diplaattisille linjauksille[NEWLINE][NEWLINE]Tulee rakentaa vuoren viereiselle mäelle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+			<Text>+2 [ICON_Food] ruokaa, +2 [ICON_Gold] kultaa ja +1 [ICON_Production] tuotantoa kaikille tämän kaupungin aavikkoruuduille (ei tulvatasangoille). Tulee rakentaa mäettömälle aavikolle tai tulvatasangolle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+			<Text>Antaa ilmaisen rakentajan. Kaikki rakentajat voivat tehdä rakenteen kerran useammin. Tulee rakentaa mäettömälle aavikolle tai tulvatasangolle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
+			<Text>+20% [ICON_Production] tuotantoa tälle kaupungille sekä +1 [ICON_Production] tuotantoa jokaiselle kaupungin kaivokselle ja louhokselle. Tulee rakentaa tehtaan sisältävän teollisuusalueen ja joen vierustamaan ruutuun.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
+			<Text>Antaa ilmaisen [ICON_GreatProphet] merkittävän profeetan. Sallii [ICON_GreatProphet] merkittävän profeetan perustaa uskonnon Stonehengessä pyhän paikan sijasta. Tulee olla [ICON_RESOURCE_STONE] kiven vierustamalla tasaisella maalla.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
+			<Text>Tulee rakentaa sataman ja maan vierustamaan rannikkoruutuun.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
+			<Text>Kaikki nykyiset yksiköt saavat ylennyksen. Kaikki omistajan arkeologit voivat kulkea ulkomaisille maille ilman avoimia rajoja. Tulee rakentaa parakit tai tallin sisältävän varuskunnan viereiselle tasaiselle ruohikolle tai tasangolle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
+			<Text>Meriyksiköt valmistuvat kaksinkertaisina yksikön kouluttamisen yhteydessä. Tulee rakentaa teollisuusalueen viereiseen rannikkoruutuun.</Text>
+		</Replace>
+		<!--Theming Bonuses-->
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_THEMINGBONUS_ART">
+			<Text>Teemaetu kaksinkertaistuu kun näytillä on samantyyppisiä eri taiteilijoiden teoksia.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
+			<Text>Teemaetu kaksinkertaisuu kun näytillä on saman aikakauden [ICON_GreatWork_Artifact] artefakteja eri kansoilta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
+			<Text>Teemaetu kaksinkertaistuu kun museo on täynnä.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
