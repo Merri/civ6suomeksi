@@ -144,7 +144,7 @@
 			<Text>+20% [ICON_Science] tiedettä tässä kaupungissa ja palkitsee kahdella satunnaisesti valitulla tekniikalla valtumisen yhteydessä. Tulee rakentaa yliopiston sisältävän kampuksen viereiselle ruohikolle tai tasangolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
-			<Text>+1 paikkaa diplaattisille linjauksille[NEWLINE][NEWLINE]Tulee rakentaa vuoren viereiselle mäelle.</Text>
+			<Text>+1 paikkaa diplomaattisille linjauksille[NEWLINE][NEWLINE]Tulee rakentaa vuoren viereiselle mäelle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_PETRA_DESCRIPTION">
 			<Text>+2 [ICON_Food] ruokaa, +2 [ICON_Gold] kultaa ja +1 [ICON_Production] tuotantoa kaikille tämän kaupungin aavikkoruuduille (ei tulvatasangoille). Tulee rakentaa mäettömälle aavikolle tai tulvatasangolle.</Text>

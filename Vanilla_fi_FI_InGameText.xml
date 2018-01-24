@@ -353,7 +353,7 @@
 			<Text>VALITSE NORMI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ACTION_PANEL_NEEDS_ORDERS">
-			<Text>YKSIKKÖ TARVITSEE KOMENNON</Text>
+			<Text>ANNA KOMENTO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ACTION_PANEL_NEEDS_ORDERS_TOOLTIP">
 			<Text>Yksikkö ei tiedä mitä tehdä omillaan.</Text>
@@ -2094,10 +2094,10 @@
 		</Replace>
 		<!-- ==================== World Tracker ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_WORLD_TRACKER_EMPTY">
-			<Text>Maailmavalvomo ei näytä ainuttakaan paneelia. Aseta paneeleja käyttöön otsikon valikkopainikkeen kautta.</Text>
+			<Text>Valvomo ei näytä ainuttakaan paneelia. Aseta paneeleja käyttöön otsikon valikkopainikkeen kautta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_TRACKER_HEADER">
-			<Text>Maailmavalvomo</Text>
+			<Text>Valvomo</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HIDE_RESEARCH_PANEL">
 			<Text>Tutkimuspaneeli</Text>
@@ -3697,7 +3697,7 @@
 			<Text>Kulttuuri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_TAB">
-			<Text>Valtaus</Text>
+			<Text>Herruus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_TAB">
 			<Text>Uskonto</Text>
@@ -3712,7 +3712,7 @@
 			<Text>KULTTUURIVOITTO</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_VICTORY">
-			<Text>VALTAUSVOITTO</Text>
+			<Text>MAAILMANHERRUUS</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_RELIGION_VICTORY">
 			<Text>USKONNOLLINEN VOITTO</Text>
@@ -3721,13 +3721,13 @@
 			<Text>Kehitetyt tekniikat: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_SCIENCE_SCIENCE_RATE">
-			<Text>[ICON_Science] tiedettä vuorossa: {1_Num}</Text>
+			<Text>Tiedettä vuorossa: {1_Num} [ICON_Science]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_CULTURE_TOURISM_RATE">
-			<Text>[ICON_Tourism] turismia vuorossa: {1_Num}</Text>
+			<Text>Turismia vuorossa: {1_Num} [ICON_Tourism]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_CULTURE_CULTURE_RATE">
-			<Text>[ICON_Culture] kulttuuria vuorossa: {1_Num}</Text>
+			<Text>Kulttuuria vuorossa: {1_Num} [ICON_Culture]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_DOMINATION_MILITARY_STRENGTH">
 			<Text>Sotilasmahti: {1_Num}</Text>
@@ -3736,10 +3736,10 @@
 			<Text>Pelaajan pisteet: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_RELIGION_CITIES_FOLLOWING_RELIGION">
-			<Text>Käännytettyjä kaunpukeja: {1_Num}</Text>
+			<Text>Käännytettyjä kaupunkeja: {1_Num}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_OVERVIEW_RELIGION_FAITH_RATE">
-			<Text>[ICON_Faith] uskoa vuorossa: {1_Num}</Text>
+			<Text>Uskoa vuorossa: {1_Num} [ICON_Faith]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS">
 			<Text>[COLOR:NeutralCS]PISTEVOITTO[ENDCOLOR] saavutetaan kun ainutkaan kansakunta ei ole kyennyt mihinkään toiseen voittotapaan pelin loppuun mennessä. Tässä tapauksessa pelin voittaa kansakunta, jolla on eniten [COLOR:NeutralCS]PISTEITÄ[ENDCOLOR]!</Text>
@@ -3832,7 +3832,7 @@
 			<Text>Omistaa alkuperäisen [ICON_Capital] pääkaupunginsa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_DETAILS">
-			<Text>[COLOR:ResMilitaryLabelCS]VALTAUSVOITON[ENDCOLOR] saavuttaa valtaamalla kunkin toisen kansakunnan [ICON_Capital] pääkaupungin.[NEWLINE][NEWLINE]Vahvasta armeijasta on suuresti hyötyä.</Text>
+			<Text>[COLOR:ResMilitaryLabelCS]MAAILMANHERRUUDEN[ENDCOLOR] saavuttaa valtaamalla kunkin toisen kansakunnan [ICON_Capital] pääkaupungin.[NEWLINE][NEWLINE]Vahvasta armeijasta on suuresti hyötyä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_DOMINATION_SUMMARY">
 			<Text>{1_NumCaptured : plural 1?{1_NumCaptured} pääkaupunki; other?{1_NumCaptured} pääkaupunkia;} vallattu</Text>
@@ -3850,7 +3850,7 @@
 			<Text>tiimin uskonnot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_CONDITION">
-			<Text>{1_NumTurns} vuorossa</Text>
+			<Text>Saavutetaan {1_NumTurns} vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CIVILIZATION_LABEL">
 			<Text>Kansakunta</Text>
@@ -4736,7 +4736,7 @@
 			<Text>Tiedevoitto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_DOMINATION_PANEL_HEADER">
-			<Text>Valtausvoitto</Text>
+			<Text>Maailmanherruus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORYSTATUS_RELIGION_PANEL_HEADER">
 			<Text>Uskonnollinen voitto</Text>
@@ -5382,7 +5382,7 @@
 			<Text>Näytä tai piilota yksittäinen paneeli.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLDTRACKER_HIDE_TEXT">
-			<Text>Näytä tai piilota maailman seuranta.</Text>
+			<Text>Näytä tai piilota valvomo.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PRODUCTION_HIDE_DESCRIPTION">
 			<Text>Ei näytettävää sisältöä. Voit nähdä listan poistamalla valinnan &quot;piilota ne joita ei voi käyttää&quot;.</Text>
