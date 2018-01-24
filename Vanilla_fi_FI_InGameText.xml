@@ -2203,7 +2203,7 @@
 			<Text>Valitse linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_GOVERNMENT_UNLOCKED">
-			<Text>Hallitusmuoto mahdollistui</Text>
+			<Text>Uusi hallitusmuoto</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_COMPLETED_THIS_TURN">
 			<Text>{1_Civic} valmistui tällä vuorolla!</Text>
@@ -3085,7 +3085,7 @@
 			<Text>Lähettämällä tänne arkeologin voimme suorittaa kaivaukset [ICON_GreatWork_Artifact] artefaktille, joka alkaa tuottaa kaupungillemme [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_REQUIRES">
-			<Text>Vaatii</Text>
+			<Text>Vaatii:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_MAKES_OBSOLETE">
 			<Text>Syrjäyttää:</Text>

@@ -371,7 +371,7 @@
 			<Text>Kaikki maailmanihmeet tarjoavat +4 [ICON_Faith] uskoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
-			<Text>Pyhätöt ja temppelit tarjoavat [ICON_Food] ruokaa puolella luontaisesta [ICON_Faith] uskon tuotostaan.</Text>
+			<Text>Pyhätöt ja temppelit tarjoavat [ICON_Food] ruokaa puolella ominaisesta [ICON_Faith] uskontuotostaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
 			<Text>Kampuksia ja teatteriaukioita (jotka ovat kaupunkialueita) voi ostaa [ICON_Faith] uskolla.</Text>
