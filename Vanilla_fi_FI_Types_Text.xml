@@ -2452,7 +2452,7 @@
 			<Text>Sotatiede|sotatieteen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_MILITARY_TACTICS_NAME">
-			<Text>Sotataktiikat|sotataktiikat</Text>
+			<Text>Sotataktiikat|sotataktiikoiden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_MINING_NAME">
 			<Text>Kaivostoiminta|kaivostoiminnan</Text>

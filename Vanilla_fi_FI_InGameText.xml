@@ -3850,7 +3850,7 @@
 			<Text>tiimin uskonnot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_SCORE_CONDITION">
-			<Text>Saavutetaan {1_NumTurns} vuorossa</Text>
+			<Text>Kesto on korkeintaan {1_NumTurns} vuoroa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WORLD_RANKINGS_CIVILIZATION_LABEL">
 			<Text>Kansakunta</Text>
