@@ -2188,7 +2188,7 @@
 		</Replace>
 		<!-- ==================== Governments Screen ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ASSIGN_ALL_POLICIES">
-			<Text>Määritä kaikki linjaukset</Text>
+			<Text>Määritä linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_CANCEL">
 			<Text>Peruuta</Text>
@@ -2248,7 +2248,7 @@
 			<Text>Diplomaattiset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_W_DOTS">
-			<Text>Suodata...</Text>
+			<Text>Rajaa näkyville:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_FILTER_GREAT_PERSON">
 			<Text>Merkittävät henkilöt</Text>

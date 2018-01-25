@@ -269,265 +269,265 @@
 			<Text>Vallatuksi joutumisen pelossa kansamme on valmis kehittämään uudenlaisia puolustautumismalleja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
-			<Text>With plans to house many scrolls in the libraries of your campuses, your people begin to record the history of your empire.</Text>
+			<Text>Kansamme alkavat kirjata ylös valtakuntamme historiaa kuullessaan aikeista säilöä lukuisia kääröjä kampuksiemme kirjastoissa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
-			<Text>The formation of a Religion by your Great Prophet inspires deeper thought on the nature of the divine.</Text>
+			<Text>Profeetan muodostama uskonto inspiroi syvällisiä ajatuksia jumalallisuuden luonteesta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
-			<Text>Your victory at sea inspires your people to strive to become a naval power.</Text>
+			<Text>Voittomme merella inspiroi kansamme panostamaan pyrkimyksiin merimahdiksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
-			<Text>A system of lords and vassals is forming to manage all the farmlands of your empire.</Text>
+			<Text>Maanomistajien ja vasallien järjestelmä alkaa muotoutua tavaksi järjestää kaikkien maatilojemme hoito.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
-			<Text>Your large urban center will soon require a corps of bureaucrats.</Text>
+			<Text>Valtaisa kaupungin keskustamme alkaa pian vaatia joukoittain virkamiehiä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
-			<Text>With such a large standing army, you may want to consider adding mercenaries if your army needs to expand further.</Text>
+			<Text>Kun armeijamme on näin suuri, on varteenotettavaa harkita palkkasoturien värväämistä sen kasvattamiseksi myös jatkossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
-			<Text>The increase of commerce through your lands will soon attract a trade fair.</Text>
+			<Text>Lisääntynyt kaupankäynti maillamme tulee pian tuomaan markkinat muassaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
-			<Text>The success of your commercial districts has spurred the growth of trade guilds.</Text>
+			<Text>Kaupallisten keskustemme riemukulku on johtanut kiltojen kasvuun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
-			<Text>Your devout people believe strongly that your rule is a blessing from the divine.</Text>
+			<Text>Uskolliset kansalaisemme uskovat teidän hallintanne olevan jumalallinen siunaus.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
-			<Text>The lessons you have learned from Caravel exploration have led to a new way of governing your people.</Text>
+			<Text>Karavelien matkoista oppimamme asiat ovat opettaneet meille uusia tapoja hallita alamaisiamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
-			<Text>The inspiration provided by your newly-acquired Great Artist is awakening our people to the power of the individual.</Text>
+			<Text>Lähiaikoina houkuttelemamme merkittävän taiteilijan aiheuttama inspiraatio on herättänyt kansamme tajuamaan yksilön mahdin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
-			<Text>The legwork to build an alliance has trained up your first corps of diplomats.</Text>
+			<Text>Näkemämme vaiva liiton muodostamiseen on kouluttanut ensimmäisen satsimme diplomaatteja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
-			<Text>The growth of your Religion comes with the danger of schism. Reforming corrupt church practices better happen soon!</Text>
+			<Text>Uskontomme kasvu on tuonut mukanaan vaaran skismasta. Korruptoituneet kirkon käytännöt tulisi uusia pikimiten!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
-			<Text>Your new Great Merchant is sharing ideas on how we can get the edge on our economic competitors.</Text>
+			<Text>Uusi merkittävä kauppiaamme jakaa ajatuksiaan siitä, kuinka saisimme yliotteen taloudellisista kilpailijoistamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
-			<Text>The ideas from your great people have inspired intellectual discussion throughout the land.</Text>
+			<Text>Merkittävien henkilöidemme aatokset ovat johtaneet älykkääseen keskusteluun kautta maan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
-			<Text>Your new knowledge of the heavens is helping your navy navigate and establish a global empire.</Text>
+			<Text>Uusi ymmärryksemme taivaan toiminnasta auttaa merivoimiamme seilaamaan kauemmas ja muodostamaan meistä maailmanvallan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
-			<Text>Having constructed so many types of districts, your engineers have become skilled in city construction.</Text>
+			<Text>Monien erityyppisten kaupunkialueiden rakentaminen on tehnyt insinööreistämme taitavia kaupunkien suunnittelussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
-			<Text>Your people believe in the just nature of this war.  It has become an issue of national pride for us!</Text>
+			<Text>Kansamme kokevat tämän sodan oikeutettuna ja siitä on tullut kansallisen ylpeyden aihe!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
-			<Text>The unveiling of a new museum is drawing people to the arts. Perhaps dance and opera are next?</Text>
+			<Text>Uuden museon julkistus on saanut ihmiset tarttumaan taiteisiin. Kenties tanssi ja ooppera tulee pian perästä?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
-			<Text>With a museum now ready to hold your findings, it is time to see what you can discover out in the natural world.</Text>
+			<Text>Museon myötä meillä on nyt paikka kerätä ja tutkia, mitä kaikkea luonnolla on tarjottavanaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
-			<Text>Your large city is getting overcrowded. It's time to start planning for some suburbs.</Text>
+			<Text>Suuri kaupunkimme osoittaa ylikansoittumisen merkkejä. On tullut aika luoda lähiöitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
-			<Text>Modern warfare is clearly a brutal affair.  Your military doctrine is starting to reflect some of these principles of total war.</Text>
+			<Text>Nykyaikainen sodankäynti on selvästi brutaalia. Sotilasoppimme alkavat hiljokseen heijastella totaalisen sodankäynnin periaatteita.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
-			<Text>The residents of your breathtaking new neighborhood clamor for a plan to conserve all the world’s natural treasures.</Text>
+			<Text>Uuden henkeäsalpaavan lähiömme asukkaat pitävät meteliä, jotta loisimme suunnitelman säilöä luonnon kauneimmat kohteet kautta maailman.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
-			<Text>The advent of radio beckons the start of a new era of communication.</Text>
+			<Text>Radion myötä on alkamassa uusi kommunikaation aika.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
-			<Text>Your military is better organized. Now time to take your force to the world stage.</Text>
+			<Text>Armeijamme on järjestäynyt paremmin. On tullut aika viedä joukkomme muun maailman nähtäväksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
-			<Text>With stock exchanges springing up in several cities, investment capital is plentiful and a market economy is ready to emerge.</Text>
+			<Text>Lukuisien pörssien myötä pääomaa on runsaasti saatavilla ja markkinatalous on valmis syntymään.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
-			<Text>With a dedicated research lab in place, your initiative to recruit scientists into a nuclear research program can commence.</Text>
+			<Text>Keskitetyn tutkimuslaboratorion myötä voimme palkata tieteentekijöitä ydinohjelman läpisaattamiseksi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
-			<Text>The women of your empire have clamored for proper sanitation. Having won that battle, they now need the right to vote.</Text>
+			<Text>Valtakuntamme naiset pitivät älämölöä kunnollisen viemäröinnin puolesta. Tämän kamppailun voitettuaan he pyytävät nyt äänioikeutta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
-			<Text>The discipline instilled by your military academies is now second nature to your citizens.</Text>
+			<Text>Sotilasakademioidemme kuri sujuu nyt kansalaisiltamme lähes kuin luonnostaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
-			<Text>Your factory workers clamor for better working conditions. It is time for the workers of the world to unite!</Text>
+			<Text>Tehtaamme työläiset vaativat parempia olosuhteita työskentelyyn. Kaikkien maailman työläisten on nyt aika puhaltaa yhteen hiileen!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
-			<Text>The advent of nuclear weaponry will surely change the nature of armed conflict across the globe.</Text>
+			<Text>Ydinaseiden myötä sotilaallisten selkkausten luonne on muuttunut kautta maailman.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
-			<Text>Your 4 cites with Entertainment Complexes want to compete in a new professional sports league.</Text>
+			<Text>Neljä viihdekompleksein varustettua kaupunkiamme haluaisi muodostaa uuden ammattimaisen urheiluliigan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
-			<Text>With a perfectly curated museum, your people's strong cultural heritage is on exhibit for all to see.</Text>
+			<Text>Täydellisesti valikoidun museomme myötä kansamme vahva kulttuurinen perinne on kaikkien nähtävillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
-			<Text>With air bases now spanning the globe, our military is ready to be deployed anywhere in the world at a moment's notice.</Text>
+			<Text>Lentotukikohtien kattaessa koko maailman on armeijamme valmis iskemään minne tahansa koska tahansa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
-			<Text>The unveiling of your new Spaceport has energized your people to push into space.</Text>
+			<Text>Uuden avaruusporttimme myötä kansamme on valmis yhteiseen ponnistukseen kohti avaruutta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
-			<Text>With so many airports in place, the world is truly becoming a smaller place.</Text>
+			<Text>Lukuisten lentokenttien myötä maailma on todellakin kutistunut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
-			<Text>Your advances in communications technology are allowing people to congregate online.</Text>
+			<Text>Kommunikaatioteknologiamme kehitys on mahdollistanut väen yhteydenpidon netissä.</Text>
 		</Replace>
 		<!-- Governments -->
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENT_OF">
-			<Text>Government of {1_civ}</Text>
+			<Text>Hallinto - {1_civ}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHANGE_GOVERNMENT">
-			<Text>Change Government</Text>
+			<Text>Vaihda hallitus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MY_GOVERNMENT">
-			<Text>My Government</Text>
+			<Text>Hallituksemme</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_policIES">
-			<Text>policies</Text>
+			<Text>linjaukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVERNMENTS">
-			<Text>Governments</Text>
+			<Text>Hallitusmuodot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CULTURE_PER_TURN">
-			<Text>Culture Per Turn: +{1_Culture}</Text>
+			<Text>Kulttuuria vuorossa: +{1_Culture}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MILITARY">
-			<Text>Military</Text>
+			<Text>Sotilaalliset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ECONOMIC">
-			<Text>Economic</Text>
+			<Text>Taloudelliset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLOMATIC">
-			<Text>Diplomatic</Text>
+			<Text>Diplomaattiset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WILDCARD">
-			<Text>Wildcard</Text>
+			<Text>Villit kortit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_EMPTY_POLICY_SLOT">
-			<Text>Empty {1_policyType} policy Slot</Text>
+			<Text>Tyhjä paikka: {1_policyType}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_NO_AVAIL_policIES">
-			<Text>No Available policies</Text>
+			<Text>Ei linjauksia saatavilla</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VIEW_LOCKED_policIES">
-			<Text>View Locked policies</Text>
+			<Text>Näytä lukitut linjaukset</Text>
 		</Replace>
 		<!-- Government Effects-->
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
-			<Text>No Bonus.</Text>
+			<Text>Ei etua.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
-			<Text>Capital receives +1 boost to all yields.</Text>
+			<Text>Pääkaupunki saa +1 edun kaikille tuotoille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
-			<Text>All Land Melee units gain +4 [ICON_Strength] Combat Strength.</Text>
+			<Text>Kaikki maayksiköt saavat +4 [ICON_Strength] taisteluvoimakkuutta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
-			<Text>All cities with a district receive +1 [ICON_Amenities] Amenity.</Text>
+			<Text>Kaikki kaupunkialueen sisältävät kaupungit saavat +1 [ICON_Amenities] elintasoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
-			<Text>+50% [ICON_Production] Production toward defensive buildings. +1 [ICON_Housing] Housing for each level of wall.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden puolustusrakennelmia. +1 [ICON_Housing] asumusta jokaisesta muurien tasosta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
-			<Text>Can buy land combat units with Faith. All units +5 [ICON_Religion] Religious Strength in theological combat.</Text>
+			<Text>Maataisteluyksiköitä voi ostaa uskolla. Kaikki yksiköt saavat +5 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
-			<Text>+2 [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+2 [ICON_TradeRoute] kauppareittiä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
-			<Text>All combat units gain +4 [ICON_Strength] Combat Strength.</Text>
+			<Text>Kaikki taisteluyksiköt saavat +4 [ICON_Strength] taisteluvoimakkuutta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
-			<Text>Land units gain +4 [ICON_Strength] Defense Strength.</Text>
+			<Text>Maayksiköt saavat +4 [ICON_Strength] puolustusvoimakkuutta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
-			<Text>Patronage of Great People costs 50% less Gold.</Text>
+			<Text>Merkittävien henkilöiden värväys vaatii 50% vähemmän kultaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
-			<Text>No Bonus.</Text>
+			<Text>Ei etua.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
-			<Text>Bonus on wonder production.</Text>
+			<Text>Etu ihmeiden rakentamiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
-			<Text>Experience for combat units.</Text>
+			<Text>Kokemusta taisteluyksiköille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
-			<Text>Bonus Great People points.</Text>
+			<Text>Etua merkittävien henkilöiden pisteisiin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
-			<Text>Bonus Influence points.</Text>
+			<Text>Etua vaikutusvallan pisteiden kertymiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
-			<Text>Discount on Faith purchases.</Text>
+			<Text>Alennus ostamiseen uskolla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
-			<Text>Discount on Gold purchases.</Text>
+			<Text>Alennus ostamiseen kullalla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
-			<Text>Bonus on unit Production.</Text>
+			<Text>Etua yksiköiden kouluttamiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
-			<Text>Bonus to all Production.</Text>
+			<Text>Etua kaikkeen tuotantoon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
-			<Text>Bonus yields from district projects.</Text>
+			<Text>Lisätuottoa kaupunkialueiden projekteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
-			<Text>No Bonus.</Text>
+			<Text>Ei etua.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
-			<Text>Bonus to wonder [ICON_Production] Production (10%, plus 1% for every 20 turns on Standard speed).</Text>
+			<Text>Etua ihmeiden [ICON_Production] tuotantoon (10%, lisäksi 1% lisää joka 20. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
-			<Text>Bonus combat experience for units (20%, plus 1% for every 5 turns on Standard speed).</Text>
+			<Text>Etua taistelukokemuksen kertymiseen yksiköille (20%, lisäksi 1% lisää joka 5. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
-			<Text>Bonus [ICON_GreatPerson] Great People points (15%, plus 1% for every 15 turns on Standard speed).</Text>
+			<Text>Etua [ICON_GreatPerson] merkittävien henkilöiden pisteiden kertymiseen (15%, lisäksi 1% lisää joka 15. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
-			<Text>Bonus Influence points towards [ICON_Envoy] Envoys (20%, plus 1% for every 10 turns on Standard speed).</Text>
+			<Text>Etua vaikutusvallan pisteiden kertymiseen [ICON_Envoy] edustajia varten (20%, lisäksi 1% lisää joka 10. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
-			<Text>Discount on [ICON_Faith] Faith purchases (15%, plus 1% for every 15 turns on Standard speed).</Text>
+			<Text>Alennus ostamiseen [ICON_Faith] uskolla (15%, lisäksi 1% lisää joka 15. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
-			<Text>Discount on [ICON_Gold] Gold purchases (15%, plus 1% for every 15 turns on Standard speed).</Text>
+			<Text>Alennus ostamiseen [ICON_Gold] kullalla (15%, lisäksi 1% lisää joka 15. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
-			<Text>Bonus to unit [ICON_Production] Production (20%, plus 1% for every 10 turns on Standard speed).</Text>
+			<Text>Etua yksiköiden [ICON_Production] tuotantoon (20%, lisäksi 1% lisää joka 10. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
-			<Text>Bonus to all [ICON_Production] Production (10%, plus 1% for every 20 turns on Standard speed).</Text>
+			<Text>Etua kaikkeen [ICON_Production] tuotantoon (10%, lisäksi 1% lisää joka 20. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
-			<Text>Bonus yields from district projects (30%, plus 1% for every 10 turns on Standard speed).</Text>
+			<Text>Lisätuottoa kaupunkialueiden projekteille (30%, lisäksi 1% lisää joka 10. vuorosta standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
-			<Text>No more {1_policyName} can be set for this government.</Text>
+			<Text>{1_policyName} on käytetty tämän hallituksen osalta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
-			<Text>No {1_policyName} can be set under this government.</Text>
+			<Text>{1_policyName} ei kelpaa tälle hallitusmuodolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
-			<Text>{1_Num: number #} more {1_Num : plural 1?policy; other?policies;} can be placed in the {2_policyName} area.</Text>
+			<Text>{2_policyName} sallii vielä {1_Num: number #} linjausta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
-			<Text>{1_Num: number #} {1_Num : plural 1?policy; other?policies;} can be set in the {2_policyName} area.</Text>
+			<Text>{2_policyName} sallii vielä {1_Num: number #} linjausta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
-			<Text>Gain {1_InfluencePointRate} Influence {1_InfluencePointRate : plural 1?point; other?points;} per [ICON_Turn] Turn. At {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?point; other?points;}, earn {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?Envoy; other?Envoys;}.</Text>
+			<Text>Saamme {1_InfluencePointRate} vaikutusvallan {1_InfluencePointRate : plural 1?pisteen; other?pistettä;} [ICON_Turn] vuorossa. {2_InfluencePointThreshold} pisteen kohdalla ansaitsemme {3_EnvoysPerThreshold : plural 1?yhden [ICON_Envoy] edustajan; other?{3_EnvoysPerThreshold} [ICON_Envoy] edustajaa;}.</Text>
 		</Replace>
 		<!-- Policy Descriptions-->
 		<Replace Language="fi_FI" Tag="LOC_POLICY_PLACEHOLDER_DESC">
-			<Text>Placeholder.</Text>
+			<Text>Paikanpitäjä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
 			<Text>+100% Theater Square district adjacency bonuses.</Text>
