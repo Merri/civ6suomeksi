@@ -2459,7 +2459,7 @@
 			<Text>Tuottaa {1_Amount} [ICON_Science] {2_Yield}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_REMOVE_FEATURE_SECOND_GROWTH">
-			<Text>[COLOR_RED]{1_Feature} on luotu itse, joten sen poistosta ei tule tuottoa.[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]{1_Feature} on muodostettu pelin aikana, joten sen poistosta ei tule tuottoa.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_YIELDS">
 			<Text>+{1_Amount} {2_Icon} {3_YieldType}</Text>
