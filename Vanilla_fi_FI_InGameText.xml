@@ -2504,7 +2504,7 @@
 			<Text>Ryövää rannikko</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_PILLAGE_DESCRIPTION">
-			<Text>Tärvele</Text>
+			<Text>Ryövää</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_PILLAGE_ROUTE_DESCRIPTION">
 			<Text>Tärvele tie</Text>
@@ -3986,7 +3986,7 @@
 			<Text>Armeija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_PILLAGE_NAME">
-			<Text>Tärvely</Text>
+			<Text>Ryöväys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_RELIGION_NAME">
 			<Text>Uskonto</Text>

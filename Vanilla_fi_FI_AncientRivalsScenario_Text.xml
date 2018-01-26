@@ -33,7 +33,7 @@
 			<Text>Vuororajoitus {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
-			<Text>Voittopisteitä {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Kartoitettuja ruutuja {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tärvetyjä ruutuja {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Normeja {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Ihmeitä {WondersPossessed} {WondersStatusIcon}</Text>
+			<Text>Voittopisteitä {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Kartoitettuja ruutuja {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tärveltyjä ruutuja {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Normeja {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Ihmeitä {WondersPossessed} {WondersStatusIcon}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

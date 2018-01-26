@@ -530,324 +530,324 @@
 			<Text>Paikanpitäjä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
-			<Text>+100% Theater Square district adjacency bonuses.</Text>
+			<Text>+100% teatteriaukioiden läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_AGOGE_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Ancient and Classical era melee and ranged units.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden muinaisuuden ja antiikin melee- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
-			<Text>Your [ICON_TradeRoute] Trade Routes to an Ally's city provide +2 [ICON_Food] Food and +2 [ICON_Production] Production for both cities.</Text>
+			<Text>Liittolaisten kaupunkeihin kulkevat [ICON_TradeRoute] kauppareitit tarjoavat +2 [ICON_Food] ruokaa +2 [ICON_Production] tuotantoa molemmille osapuolille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
-			<Text>+6 City [ICON_Strength] Defense Strength. +5 City [ICON_Ranged] Ranged Strength.</Text>
+			<Text>+6 kaupungin [ICON_Strength] puolustusvoimakkuuteen. +5 kaupungin [ICON_Ranged] tulitusvoimakkuuteen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
-			<Text>+2 [ICON_Gold] Gold from all [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+2 [ICON_Gold] kultaa kaikille [ICON_TradeRoute] kauppareiteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
-			<Text>+2 Influence points per turn toward earning city-state [ICON_Envoy] Envoys.</Text>
+			<Text>+2 vaikutusvallan pistettä vuorossa kaupunkivaltioiden [ICON_Envoy] edustajien ansaitsemiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Medieval, Renaissance, and Industrial era heavy and light cavalry units.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden keskiajan, renessanssin sekä teollisen ajan raskaita ja kevyitä ratsuyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
-			<Text>+10% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
+			<Text>+10% [ICON_Culture] kulttuuria jokaisesta kaupunkivaltiosta, johon olemme valta-asemassa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
-			<Text>+4 [ICON_Food] Food from domestic [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+4 [ICON_Food] ruokaa sisäisille [ICON_TradeRoute] kauppareiteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
-			<Text>+15% faster growth for cities not on your original [ICON_Capital] Capital's continent.</Text>
+			<Text>+15% nopeampi kasvu kaupungeille, jotka eivät ole alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
-			<Text>+25% [ICON_Gold] Gold in cities not on your original [ICON_Capital] Capital's continent.</Text>
+			<Text>+25% [ICON_Gold] kultaa kaupungeille, jotka eivät ole alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Settlers.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden uudisasuttajia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
-			<Text>Unit maintenance reduced by 1 [ICON_Gold] Gold per turn, per unit.</Text>
+			<Text>Jokaisen yksikön ylläpitokulut vaativat vuorossa 1 [ICON_Gold] kultaa vähemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
-			<Text>Each [ICON_Envoy] Envoy you send to a city-state counts as two, if its Suzerain has a different government than you.</Text>
+			<Text>Jokainen kaupunkivaltioon lähettämämme [ICON_Envoy] edustaja tuplaantuu, mikäli valta-asemassa olevalla kansakunnalla on eri hallitusmuoto kuin meillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_CORVEE_DESCRIPTION">
-			<Text>+15% [ICON_Production] Production toward Ancient and Classical wonders.</Text>
+			<Text>+15% [ICON_Production] tuotantoa kohden muinaisuuden ja antiikin ihmeitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
-			<Text>100% Industrial Zone adjacency bonuses.</Text>
+			<Text>100% teollisuusalueiden läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
-			<Text>Enemy Spy level reduced by 2 in your lands. Your Spy level is increased by 1 for offensive operations.</Text>
+			<Text>Vihollisten vakoilutaso laskee kahdella maillamme. Vakoilutasomme kasvaa yhdellä vihollista haittaavissa toimissa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
-			<Text>No war weariness from combat in your territory.</Text>
+			<Text>Maillamme tapahtuvasta taistelusta ei tule sotaväsymystä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
-			<Text>The first [ICON_Envoy] Envoy you send to each city-state counts as two [ICON_Envoy] Envoys.</Text>
+			<Text>Ensimmäinen kaupunkivaltioon lähettämämme [ICON_Envoy] edustaja tuplaantuu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Unit Combat Strength when fighting Barbarians.</Text>
+			<Text>+5 yksiköiden [ICON_Strength] taisteluvoimakkuudelle barbaareja vastaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
-			<Text>+5 [ICON_Production] Production and +10 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+5 [ICON_Production] tuotantoa ja +10 [ICON_Gold] kultaa kansainvälisille [ICON_TradeRoute] kauppareiteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
-			<Text>+100% Commercial Hub and Harbor district adjacency bonuses.</Text>
+			<Text>+100% kaupallisten keskusten ja satamoiden läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Settlers. Plot purchase cost reduced by 20%.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden uudisasuttajia. Ruutujen ostaminen maksaa 20% vähemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Medieval and Renaissance era melee and ranged units.</Text>
+			<Text>+50% [ICON_Production] tuotanoa kohden keskiajan ja renessanssin melee- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Modern and Atomic air units.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden modernin ja atomiajan lentoyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
-			<Text>+100% Campus and Industrial Zone district adjacency bonuses.</Text>
+			<Text>+100% kampusten ja teollisuusalueen läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
-			<Text>+100% [ICON_Gold] Gold yield from Commercial Hub district buildings.</Text>
+			<Text>+100% [ICON_Gold] kultatuottoa kaupallisen keskuksen rakennuksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
-			<Text>+2 [ICON_GreatArtist] Great Artist points per turn.</Text>
+			<Text>+2 [ICON_GreatArtist] merkittävien taiteilijoiden pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Faith and +1 [ICON_Gold] Gold in the [ICON_Capital] Capital.</Text>
+			<Text>+1 [ICON_Faith] uskoa ja +1 [ICON_Gold] kultaa [ICON_Capital] pääkaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
-			<Text>+15% [ICON_Production] Production toward Medieval and Renaissance wonders.</Text>
+			<Text>+15% [ICON_Production] tuotantoa kohden keskiajan ja renessanssin ihmeitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Industrial and Modern era melee and ranged units.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden teollisen ja modernin ajan melee- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
-			<Text>+100% [ICON_Culture] Culture yield from Theater Square district buildings.</Text>
+			<Text>+100% [ICON_Culture] kultatuottoa teatteriaukion rakennuksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
-			<Text>Open Borders with all city-states, and +4 Influence points per turn toward earning [ICON_Envoy] Envoys.</Text>
+			<Text>Avoimet rajat kaikkiin kaupunkivaltioihin ja +4 vaikutusvallan pistettä [ICON_Envoy] edustajien ansaitsemiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
-			<Text>+100% [ICON_Tourism] Tourism from [ICON_GreatWork_Landscape] Great Works of Art and [ICON_GreatWork_Artifact] Artifacts.</Text>
+			<Text>+100% [ICON_Tourism] turismia [ICON_GreatWork_Landscape] merkittävistä taideteoksista ja [ICON_GreatWork_Artifact] artefakteista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_ILKUM_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production toward Builders.</Text>
+			<Text>+30% [ICON_Production] tuotantoa kohden rakentajia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatScientist] Great Scientist points per turn.</Text>
+			<Text>+2 [ICON_GreatScientist] merkittävien tieteentekijöiden pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_INSULAE_DESCRIPTION">
-			<Text>+1 [ICON_Housing] Housing in all cities with at least 2 specialty districts.</Text>
+			<Text>+1 [ICON_Housing] asumusta kaikille vähintään kaksi kaupunkialuetta sisältävälle kaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
-			<Text>+15% [ICON_Production] Production toward Space Race projects if a city has either a Military Academy or a Seaport.</Text>
+			<Text>+15% [ICON_Production] tuotantoa kohden avaruusjuoksun projekteja, mikäli kaupungissa on sotilasakademia tai meriportti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
-			<Text>+10% [ICON_Science] Science per city-state you are the Suzerain of.</Text>
+			<Text>+10% [ICON_Science] tiedettä kaupunkivaltioista, joihin meillä on valta-asema.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production toward Modern, Atomic, and Information era naval units, excluding Carriers.</Text>
+			<Text>+100% [ICON_Production] tuotantoa kohden modernin, atomi- ja informaatioajan meriyksiköitä poislukien lentotukialukset.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
-			<Text>+2 [ICON_GreatEngineer] Great Engineer points per turn.</Text>
+			<Text>+2 [ICON_GreatEngineer] merkittävien insinöörien pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
-			<Text>+4 [ICON_GreatMerchant] Great Merchant points per turn.</Text>
+			<Text>+4 [ICON_GreatMerchant] merkittävien kauppiaiden pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
-			<Text>Reduces the cost of purchasing a tile by 20%.</Text>
+			<Text>Ruutujen osto maksaa 20% vähemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
-			<Text>Unit maintenance cost reduced by 2 [ICON_Gold] Gold per turn, per unit.</Text>
+			<Text>Jokaisen yksikön ylläpitokulut vaativat vuorossa 2 [ICON_Gold] kultaa vähemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Amenity to all cities with at least 2 specialty districts.</Text>
+			<Text>+1 [ICON_Amenities] elintasoa vähintään kaksi kaupunkialuetta sisältäville kaupungeille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production for Modern, Atomic, and Information era heavy and light cavalry units.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden modernin, atomi- ja informaatioajan raskaita ja kevyitä ratsuyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_LIMES_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production toward defensive buildings.</Text>
+			<Text>+100% [ICON_Production] tuotantoa kohden puolustusrakennuksia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
-			<Text>+2 [ICON_GreatWriter] Great Writer points per turn.</Text>
+			<Text>+2 [ICON_GreatWriter] merkittävien kirjailijoiden pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
-			<Text>+1 Movement if starting turn in friendly territory.</Text>
+			<Text>+1 liikkuvuutta aloitettaessa ystävälliseltä maaperältä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Spies. Spy operations take 25% less time.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden vakoilijoita. Vakoilijoiden toimet vaativat 25% vähemmän aikaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Ancient and Classical era heavy and light cavalry units.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden muinaisuuden ja antiikin raskaita ja kevyitä ratsuyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production toward Ancient and Classical era naval units.</Text>
+			<Text>+100% [ICON_Production] tuotantoa kohden muinaisuuden ja antiikin meriyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
-			<Text>Your international [ICON_TradeRoute] Trade Routes provide +1 [ICON_Gold] Gold per Luxury and Strategic resource improved at the destination, as well as +2 [ICON_Culture] Culture and +2 [ICON_Science] Science.</Text>
+			<Text>Kansainväliset [ICON_TradeRoute] kauppareittimme tarjoavat +1 [ICON_Gold] kultaa jokaista kohteen rakennettua ylellistä ja strategista luonnonvaraa kohden, sekä +2 [ICON_Culture] kulttuuria ja +2 [ICON_Science] tiedettä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
-			<Text>Accumulate 25% less war weariness than usual.</Text>
+			<Text>Sotaväsymystä kertyy 25% vähemmän kuin yleensä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
-			<Text>+2 [ICON_Housing] Housing in all cities with at least 3 specialty districts.</Text>
+			<Text>+2 [ICON_Housing] asumusta vähintään kolme kaupunkialuetta sisältäville kaupungeille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold from each of your [ICON_Envoy] Envoys at city-states.</Text>
+			<Text>+1 [ICON_Gold] kultaa jokaisesta kaupunkivaltiossa olevalta [ICON_Envoy] edustajaltamme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
-			<Text>Each city receives +1 [ICON_Culture] Culture for each specialty district it constructs.</Text>
+			<Text>Jokaisesta kaupunkialueesta tulee +1 [ICON_Culture] kulttuuria kaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
-			<Text>+50% [ICON_Production] Production toward Atomic and Information era melee and ranged units.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden atomi- ja informaatioajan melee- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
-			<Text>+4 [ICON_GreatGeneral] Great General points per turn.</Text>
+			<Text>+4 [ICON_GreatGeneral] merkittävien kenraalien pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
-			<Text>Military Academies and Seaports generate +1 [ICON_Science] Science.</Text>
+			<Text>Sotilasakademiat ja meriportit tuottavat +1 [ICON_Science] tiedettä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
-			<Text>Units have 50% less [ICON_Strength] Combat Strength reduction from being injured.</Text>
+			<Text>Haavoittuneiden yksiköiden [ICON_Strength] taisteluvoimakkuus heikkenee 50% vähemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
-			<Text>Combat victories over units from earlier eras provide [ICON_Gold] Gold equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+			<Text>Voitot taisteluista aiempien aikakausien yksiköitä vastaan tarjoavat [ICON_Gold] kultaa 50% voitetun yksikön [ICON_Strength] taisteluvoimakkuuden edestä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
-			<Text>+100% Campus district adjacency bonuses.</Text>
+			<Text>+100% kampuksen läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
-			<Text>+100% Harbor district adjacency bonuses.</Text>
+			<Text>+100% sataman läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatAdmiral] Great Admiral points per turn.</Text>
+			<Text>+2 [ICON_GreatAdmiral] merkittävien amiraalien pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
-			<Text>+4 [ICON_Housing] Housing, +2 [ICON_Amenities] Amenities, -8 [ICON_Gold] Gold to all cities with at least 3 specialty districts.</Text>
+			<Text>+4 [ICON_Housing] asumusta, +2 [ICON_Amenities] elintasoa, -8 [ICON_Gold] kultaa vähintään kolme kaupunkialuetta sisältäville kaupungeille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
-			<Text>+4 [ICON_GreatScientist] Great Scientist points per turn.</Text>
+			<Text>+4 [ICON_GreatScientist] merkittävien tieteentekijöiden pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
-			<Text>Spies who steal a tech boost without being detected gain an extra boost.</Text>
+			<Text>Huomaamattomasti teknisen tehosteen varastamisessa onnistuvat vakoilijat nappaavat ylimääräisen tehosteen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
-			<Text>+50% [ICON_Tourism] Tourism output to civilizations to which you have a [ICON_TradeRoute] Trade Route.</Text>
+			<Text>+50% [ICON_Tourism] turismia kansakuntiin, joihin meillä on [ICON_TradeRoute] kauppareitti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
-			<Text>+100% [ICON_Production] Production for Modern, Atomic, and Information era support units.</Text>
+			<Text>+100% [ICON_Production] tuotantoa kohden modernin, atomi- ja informaatioajan tukiyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
-			<Text>Enemy Spies level reduced by 2 in your lands. However all cities suffer -1 [ICON_Amenities] Amenity.</Text>
+			<Text>Vihollisten vakoilutaso vähenee kahdella maillamme. Kaikki kaupungit kärsivät kuitenkin -1 [ICON_Amenities] elintasoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
-			<Text>100% [ICON_Production] Production toward Renaissance and Industrial era naval units.</Text>
+			<Text>100% [ICON_Production] tuotantoa kohden renessanssin ja teollisen ajan meriyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
-			<Text>50% discount on all unit upgrades.</Text>
+			<Text>50% alennus yksiköiden päivityksiin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
-			<Text>Accumulate 25% less war weariness than usual.</Text>
+			<Text>Sotaväsymystä kertyy 25% vähemmän kuin yleensä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
-			<Text>Receive 50 [ICON_Gold] Gold per Appeal of tile when replacing a Farm with a Neighborhood district.</Text>
+			<Text>Maatilan korvaaminen lähiöllä tarjoaa 50 [ICON_Gold] kultaa per ruudun houkuttelevuuden taso.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production toward Builders, and newly trained Builders gain 2 extra build actions.</Text>
+			<Text>+30% [ICON_Production] tuotantoa kohden rakentajia ja vastakoulutetut rakentajat saavat kaksi lisätyöstöä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_RAJ_DESCRIPTION">
-			<Text>+2 [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Faith] Faith, and [ICON_Gold] Gold from each city-state you are Suzerain of.</Text>
+			<Text>+2 [ICON_Science] tiedettä, [ICON_Culture] kulttuuria, [ICON_Faith] uskoa ja [ICON_Gold] kultaa jokaisesta kaupunkivaltiosta, johon meillä on valta-asema.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_RAID_DESCRIPTION">
-			<Text>Yields gained from pillaging are doubled for pillaging improvements.</Text>
+			<Text>Ryöväilystä saadut tuotot ovat kaksinkertaiset rakenteita tärvellessä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
-			<Text>+100% [ICON_Science] Science from Campus district buildings.</Text>
+			<Text>+100% [ICON_Science] tiedettä kampuksen rakennuksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
-			<Text>All religious units +5 [ICON_Religion] Religious Strength in theological combat.</Text>
+			<Text>+5 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
-			<Text>1 copy of a Strategic resource allows you to produce and purchase units requiring it in any city.</Text>
+			<Text>Yksi kopio strategisesta resurssista mahdollistaa yksikön kouluttamisen ja ostamisen missä tahansa kaupungissa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Amenity for cities with a garrisoned unit.</Text>
+			<Text>+1 [ICON_Amenities] elintasoa kaupungeissa, joita puolustaa yksikkö.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_REVELATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatProphet] Great Prophet points per turn.</Text>
+			<Text>+2 [ICON_GreatProphet] merkittävien profeettojen pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SACK_DESCRIPTION">
-			<Text>Yields gained from pillaging are doubled for pillaging districts.</Text>
+			<Text>Ryöväilystä saadut tuotot ovat kaksinkertaiset kaupunkialueita tärvellessä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
-			<Text>Triples [ICON_Tourism] Tourism from [ICON_GreatWork_Music] Great Works of Music.</Text>
+			<Text>Kolminkertaistaa [ICON_GreatWork_Music] merkittävien musiikkiteosten [ICON_Tourism] turismin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
-			<Text>+100% Holy Site adjacency bonuses.</Text>
+			<Text>+100% pyhän paikan läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
-			<Text>Newly trained Builders gain 2 extra build actions.</Text>
+			<Text>Vastakoulutetut rakentajat saavat kaksi lisätyöstöä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
-			<Text>Doubles [ICON_Faith] Faith yield from Holy Site district buildings.</Text>
+			<Text>Tuplaa pyhän paikan rakennusten [ICON_Faith] uskontuoton.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
-			<Text>+15% [ICON_Production] Production toward Industrial era and later wonders.</Text>
+			<Text>+15% [ICON_Production] tuotantoa teollisen ja myöhempien aikojen ihmeille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
-			<Text>+100% Theater Square district adjacency bonuses, and Stadiums generate +1 [ICON_Amenities] Amenity.</Text>
+			<Text>+100% teatteriaukien läheisyyseduille ja stadionit tuottavat +1 [ICON_Amenities] elintasoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
-			<Text>+50 [ICON_Production] Production toward Information era air units, and toward all Carriers.</Text>
+			<Text>+50 [ICON_Production] tuotantoa kohden informaatioajan lentoyksiköille sekä kaikenlaislle lentotukialuksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
-			<Text>+2 [ICON_GreatGeneral] Great General points per turn.</Text>
+			<Text>+2 [ICON_GreatGeneral] merkittävien kenraalien pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
-			<Text>Double experience for recon units.</Text>
+			<Text>Kaksinkertaiset kokemuspisteet tiedusteluyksiköille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
-			<Text>+4 [ICON_GreatMusician] Great Musician points per turn.</Text>
+			<Text>+4 [ICON_GreatMusician] merkittävien muusikoiden pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Gold from each Research Lab, Military Academy, and Power Plant.</Text>
+			<Text>+4 [ICON_Gold] kultaa tutkimuslaboratorioille, sotilasakademioille ja voimalaitoksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
-			<Text>Yields gained from pillaging are doubled.</Text>
+			<Text>Ryöväilystä saadut tuotot tuplataan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
-			<Text>+100% Commercial Hub district adjacency bonuses.</Text>
+			<Text>+100% kaupallisten keskusten läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Culture and +1 [ICON_Science] Science from international [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+1 [ICON_Culture] kulttuuria ja +1 [ICON_Science] tiedettä kansainvälisille [ICON_TradeRoute] kauppareiteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
-			<Text>+2 [ICON_GreatMerchant] Great Merchant points per turn.</Text>
+			<Text>+2 [ICON_GreatMerchant] merkittävien kauppiaiden pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Gold and +1 [ICON_Faith] Faith from all [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+4 [ICON_Gold] kultaa ja +1 [ICON_Faith] uskoa kaikille [ICON_TradeRoute] kauppareiteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production in all cities.</Text>
+			<Text>+1 [ICON_Production] tuotantoa kaikille kaupungeille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production toward Encampment districts and buildings for that district.</Text>
+			<Text>+30% [ICON_Production] tuotantoa varuskuntaan ja kaikille sen rakennuksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
-			<Text>+4 [ICON_Strength] Combat Strength when fighting civilizations that follow other Religions.</Text>
+			<Text>+4 [ICON_Strength] taisteluvoimakkuutta muita uskontoja noudattavia kansoja kohtaan.</Text>
 		</Replace>
 		<!-- Preview Text -->
 		<Replace Language="fi_FI" Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
-			<Text>+4 Oligarchy bonus</Text>
+			<Text>+4 oligarkiaetu</Text>
 		</Replace>
 		<!-- Temporary UI -->
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_STARTED">
-			<Text>Progress started toward Civic: {1_CivicName}</Text>
+			<Text>Alkoi kehitys kohti normia: {1_CivicName}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVIC_COMPLETE">
-			<Text>Civic complete: {1_CivicName}</Text>
+			<Text>Normi valmistui: {1_CivicName}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
