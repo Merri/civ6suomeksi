@@ -1106,7 +1106,7 @@
 			<Text>Vedestä {1_Water}, rakennuksista {2_Buildings}, rakenteista {3_Improvements}, lähiöistä {4_Districts}, normeista {5_Civics}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_CAPACITY">
-			<Text>Asumuskapasiteetti</Text>
+			<Text>Asumusta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_HOUSING_FROM_BUILDINGS">
 			<Text>Asumukset rakennuksista:</Text>
@@ -1244,7 +1244,7 @@
 			<Text>Kaupungissamme ei ole uskonnollisia asukkaita tällä hetkellä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS">
-			<Text>Uskonnolliset asukkaat</Text>
+			<Text>Uskovaista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS_NUMBER">
 			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} {1_Amt : plural 1? asukas; other?asukasta;}</Text>
@@ -1322,10 +1322,10 @@
 			<Text>{1_Turns : plural 1? {1_Turns} vuoro; other?{1_Turns} vuoroa;} asukkaan menettämiseen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_TO_COMPLETE">
-			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} valmistumiseen</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} työstöä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_COMPLETED">
-			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} valmistumiseen</Text>
+			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} työstöä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CITY_TURNS_UNTIL_GROWTH">
 			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;} kasvuun</Text>

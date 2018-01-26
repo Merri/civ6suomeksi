@@ -2371,7 +2371,7 @@
 			<Text>Polttomoottori|polttomoottorin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_COMPOSITES_NAME">
-			<Text>Komposiitit|komposiitit</Text>
+			<Text>Komposiitit|komposiittien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_COMPUTERS_NAME">
 			<Text>Tietokoneet|tietokoneet</Text>
@@ -2422,7 +2422,7 @@
 			<Text>Keinokastelu|keinokastelun</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_LASERS_NAME">
-			<Text>Laserit|laserit</Text>
+			<Text>Laserit|laserien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_MACHINERY_NAME">
 			<Text>Koneistus|koneistuksen</Text>
@@ -2446,7 +2446,7 @@
 			<Text>Sotilasinsinööritaito|sotilasinsinööritaidon</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_STIRRUPS_NAME">
-			<Text>Jalustimet|jalustimet</Text>
+			<Text>Jalustimet|jalustimien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_MILITARY_SCIENCE_NAME">
 			<Text>Sotatiede|sotatieteen</Text>
@@ -2470,7 +2470,7 @@
 			<Text>Keramiikka|keramiikan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_PLASTICS_NAME">
-			<Text>Muovit|muovit</Text>
+			<Text>Muovit|muovien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_PRINTING_NAME">
 			<Text>Kirjapaino|kirjapainon</Text>
@@ -2479,7 +2479,7 @@
 			<Text>Radio|radion</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_REPLACEABLE_PARTS_NAME">
-			<Text>Vaihto-osat|vaihto-osat</Text>
+			<Text>Vaihto-osat|vaihto-osien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_RIFLING_NAME">
 			<Text>Rihlaus|rihlauksen</Text>
@@ -2488,7 +2488,7 @@
 			<Text>Robotiikka|robotiikan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_ROCKETRY_NAME">
-			<Text>Raketit|raketit</Text>
+			<Text>Raketit|rakettien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_SAILING_NAME">
 			<Text>Purjehdus|purjehduksen</Text>
@@ -2497,7 +2497,7 @@
 			<Text>Viemäröinti|viemäröinnin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_SATELLITES_NAME">
-			<Text>Satelliitit|satelliitit</Text>
+			<Text>Satelliitit|satelliittien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_SCIENTIFIC_THEORY_NAME">
 			<Text>Tieteellinen teoria|tieteellisen teorian</Text>
@@ -2506,10 +2506,10 @@
 			<Text>Laivanrakennus|laivanrakennuksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_SIEGE_TACTICS_NAME">
-			<Text>Piiritystaktiikat|piiritystaktiikat</Text>
+			<Text>Piiritystaktiikat|piiritystaktiikoiden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_SQUARE_RIGGING_NAME">
-			<Text>Raakapurjeet|raakapurjeet</Text>
+			<Text>Raakapurjeet|raakapurjeiden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_STEALTH_TECHNOLOGY_NAME">
 			<Text>Häiveteknologia|häiveteknologian</Text>
@@ -2521,7 +2521,7 @@
 			<Text>Teräs|teräksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_SYNTHETIC_MATERIALS_NAME">
-			<Text>Synteettiset materiaalit|synteettiset materiaalit</Text>
+			<Text>Synteettiset materiaalit|synteettisten materiaalien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_TELECOMMUNICATIONS_NAME">
 			<Text>Televiestintä|televiestinnän</Text>

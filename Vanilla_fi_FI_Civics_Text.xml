@@ -436,7 +436,7 @@
 			<Text>+50% [ICON_Production] tuotantoa kohden puolustusrakennelmia. +1 [ICON_Housing] asumusta jokaisesta muurien tasosta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
-			<Text>Maataisteluyksiköitä voi ostaa uskolla. Kaikki yksiköt saavat +5 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin.</Text>
+			<Text>Maataisteluyksiköitä voi ostaa uskolla. +5 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
 			<Text>+2 [ICON_TradeRoute] kauppareittiä.</Text>
