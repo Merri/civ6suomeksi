@@ -139,7 +139,7 @@
 			<Text>Kasvata kaupunki kymmeneen asukkaaseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_MERCENARIES">
-			<Text>Ylläpidä kahdeksaa maataisteluyksikköä samanaikaisesti.</Text>
+			<Text>Ylläpidä samanaikaisesti kahdeksaa maataisteluyksikköä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
 			<Text>Ylläpidä neljää kauppareittiä.</Text>
@@ -160,7 +160,7 @@
 			<Text>Liittoudu toisen kansakunnan kanssa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
-			<Text>Uskontomme tulee olla kuuden kaupungin valtauskontona samanaikaisesti.</Text>
+			<Text>Uskontomme tulee olla samanaikaisesti kuuden kaupungin valtauskontona.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
 			<Text>Värvää merkittävä kauppias.</Text>

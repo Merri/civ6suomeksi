@@ -401,7 +401,7 @@
 			<Text>(Meillä ei ole hänen haluamiaan ylellisyyksiä.)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MONTEZUMA_ANY">
-			<Text>Teillä on paljon mitä minulla ei! Kerjäättekö näkevänne kansanne orjina?</Text>
+			<Text>Teillä on paljon mitä minulla ei! Kerjäättekö nähdä kansanne orjina?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_ANY">
 			<Text>(Meillä on hänen haluamansa ylellisyys.)</Text>

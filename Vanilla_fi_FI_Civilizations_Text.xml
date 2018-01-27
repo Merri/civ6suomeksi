@@ -300,7 +300,7 @@
 			<Text>Brittien museo</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
-			<Text>Kukin arkeologinen museo voi sisältää kuusi [ICON_GreatWork_Artifact] artefaktia kolmen sijasta ja voi tukea kahta arkeologia samanaikaisesti. Arkeologiset museot teemoitetaan automaattisesti kun niissä on kuusi [ICON_GreatWork_Artifact] artefaktia.</Text>
+			<Text>Kukin arkeologinen museo voi sisältää kuusi [ICON_GreatWork_Artifact] artefaktia kolmen sijasta ja voi tukea samanaikaisesti kahta arkeologia. Arkeologiset museot teemoitetaan automaattisesti kun niissä on kuusi [ICON_GreatWork_Artifact] artefaktia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
 			<Text>Arokansa</Text>

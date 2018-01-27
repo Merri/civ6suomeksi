@@ -141,7 +141,7 @@
 			<Text>Merkittävien henkilöiden värvääminen maksamalla vaatii 25% vähemmän [ICON_Faith] uskoa. Tämän kaupungin kaupunkialueet tarjoavat +2 [ICON_GreatPerson] merkittävän henkilön pistettä alueen tyypin mukaisesti (vaikkapa [ICON_GreatWriter] merkittävän kirjailijan pisteitä teatteriaukioista). Tulee rakentaa mäelle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
-			<Text>+20% [ICON_Science] tiedettä tässä kaupungissa ja palkitsee kahdella satunnaisesti valitulla tekniikalla valtumisen yhteydessä. Tulee rakentaa yliopiston sisältävän kampuksen viereiselle ruohikolle tai tasangolle.</Text>
+			<Text>+20% [ICON_Science] tiedettä tässä kaupungissa ja palkitsee kahdella satunnaisesti valitulla tekniikalla valmistumisen yhteydessä. Tulee rakentaa yliopiston sisältävän kampuksen viereiselle ruohikolle tai tasangolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
 			<Text>+1 paikkaa diplomaattisille linjauksille[NEWLINE][NEWLINE]Tulee rakentaa vuoren viereiselle mäelle.</Text>
