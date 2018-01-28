@@ -1464,7 +1464,7 @@
 			<Text>{2_AmountNeededWithoutDistrict} kpl {1_ResourceName[2]} vaaditaan kansakunnallemme, jotta voimme tuottaa tätä yksikkötyyppiä. {4_DistrictName} pudottaa tässä kaupungissa vaatimuksen {3_AmountNeededWithDistrict} kpl {1_ResourceName[2]}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRES_RESOURCE_SUPPLY">
-			<Text>{1_Resource} on ehtynyt tarjonnaltaan. Kukin elävä ja tuotannossa oleva yksikkö syö 1 kpl tarjontaa. Kukin omistettu tai maahantuotu resurssi tuo 4 kpl tarjontaa.</Text>
+			<Text>{1_Resource} on ehtynyt tarjonnaltaan. Kukin elävä ja tuotannossa oleva yksikkö syö 1 kpl tarjontaa. Kukin omistettu tai maahantuotu luonnonvara tuo 4 kpl tarjontaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRES_DISTRICT">
 			<Text>{1_District} vaaditaan yksikön valmistukseen.</Text>
@@ -1768,7 +1768,7 @@
 			<Text>Tuotot päälle/pois</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_SHOW_RESOURCES">
-			<Text>Näytä resurssikuvakkeet</Text>
+			<Text>Näytä luonnonvarat ja muut resurssit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_MAP_SHOW_YIELDS">
 			<Text>Näytä tuottokuvakkeet</Text>
@@ -2417,7 +2417,7 @@
 			<Text>Tulee olla meidän pyhässä paikassamme tai Stonehengessämme.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_HARVEST_RESOURCE_DESCRIPTION">
-			<Text>Korjaa resurssi talteen</Text>
+			<Text>Korjaa kaikki pois</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_LAUNCH_INQUISITION_DESCRIPTION">
 			<Text>Käynnistä inkvisitio</Text>
@@ -2600,7 +2600,7 @@
 			<Text>{2_AmountNeeded} {1_ResourceName} vaaditaan tämän yksikkötyypin päivittämiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_UPGRADE_REQUIRES_RESOURCE_SUPPLY">
-			<Text>Resurssia ({1_Resource}) ei ole riittävästi saatavilla. Kukin valmisteilla tai palveluksessa oleva yksikkö käyttää yhden (1) tarjonnasta. Minkä tahansa kaupungin omistama tai maahantuoma resurssi kasvattaa tarjontaa neljällä (4).</Text>
+			<Text>Resurssia ({1_Resource}) ei ole riittävästi saatavilla. Kukin valmisteilla tai palveluksessa oleva yksikkö käyttää yhden (1) tarjonnasta. Minkä tahansa kaupungin omistama tai maahantuoma luonnonvara kasvattaa tarjontaa neljällä (4).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_WAIT_FOR_DESCRIPTION">
 			<Text>Valvo</Text>
@@ -2699,7 +2699,7 @@
 			<Text>Ruudun omistavan kaupungin tulee suorittaa avaruusjuoksuprojektia.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_VISIBLE_LUXURY">
-			<Text>Tulee olla ylellisen resurssin ruudussa.</Text>
+			<Text>Tulee olla ylellisen luonnonvaran ruudussa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_NO_MILITARY_UNIT">
 			<Text>Tulee olla sotilasyksiköistä vapaassa ruudussa.</Text>

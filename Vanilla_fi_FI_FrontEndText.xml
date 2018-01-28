@@ -1155,7 +1155,7 @@
 			<Text>Satunnainen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_RESOURCES_NAME">
-			<Text>Resurssit</Text>
+			<Text>Luonnonvarat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
 			<Text>Vähäiset</Text>
@@ -1338,19 +1338,19 @@
 			<Text>Veden määrä määritellään satunnaisesti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_RESOURCES_DESCRIPTION">
-			<Text>Määrittää resurssien runsauden.</Text>
+			<Text>Määrittää luonnonvarojen runsauden.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
-			<Text>Kartalla esiintyy vähemmän resursseja.</Text>
+			<Text>Kartalla esiintyy vähemmän luonnonvaroja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
-			<Text>Kartalla on tavanomainen määrä resursseja.</Text>
+			<Text>Kartalla on tavanomainen määrä luonnonvaroja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
-			<Text>Kartalla on enemmän resursseja.</Text>
+			<Text>Kartalla on enemmän luonnonvaroja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
-			<Text>Kartan resurssien määrä määritellään satunnaisesti.</Text>
+			<Text>Kartan luonnonvarojen määrä määritellään satunnaisesti.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
 			<Text>Muuttaa aloituspaikan arvoa.</Text>

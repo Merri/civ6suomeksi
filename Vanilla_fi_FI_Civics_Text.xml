@@ -770,7 +770,7 @@
 			<Text>+5 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
-			<Text>Yksi kopio strategisesta resurssista mahdollistaa yksikön kouluttamisen ja ostamisen missä tahansa kaupungissa.</Text>
+			<Text>Yksi kopio strategisesta luonnonvarasta mahdollistaa yksikön kouluttamisen ja ostamisen missä tahansa kaupungissa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] elintasoa kaupungeissa, joita puolustaa yksikkö.</Text>

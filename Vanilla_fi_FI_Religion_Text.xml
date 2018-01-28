@@ -295,10 +295,10 @@
 			<Text>+2 [ICON_Faith] uskoa louhoksista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
-			<Text>+2 [ICON_Faith] uskoa ylellisten ja hyödyllisten resurssien kaivoksista.</Text>
+			<Text>+2 [ICON_Faith] uskoa ylellisten ja hyödyllisten luonnonvarojen kaivoksista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuotantoa strategisten resurssien kaivoksista.</Text>
+			<Text>+1 [ICON_Production] tuotantoa strategisten luonnonvarjone kaivoksista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
 			<Text>+1 [ICON_Food] ruokaa [ICON_RESOURCE_WINE] viini-, [ICON_RESOURCE_INCENSE] suitsuke-, [ICON_RESOURCE_COCOA] kaakao-, [ICON_RESOURCE_TOBACCO] tupakka-, [ICON_RESOURCE_COFFEE] kahvi- ja [ICON_RESOURCE_TEA] teeplantaaseista.</Text>
@@ -327,7 +327,7 @@
 			<Text>Rajojen laajenemisnopeus on 15% korkeampi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
-			<Text>Resurssin poiskorjuu tai piirteen poisto antaa siitä saadun hyödyn määrän edestä [ICON_Faith] uskoa.</Text>
+			<Text>Luonnonvaran poiskorjuu sekä piirteen poisto antavat niistä saadun tuoton edestä [ICON_Faith] uskoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
 			<Text>+25% [ICON_Production] tuotantoa kaupunkialueiden rakentamiseen kaupungeissa, joissa ei vielä ole erikoistunutta kaupunkialuetta.</Text>
@@ -439,7 +439,7 @@
 			<Text>Uskonnolliset yksiköt eivät huomioi maaston ja sen piirteiden [ICON_Movement] liikkumismaksuja.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
-			<Text>Uskontomme paine ei koskaan putoa teologisten kamppailujen seurauksena.</Text>
+			<Text>Uskontomme paine ei koskaan putoa uskontaistojen seurauksena.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
 			<Text>Kaupunki aloittaa tällä uskonnolla, mikäli kaupungin perustaa pelaaja, jonka valtauskontona tämä uskonto on.</Text>

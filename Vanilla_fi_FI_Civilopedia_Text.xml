@@ -48,7 +48,7 @@
 			<Text>Maasto ja piirteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_RESOURCES_TITLE">
-			<Text>Resurssit</Text>
+			<Text>Luonnonvarat ja resurssit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
 			<Text>Rakenteet ja reitit</Text>
