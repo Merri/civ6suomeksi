@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Names -->
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
+			<Text>Ratsujen torjuja</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
+			<Text>Raskas sotavaunu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
+			<Text>Ei maksua maastosta</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
+			<Text>Ei maksua joen ylittämisestä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
+			<Text>Hallitun alan huomioimattumuus</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
+			<Text>Kevyt sotavaunu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
+			<Text>Ei voi liikkua ja ampua</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NO_OCEAN_NAME">
+			<Text>Rajoitettu rannikolle</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CANNOT_ATTACK">
+			<Text>Ei voi hyökätä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
+			<Text>Ystävällisen maaston etu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
+			<Text>Sallii hyökkäyksen muuriin</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
+			<Text>Ohittaa muurit</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ANTI_SPEAR_NAME">
+			<Text>Keihäsmiehen torjuja</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_NAME">
+			<Text>Kaukotähtääjä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
+			<Text>Esteetön näkijä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
+			<Text>Oligarkian melee-etu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
+			<Text>Teokratiaetu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
+			<Text>Uskonnolliset käskyt</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
+			<Text>Fasismin hyökkäysetu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
+			<Text>Kommunismin maapuolustusetu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
+			<Text>Kenttälääkärin hoiva</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_STEALTH_NAME">
+			<Text>Kätkeytyjä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
+			<Text>Näkee kätkeytyjät</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_COASTAL_RAID_NAME">
+			<Text>Rannikon ryöväri</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
+			<Text>Rannikon salamaryöväri</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
+			<Text>Ohjattu hyökkäys</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
+			<Text>Hoivautuu neutraalissa maastossa</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
+			<Text>Immuuni meriryöväykselle</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
+			<Text>Berserkin raivo</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
+			<Text>Berserkin liike</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
+			<Text>Pitkäveneen liike</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
+			<Text>Arvolaivat</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
+			<Text>Kaapatut työläiset</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
+			<Text>Balkanin ratsuväki</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
+			<Text>Korkeustreenit</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_COSSACK_NAME">
+			<Text>Hiljaa virtaa Don</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_REDCOAT_NAME">
+			<Text>Maailman armeija</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_VARU_NAME">
+			<Text>Pelko</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NAGAO_NAME">
+			<Text>Metsätaistelija</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CONQUISTADOR_NAME">
+			<Text>Pakotettu käännytys</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_GARDE_NAME">
+			<Text>Napoleonin eliitti</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_HOPLITE_NAME">
+			<Text>Falangi</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_UBOAT_NAME">
+			<Text>Susilauma</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
+			<Text>Teddyn rosoratsu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_MUSTANG_NAME">
+			<Text>Mustang</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_MAMLUK_NAME">
+			<Text>Furusiyya</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_SAMURAI_NAME">
+			<Text>Samurai</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
+			<Text>Kotilevitys</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Kulku ulkomaille</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
+			<Text>Rauhan edustaja</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
+			<Text>Ystävällisen maaston etu</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Rajojen huomioimattomuus</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
+			<Text>Ilmassa kävelijä</Text>
+		</Replace>
+		<!-- Full description -->
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
+			<Text>+14 [ICON_Strength] taisteluvoimakkuutta kevyitä ja raskaita ratsuyksiköitä vastaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta ratsujen torjujia vastaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] liikkuvuutta aloitettaessa aavikolta, tasangolta, ruohikolta tai tundralta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Metsä, viidakko, mäet ja suot vievät vain yhden pisteen [ICON_Movement] liikkuvuutta. Uskomuksen "lähetyssaarnaajien kiihko" mahdollistama.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
+			<Text>Vihollisten hallinnan alalla ei ole vaikutusta (zone of control).</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
+			<Text>+2 [ICON_Movement] liikkuvuutta aloitettaessa aavikolla, tasangolla, ruohikolla tai tundralla.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
+			<Text>Ei kykene liikkumaan ja hyökkäämään saman vuoron aikana.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
+			<Text>Ei kykene etenemään merelle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Kykenee ainoastaan puolustautumaan, ei voi hyökätä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
+			<Text>Taisteluetu ystävällisellä maaperällä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
+			<Text>Viholliskaupungin vieressä antaa meleeyksiköille kyvyn tehdä täyden vahingon kaupungin muureihin.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
+			<Text>Viholliskaupungin vieressä antaa ystävällisille yksiköille kyvyn ohittaa kaupungin muurit ja hyökätä suoraan kaupunkiin.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta keihäs- ja piikkimiehiä vastaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Range] kantamaa läheisille tulittaville piiritysyksiköille.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
+			<Text>Maasto ei vaikuta näkyvyyteen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] taisteluvoimakkuutta oligarkiasta (joka on hallitusmuoto).</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Religion] uskonnollista voimakkuutta teokratiasta (joka on hallitusmuoto).</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Religion] uskonnollista voimakkuutta uskonnollisista käskyistä (joka on linjaus).</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] taisteluvoimakkuutta hyökkäykselle fasismista (joka on hallitusmuoto).</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
+			<Text>+6 [ICON_Strength] taisteluvoimakkuutta puolustukselle kommunismista (joka on hallitusmuoto).</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
+			<Text>+20 HP hoivausta yhden ruudun sisällä oleville pelaajan yksiköille.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
+			<Text>Pysyy kätkettynä yli yhden ruudun päässä olevilta yksiköiltä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
+			<Text>Näkee kätkeytyneet yksiköt kartalla kun tämä yksikkö on viereisessä ruudussa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
+			<Text>Harald Ankaran merimeleeyksiköt kykenevät ryöväämään rannikkomaiden rakennuksia ja rakenteita, sekä kaappaamaan niillä sijaitsevia siviilejä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
+			<Text>Hyökkää tukiyksiköiden kimppuun suoraan, vaikka ne olisivat taisteluyksikön saattamia.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
+			<Text>Kykenee hoivaantumaan neutraalissa maastossa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
+			<Text>Vesiruudussa olevia [ICON_TradeRoute] kauppareittejä ei voida ryövätä vihollisyksiköiden toimesta. Mahdollistuu valta-asemasta Lissabonin kaupunkivaltioon.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
+			<Text>+7 [ICON_Strength]taisteluvoimakkuutta hyökättäessä ja -7 [ICON_Strength] taisteluvoimakkuutta puolustautuessa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
+			<Text>+2 [ICON_Movement] liikkuvuutta yksikön aloittaessa vihollisen mailla.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] liikkuvuutta rannikkovesillä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
+			<Text>Kykenee valtaamaan lyödyt vihollisen laivat.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
+			<Text>Kykenee kaappaamaan päihitetyt viholliskansakunnan taisteluyksiköt ja muuttamaan ne rakentajiksi.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta mäellä oleville raskaille ja kevyille ratsuluokan yksiköille valta-asemasta Preslavin kaupunkivaltioon.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
+			<Text>Lähetyssaarnaajat, inkvisiittorit ja apostolit voivat kulkea nopeammin mäkien ylitse kuljettuaan kerran Mount Everestin vierestä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
+			<Text>Kykenee liikkumaan hyökättyään. +5 [ICON_Strength] taisteluvoimakkuutta maillamme sekä niiden vieressä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta muun kuin [ICON_Capital] pääkaupunkimme mantereella. Ei maksua uitosta poistumisesta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_VARU_DESCRIPTION">
+			<Text>-5 [ICON_Strength] taisteluvoimakkuutta viereisille vihollisyksiköille.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta puolustautuessa tulitusyksiköitä vastaan, näkee piirteiden lävitse ja voi liikkua metsien ja sademetsien lävitse ilman haittaa [ICON_Movement] liikkumiseen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta kun uskonnollinen yksikkö on samassa ruudussa. Kaupunki kääntyy konkistadorin pelaajan valtauskontoon jos tämä yksikkö valtaa kaupungin tai on sen vieressä valtaushetkellä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_GARDE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta ollessaan samalla mantereella kuin [ICON_Capital] pääkaupunki. +10 merkittävän kenraalin pistettä tapoista.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta kun vähintään yksi hopliitti on vieressä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta meriruutujen taisteluissa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
+			<Text>Vihollisyksikön päihittämisestä tulee [ICON_Culture] kulttuuria 50% kyseisen yksikön perustason [ICON_Strength] taisteluvoimakkuudesta taisteltaessa [ICON_Capital] pääkaupungin mantereella. +10 [ICON_Strength] taisteluvoimakkuutta taisteltaessa mäellä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
+			<Text>Taisteluetu hävittäjäkoneita vastaan, pidempi hyökkäyskantama ja saa enemmän kokemusta taisteluista.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
+			<Text>Tämä yksikkö hoivaa itsensä joka vuoro, myös liikkumisen ja taistelemisen jälkeen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
+			<Text>Yksikkö ei kärsi taisteluhaittoja ollessaan haavoittunut.</Text>
+		</Replace>
+		<!-- Combat preview description -->
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_DIFFICULTY_SCALING">
+			<Text>+{Amount} etu vaikeustasosta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+10 ratsuja vastaan</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
+			<Text>+5 hävittäjäkoneita vastaan</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>+1 LP aloitettaessa avoimesta maastosta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
+			<Text>Kaikki maasto maksaa yhden [ICON_Movement] liikepisteen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
+			<Text>Hallittu alue ei vaikuta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>+2 LP aloitettaessa avoimesta maastosta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
+			<Text>Ei voi liikkua hyökättyään.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
+			<Text>Ei kykene menemään merelle.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Estää yksikköä hyökkäämästä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Etu taistelusta ystävällisellä maaperällä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Sallii meleeyksiköiden hyökätä muureihin.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
+			<Text>Sallii meleeyksiköiden ohittaa muurit.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
+			<Text>+10 voimaa ratsujen torjujia vastaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
+			<Text>+1 hyökkäysetäisyys läheisille piirityslaitteille.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
+			<Text>Esteetön näkyvyys</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 voimaa oligarkiasta</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 voimaa teokratiasta</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 voimaa uskonnollisista käskyistä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 voimaa fasismista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 puolustusta kommunismista</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
+			<Text>+4 muita uskontoja noudattavia kansoja vastaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
+			<Text>Uskonsodat: +4 muita uskontoja noudattavia kansoja vastaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
+			<Text>+5 voimaa kotimanterella.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
+			<Text>+7 voimaa kaupunkivaltioita vastaan.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
+			<Text>+5 voimaa rannikon mailla</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
+			<Text>+5 voimaa matalissa vesissä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} HP hoivaus 1 ruudun päässä oleville yksiköille</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
+			<Text>+{1_Amount} voimaa hyökätessä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_WEAK_WHEN_DEFENDING_DESCRIPTION">
+			<Text>{1_Amount} taisteluvoimakkuus puolustautuessa</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount}% mahdollisuus vallata vihollislaiva</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount}% mahdollisuus kaapata vihollinen</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuus taisteltaessa mäellä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuus maillamme tai niiden lähellä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuus muulla kuin pääkaupunkimme mantereella</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount} taisteluvoimakkuus vihollisen varun vieressä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuus puolustautuessa tulitusta vastaan</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuus uskonyksikön ollessa samassa ruudussa</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuus ollessa pääkaupungin mantereella</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuus ollessa toisen hopliitin vieressä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuus kun taisto käydään meriruudussa</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
+			<Text>+{1_Amount} voimaa taisteluun mäellä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
+			<Text>Kykenee levittämään uskoa ainoastaan oman valtakunnan sisällä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Ei kykene aloittamaan uskontaistoja.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
+			<Text>Merkittävä etu uskontaistoissa oman valtakunnan sisällä.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Kykenee menemään ulkomaille ilman avoimien rajojen solmimista.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Metsä, viidakko, mäet ja suot vaativat vain yhden [ICON_Movement] liikepisteen.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
+			<Text>Ei välitä joen ylittämisen liikkumismaksuista.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Kykenee menemään ulkomaille ilman avoimien rajojen solmimista.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
