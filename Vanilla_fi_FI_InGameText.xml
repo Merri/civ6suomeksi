@@ -2573,7 +2573,7 @@
 			<Text>Vuole varoja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_STEAL_TECH_BOOST_DESCRIPTION">
-			<Text>Vasta teknologiaa</Text>
+			<Text>Varasta tekniikkaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNITOPERATION_SPY_TRAVEL_NEW_CITY_DESCRIPTION">
 			<Text>Matkusta toiseen kaupunkiin</Text>
