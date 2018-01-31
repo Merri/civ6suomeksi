@@ -1690,7 +1690,7 @@
 			<Text>{1_NumOutgoingRoutes} [ICON_TradeRoute] kauppa{1_NumOutgoingRoutes : plural 1?reitti; other?reittiä;} käytössä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_CAPACITY">
-			<Text>{1_NumRouteCapacity} [ICON_TradeRoute] kauppareittien kapasiteetti</Text>
+			<Text>Kauppareittien kapasiteetti: {1_NumRouteCapacity} [ICON_TradeRoute]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_SOURCES_HELP">
 			<Text>Kaupalliset keskukset ja satamat ovat [ICON_TradeRoute] kauppareittien kapasiteetin ensisijainen lähde.</Text>
@@ -4927,7 +4927,7 @@
 			<Text>Väestö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_GROWTH_RATE_STATUS">
-			<Text>Kasvuvauhdin tila</Text>
+			<Text>Kasvuvauhti</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_HOUSING">
 			<Text>Asumukset</Text>
@@ -4936,7 +4936,7 @@
 			<Text>Elintaso</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_CITIZEN_HAPPINESS">
-			<Text>Asukkaiden onnellisuus</Text>
+			<Text>Onnellisuus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_WAR_WEARINESS">
 			<Text>Sotaväsymys</Text>
@@ -4945,7 +4945,7 @@
 			<Text>Tila</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_STRENGTH">
-			<Text>Voimakkuus</Text>
+			<Text>Kestävyys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_HEADER_DAMAGE">
 			<Text>Vahinko</Text>
@@ -4993,10 +4993,10 @@
 			<Text>{1_Yield} vuorossa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_BUILDING_EXPENSES">
-			<Text>Rakennuskulut</Text>
+			<Text>Rakennusten kulut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_CITY_INCOME">
-			<Text>Kaupungin tulo</Text>
+			<Text>Kaupunkien tulot ja tuotot</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_DIPLOMATIC_DEALS">
 			<Text>Diplomaattiset sopimukset</Text>
@@ -5005,7 +5005,7 @@
 			<Text>Projektikulut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_ROW_UNIT_EXPENSES">
-			<Text>Yksikkökulut</Text>
+			<Text>Yksiköiden kulut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_SOURCES">
 			<Text>Lähteet</Text>
@@ -5020,7 +5020,7 @@
 			<Text>Kaupungin tila</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TAB_RESOURCES">
-			<Text>Luonnonvarat</Text>
+			<Text>Luonnonvarat &amp; resurssit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TAB_YIELDS">
 			<Text>Tuotot</Text>
@@ -5053,7 +5053,7 @@
 			<Text>Kaupunkivaltio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_MISC_RESOURCE_SOURCE">
-			<Text>Pelaamisedut</Text>
+			<Text>Pelinaikainen etu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
 			<Text>Tuonti</Text>
