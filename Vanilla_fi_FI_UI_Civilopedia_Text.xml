@@ -29,13 +29,13 @@
 			<Text>(suosii myös jokia)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_SPECIAL_INFRASTRUCTURE">
-			<Text>Erityiset rakenteet</Text>
+			<Text>Omat rakenteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_SPECIAL_UNITS">
-			<Text>Erikoisyksiköt</Text>
+			<Text>Omat yksiköt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_SUZERAIN">
-			<Text>Valta-asemaan päätyminen</Text>
+			<Text>Valta-asema kaupunkivaltioon:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_START_BIAS">
 			<Text>Puolueellisuus alussa</Text>
@@ -59,7 +59,7 @@
 			<Text>Koskee:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_REPLACES">
-			<Text>Korvaa:</Text>
+			<Text>Korvaa tämän:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_REQUIRED_CIVICS">
 			<Text>Vaaditut normit</Text>
@@ -74,7 +74,7 @@
 			<Text>Tehostaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_FOLLOWERS">
-			<Text>Seuraajat</Text>
+			<Text>Noudattajat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_PROGRESSION">
 			<Text>Edistyminen</Text>
@@ -113,22 +113,22 @@
 			<Text>Hoivauksia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_MOVEMENT_POINTS">
-			<Text>Liikkumispisteitä</Text>
+			<Text>Liikkumispisteet</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_MELEE_STRENGTH">
-			<Text>Meleevoimakkuus</Text>
+			<Text>Meleevoima</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_RANGED_STRENGTH">
-			<Text>Tulitusvoimakkuus</Text>
+			<Text>Tulitusvoima</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
-			<Text>Pommitusvoimakkuus</Text>
+			<Text>Pommitusvoima</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
-			<Text>Uskonvoimakkuus</Text>
+			<Text>Uskonvoima</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
-			<Text>IT-voimakkuus</Text>
+			<Text>Ilmatorjuntavoima</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
 			<Text>Levityksiä</Text>
@@ -140,19 +140,19 @@
 			<Text>Tämän korvaa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_UNLOCKED_BY">
-			<Text>Tämän vapauttaa:</Text>
+			<Text>Tämän mahdollistaa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_BUILT_BY">
-			<Text>Rakentaja:</Text>
+			<Text>Tämän voi pykätä:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_USAGE">
 			<Text>Käyttö</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_BUILDINGS">
-			<Text>Vapauttaa rakennuksia</Text>
+			<Text>Mahdollistaa rakennukset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_UNITS">
-			<Text>Vapauttaa yksiköitä</Text>
+			<Text>Mahdollistaa yksiköt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
 			<Text>Voi rakentaa</Text>
@@ -200,10 +200,10 @@
 			<Text>Päivittää:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_UNIQUE_TO">
-			<Text>Ainoastaan:</Text>
+			<Text>Tämän voi rakentaa vain:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_UNIQUE_ABILITY">
-			<Text>Oma kyky</Text>
+			<Text>Ominainen kyky</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_PROMOTIONS">
 			<Text>Ylennykset</Text>
@@ -221,10 +221,10 @@
 			<Text>Luoja:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_IMPROVED_BY">
-			<Text>Parantaja:</Text>
+			<Text>Käyttöönotto rakenteella:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_HARVEST">
-			<Text>Harvest</Text>
+			<Text>Poiskorjuu antaa:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_REQUIRES">
 			<Text>Vaatii: {1_Name}</Text>
@@ -236,10 +236,10 @@
 			<Text>Merkkiteokset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
-			<Text>Vuoret</Text>
+			<Text>Vuoristoinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
-			<Text>Mäet</Text>
+			<Text>Mäkinen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_TERRAIN_WATER">
 			<Text>Vesi</Text>
@@ -257,7 +257,7 @@
 			<Text>Käyttöönotto vaatii erityisiä toimia. Kuvaus sisältää tarkemmat tiedot.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
-			<Text>Poistetaan mikäli peli alkaa myöhemmin kuin:</Text>
+			<Text>Ei ole käytettävissä mikäli peli alkaa myöhemmin kuin:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
 			<Text>Tulee olla joen vieressä</Text>

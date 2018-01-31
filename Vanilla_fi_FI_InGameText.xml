@@ -4004,7 +4004,7 @@
 			<Text>Kauppa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_TECH_NAME">
-			<Text>Teknologia</Text>
+			<Text>Tekniikka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CATEGORY_WONDER_NAME">
 			<Text>Ihmeet</Text>
@@ -4815,7 +4815,7 @@
 			<Text>Viennin [ICON_TradeRoute] kauppareitit (käytössä / kapasiteetti)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_TECHTREE_TOOLTIP">
-			<Text>Teknologiakartta[NEWLINE][NEWLINE]Tarkastele tai hallitse tutkimusta.</Text>
+			<Text>Tekniikkakartta[NEWLINE][NEWLINE]Tarkastele tai hallitse tutkimusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_CIVICSTREE_TOOLTIP">
 			<Text>Normien kartta[NEWLINE][NEWLINE]Tarkastele tai muuta hallinnon arvoja.</Text>

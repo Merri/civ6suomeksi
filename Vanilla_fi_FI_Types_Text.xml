@@ -48,7 +48,7 @@
 			<Text>Vakoilija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECHNOLOGY_NAME">
-			<Text>Teknologia</Text>
+			<Text>Tekniikka</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_NAME">
 			<Text>Yksikkö</Text>

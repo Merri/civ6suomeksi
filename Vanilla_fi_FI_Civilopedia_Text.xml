@@ -33,7 +33,7 @@
 			<Text>Merkittävät henkilöt</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
-			<Text>Teknologiat</Text>
+			<Text>Tekniikat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_CIVICS_TITLE">
 			<Text>Normit</Text>
