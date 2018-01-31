@@ -68,16 +68,16 @@
 			<Text>Vaaditut tekniikat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_UNLOCKS">
-			<Text>Vapauttaa</Text>
+			<Text>Mahdollistaa</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_BOOSTS">
-			<Text>Tehostaa</Text>
+			<Text>Tehostus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_FOLLOWERS">
 			<Text>Noudattajat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_PROGRESSION">
-			<Text>Edistyminen</Text>
+			<Text>Edistys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_LEADS_TO_CIVICS">
 			<Text>Johtaa normeihin</Text>
@@ -215,7 +215,7 @@
 			<Text>Kaupunkivaltion tyyppi</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_CREATES">
-			<Text>Luo</Text>
+			<Text>Luo resurssin:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_CREATED_BY">
 			<Text>Luoja:</Text>

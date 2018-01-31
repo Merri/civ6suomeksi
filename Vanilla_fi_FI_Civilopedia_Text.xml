@@ -150,13 +150,13 @@
 			<Text>Hyödylliset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
-			<Text>Ylellisen</Text>
+			<Text>Ylelliset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
-			<Text>Strateginen</Text>
+			<Text>Strategiset</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
-			<Text>Artefakti</Text>
+			<Text>Artefaktit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
 			<Text>Ihmeet</Text>
