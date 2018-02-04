@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Multiplayer Lobby Screen -->
+		<Replace Language="fi_FI" Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
+			<Text>Peli on käynnissä</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
+			<Text>Ladataan tallennusta</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
