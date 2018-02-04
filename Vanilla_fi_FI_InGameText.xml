@@ -2042,7 +2042,7 @@
 			<Text>Valmistui</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_TREE_HEADER">
-			<Text>TEKNOLOGIAKARTTA</Text>
+			<Text>TEKNIIKKAKARTTA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_TREE_TURNS">
 			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other? {1_Turn} VUOROA;}</Text>

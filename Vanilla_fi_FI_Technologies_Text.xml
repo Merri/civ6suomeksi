@@ -11,7 +11,7 @@
 			<Text>Mahdollistaa metsän poishakkuun ja [ICON_RESOURCE_Copper] kuparin poiskorjuun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_SAILING_DESCRIPTION">
-			<Text>Mahdollistaa rakentajien siirtyä uittoon.</Text>
+			<Text>Mahdollistaa rakentajien siirtymisen uittoon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
 			<Text>Mahdollistaa suon ojittamisen.</Text>
@@ -23,7 +23,7 @@
 			<Text>Mahdollistaa sademetsän poishakkuun. Paljastaa [ICON_RESOURCE_IRON] raudan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
-			<Text>Mahdollistaa kaikkien maayksiköiden siirtyä uittoon.</Text>
+			<Text>Mahdollistaa kaikkien maayksiköiden siirtymisen uittoon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
 			<Text>Mahdollistaa kauppurien siirtymisen uittoon sekä [ICON_RESOURCE_FISH] kalan poiskorjuun.</Text>
