@@ -37,11 +37,23 @@
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
 			<Text>{1_UnitName} ({2_Num} vahinkoa) tuhosi vihollisen {3_UnitName[3]}!</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
+			<Text>{1_UnitName} kuoli hyökätessään vihollisen {2_EnUName[3]} kimppuun!</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
+			<Text>{1_UnitName} kuoli hyökätessään vihollisen {2_EnUName[3]} ({3_Num} vahinkoa) torjuntaan!</Text>
+		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
 			<Text>{1_UnitName} kuoli hyökätessään vihollisen {2_EnUName[3]} ({3_Num} vahinkoa) kimppuun!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
 			<Text>{1_UnitName} kuoli hyökätessään viholliskaupunkiin {2_EnUName} ({3_Num} vahinkoa)!</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
+			<Text>{2_UnitName} ({3_Num} vahinkoa) kärsi hyökätessään vahinkoa {4_EnemyAdjective} {5_EnemyUnitName[3]} toimesta!</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
+			<Text>{2_UnitName} ({3_Num} vahinkoa) tuli hyökätessään torjutuksi {4_EnemyAdjective} {5_EnemyUnitName[3]} ({6_Num} vahinkoa) toimesta!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
 			<Text>{1_UnitName} ({2_Num} vahinkoa) hyökkäsi vihollisen {3_EnUName[3]} ({4_Num} vahinkoa) kimppuun!</Text>
@@ -53,13 +65,22 @@
 			<Text>{1_UnitName} vetäytyi vihollisen meleehyökkäyksen tieltä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
-			<Text>{1_UnitName} ({2_Num} vahinkoa) torjui vihollisen {3_EnUName[3]} ({4_Num} vahinko) hyökkäyksen!</Text>
+			<Text>{1_UnitName} ({2_Num} vahinkoa) puolustautui vihollisen {3_EnUName[3]} ({4_Num} vahinkoa) hyökätessä!</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
+			<Text>{1_UnitName} ({2_Num} vahinkoa) torjui vihollisen {3_EnUName[3]} ({4_Num} vahinkoa) hyökkäyksen!</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
+			<Text>{2_UnitName} tuhoutui torjutessaan {4_EnemyAdjective} {5_EnemyUnitName[3]} ({6_Num} vahinko) hyökkäyksen!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
-			<Text>{2_UnitName} tuhoutui torjutessaan {3_EnemyAdjective} {4_EnemyUnitName[3]} ({5_Num} vahinkoa) hyökkäystä!</Text>
+			<Text>{2_UnitName} tuhoutui vastustaessaan {3_EnemyAdjective} {4_EnemyUnitName[3]} ({5_Num} vahinkoa) hyökkäystä!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
 			<Text>{1_UnitName} tulitti vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
+			<Text>{1_UnitName} iski vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
 			<Text>{1_UnitName} pommitti vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
@@ -73,17 +94,17 @@
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
 			<Text>{1_UnitName} tuli vihollisen {2_EnUName[3]} tulittamaksi kärsien {3_Num} vahinkoa!</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_WMD_SURVIVED_INTERCEPT">
-			<Text>{1_UnitName} selvisi massatuhoaseen torjunnasta kärsien {2_Num} vahinkoa {3_EnemyAdjective} {4_EnemyUnitName[3]} toimesta aiheuttaen sille {5_Num} vahinkoa!</Text>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
+			<Text>{1_UnitName} massatuhoasehyökkäys onnistui!</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_FAILED">
-			<Text>{1_UnitName} ei onnistunut torjumaan massatuhoasetta kärsien {5_Num} vahinkoa {3_EnemyAdjective} {4_EnemyUnitName[3]} toimesta aiheuttaen sille {2_Num} vahinkoa!</Text>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
+			<Text>{1_UnitName} ei onnistunut massatuhoasehyökkäyksessä korkean vahingon vuoksi.</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_WMD_FAILED_DUE_TO_INTERCEPT">
-			<Text>{1_UnitName} ei onnistunut massatuhoaseen laukaisussa. Se torjuttiin kärsien {2_Num} vahinkoa {3_EnemyAdjective} {4_EnemyUnitName[3]} toimesta aiheuttaen {5_Num} vahinkoa!</Text>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
+			<Text>{1_EnemyAdjective} {2_EnemyUnitName[3]} massatuhoasehyökkäystä ei kyetty estämään!</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_WMD_INTERCEPT_SUCCEEDED">
-			<Text>{1_UnitName} torjui massatuhoaseen kärsien {5_Num} vahinkoa {3_EnemyAdjective} {4_EnemyUnitName[3]} toimesta aiheuttaen {2_Num} vahinkoa!</Text>
+		<Replace Language="fi_FI" Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
+			<Text>{1_EnemyAdjective} {2_EnemyUnitName[3]} massatuhoasehyökkäys estettiin aiheuttaen {3_Num} vahinkoa!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
 			<Text>{1_UnitName} tuhoutui naamioituneen {2_EnUName[3]} toimesta ({3_Num} vahinkoa)!</Text>
@@ -180,7 +201,7 @@
 			<Text>Kaupungin vapauttaminen palauttaa sen aiemman omistajan haltuun mahdollisesti palauttaen samalla kansakunnan mukaan peliin.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
-			<Text>Kaupungin vapauttaminen antaa [COLOR_GREEN]MERKITTÄVÄN VÄHENNYKSEN[ENDCOLOR] aiemmin kärsittyihin sodanlietsojan haittoihin.</Text>
+			<Text>Kaupungin vapauttaminen antaa [COLOR_MEDIUM_GREEN]MERKITTÄVÄN VÄHENNYKSEN[ENDCOLOR] aiemmin kärsittyihin sodanlietsojan haittoihin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
 			<Text>Pidä kaupunki osana valtakuntaamme. Se on vähemmän tuottoisa miehitetty kaupunki, kunnes sen sodanjälkeisestä asemasta on neuvoteltu rauhansopimuksessa.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>

@@ -281,9 +281,6 @@
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_QUIT_WARNING">
 			<Text>Onko pelin sulkeminen varmasti haluamasi asia?</Text>
 		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_END_GAME_WARNING">
-			<Text>Onko pelin päättäminen varmasti haluamasi asia? Kaikkien pelaajien peli päättyy.</Text>
-		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_MENU_SHUTDOWN_WARNING">
 			<Text>Haluatko varmasti sulkea Sid Meierin Civilization VI:n?</Text>
 		</Replace>
@@ -573,7 +570,7 @@
 			<Text>Ei vettä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_TOO_CLOSE_TO_CITY">
-			<Text>Liian lähellä kaupunkia</Text>
+			<Text>Liian lähellä kaupunkia tai maaston tukkima</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_STALEMATE">
 			<Text>Tasapeli</Text>
@@ -917,6 +914,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_THERMONUCLEAR_STRIKE_CAPABLE">
 			<Text>Kykenee vetypommitukseen</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_STAGNATE">
+			<Text>Väestönkasvu polkee paikallaan</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_TURNS_STARVATION">
 			<Text>{1_Turns : plural 1?{1_Turns} vuoro; other?{1_Turns} vuoroa;} nälkiintymiseen.</Text>
@@ -1396,6 +1396,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_BUILDING">
 			<Text>{1_Building} on rakennettava, jotta tämä rakennus voidaan rakentaa.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_THREE_BUILDINGS">
+			<Text>Joko {1_Building[2]}, {2_BuildingTheSecond[2]} tai {3_BuildingTheThird[2]} on rakennettava, jotta tämä rakennus voidaan rakentaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CONSTRUCT_IS_OCCUPIED">
 			<Text>Vihollinen pitää hallussaan tätä kaupunkialuetta.</Text>
@@ -1986,7 +1989,7 @@
 			<Text>[COLOR_Civ6Green]Ei vaikutusta[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WARMONGER_LEVEL_LIGHT">
-			<Text>Kevyt</Text>
+			<Text>[COLOR_White]Kevyt[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_WARMONGER_LEVEL_MODERATE">
 			<Text>[COLOR_Civ6Yellow]Kohtalainen[ENDCOLOR]</Text>
@@ -2170,6 +2173,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_DISTRICT">
 			<Text>Kaupunkialue</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_UNLOCK">
+			<Text>Mahdollistus</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVICS_KEY_WONDER">
 			<Text>Ihme</Text>
@@ -3022,7 +3028,7 @@
 			<Text>Päätimme olla tekemättä diplomaattisen lupauksen heille</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ONE_SIDED_TRADES">
-			<Text>Olemme käyneet heille edullista kauppaa</Text>
+			<Text>Olemme tehneet heille edullisia kauppasopimuksia</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_RANDOM">
 			<Text>Ensivaikutelma meistä</Text>
@@ -3031,7 +3037,7 @@
 			<Text>Asutimme alueen heidän läheltään</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRADE_RELATIONS">
-			<Text>Hyvät kauppasuhteet</Text>
+			<Text>Kauppareitit kansojemme välillä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_WARMONGER">
 			<Text>Sodanlietsontamme</Text>
@@ -3587,7 +3593,7 @@
 			<Text>Meillä tulee olla temppeli kaupungin pyhässä paikassa, jotta voimme ostaa gurun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_APOSTLE_TT">
-			<Text>Apostolit voivat käännyttää uskontoonsa [ICON_Citizen] asukkaita ja käydä uskontaistoja muiden uskontojen yksiköiden kanssa.</Text>
+			<Text>Apostolit voivat käännyttää uskontoonsa [ICON_Citizen] asukkaita ja käydä uskontaistoja muiden uskontojen yksiköiden kanssa. Voi myös kertaalleen käynnistää inkvisition mahdollistaen inkvisiittorien ostamisen tai evankelisoida uskomuksen uskonnolle; kumman tahansa toimen jälkeen apostoli poistuu pelistä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UI_RELIGION_MISSIONARY_TT">
 			<Text>Lähetyssaarnaajat voivat käännyttää uskontoonsa [ICON_Citizen] asukkaita. Ei voi käydä uskontaistoja muiden uskontojen yksiköiden kanssa (mutta voi puolustautua).</Text>
@@ -4063,7 +4069,7 @@
 			<Text>Värvää armeija</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_LEVY_MILITARY_DETAILS">
-			<Text>Tähän kaupunkivaltioon valta-asemassa oleva kansa voi maksaa {1_GoldCost} [ICON_Gold] kultaa ottaakseen väliaikaisesti kaikki kaupunkivaltion nykyiset sotayksiköt hallintaansa. Ne palaavat kaupunkivaltion hallintaan {2_TurnLimit} [ICON_Turn] vuorossa tai mikäli valta-asema menetetään.</Text>
+			<Text>Tähän kaupunkivaltioon valta-asemassa oleva kansa voi maksaa {1_GoldCost} [ICON_Gold] kultaa ottaakseen väliaikaisesti kaikki kaupunkivaltion nykyiset sotayksiköt hallintaansa, mutta yksiköiden ohjastaminen onnistuu aikaisintaan vasta seuraavalla vuorolla. Ne palaavat kaupunkivaltion hallintaan {2_TurnLimit} [ICON_Turn] vuorossa tai mikäli valta-asema menetetään.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_MILITARY_ALREADY_LEVIED">
 			<Text>Olemme jo värvänneet tämän kaupunkivaltion armeijan.</Text>
@@ -4464,7 +4470,7 @@
 			<Text>TARJOAA:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_THEMED_BONUS">
-			<Text>[ICON_ThemeBonus_Active][COLOR:ResCultureLabelCS]THEMED[ENDCOLOR]</Text>
+			<Text>[ICON_ThemeBonus_Active][COLOR:72,39,111,255]THEMED[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_THEME_BONUS_PROGRESS">
 			<Text>[ICON_ThemeBonus]Theming({1_current}/{2_total})</Text>
@@ -4524,7 +4530,7 @@
 			<Text>{1_type} täsmää tämän museon teeman kanssa. Lisää vielä yksi tämäntyyppinen teos, jotta saamme teemaedun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ART_THEME_DUPLICATE_ARTIST">
-			<Text>{1_type} täsmää teeman kanssa, mutta tässä museossa on jo teos tältä taiteilijalta. Lisää saman teeman teos, mutta uniikilta taiteilijalta, jotta saamme teemaedun.</Text>
+			<Text>Tässä museossa on jo teos tältä taiteilijalta. Lisää saman teeman teos, mutta uniikilta taiteilijalta, jotta saamme teemaedun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_WORKS_ART_MATCHED_THEME">
 			<Text>[COLOR:ResCultureLabelCS]{1_building} on nyt teemattu. [ICON_Culture] Kulttuuri ja [ICON_Tourism] turismi ovat kaksinkertaiset.[ENDCOLOR]</Text>
@@ -5083,6 +5089,9 @@
 			<Text>{1_Turns : plural 1? vuoro; other? vuoroa;}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_VIEW_REPORTS">
+			<Text>[ICON_Reports]</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_VIEW_REPORTS_TT">
 			<Text>Raportit</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_HUD_REPORTS_WORKED_LAND">
@@ -5452,7 +5461,7 @@
 			<Text>{1_TourismInfo}{2_ReligionName}: uskonnon pyhä kaupunki tarjoaa +{3_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Merkittävien henkilöiden tai muurien aiheuttama turismi: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Rakennusten tai merkittävien henkilöiden aiheuttama turismi: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Merkkiteosten aiheuttama turismi rakennuksessa {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] turismia[NEWLINE]</Text>

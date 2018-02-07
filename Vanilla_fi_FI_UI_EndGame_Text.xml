@@ -225,7 +225,7 @@
 			<Text>Värvättyjä merkittäviä henkilöitä yhteensä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
-			<Text>Sotia pelaajaa vastaan yhteensä</Text>
+			<Text>Sodanjulistuksia pelaajaa vastaan yhteensä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
 			<Text>Perustettuja kantauskoja yhteensä</Text>

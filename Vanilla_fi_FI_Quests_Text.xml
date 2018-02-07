@@ -9,10 +9,10 @@
 			<Text>Rakenna {1_DistrictName[2]}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
-			<Text>Aiheuta {1_TechName[2]} heureka.</Text>
+			<Text>Aiheuta {1_TechName[2]} [ICON_TechBoosted] heureka.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
-			<Text>Aiheuta inspiraatio kohden {1_CivicName[2]}.</Text>
+			<Text>Aiheuta [ICON_CivicBoosted] inspiraatio kohden {1_CivicName[2]}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
 			<Text>Värvää {1_GreatPersonClassName[2]}.</Text>

@@ -386,7 +386,7 @@
 			<Text>Mahdollistaa [ICON_Faith] uskon käyttämisen soturimunkkien koulutukseen, jotka ovat keskiaikaisia maayksiköitä ja joilla on erityiset ylennysmahdollisuudet. Ostaminen on mahdollista ainoastaan kaupungeissa, joiden pyhästä paikasta löytyy temppeli.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
-			<Text>+1% [ICON_Production] tuotantoa jokaisesta uskon noudattajasta.</Text>
+			<Text>+1% [ICON_Production] tuotantoa jokaisesta uskoa noudattavasta kaupungin asukkaasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] elintasoa kaupungeissa, joissa on kaksi erikoistunutta kaupunkialuetta.</Text>
@@ -453,6 +453,21 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
 			<Text>+{1_Value} ristiretken uskomus</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_INCOMING_RELIGION_PRESSURE">
+			<Text>Tulevaa painetta vuorossa</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_OUTGOING_RELIGION_PRESSURE">
+			<Text>Aiheutettua painetta vuorossa</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_PREDOMINANT_RELIGION">
+			<Text>{1_ReligionName} (valtausko)</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP_HEADER">
+			<Text>Noudattajia / Paine yhteensä:</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP">
+			<Text>{1_ReligionName}:[NEWLINE]{2_Followers} noudattajaa, {3_TotalPressure} painetta</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

@@ -36,6 +36,9 @@
 		<Replace Language="fi_FI" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
 			<Text>Muistuta myöhemmin uudelleen.</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
+			<Text>Grafiikka-asetuksia on muutettu. Asetukset-valikon kautta voit sekä tarkastaa että muuttaa asetuksen.</Text>
+		</Replace>
 		<!-- Main Menu-->
 		<Replace Language="fi_FI" Tag="LOC_MAIN_MENU_RESUME_GAME">
 			<Text>Jatka peliä</Text>
@@ -264,7 +267,7 @@
 			<Text>Lisäsisällön käyttöönotto ei onnistunut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_ABANDONED_MOD_MISSING">
-			<Text>Vaaditun lisäsisällön hankinta ei onnistunut.[NEWLINE]Sisältö:[NEWLINE]</Text>
+			<Text>Lisäsisältö on pakollinen, mutta sitä ei ole ostettu tai asennettu.[NEWLINE]Sisältö:[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
 			<Text>Steam Workshop esti pääsyn vaadittuun lisäsisältöön.[NEWLINE]Sisältö:[NEWLINE]</Text>
@@ -339,7 +342,7 @@
 			<Text>TAKAISIN</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_END_GAME">
-			<Text>POISTA PELI</Text>
+			<Text>POISTA</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
 			<Text>Päätetään peli...</Text>
@@ -424,9 +427,6 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
 			<Text>Peli on käynnissä</Text>
-		</Replace>
-		<Replace Language="fi_FI" Tag="LOC_STAGING_ROOM_JOIN_CODE">
-			<Text>Liittymiskoodi:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
 			<Text>INTERNET-PELIT</Text>
@@ -1062,10 +1062,10 @@
 			<Text>Ei barbaareja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
-			<Text>Liittolaiset jakavat näkyvyyden</Text>
+			<Text>Tiimi jakaa näkyvyyden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
-			<Text>Liitossa olevat pelaajat jakavat keskenään kartalla näkemänsä.</Text>
+			<Text>Tiimissä olevat pelaajat jakavat keskenään kartalla näkemänsä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GAME_TURNTIMER_TYPE">
 			<Text>Aikamoodi</Text>
@@ -1562,7 +1562,7 @@
 			<Text>Vuororajoitus:</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAX_TURNS_DESCRIPTION">
-			<Text>Pistevoittoon vaadittujen vuorojen määrä. 0 on rajoittamaton.</Text>
+			<Text>Korkein mahdollinen määrä pelattavia vuoroja pelissä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MAINMENU_RESUME_GAME_TT">
 			<Text>Jatka edellistä pelattua peliä.</Text>
@@ -1605,7 +1605,7 @@
 		</Replace>
 		<!-- Copyright screen -->
 		<Replace Language="fi_FI" Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991-2016 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
+			<Text>© 1991-2018 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2018 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2018 by RAD Game Tools Inc.  Fork Copyright © 2018 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2018 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2018 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Jatka</Text>
@@ -1763,6 +1763,9 @@
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
 			<Text>Yksi tai useampi tallennuksen vaatima lisäosa (DLC) on asentamatta.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+			<Text>Yksi tai useampi tallennuksen vaatima laajennos (expansion) on asentamatta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TEAM_NAME_SELECT_TITLE">
 			<Text>Tiimin nimi</Text>

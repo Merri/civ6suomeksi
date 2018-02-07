@@ -8,16 +8,16 @@
 			<Text>+25% taistelukomemusta kaikille tässä kaupungissa koulutetuille maayksiköille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
-			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille melee- ja tulitusyksiköille.[NEWLINE][NEWLINE]Ei voi rakentaa tallilliseen varuskuntaan.</Text>
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille melee- ja heittoaseyksiköille.[NEWLINE][NEWLINE]Ei voi rakentaa tallilliseen varuskuntaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
 			<Text>Kasvattaa ulomman puolustuksen voimakkuutta. Tarjoaa 2 [ICON_TOURISM] turismia ympäristönsuojelun normin kehittämisen jälkeen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
-			<Text>Japanin oma rakennus. +4 [ICON_Production] tuotantoa kaikille kuuden ruudun sisällä oleville kaupungeille. Sähkön kehittämisen jälkeen tarjoaa +4 [ICON_Culture] kulttuuria kaupungilleen.</Text>
+			<Text>Japanin oma rakennus. +4 [ICON_Production] tuotantoa jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan. Sähkön kehittämisen jälkeen tarjoaa +4 [ICON_Culture] kulttuuria kaupungilleen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
-			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan.</Text>
+			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan ja se on kertaluonteinen jokaista kaupunkia kohden: toinen tehdas ei kasvata vaikutusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
 			<Text>Amerikan oma rakennus. Modernin ajan myötä +100% [ICON_Tourism] turismin painetta tästä kaupungista muita kansoja vastaan.</Text>
@@ -32,10 +32,13 @@
 			<Text>Arabian oma rakennus. Ylimääräistä [ICON_Faith] uskoa kampuksen läheisyysetujen verran.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
-			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille maayksiköille. Joukko-osaston ja armeijan kouluttamiset ovat nopeampia.</Text>
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille maayksiköille. Mahdollistaa joukko-osastojen ja armeijojen kouluttamisen suoraan ja niiden koulutuskustannukset ovat 25% alhaisemmat.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
 			<Text>Täällä luodut lähetyssaarnaajat ja apostolit saavat +1 levityskertoja.</Text>
+		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
+			<Text>Saa +1 [ICON_FAITH] uskoa jokaisesta aikakaudesta rakentamisen tai edellisen korjauskerran väliltä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
 			<Text>Säilöö [ICON_GreatWork_Landscape] taiteen merkkiteoksia. Ei voi rakentaa arkeologisen museon sisältävälle teatteriaukiolle.</Text>
@@ -44,10 +47,10 @@
 			<Text>Säilöö [ICON_GreatWork_Artifact] artefakteja. Ei voi rakentaa taidemuseon sisältävälle teatteriaukiolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
-			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan.</Text>
+			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan ja se on kertaluonteinen jokaista kaupunkia kohden: toinen voimalaitos ei kasvata vaikutusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
-			<Text>Laivaston ja armadan kouluttamiset ovat nopeampia. +25% taistelukokemusta kaikille tässä kaupungissa koulutetuille meriyksiköille. +2 [ICON_GOLD] kultaa kaikista kaupungin rannikkoruuduista.</Text>
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille meriyksiköille. Mahdollistaa laivastojen ja armadojen kouluttamisen suoraan ja niiden koulutuskustannukset ovat 25% alhaisemmat. +2 [ICON_GOLD] kultaa kaikista kaupungin rannikkoruuduista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
 			<Text>Mahdollistaa lähetyssaarnaajien ostamisen. Lähetyssaarnaajia voi ostaa ainoastaan [ICON_Faith] uskolla.</Text>
@@ -59,7 +62,7 @@
 			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille meriyksiköille. Ylimääräistä [ICON_Production] tuotantoa sataman läheisyysetujen verran.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
-			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan.</Text>
+			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan ja se on kertaluonteinen jokaista kaupunkia kohden: toinen stadion ei kasvata vaikutusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
 			<Text>Kasvattaa ulkoisen puolustuksen vahvuuden korkeimmalle mahdolliselle tasolle. Tarjoaa 3 [ICON_TOURISM] turismia ympäristönsuojelun normin kehittämisen jälkeen.</Text>
@@ -77,7 +80,7 @@
 			<Text>Kukin [ICON_RESOURCE_RICE] riisi ja [ICON_RESOURCE_WHEAT] vehnä tarjoaa +1 [ICON_Food] ruokaa. Kaupungin tulee olla joen varrella.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ZOO_DESCRIPTION">
-			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan.</Text>
+			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan ja se on kertaluonteinen jokaista kaupunkia kohden: toinen eläintarha ei kasvata vaikutusta.</Text>
 		</Replace>
 		<!-- Wonders -->
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">

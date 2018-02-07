@@ -533,7 +533,7 @@
 			<Text>+100% teatteriaukioiden läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_AGOGE_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuotantoa kohden muinaisuuden ja antiikin melee- ja heittoaseyksiköitä.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden muinaisuuden ja antiikin melee-, ratsutorjunta- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
 			<Text>Liittolaisten kaupunkeihin kulkevat [ICON_TradeRoute] kauppareitit tarjoavat +2 [ICON_Food] ruokaa +2 [ICON_Production] tuotantoa molemmille osapuolille.</Text>
@@ -599,7 +599,7 @@
 			<Text>+50% [ICON_Production] tuotantoa kohden uudisasuttajia. Ruutujen ostaminen maksaa 20% vähemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuotanoa kohden keskiajan ja renessanssin melee- ja heittoaseyksiköitä.</Text>
+			<Text>+50% [ICON_Production] tuotanoa kohden keskiajan ja renessanssin melee-, ratsutorjunta- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
 			<Text>+50% [ICON_Production] tuotantoa kohden modernin ja atomiajan lentoyksiköitä.</Text>
@@ -620,7 +620,7 @@
 			<Text>+15% [ICON_Production] tuotantoa kohden keskiajan ja renessanssin ihmeitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuotantoa kohden teollisen ja modernin ajan melee- ja heittoaseyksiköitä.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden teollisen ja modernin ajan melee-, ratsutorjunta- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
 			<Text>+100% [ICON_Culture] kultatuottoa teatteriaukion rakennuksille.</Text>
@@ -701,7 +701,7 @@
 			<Text>Jokaisesta kaupunkialueesta tulee +1 [ICON_Culture] kulttuuria kaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuotantoa kohden atomi- ja informaatioajan melee- ja heittoaseyksiköitä.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden atomi- ja informaatioajan melee-, ratsutorjunta- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
 			<Text>+4 [ICON_GreatGeneral] merkittävien kenraalien pistettä vuorossa.</Text>
@@ -806,7 +806,7 @@
 			<Text>+2 [ICON_GreatGeneral] merkittävien kenraalien pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
-			<Text>Kaksinkertaiset kokemuspisteet tiedusteluyksiköille.</Text>
+			<Text>Kaksinkertaiset kokemuspisteet tiedusteluyksiköille tutkimusmatkailusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
 			<Text>+4 [ICON_GreatMusician] merkittävien muusikoiden pistettä vuorossa.</Text>
@@ -836,7 +836,7 @@
 			<Text>+30% [ICON_Production] tuotantoa varuskuntaan ja kaikille sen rakennuksille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
-			<Text>+4 [ICON_Strength] taisteluvoimakkuutta muita uskontoja noudattavia kansoja kohtaan.</Text>
+			<Text>+4 [ICON_Strength] taisteluvoimakkuutta muita uskontoja noudattavia kansoja kohtaan. Etu ei koske uskonnollisia yksiköitä.</Text>
 		</Replace>
 		<!-- Preview Text -->
 		<Replace Language="fi_FI" Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">

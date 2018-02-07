@@ -14,7 +14,7 @@
 			<Text>Mahdollistaa rakentajien siirtymisen uittoon.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
-			<Text>Mahdollistaa suon ojittamisen.</Text>
+			<Text>Mahdollistaa suon ojittamisen ja [ICON_RESOURCE_BANANAS] poiskorjuun.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_MASONRY_DESCRIPTION">
 			<Text>Mahdollistaa [ICON_RESOURCE_STONE] kiven poiskorjuun.</Text>
@@ -71,7 +71,7 @@
 			<Text>Päivittää maatilat käyttämään koneellista maataloutta. +1 [ICON_Food] ruuan läheisyysetua maatiloille jokaisesta viereisestä maatilasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_STEEL_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuotantoa sahoista. Mahdollistaa kaupunkipuolustukset, joka antaa kaikille kaupungeille 200 linnoitusvoimakkuutta sekä kyvyn tulittaa.</Text>
+			<Text>+1 [ICON_Production] tuotantoa sahoista. Mahdollistaa kaupunkipuolustukset, joka antaa kaikille kaupungeille 200 linnoitusvoimakkuutta sekä kyvyn tulittaa. Kaikki aiemmat muurit vanhenevat ja piirittämisen tukiyksiköt ovat hyödyttömiä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
 			<Text>+1 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>
@@ -221,7 +221,7 @@
 			<Text>Omista kolme musketööriä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>Rakenna hiilikaivos.</Text>
+			<Text>Rakenna hiilikaivos ja panssarilaiva.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
 			<Text>Omista kolme kaapparia.</Text>
@@ -398,7 +398,7 @@
 			<Text>Asevalmistajamme ovat kyllästyneet työstämään kokonaisia musketteja käsin yksi toisensa jälkeen. Kenties olisi aiheellista järkevöittää ja yhtenäistää toimintaa?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
-			<Text>Hiilikäyttöiset sulatusuunimme antavat meille pian kyvyn tehdä mitä hienointa terästä!</Text>
+			<Text>Hiilikäyttöiset sulatusuunimme ja panssarilaivojen koeajot antavat meille pian kyvyn tehdä mitä hienointa terästä!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
 			<Text>Sähkövirran löytäminen on kirvoittanut kekseliäitä kaappareitamme pohtimaan vähemmän meluisia voimanlähteitä.</Text>

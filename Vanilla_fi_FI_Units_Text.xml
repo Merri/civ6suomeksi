@@ -131,7 +131,7 @@
 			<Text>Kykenee toimella hoivaamaan itsensä sekä viereiset ystävälliset uskonnolliset yksiköt. Ei kykene aloittamaan uskontaistoja toista uskoa noudattavia yksikköjä vastaan (mutta voi puolustautua).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_WARRIOR_MONK_DESCRIPTION">
-			<Text>Nopealiikkeinen keskiaikainen maataisteluyksikköä, jolla on omanlaisensa ylennyskartta.</Text>
+			<Text>Nopealiikkeinen maataisteluyksikkö, jolla on omanlaisensa ylennyskartta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
 			<Text>Kykenee löytämään ja kaivamaan [ICON_GreatWork_Artifact] artefaktit talteen [ICON_RESOURCE_ANTIQUITY_SITE] muinaisjäännöksistä, jotta ne saa näytille kotikaupungin museoon.</Text>
@@ -358,7 +358,7 @@
 			<Text>Englannin teollisen ajan yksikkö Victorian ollessa hallitsija. +10 [ICON_Strength] taisteluvoimakkuutta taistellessaan eri mantereella kuin millä pääkaupunki on. Ei maksua uitosta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
-			<Text>Amerikan modernin ajan yksikkö Teddy Rooseveltin ollessa hallitsija. Pääkaupungin mantereella tehdyistä tapoista ansaitaan [ICON_Culture] kulttuuria. +10 [ICON_Strength] taisteluvoimakkuutta mäellä. Alhaisemmat ylläpitokulut.</Text>
+			<Text>Amerikan teollisen ajan yksikkö Teddy Rooseveltin ollessa hallitsija. Pääkaupungin mantereella tehdyistä tapoista ansaitaan [ICON_Culture] kulttuuria. +10 [ICON_Strength] taisteluvoimakkuutta mäellä. Alhaisemmat ylläpitokulut.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
 			<Text>Rooman antiikin meleeyksikkö, joka korvaa miekkamiehen. Kykenee rakentamaan roomalaisen linnoituksen.</Text>
@@ -382,7 +382,7 @@
 			<Text>Venäjän teollisen ajan yksikkö, joka korvaa ratsuväen. Voimakkaampi kuin ratsuväki ja saa +5 [ICON_Strength] taisteluvoimakkuutta taistellessaan kotialueilla tai niiden vierellä. Kykenee liikkumaan hyökättyään mikäli [ICON_Movement] liikkuvuutta on jäljellä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
-			<Text>Intian antiikin yksikkö, joka korvaa ratsumiehen. Viereiset vihollisyksiköt kärsivät -5 [ICON_STRENGTH] taisteluvoimakkuutta.</Text>
+			<Text>Intian antiikin raskas ratsuyksikkö. Viereiset vihollisyksiköt kärsivät -5 [ICON_STRENGTH] taisteluvoimakkuutta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
 			<Text>Kongon antiikin yksikkö, joka korvaa miekkamiehen. +10 [ICON_Strength] taisteluvoimakkuutta puolustautuessaan heittoasehyökkäyksiä vastaan. Voi liikkua ja nähdä metsien ja sademetsien lävitse.</Text>
@@ -400,10 +400,10 @@
 			<Text>Saksan modernin ajan meriyksikkö, joka korvaa sukellusveneen. Valmistus on halvempaa, +1 näkyvyys ja +10 [ICON_Strength] taisteluvoimakkuutta meriruuduissa. Kykenee paljastamaan muut kätkeytyneet yksiköt.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
-			<Text>Amerikan modernin ajan lentoyksikkö, joka korvaa hävittäjäkoneen. Saa +5 hyökkäysvoimakkuutta hävittäjäkoneita vastaan, +2 lentoetäisyyttä sekä 50% nopeammin kokemusta.</Text>
+			<Text>Amerikan atomiajan lentoyksikkö, joka korvaa hävittäjäkoneen. Saa +5 hyökkäysvoimakkuutta hävittäjäkoneita vastaan, +2 lentoetäisyyttä sekä 50% nopeammin kokemusta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
-			<Text>Brasilian modernin ajan yksikkö, joka korvaa taistelulaivan. Vahvempi kuin taistelulaiva. Tulee saataville nationalismin myötä.</Text>
+			<Text>Brasilian teollisen ajan yksikkö, joka korvaa taistelulaivan. Vahvempi kuin taistelulaiva. Tulee saataville nationalismin myötä.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

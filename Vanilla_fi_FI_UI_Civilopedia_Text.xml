@@ -280,5 +280,8 @@
 		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
 			<Text>Rakennukset (mikä tahansa)</Text>
 		</Replace>
+		<Replace Language="fi_FI" Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
+			<Text>Muutos [ICON_Movement] liikkuvuuteen: {1_Amount}</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

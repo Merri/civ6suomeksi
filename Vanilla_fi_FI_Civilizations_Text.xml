@@ -269,9 +269,6 @@
 			<Text>Sansibarin</Text>
 		</Replace>
 		<!-- Civ Traits-->
-		<Replace Language="fi_FI" Tag="LOC_TRAIT_PLACEHOLDER">
-			<Text>[PLACEHOLDER] Kykyä ei ole toteutettu</Text>
-		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
 			<Text>Amazon</Text>
 		</Replace>

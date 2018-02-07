@@ -274,7 +274,7 @@
 			<Text>-5 [ICON_Strength] taisteluvoimakkuutta viereisille vihollisyksiköille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
-			<Text>+10 [ICON_Strength] taisteluvoimakkuutta puolustautuessa tulitusyksiköitä vastaan, näkee piirteiden lävitse ja voi liikkua metsien ja sademetsien lävitse ilman haittaa [ICON_Movement] liikkumiseen.</Text>
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta puolustautuessa heittoaseyksiköitä vastaan, näkee piirteiden lävitse ja voi liikkua metsien ja sademetsien lävitse ilman haittaa [ICON_Movement] liikkumiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
 			<Text>+10 [ICON_Strength] taisteluvoimakkuutta kun uskonnollinen yksikkö on samassa ruudussa. Kaupunki kääntyy konkistadorin pelaajan valtauskontoon jos tämä yksikkö valtaa kaupungin tai on sen vieressä valtaushetkellä.</Text>
