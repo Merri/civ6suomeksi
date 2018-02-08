@@ -1376,7 +1376,7 @@
 			<Text>Alexander Pushkin</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDGAR_ALLEN_POE_NAME">
-			<Text>Edgar Allen Poe</Text>
+			<Text>Edgar Allan Poe</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PERSON_INDIVIDUAL_JANE_AUSTEN_NAME">
 			<Text>Jane Austen</Text>
