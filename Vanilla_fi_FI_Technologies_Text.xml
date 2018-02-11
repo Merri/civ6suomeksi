@@ -314,7 +314,7 @@
 			<Text>Kaupunkisuunnittelijamme ovat ymmärtäneet geometrian alkeet. Kenties täysi matemaattinen järjetelmä seuraa perästä?</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
-			<Text>Työ vesimyllyllä on opetttanut rakentajillemme paljon rakentamisen periaatteita.</Text>
+			<Text>Työ vesimyllyllä on opettanut rakentajillemme lukuisia rakentamisen periaatteita.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
 			<Text>Muurien rakentaminen kaupungin ympärille on antanut ymmärryksen insinööritaidosta, jota vaadittaisiin akveduktien ja katapulttien tekoon.</Text>

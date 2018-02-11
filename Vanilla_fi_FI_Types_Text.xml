@@ -1873,7 +1873,7 @@
 			<Text>Laivaston infrastruktuuri</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NAVIGATION_NAME">
-			<Text>Navigointi</Text>
+			<Text>Paikantaminen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_NEW_DEAL_NAME">
 			<Text>Uusi diili</Text>
@@ -2359,7 +2359,7 @@
 			<Text>Kartoitus|kartoituksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_CELESTIAL_NAVIGATION_NAME">
-			<Text>Astronominen navigointi|astronomisen navigoinnin</Text>
+			<Text>Tähtipaikannus|tähtipaikanuksen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_CHEMISTRY_NAME">
 			<Text>Kemia|kemian</Text>
@@ -2374,7 +2374,7 @@
 			<Text>Komposiitit|komposiittien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_COMPUTERS_NAME">
-			<Text>Tietokoneet|tietokoneet</Text>
+			<Text>Tietokoneet|tietokoneiden</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TECH_CONSTRUCTION_NAME">
 			<Text>Rakennustaito|rakennustaidon</Text>

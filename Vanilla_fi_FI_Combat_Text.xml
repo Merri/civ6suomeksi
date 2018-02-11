@@ -74,7 +74,7 @@
 			<Text>{2_UnitName} tuhoutui torjutessaan {4_EnemyAdjective} {5_EnemyUnitName[3]} ({6_Num} vahinko) hyökkäyksen!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
-			<Text>{2_UnitName} tuhoutui vastustaessaan {3_EnemyAdjective} {4_EnemyUnitName[3]} ({5_Num} vahinkoa) hyökkäystä!</Text>
+			<Text>{2_UnitName} tuhoutui vastaanottaessaan {3_EnemyAdjective} {4_EnemyUnitName[3]} ({5_Num} vahinkoa) hyökkäystä!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
 			<Text>{1_UnitName} tulitti vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
@@ -128,7 +128,7 @@
 			<Text>{1_Name} tulitti vihollisen {2_EnUName[3]} niskaan! ({3_Damage} vahinkoa)</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
-			<Text>{2_EnUName} aiheutti {3_Num} tulittaessaan {1_Name[3]} niskaan!</Text>
+			<Text>{2_EnUName} aiheutti {3_Num} vahinkoa tulittaessaan {1_Name[3]} niskaan!</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_COMBAT_ICBM_DESTROYED">
 			<Text>Mannertenvälinen ohjus torjuttu ja tuhottu.</Text>

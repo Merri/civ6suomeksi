@@ -1677,10 +1677,10 @@
 			<Text>Uskonnon levittäminen maailman joka kolkkaan, jotta valo voittaa pimeyden. Diplomaattiset suhteet vaativat hieromista, jotta koko maailman saa seuraamaan yhtä oikeaa uskontoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RULESET_NAME">
-			<Text>Normaalit säännöt</Text>
+			<Text>Peruspeli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_RULESET_DESCRIPTION">
-			<Text>Tavanomainen Civilization VI -peli.</Text>
+			<Text>Civilization VI alkuperäisillä pelimekaniikoillaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
 			<Text>Pelaa Kleopatrana</Text>

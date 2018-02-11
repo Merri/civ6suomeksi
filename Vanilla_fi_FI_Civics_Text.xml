@@ -517,10 +517,10 @@
 			<Text>{1_policyName} ei kelpaa tälle hallitusmuodolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
-			<Text>{2_policyName} sallii vielä {1_Num: number #} linjausta.</Text>
+			<Text>{2_policyName} sallivat vielä {1_Num: number #} linjausta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
-			<Text>{2_policyName} sallii vielä {1_Num: number #} linjausta.</Text>
+			<Text>{2_policyName} sallivat vielä {1_Num: number #} linjausta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
 			<Text>Saamme {1_InfluencePointRate} vaikutusvallan {1_InfluencePointRate : plural 1?pisteen; other?pistettä;} [ICON_Turn] vuorossa. {2_InfluencePointThreshold} pisteen kohdalla ansaitsemme {3_EnvoysPerThreshold : plural 1?yhden [ICON_Envoy] edustajan; other?{3_EnvoysPerThreshold} [ICON_Envoy] edustajaa;}.</Text>
@@ -587,13 +587,13 @@
 			<Text>Ensimmäinen kaupunkivaltioon lähettämämme [ICON_Envoy] edustaja tuplaantuu.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
-			<Text>+5 yksiköiden [ICON_Strength] taisteluvoimakkuudelle barbaareja vastaan.</Text>
+			<Text>+5 [ICON_Strength] taisteluvoimaa yksiköille barbaareja vastaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
 			<Text>+5 [ICON_Production] tuotantoa ja +10 [ICON_Gold] kultaa kansainvälisille [ICON_TradeRoute] kauppareiteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
-			<Text>+100% kaupallisten keskusten ja satamoiden läheisyyseduille.</Text>
+			<Text>+100% kaupallisten keskusten ja satamien läheisyyseduille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
 			<Text>+50% [ICON_Production] tuotantoa kohden uudisasuttajia. Ruutujen ostaminen maksaa 20% vähemmän.</Text>

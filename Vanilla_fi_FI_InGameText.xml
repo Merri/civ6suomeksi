@@ -1494,7 +1494,7 @@
 			<Text>Kaupungin lentokoneiden kapasiteetti on käytetty.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_UNIT_TRAIN_REQUIRES_POPULATION">
-			<Text>Kaupunki vaatii vähintään {1_PopulationNeeded} [ICON_Citizen] väkiluvun.</Text>
+			<Text>Kaupunki vaatii vähintään {1_PopulationNeeded} [ICON_Citizen] asukasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_BUILDING_INSUFFICIENT_FUNDS">
 			<Text>[ICON_Gold] Kultaa ei ole tarpeeksi, jotta voisimme ostaa tämän.</Text>
@@ -4241,7 +4241,7 @@
 			<Text>Näytä kaikki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CITY_STATES_YOU">
-			<Text>Me</Text>
+			<Text>on meillä</Text>
 		</Replace>
 		<!-- ==================== Great People Popup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_GREAT_PEOPLE_ABILITIES">
