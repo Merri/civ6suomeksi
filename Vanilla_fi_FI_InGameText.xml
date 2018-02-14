@@ -3370,13 +3370,13 @@
 		</Replace>
 		<!-- ==================== ChooseArtifactPopup ==================== -->
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_HEADER">
-			<Text>VALITE ARTEFAKTI</Text>
+			<Text>VALITSE ARTEFAKTI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_NO_CHOICE_HEADER">
-			<Text>LÖYTYI ARTEFAKTI</Text>
+			<Text>ARTEFAKTI LÖYTYI</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_NO_TYPE">
-			<Text>Arkeologimme {1_UnitName} on löytänyt viitteitä muinaisesta konfliktista kansakuntien {2_ActingCiv} ja {3_TargetCiv} välillä.</Text>
+			<Text>Arkeologimme {1_UnitName} on löytänyt viitteitä muinaisesta konfliktista {2_ActingCiv[2]} ja {3_TargetCiv[2]} välillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_GOODY_HUT">
 			<Text>Arkeologimme {1_UnitName} on löytänyt viitteitä muinaisen heimokylän rippeistä, jotka {2_ActingCiv} kohtasi.</Text>
@@ -3385,19 +3385,19 @@
 			<Text>Arkeologimme {1_UnitName} on löytänyt viitteitä barbaarien sotaleiristä, jonka {2_ActingCiv} tuhosi.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_BATTLE_FOUGHT">
-			<Text>Arkeologimme {1_UnitName} on löytänyt muinaisen taistelukentän, joka on täynnä kansakuntien {2_ActingCiv} ja {3_TargetCiv} luomia välineitä.</Text>
+			<Text>Arkeologimme {1_UnitName} on löytänyt muinaisen taistelukentän, joka on täynnä {2_ActingCiv[2]} ja {3_TargetCiv[2]} luomia välineitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_SHIP_SUNK">
-			<Text>Arkeologimme {1_UnitName} on löytänyt hylyn muinaisesta taistelusta kansakuntien {2_ActingCiv} ja {3_TargetCiv} välillä.</Text>
+			<Text>Arkeologimme {1_UnitName} on löytänyt hylyn muinaisesta taistelusta {2_ActingCiv[2]} ja {3_TargetCiv[2]} välillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_ERA_STRING">
-			<Text>Löytö on ollut kätkettynä maassa {1_EraName} alkaen.</Text>
+			<Text>Löytö on ollut kätkettynä maassa {1_EraName[3]} alkaen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_MAKE_CHOICE">
 			<Text>VALITSE kumman kansan artefaktin haluamme paljastaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_NO_CHOICE">
-			<Text>Tutkimisen jälkeen on päätelty, että tämä [ICON_GreatWork_Artifact] artefakti on alkujaan kuulunut kansakunnalle {1_ActingCiv}.</Text>
+			<Text>Tutkimisen jälkeen on päätelty, että tämä [ICON_GreatWork_Artifact] artefakti on alkujaan ollut {1_ActingCiv[2]}.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_OK_BUTTON">
 			<Text>OK</Text>

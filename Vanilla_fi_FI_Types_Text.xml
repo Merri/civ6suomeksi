@@ -468,137 +468,137 @@
 		</Replace>
 		<!-- Civilizations-->
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMERICA_NAME">
-			<Text>Amerikka</Text>
+			<Text>Amerikka|amerikkalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ARABIA_NAME">
-			<Text>Arabia</Text>
+			<Text>Arabia|arabien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BARBARIAN_NAME">
-			<Text>Barbaarit</Text>
+			<Text>Barbaarit|barbaarien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRAZIL_NAME">
-			<Text>Brasilia</Text>
+			<Text>Brasilia|brasilialaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_CHINA_NAME">
-			<Text>Kiina</Text>
+			<Text>Kiina|kiinalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_EGYPT_NAME">
-			<Text>Egypti</Text>
+			<Text>Egypti|egyptiläisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ENGLAND_NAME">
-			<Text>Englanti</Text>
+			<Text>Englanti|englantilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_FRANCE_NAME">
-			<Text>Ranska</Text>
+			<Text>Ranska|ranskalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GERMANY_NAME">
-			<Text>Saksa</Text>
+			<Text>Saksa|saksalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GREECE_NAME">
-			<Text>Kreikka</Text>
+			<Text>Kreikka|kreikkalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_INDIA_NAME">
-			<Text>Intia</Text>
+			<Text>Intia|intialaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JAPAN_NAME">
-			<Text>Japani</Text>
+			<Text>Japani|japanilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KONGO_NAME">
-			<Text>Kongo</Text>
+			<Text>Kongo|kongojen</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_NORWAY_NAME">
-			<Text>Norja</Text>
+			<Text>Norja|norjalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ROME_NAME">
-			<Text>Rooma</Text>
+			<Text>Rooma|roomalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_RUSSIA_NAME">
-			<Text>Venäjä</Text>
+			<Text>Venäjä|venäläisien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SCYTHIA_NAME">
-			<Text>Skyytit</Text>
+			<Text>Skyytit|skyyttien</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SPAIN_NAME">
-			<Text>Espanja</Text>
+			<Text>Espanja|espanjalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SUMERIA_NAME">
-			<Text>Sumer</Text>
+			<Text>Sumer|sumerien</Text>
 		</Replace>
 		<!--City-States-->
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_AMSTERDAM_NAME">
-			<Text>Amsterdam</Text>
+			<Text>Amsterdam|amsterdamilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_NAME">
-			<Text>Bandar Seri Begawan</Text>
+			<Text>Bandar Seri Begawan|bandarilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BRUSSELS_NAME">
-			<Text>Brysseli</Text>
+			<Text>Brysseli|brysseliläisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_BUENOS_AIRES_NAME">
-			<Text>Buenos Aires</Text>
+			<Text>Buenos Aires|buenosairesilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_CARTHAGE_NAME">
-			<Text>Karthago</Text>
+			<Text>Karthago|karthagolaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_GENEVA_NAME">
-			<Text>Geneve</Text>
+			<Text>Geneve|geneveläisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_HATTUSA_NAME">
-			<Text>Hattusa</Text>
+			<Text>Hattusa|hattusalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_HONG_KONG_NAME">
-			<Text>Hong Kong</Text>
+			<Text>Hong Kong|hongkongilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JAKARTA_NAME">
-			<Text>Jakarta</Text>
+			<Text>Jakarta|jakartalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_JERUSALEM_NAME">
-			<Text>Jerusalem</Text>
+			<Text>Jerusalem|jerusalemilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KABUL_NAME">
-			<Text>Kabul</Text>
+			<Text>Kabul|kabulilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KANDY_NAME">
-			<Text>Kandy</Text>
+			<Text>Kandy|kandylaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_KUMASI_NAME">
-			<Text>Kumasi</Text>
+			<Text>Kumasi|kumasilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_LA_VENTA_NAME">
-			<Text>La Venta</Text>
+			<Text>La Venta|laventolaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_LISBON_NAME">
-			<Text>Lissabon</Text>
+			<Text>Lissabon|lissabonilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_MOHENJO_DARO_NAME">
-			<Text>Mohenjo-Daro</Text>
+			<Text>Mohenjo-Daro|mohenjodarolaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_PRESLAV_NAME">
-			<Text>Preslav</Text>
+			<Text>Preslav|preslavilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_NAN_MADOL_NAME">
-			<Text>Nan Madol</Text>
+			<Text>Nan Madol|nanmadolilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_SEOUL_NAME">
-			<Text>Soul</Text>
+			<Text>Soul|soulilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_STOCKHOLM_NAME">
-			<Text>Tukholma</Text>
+			<Text>Tukholma|tukholmalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_TORONTO_NAME">
-			<Text>Toronto</Text>
+			<Text>Toronto|torontolaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_VALLETTA_NAME">
-			<Text>Valletta</Text>
+			<Text>Valletta|vallettalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_VILNIUS_NAME">
-			<Text>Vilna</Text>
+			<Text>Vilna|vilnalaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_YEREVAN_NAME">
-			<Text>Jerevan</Text>
+			<Text>Jerevan|jerevanilaisten</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CIVILIZATION_ZANZIBAR_NAME">
-			<Text>Sansibar</Text>
+			<Text>Sansibar|sansibarilaisten</Text>
 		</Replace>
 		<!--Continents-->
 		<Replace Language="fi_FI" Tag="LOC_CONTINENT_AFRICA_DESCRIPTION">
@@ -845,28 +845,28 @@
 		</Replace>
 		<!-- Eras-->
 		<Replace Language="fi_FI" Tag="LOC_ERA_ANCIENT_NAME">
-			<Text>Muinainen aika|muinaisuuden</Text>
+			<Text>Muinainen aika|muinaisuuden|muinaisuudesta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_CLASSICAL_NAME">
-			<Text>Antiikin aika|antiikin</Text>
+			<Text>Antiikin aika|antiikin|antiikista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_MEDIEVAL_NAME">
-			<Text>Keskiaika|keskiajan</Text>
+			<Text>Keskiaika|keskiajan|keskiajasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_RENAISSANCE_NAME">
-			<Text>Renessanssin aika|renessanssin</Text>
+			<Text>Renessanssin aika|renessanssin|renessanssista</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_INDUSTRIAL_NAME">
-			<Text>Teollinen aika|teollisen ajan</Text>
+			<Text>Teollinen aika|teollisen ajan|teollisesta ajasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_MODERN_NAME">
-			<Text>Moderni aika|modernin ajan</Text>
+			<Text>Moderni aika|modernin ajan|modernista ajasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_ATOMIC_NAME">
-			<Text>Atomiaika|atomiajan</Text>
+			<Text>Atomiaika|atomiajan|atomiajasta</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_ERA_INFORMATION_NAME">
-			<Text>Informaatioaika|informaatioajan</Text>
+			<Text>Informaatioaika|informaatioajan|informaatioajasta</Text>
 		</Replace>
 		<!--Game Speeds-->
 		<Replace Language="fi_FI" Tag="LOC_GAME_SPEED">

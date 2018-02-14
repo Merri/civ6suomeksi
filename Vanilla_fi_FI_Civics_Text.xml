@@ -797,7 +797,7 @@
 			<Text>+15% [ICON_Production] tuotantoa teollisen ja myöhempien aikojen ihmeille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
-			<Text>+100% teatteriaukien läheisyyseduille ja stadionit tuottavat +1 [ICON_Amenities] elintasoa.</Text>
+			<Text>+100% teatteriaukioiden läheisyyseduille ja stadionit tuottavat +1 [ICON_Amenities] elintasoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
 			<Text>+50 [ICON_Production] tuotantoa kohden informaatioajan lentoyksiköille sekä kaikenlaislle lentotukialuksille.</Text>
