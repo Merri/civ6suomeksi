@@ -333,357 +333,357 @@
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Science] Science in your [ICON_Capital] Capital.</Text>
+			<Text>+2 [ICON_Science] tiedettä [ICON_Capital] pääkaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Science] Science in every Campus district.</Text>
+			<Text>+2 [ICON_Science] tiedettä jokaiselle kampukselle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Science] Science in every Campus district.</Text>
+			<Text>Toiset +2 [ICON_Science] tiedettä jokaiselle kampukselle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
-			<Text>Religious City-State</Text>
+			<Text>Uskonnollinen kaupunkivaltio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Faith] Faith in the [ICON_Capital] Capital.</Text>
+			<Text>+2 [ICON_Faith] uskoa [ICON_Capital] pääkaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Faith] Faith in every Holy Site district.</Text>
+			<Text>+2 [ICON_Faith] uskoa jokaiselle pyhälle paikalle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Faith] Faith in every Holy Site district.</Text>
+			<Text>Toiset +2 [ICON_Faith] uskoa jokaiselle pyhälle paikalle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
-			<Text>Trade City-State</Text>
+			<Text>Kaupallinen kaupunkivaltio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+4 [ICON_Gold] Gold in the [ICON_Capital] Capital.</Text>
+			<Text>+4 [ICON_Gold] kultaa [ICON_Capital] pääkaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+4 [ICON_Gold] Gold in every Commercial Hub district.</Text>
+			<Text>+4 [ICON_Gold] kultaa jokaiselle kaupalliselle keskukselle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +4 [ICON_Gold] Gold in every Commercial Hub district.</Text>
+			<Text>Toiset +4 [ICON_Gold] kultaa jokaiselle kaupalliselle keskukselle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
-			<Text>Cultural City-State</Text>
+			<Text>Kulturelli kaupunkivaltio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Culture] Culture in the [ICON_Capital] Capital.</Text>
+			<Text>+2 [ICON_Culture] kulttuuria [ICON_Capital] pääkaupungille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Culture] Culture in every Theater Square district.</Text>
+			<Text>+2 [ICON_Culture] kulttuuria jokaiselle teatteriaukiolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Culture] Culture in every Theater Square district.</Text>
+			<Text>Toiset +2 [ICON_Culture] kulttuuria jokaiselle teatteriaukiolle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
-			<Text>Militaristic City-State</Text>
+			<Text>Sotilaallinen kaupunkivaltio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in the [ICON_Capital] Capital when producing units.</Text>
+			<Text>+2 [ICON_Production] tuotantoa [ICON_Capital] pääkaupungille yksiköitä kouluttaessa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in every Encampment district when producing units.</Text>
+			<Text>+2 [ICON_Production] tuotantoa jokaiselle varuskunnalle yksiköitä koulutettaessa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Production] Production in every Encampment district when producing units.</Text>
+			<Text>Toiset +2 [ICON_Production] tuotantoa jokaiselle varuskunnalle yksiköitä koulutettaessa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
-			<Text>Industrial City-State</Text>
+			<Text>Teollinen kaupunkivaltio</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in the [ICON_Capital] Capital when producing wonders, buildings, and districts.</Text>
+			<Text>+2 [ICON_Production] tuotantoa [ICON_Capital] pääkaupungille rakennettaessa ihmettä, rakennusta tai kaupunkialuetta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in every Industrial Zone district when producing wonders, buildings, and districts.</Text>
+			<Text>+2 [ICON_Production] tuotantoa jokaiselle teollisuusalueelle rakennettaessa ihmettä, rakennusta tai kaupunkialuetta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>Additional +2 [ICON_Production] Production in every Industrial Zone district when producing wonders, buildings and districts.</Text>
+			<Text>Toiset +2 [ICON_Production] tuotantoa jokaiselle teollisuusalueelle rakennettaessa ihmettä, rakennusta tai kaupunkialuetta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
-			<Text>Amsterdam Suzerain Bonus</Text>
+			<Text>Amsterdamin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
-			<Text>Your [ICON_TradeRoute] Trade Routes to foreign cities earn +1 [ICON_Gold] Gold for each Luxury resource at the destination.</Text>
+			<Text>Ulkomaille menevät [ICON_TradeRoute] kauppareittimme antavat +1 [ICON_Gold] kultaa jokaisesta kohteen ylellisestä luonnonvarasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
-			<Text>Bandar Brunei Suzerain Bonus</Text>
+			<Text>Bandar Beri Segawanin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
-			<Text>Brussels Suzerain Bonus</Text>
+			<Text>Brysselin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
-			<Text>Your cities get +15% [ICON_Production] Production towards wonders.</Text>
+			<Text>Kaupunkimme saavat +15% [ICON_Production] tuotantoa ihmeiden valmistamiseen.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
-			<Text>Buenos Aires Suzerain Bonus</Text>
+			<Text>Buenos Airesin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
-			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
+			<Text>Hyödylliset luonnonvaramme käyttäytyvät kuten ylelliset luonnonvarat antaen 1 [ICON_Amenities] elintasoa jokaisesta erilaisesta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
-			<Text>Carthage Suzerain Bonus</Text>
+			<Text>Karthagon valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
-			<Text>Your Encampment districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+			<Text>Kukin varuskuntamme tarjoaaa +1 [ICON_TradeRoute] kauppareittiä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
-			<Text>Geneva Suzerain Bonus</Text>
+			<Text>Geneven valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
-			<Text>Your cities earn +15% [ICON_Science] Science whenever you are not at war with any civilization.</Text>
+			<Text>Kaupunkimme saavat +15% [ICON_Science] tiedettä aina kun emme ole sodassa ainoankaan kansakunnan kanssa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
-			<Text>Hattusa Suzerain Bonus</Text>
+			<Text>Hattusan valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
-			<Text>Provides you with 1 of each Strategic resource you have revealed but do not own.</Text>
+			<Text>Tarjoaa yhden jokaista strategista luonnonvaraa jonka olemme paljastaneet, mutta emme omista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
-			<Text>Hong Kong Suzerain Bonus</Text>
+			<Text>Hong Kongin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
-			<Text>Your cities get +20% [ICON_Production] Production towards city projects.</Text>
+			<Text>Kaupunkimme saavat +20% [ICON_Production] tuotantoa kaupunkiprojekteille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
-			<Text>Jakarta Suzerain Bonus</Text>
+			<Text>Jakartan valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
-			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_Gold] Gold to your [ICON_TradeRoute] Trade Routes passing through or going to the city.</Text>
+			<Text>Ulkomaiset [ICON_TradingPost] kauppapaikkamme tarjoavat +1 [ICON_Gold] kultaa [ICON_TradeRoute] kauppareitillemme mikäli ne kulkevat kaupunkiin tai sen kautta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
-			<Text>Jerusalem Suzerain Bonus</Text>
+			<Text>Jerusalemin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
-			<Text>Automatically converts to the Religion you founded, and exerts pressure for that Religion as if it were a Holy City.</Text>
+			<Text>Kääntyy perustamaamme uskontoon ja antaa uskonnollista painetta kuin olisi uskonnon pyhä kaupunki.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_KABUL_NAME">
-			<Text>Kabul Suzerain Bonus</Text>
+			<Text>Kabulin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
-			<Text>Your units receive double experience from battles they initiate.</Text>
+			<Text>Yksikkömme saavat kokemuksen tuplana aloittamistaan taisteluista.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_KANDY_NAME">
-			<Text>Kandy Suzerain Bonus</Text>
+			<Text>Kandyn valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
-			<Text>Receive a [ICON_GreatWork_Relic] Relic every time you discover a new natural wonder, and earn +50% [ICON_Faith] Faith from all [ICON_GreatWork_Relic] Relics.</Text>
+			<Text>Saamme [ICON_GreatWork_Relic] muinaismuiston joka kerta kun löydämme uuden luonnonihmeen ja saamme +50% [ICON_Faith] uskoa jokaisesta [ICON_GreatWork_Relic] muinaismuistosta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
-			<Text>Kumasi Suzerain Bonus</Text>
+			<Text>Kumasin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
-			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_Culture] Culture and +1 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+			<Text>Mihin tahansa kaupunkivaltioon kulkeva [ICON_TradeRoute] kauppareittimme tarjoaa +2 [ICON_Culture] kulttuuria ja +1 [ICON_Gold] kultaa jokaisesta lähtökaupungin kaupunkialueesta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
-			<Text>La Venta Suzerain Bonus</Text>
+			<Text>La Ventan valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
-			<Text>Your Builders can now make Colossal Head improvements.</Text>
+			<Text>Rakentajamme voivat rakentaa valtavia kivipäitä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_LISBON_NAME">
-			<Text>Lisbon Suzerain Bonus</Text>
+			<Text>Lissabonin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
-			<Text>Your Trader units are immune to being plundered on water tiles.</Text>
+			<Text>Vesiruuduissa olevia kauppureitamme ei voi ryövätä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
-			<Text>Mohenjo-Daro Suzerain Bonus</Text>
+			<Text>Mohenjo-Daron valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
-			<Text>Your cities have full [ICON_Housing] Housing from water, as if they were all next to a River.</Text>
+			<Text>Kaikilla kaupungeillamme on täydet [ICON_Housing] asumukset vedensaannista, aivan kuin ne olisi perustettu joen varrelle.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
-			<Text>Nan Madol Suzerain Bonus</Text>
+			<Text>Nan Madolin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
-			<Text>Your districts on or next to Coast tiles provide +2 [ICON_Culture] Culture.</Text>
+			<Text>Rannikolla tai niiden vieressä olevat kaupunkialueet tarjoavat +2 [ICON_Culture] kulttuuria.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
-			<Text>Preslav Suzerain Bonus</Text>
+			<Text>Preslavin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
-			<Text>Your light and heavy cavalry units have +5 [ICON_Strength] Strength when fighting on hill tiles.</Text>
+			<Text>Kevyet ja raskaat ratsuluokan yksikkömme saavat +5 [ICON_Strength] voimaa taistellessaan mäkiruuduissa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
-			<Text>Seoul Suzerain Bonus</Text>
+			<Text>Soulin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
-			<Text>When you enter a new era, earn 1 random [ICON_TechBoosted] Eureka from that era.</Text>
+			<Text>Päätyessämme uudelle aikakaudelle saamme yhden satunnaisen [ICON_TechBoosted] heurekan kyseiseltä aikakaudelta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
-			<Text>Stockholm Suzerain Bonus</Text>
+			<Text>Tukholman valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
-			<Text>Your districts provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts).</Text>
+			<Text>Kaupunkialueemme tarjoavat +1 [ICON_GreatPerson] merkittävien henkilöiden pistettä tyyppinsä mukaisesti (teatteriaukiot antavat [ICON_GreatWriter] kirjailijan, [ICON_GreatArtist] taiteilijan ja [ICON_GreatMusician] muusikon).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
-			<Text>Toronto Suzerain Bonus</Text>
+			<Text>Toronton valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
-			<Text>Regional effects from your Industrial Zone and Entertainment Complex districts reach 3 tiles farther.</Text>
+			<Text>Paikallisvaikutukset teollisuusalueilta ja viihdekompekseilta yltävät kolme ruutua kauemmas.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
-			<Text>Valletta Suzerain Bonus</Text>
+			<Text>Vallettan valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
-			<Text>City Center buildings and Encampment district buildings can be bought with [ICON_Faith] Faith. Cost of purchasing Ancient, Medieval, and Renaissance Walls is reduced, but they can only be bought with [ICON_Faith] Faith.</Text>
+			<Text>Kaupungin keskustan ja varuskunnan rakennuksia voi ostaa [ICON_Faith] uskolla. Muinaisten, keskiaikaisten ja renenssanssin muurien ostohinta on alhaisempi, mutta ne voi ostaa ainoastaan [ICON_Faith] uskolla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
-			<Text>Vilnius Suzerain Bonus</Text>
+			<Text>Vilnan valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
-			<Text>When you enter a new era, earn 1 random [ICON_CivicBoosted] Inspiration from that era.</Text>
+			<Text>Päätyessämme uudelle aikakaudelle saamme yhden satunnaisen [ICON_CivicBoosted] inspiraation kyseiseltä aikakaudelta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
-			<Text>Yerevan Suzerain Bonus</Text>
+			<Text>Jerevanin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
-			<Text>Your Apostle units can choose from any possible promotion instead of receiving a random promotion.</Text>
+			<Text>Apostolimme voivat valita mistä tahansa ylennyksestä satunnaisesti esivalittujen sijasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
-			<Text>Zanzibar Suzerain Bonus</Text>
+			<Text>Sansibarin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
-			<Text>Receive the [ICON_RESOURCE_CINNAMON] Cinnamon and [ICON_RESOURCE_CLOVES] Cloves Luxury resources. These cannot be earned any other way in the game, and provide 6 [ICON_Amenities] Amenities each.</Text>
+			<Text>Saamme [ICON_RESOURCE_CINNAMON] kanelin ja [ICON_RESOURCE_CLOVES] neilikkaöljyn ylelliset luonnonvarat. Näitä ei saa mitenkään muutoin pelissä ja kumpikin niistä antaa 6 [ICON_Amenities] elintasoa.</Text>
 		</Replace>
 		<!--Leader Trait Names-->
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
-			<Text>Thermopylae</Text>
+			<Text>Thermopylai</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
-			<Text>Adventures of Enkidu</Text>
+			<Text>Enkidun seikkailut</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
-			<Text>Mediterranean's Bride</Text>
+			<Text>Välimeren morsian</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
-			<Text>Divine Wind</Text>
+			<Text>Jumalainen tuuli</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
 			<Text>El Escorial</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
-			<Text>The Grand Embassy</Text>
+			<Text>Suuri diplomaattiseurue</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
-			<Text>Holy Roman Emperor</Text>
+			<Text>Pyhä saksalais-roomalainen keisari</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
-			<Text>Pax Britannica</Text>
+			<Text>Brittiläinen rauha</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
-			<Text>Righteousness of the Faith</Text>
+			<Text>Uskossaan vanhurskas</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
-			<Text>Religious Convert</Text>
+			<Text>Uskonnollinen kääntyjä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
-			<Text>Roosevelt Corollary</Text>
+			<Text>Rooseveltin intuitiivinen päätelmä</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
-			<Text>Satyagraha</Text>
+			<Text>Satyāgraha</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
-			<Text>Thunderbolt of the North</Text>
+			<Text>Pohjoisen salama</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
-			<Text>The First Emperor</Text>
+			<Text>Ensimmäinen keisari</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
-			<Text>Catherine's Flying Squadron</Text>
+			<Text>Katariinan naisvakoojat</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
-			<Text>Trajan's Column</Text>
+			<Text>Trajanuksen pylväs</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
-			<Text>Killer of Cyrus</Text>
+			<Text>Kyyroksen tappaja</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
-			<Text>Magnanimous</Text>
+			<Text>Jalomielisyys</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
-			<Text>Surrounded by Glory</Text>
+			<Text>Kunniaan kääritty</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
-			<Text>Victoria unique unit: Redcoat</Text>
+			<Text>Viktorian oma yksikkö: punatakki</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
-			<Text>Harald Hardrada unique unit: Viking Longship</Text>
+			<Text>Harald Ankaran oma yksikkö: viikinkien pitkävene</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
-			<Text>Theodore Roosevelt unique unit: Rough Rider</Text>
+			<Text>Theodore Rooseveltin oma yksikkö: rosoratsu</Text>
 		</Replace>
 		<!--Leader Trait Descriptions-->
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
-			<Text>Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+			<Text>Voitot taisteluista antavat [ICON_Culture] kulttuuria puolet päihitetyn yksikön [ICON_Strength] taisteluvoimasta.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
-			<Text>May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.</Text>
+			<Text>Voi julistaa sodan liittolaista vastaan sotivaa vastaan ilman sodanlietsojan haittoja. Yhteistä vihollista vastaan sotiessa liitossa olevat yksiköt jakavat ryöväilyn tuotot ja taistelukokemuksen ollessaan viiden ruudun sisällä toisistaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
-			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Egypt. Other civilizations' [ICON_TradeRoute] Trade Routes to Egypt provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Egypt.</Text>
+			<Text>Egyptin [ICON_TradeRoute] kauppareitit muihin kansakuntiin saavat +4 [ICON_Gold] kultaa. Muiden kansakuntien [ICON_TradeRoute] kauppareitit Egyptiin tarjoavat +2 [ICON_Food] ruokaa heille ja +2 [ICON_Gold] kultaa Egyptille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
-			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. Builds Encampment, Holy Site and Theater Square districts in half the time.</Text>
+			<Text>Maayksiköt saavat +5 [ICON_Strength] taisteluvoimaa rannikon viereisissä maaruuduissa; lavat saavat +5 [ICON_Strength] taisteluvoimaa matalan veden ruuduissa. Varuskunta, pyhä paikka ja teatteriaukio rakentuvat kaksinkertaisella vauhdilla.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
-			<Text>Inquisitors can Remove Heresy one extra time. Combat units have a bonus of +4 [ICON_Strength] Combat Strength against players following other Religions.</Text>
+			<Text>Inkvisiittorit voivat poistaa kerettiläisyyden kerran useammin. Taisteluyksiköillä on +4 [ICON_Strength] taisteluvoiman etu muita uskontoja noudattavia pelaajia vastaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
-			<Text>Receives [ICON_Science] Science or [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to civilizations that are more advanced than Russia (+1 per 3 technologies or civics ahead).</Text>
+			<Text>Venäjä saa [ICON_Science] tiedettä tai [ICON_Culture] kulttuuria [ICON_TradeRoute] kauppareiteistään kehittyneempiin kansakuntiin (+1 joka kolmannesta tekniikasta tai normista edellä).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
-			<Text>Additional Military policy slot. +7 [ICON_Strength] Combat Strength when attacking city-states.</Text>
+			<Text>Ylimääräinen sotilaallisen linjauksen paikka. +7 [ICON_Strength] taisteluvoimaa hyökätessä kaupunkivaltioita vastaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
-			<Text>All found or conquered cities on a continent other than your home continent receive a free melee unit. Gain the Redcoat unique unit when the Military Science technology is researched.</Text>
+			<Text>Kaikki perustetut tai vallatut kaupungit muilta kuin kotimantereelta saavat ilmaisen meleeyksikön. Punatakki tulee saataville sotatieteen kehittämisen myötä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
-			<Text>The worship building for their Religion can be purchased by any player for just one-tenth of the usual  [ICON_Faith] Faith cost.  This worship building is enhanced to add 10% to the [ICON_Science] Science, [ICON_Faith] Faith, and [ICON_Culture] Culture output of Arabian cities.</Text>
+			<Text>Heidän uskontonsa palvomisrakennuksen voi ostaa kuka tahansa pelaaja kymmenyksellä sen normaalisti vaatimasta [ICON_Faith] uskosta. Arabian kaupungeissa tämä palvomisrakennus antaa 10% lisää [ICON_Science] tieteen, [ICON_Faith] uskon ja [ICON_Culture] kulttuurin tuottoa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
-			<Text>May not build Holy Site districts, gain Great Prophets, or found Religions. Gains all Beliefs of any Religion that has established itself in a majority of his cities. Receives an Apostle each time he finishes a M'banza or Theater Square district (of that city's majority Religion).</Text>
+			<Text>Kykenemätön rakentamaan pyhiä paikkoja, saamaan merkittäviä profeettoja tai muodostamaan uskontoa. Saa kaikki sen uskonnon uskomukset, joka saavuttaa valtauskonnon aseman suurimmassa osassa hänen kaupunkejaan. Saa apostolin aina valmistaessaan M'banzan tai teatteriaukion (apostoli noudattaa kyseisen kaupungin valtauskontoa).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
-			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. +1 Appeal to all tiles in a city with a National Park. Gain the Rough Rider unique unit when they research the Rifling technology.</Text>
+			<Text>Yksiköt saavat +5 [ICON_Strength] taisteluvoimaa kotimantereella. +1 houkuttelevuutta kaikille luonnonpuiston omistavan kaupungin ruuduille. Rosoratsu tulee saataville rihlauksen kehittämisen myötä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
-			<Text>+5 [ICON_Faith] Faith for each civilization (including India) they have met that has founded a Religion and is not currently at war. Opposing civilizations receive double the war weariness for fighting against Gandhi.</Text>
+			<Text>+5 [ICON_Faith] uskoa jokaisesta uskonnon muodostaneesta kansakunnasta (Intia mukaanlukien) jonka he ovat kohdanneet ja jota vastaan he eivät ole sodassa. Vastaan taistelevat kansakunnat kärsivät kaksinkertaisesti sotaväsymyksestä sotiessaan Gandhia vastaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
-			<Text>Allows coastal raiding for all naval melee units and +50% [ICON_PRODUCTION] Production toward all naval melee units.</Text>
+			<Text>Sallii rannikon ryöväilyn kaikille meleelaivoille ja +50% [ICON_PRODUCTION] tuotantoa kaikille meleelaivoille.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
-			<Text>When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. Builders receive an additional charge.</Text>
+			<Text>Muinaisuuden ja antiikin ihmeiden rakentamista voidaan vauhdittaa rakentajien työstöillä. Kukin työstö vastaa 15% ihmeen alkuperäisestä rakennuskustannuksesta. Rakentajilla on yksi työstö normaalia enemmän.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
-			<Text>Has 1 level of [ICON_VisLimited] Diplomatic Visibility greater than normal with every civilization that she's met. Receives a free Spy (and extra spy capacity) with the Castles technology. All spies start as Agents with a free promotion.</Text>
+			<Text>Saa kohtaamiaan kansakuntia kohtaan yhden tason [ICON_VisLimited] diplomaattista näkyvyyttä tavanomaista enemmän. Saa ylimääräisen vakoojan (ja ylimääräisen vakoojakapasiteetin) linnojen kehittämisen myötä. Kaikki vakoilijat aloittavat agentteina ilmaisen ylennyksen kera.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
-			<Text>All cities start with an additional City Center building. (Starts with a Monument building in the Ancient era).</Text>
+			<Text>Kaikki kaupungit aloittavat ylimääräisen kaupungin keskustan rakennuksen kanssa. (Muinaisuuden aikana aloittaa monumentin kanssa).</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
-			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. When they eliminate a unit, they heal up to 30 hit points.</Text>
+			<Text>Kaikki yksiköt saavat +5 [ICON_Strength] taisteluvoimaa hyökätessään haavoittuneita yksiköitä vastaan. Tuhotessaan yksikön saavat takaisin jopa 30 kestopistettä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
-			<Text>After recruiting or patronizing a [ICON_GreatPerson] Great Person, 20% of its [ICON_GreatPerson] Great Person point cost is refunded.</Text>
+			<Text>Värvättyään tai tuettuaan itselleen [ICON_GreatPerson] merkittävän henkilön 20% sen vaatimista [ICON_GreatPerson] merkittävien henkilöiden pisteistä palautetaan.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
 			<Text>+5% [ICON_Culture] kulttuuria kaupunkivaltiosta, johon olemme valta-asemassa.</Text>
