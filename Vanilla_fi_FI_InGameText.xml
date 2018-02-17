@@ -3391,13 +3391,13 @@
 			<Text>Arkeologimme {1_UnitName} on löytänyt hylyn muinaisesta taistelusta {2_ActingCiv[2]} ja {3_TargetCiv[2]} välillä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_ERA_STRING">
-			<Text>Löytö on ollut kätkettynä maassa {1_EraName[3]} alkaen.</Text>
+			<Text>Löytö kätkeytyi maan huomaan kun {1_EraName:lower} oli käynnissä.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_MAKE_CHOICE">
 			<Text>VALITSE kumman kansan artefaktin haluamme paljastaa.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_NO_CHOICE">
-			<Text>Tutkimisen jälkeen on päätelty, että tämä [ICON_GreatWork_Artifact] artefakti on alkujaan ollut {1_ActingCiv[2]}.</Text>
+			<Text>Tutkimisen jälkeen on päätelty, että {1_ActingCiv} on valmistuttanut tämän [ICON_GreatWork_Artifact] artefaktin.</Text>
 		</Replace>
 		<Replace Language="fi_FI" Tag="LOC_CHOOSE_ARTIFACT_OK_BUTTON">
 			<Text>OK</Text>
