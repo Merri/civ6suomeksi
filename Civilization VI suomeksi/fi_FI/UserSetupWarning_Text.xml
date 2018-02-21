@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
+			<Text>Valitettavasti nykyisen laitteistokokoonpanon kanssa on tunnettuja ongelmia suoritettaessa Civilization VI:tta DirectX 12 -moodissa. Vaatimuksena on yhteensopiva AMD:n tai nVidian näytönohjain (Maxwell tai myöhempi).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
+			<Text>Jatka kuitenkin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_USER_WARNING_QUIT">
+			<Text>Lopeta</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

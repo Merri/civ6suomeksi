@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="2">
+	<Properties>
+		<Name>LOC_MOD_TITLE</Name>
+		<Teaser>LOC_MOD_TEASER</Teaser>
+		<Description>LOC_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<AffectsSavedGames>0</AffectsSavedGames>
+	</Properties>
+	<!-- enable detection of Rise & Fall expansion by a criteria -->
+	<ActionCriteria>
+		<Criteria id="Expansion1">
+			<GameCoreInUse>Expansion1</GameCoreInUse>
+		</Criteria>
+	</ActionCriteria>
+	<!-- these are loaded before displaying the main menu, but not before the initial "Loading game, please wait" -->
+	<FrontEndActions>
+		<!-- this currently fails to do anything, UpdateText needs to be something else but what would it be? -->
+		<UpdateText id="TextSetupFinnish">
+			<Properties>
+				<LoadOrder>-1000</LoadOrder>
+			</Properties>
+			<File>LocalizationDatabase_Data.sql</File>
+		</UpdateText>
+		<!-- Vanilla -->
+		<UpdateText id="FrontendTextFinnish">
+			<File Priority="5">fi_FI/AncientRivalsScenario_Text.xml</File>
+			<File Priority="5">fi_FI/Australia_PackageText.xml</File>
+			<File Priority="5">fi_FI/Automation_Narration_Text.xml</File>
+			<File Priority="5">fi_FI/Aztec_Montezuma_ConfigText.xml</File>
+			<File Priority="5">fi_FI/Aztec_Montezuma_GameplayText.xml</File>
+			<File Priority="5">fi_FI/Aztec_Montezuma_PackageText.xml</File>
+			<File Priority="5">fi_FI/BalanceMaps_ConfigText.xml</File>
+			<File Priority="5">fi_FI/BenchmarkText.xml</File>
+			<File Priority="5">fi_FI/Building_Huey_Teocalli_Text.xml</File>
+			<File Priority="5">fi_FI/Buildings_Text.xml</File>
+			<File Priority="5">fi_FI/CityNames_Text.xml</File>
+			<File Priority="5">fi_FI/Civics_Text.xml</File>
+			<File Priority="5">fi_FI/Civilizations_Text.xml</File>
+			<File Priority="5">fi_FI/Civilopedia_Text.xml</File>
+			<File Priority="5">fi_FI/ColdWarScenario_Text.xml</File>
+			<File Priority="5">fi_FI/Combat_Text.xml</File>
+			<File Priority="5">fi_FI/CompStompScenario_Text.xml</File>
+			<File Priority="5">fi_FI/Difficulties_Text.xml</File>
+			<File Priority="5">fi_FI/FrontEndText.xml</File>
+			<File Priority="5">fi_FI/InGameText.xml</File>
+			<File Priority="5">fi_FI/Leaders_Text.xml</File>
+			<File Priority="5">fi_FI/MultiplayerFrontEndText.xml</File>
+			<File Priority="5">fi_FI/Quests_Text.xml</File>
+			<File Priority="5">fi_FI/Religion_Text.xml</File>
+			<File Priority="5">fi_FI/ReligiousCombatScenario_Text.xml</File>
+			<File Priority="5">fi_FI/Routes_Text.xml</File>
+			<File Priority="5">fi_FI/Technologies_Text.xml</File>
+			<File Priority="5">fi_FI/Types_Text.xml</File>
+			<File Priority="5">fi_FI/UI_Civilopedia_Text.xml</File>
+			<File Priority="5">fi_FI/UI_EndGame_Text.xml</File>
+			<File Priority="5">fi_FI/UI_Technology_Text.xml</File>
+			<File Priority="5">fi_FI/Unit_Abilities_Text.xml</File>
+			<File Priority="5">fi_FI/Units_Text.xml</File>
+			<File Priority="5">fi_FI/UserSetupWarning_Text.xml</File>
+			<File Priority="5">fi_FI/Vikings_PackageText.xml</File>
+			<File Priority="5">fi_FI/WorldBuilder_Text.xml</File>
+		</UpdateText>
+		<!-- Rise & Fall -->
+		<UpdateText id="Expansion1TextFinnish" criteria="Expansion1">
+			<File Priority="3">fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File Priority="3">fi_FI_Expansion1/Expansion1_Leaders_Text.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<!-- these are loaded when starting to play a game -->
+	<InGameActions>
+		<!-- Vanilla -->
+		<UpdateText id="TextFinnish">
+			<File Priority="5">fi_FI/AncientRivalsScenario_Text.xml</File>
+			<File Priority="5">fi_FI/Australia_PackageText.xml</File>
+			<File Priority="5">fi_FI/Automation_Narration_Text.xml</File>
+			<File Priority="5">fi_FI/Aztec_Montezuma_ConfigText.xml</File>
+			<File Priority="5">fi_FI/Aztec_Montezuma_GameplayText.xml</File>
+			<File Priority="5">fi_FI/Aztec_Montezuma_PackageText.xml</File>
+			<File Priority="5">fi_FI/BalanceMaps_ConfigText.xml</File>
+			<File Priority="5">fi_FI/BenchmarkText.xml</File>
+			<File Priority="5">fi_FI/Building_Huey_Teocalli_Text.xml</File>
+			<File Priority="5">fi_FI/Buildings_Text.xml</File>
+			<File Priority="5">fi_FI/CityNames_Text.xml</File>
+			<File Priority="5">fi_FI/Civics_Text.xml</File>
+			<File Priority="5">fi_FI/Civilizations_Text.xml</File>
+			<File Priority="5">fi_FI/Civilopedia_Text.xml</File>
+			<File Priority="5">fi_FI/ColdWarScenario_Text.xml</File>
+			<File Priority="5">fi_FI/Combat_Text.xml</File>
+			<File Priority="5">fi_FI/CompStompScenario_Text.xml</File>
+			<File Priority="5">fi_FI/Difficulties_Text.xml</File>
+			<File Priority="5">fi_FI/FrontEndText.xml</File>
+			<File Priority="5">fi_FI/InGameText.xml</File>
+			<File Priority="5">fi_FI/Leaders_Text.xml</File>
+			<File Priority="5">fi_FI/MultiplayerFrontEndText.xml</File>
+			<File Priority="5">fi_FI/Quests_Text.xml</File>
+			<File Priority="5">fi_FI/Religion_Text.xml</File>
+			<File Priority="5">fi_FI/ReligiousCombatScenario_Text.xml</File>
+			<File Priority="5">fi_FI/Routes_Text.xml</File>
+			<File Priority="5">fi_FI/Technologies_Text.xml</File>
+			<File Priority="5">fi_FI/Types_Text.xml</File>
+			<File Priority="5">fi_FI/UI_Civilopedia_Text.xml</File>
+			<File Priority="5">fi_FI/UI_EndGame_Text.xml</File>
+			<File Priority="5">fi_FI/UI_Technology_Text.xml</File>
+			<File Priority="5">fi_FI/Unit_Abilities_Text.xml</File>
+			<File Priority="5">fi_FI/Units_Text.xml</File>
+			<File Priority="5">fi_FI/UserSetupWarning_Text.xml</File>
+			<File Priority="5">fi_FI/Vikings_PackageText.xml</File>
+			<File Priority="5">fi_FI/WorldBuilder_Text.xml</File>
+		</UpdateText>
+		<!-- Rise & Fall -->
+		<UpdateText id="Expansion1TextFinnish" criteria="Expansion1">
+			<File Priority="3">fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File Priority="3">fi_FI_Expansion1/Expansion1_Leaders_Text.xml</File>
+		</UpdateText>
+	</InGameActions>
+	<LocalizedText>
+		<Text id="LOC_MOD_TITLE">
+			<en_US>Civilization VI suomeksi</en_US>
+		</Text>
+		<Text id="LOC_MOD_TEASER">
+			<en_US>Finnish Language Pack</en_US>
+		</Text>
+		<Text id="LOC_MOD_DESCRIPTION">
+			<en_US>This language pack providers the glorious Finnish language to the game.</en_US>
+		</Text>
+		<Text id="LOC_MOD_AUTHORS">
+			<en_US>Vesa Piittinen</en_US>
+		</Text>
+	</LocalizedText>
+	<Files>
+		<File>LocalizationDatabase_Data.xml</File>
+		<!-- Vanilla -->
+		<File>fi_FI/AncientRivalsScenario_Text.xml</File>
+		<File>fi_FI/Australia_PackageText.xml</File>
+		<File>fi_FI/Automation_Narration_Text.xml</File>
+		<File>fi_FI/Aztec_Montezuma_ConfigText.xml</File>
+		<File>fi_FI/Aztec_Montezuma_GameplayText.xml</File>
+		<File>fi_FI/Aztec_Montezuma_PackageText.xml</File>
+		<File>fi_FI/BalanceMaps_ConfigText.xml</File>
+		<File>fi_FI/BenchmarkText.xml</File>
+		<File>fi_FI/Building_Huey_Teocalli_Text.xml</File>
+		<File>fi_FI/Buildings_Text.xml</File>
+		<File>fi_FI/CityNames_Text.xml</File>
+		<File>fi_FI/Civics_Text.xml</File>
+		<File>fi_FI/Civilizations_Text.xml</File>
+		<File>fi_FI/Civilopedia_Text.xml</File>
+		<File>fi_FI/ColdWarScenario_Text.xml</File>
+		<File>fi_FI/Combat_Text.xml</File>
+		<File>fi_FI/CompStompScenario_Text.xml</File>
+		<File>fi_FI/Difficulties_Text.xml</File>
+		<File>fi_FI/FrontEndText.xml</File>
+		<File>fi_FI/InGameText.xml</File>
+		<File>fi_FI/Leaders_Text.xml</File>
+		<File>fi_FI/MultiplayerFrontEndText.xml</File>
+		<File>fi_FI/Quests_Text.xml</File>
+		<File>fi_FI/Religion_Text.xml</File>
+		<File>fi_FI/ReligiousCombatScenario_Text.xml</File>
+		<File>fi_FI/Routes_Text.xml</File>
+		<File>fi_FI/Technologies_Text.xml</File>
+		<File>fi_FI/Types_Text.xml</File>
+		<File>fi_FI/UI_Civilopedia_Text.xml</File>
+		<File>fi_FI/UI_EndGame_Text.xml</File>
+		<File>fi_FI/UI_Technology_Text.xml</File>
+		<File>fi_FI/Unit_Abilities_Text.xml</File>
+		<File>fi_FI/Units_Text.xml</File>
+		<File>fi_FI/UserSetupWarning_Text.xml</File>
+		<File>fi_FI/Vikings_PackageText.xml</File>
+		<File>fi_FI/WorldBuilder_Text.xml</File>
+		<!-- Rise & Fall -->
+		<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_Leaders_Text.xml</File>
+	</Files>
+</Mod>

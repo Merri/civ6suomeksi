@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Multiplayer Lobby Screen -->
+		<Replace Language="en_US" Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
+			<Text>Peli on käynnissä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
+			<Text>Ladataan tallennusta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOBBY_GAME_VERSION_MISMATCH_TOOLTIP">
+			<Text>Pelissä on käytössä eri versio.[NEWLINE]Pelissä: {1_GameVersion} Paikallisesti: {2_GameVersion}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOBBY_JOIN_DISABLED_VERSION_MISMATCH_TOOLTIP">
+			<Text>Eri version pelejä ei voi yhdistää.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

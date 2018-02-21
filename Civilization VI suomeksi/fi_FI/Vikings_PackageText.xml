@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_TITLE">
+			<Text>Skenaario: viikingit, kauppiaat ja ryöstäjät!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_TEASER">
+			<Text>Kykenetkö kaapimaan eniten vaurautta viikinkikuninkaana? Kesto 60 vuoroa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGS_SCENARIO_DESCRIPTION">
+			<Text>Tuo Eurooppa valtasi alle ja osoita olevasi vahvin viikinkihallitsija tässä 60 vuoron skenaariossa. Pelaa joko Tanskan, Norjan tai Ruotsin väreissä ja ryövää ja ryöstele pitkin Eurooppaa. Aloita Englannin valtaus, valtaa Pariisi tai seilaa Gibraltarin ympäri ja iske Välimerellä.[NEWLINE][NEWLINE]Kotopuolessa on mahdollista rakentaa talousmahti luoden kauppareittejä rikkaimpiin kaupunkeihin. Ja mikäli uskonnonkin noudattaminen luonnistuu, levitä sanaa ja luo [ICON_Faith] uskoa kansallesi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_TITLE">
+			<Text>Lisäosa: viikinkisisältö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_TEASER">
+			<Text>Kolme uutta luonnonihmettä ja kuusi uutta kaupunkivaltiota.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VIKINGSLANDMARKS_DESCRIPTION">
+			<Text>Kolme uutta luonnonihmettä ja kuusi uutta kaupunkivaltiota, joista kaksi antaa uusia rakenteita ruutuja varten.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

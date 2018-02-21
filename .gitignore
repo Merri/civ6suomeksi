@@ -1,45 +1,41 @@
-/*
-!/.gitignore
-!/CONSTRIBUTING.MD
-!/INSTALL.MD
-!/LICENSE
-!/README.MD
+/Civilization VI suomeksi/fi_FI/*
+!/Civilization VI suomeksi/fi_FI/AncientRivalsScenario_Text.xml
+!/Civilization VI suomeksi/fi_FI/Australia_PackageText.xml
+!/Civilization VI suomeksi/fi_FI/Automation_Narration_Text.xml
+!/Civilization VI suomeksi/fi_FI/Aztec_Montezuma_ConfigText.xml
+!/Civilization VI suomeksi/fi_FI/Aztec_Montezuma_GameplayText.xml
+!/Civilization VI suomeksi/fi_FI/Aztec_Montezuma_PackageText.xml
+!/Civilization VI suomeksi/fi_FI/BalanceMaps_ConfigText.xml
+!/Civilization VI suomeksi/fi_FI/BenchmarkText.xml
+!/Civilization VI suomeksi/fi_FI/Building_Huey_Teocalli_Text.xml
+!/Civilization VI suomeksi/fi_FI/Buildings_Text.xml
+!/Civilization VI suomeksi/fi_FI/CityNames_Text.xml
+!/Civilization VI suomeksi/fi_FI/Civics_Text.xml
+!/Civilization VI suomeksi/fi_FI/Civilizations_Text.xml
+!/Civilization VI suomeksi/fi_FI/Civilopedia_Text.xml
+!/Civilization VI suomeksi/fi_FI/ColdWarScenario_Text.xml
+!/Civilization VI suomeksi/fi_FI/Combat_Text.xml
+!/Civilization VI suomeksi/fi_FI/CompStompScenario_Text.xml
+!/Civilization VI suomeksi/fi_FI/Difficulties_Text.xml
+!/Civilization VI suomeksi/fi_FI/FrontEndText.xml
+!/Civilization VI suomeksi/fi_FI/InGameText.xml
+!/Civilization VI suomeksi/fi_FI/Leaders_Text.xml
+!/Civilization VI suomeksi/fi_FI/MultiplayerFrontEndText.xml
+!/Civilization VI suomeksi/fi_FI/Quests_Text.xml
+!/Civilization VI suomeksi/fi_FI/Religion_Text.xml
+!/Civilization VI suomeksi/fi_FI/ReligiousCombatScenario_Text.xml
+!/Civilization VI suomeksi/fi_FI/Routes_Text.xml
+!/Civilization VI suomeksi/fi_FI/Technologies_Text.xml
+!/Civilization VI suomeksi/fi_FI/Types_Text.xml
+!/Civilization VI suomeksi/fi_FI/UI_Civilopedia_Text.xml
+!/Civilization VI suomeksi/fi_FI/UI_EndGame_Text.xml
+!/Civilization VI suomeksi/fi_FI/UI_Technology_Text.xml
+!/Civilization VI suomeksi/fi_FI/Unit_Abilities_Text.xml
+!/Civilization VI suomeksi/fi_FI/Units_Text.xml
+!/Civilization VI suomeksi/fi_FI/UserSetupWarning_Text.xml
+!/Civilization VI suomeksi/fi_FI/Vikings_PackageText.xml
+!/Civilization VI suomeksi/fi_FI/WorldBuilder_Text.xml
 
-!/LocalizationDatabase_Data.sql
-
-!/Vanilla_fi_FI_AncientRivalsScenario_Text.xml
-!/Vanilla_fi_FI_Australia_PackageText.xml
-!/Vanilla_fi_FI_Automation_Narration_Text.xml
-!/Vanilla_fi_FI_Aztec_Montezuma_ConfigText.xml
-!/Vanilla_fi_FI_Aztec_Montezuma_GameplayText.xml
-!/Vanilla_fi_FI_Aztec_Montezuma_PackageText.xml
-!/Vanilla_fi_FI_BalanceMaps_ConfigText.xml
-!/Vanilla_fi_FI_BenchmarkText.xml
-!/Vanilla_fi_FI_Building_Huey_Teocalli_Text.xml
-!/Vanilla_fi_FI_Buildings_Text.xml
-!/Vanilla_fi_FI_CityNames_Text.xml
-!/Vanilla_fi_FI_Civics_Text.xml
-!/Vanilla_fi_FI_Civilizations_Text.xml
-!/Vanilla_fi_FI_Civilopedia_Text.xml
-!/Vanilla_fi_FI_ColdWarScenario_Text.xml
-!/Vanilla_fi_FI_Combat_Text.xml
-!/Vanilla_fi_FI_CompStompScenario_Text.xml
-!/Vanilla_fi_FI_Difficulties_Text.xml
-!/Vanilla_fi_FI_FrontEndText.xml
-!/Vanilla_fi_FI_InGameText.xml
-!/Vanilla_fi_FI_Leaders_Text.xml
-!/Vanilla_fi_FI_MultiplayerFrontEndText.xml
-!/Vanilla_fi_FI_Quests_Text.xml
-!/Vanilla_fi_FI_Religion_Text.xml
-!/Vanilla_fi_FI_ReligiousCombatScenario_Text.xml
-!/Vanilla_fi_FI_Routes_Text.xml
-!/Vanilla_fi_FI_Technologies_Text.xml
-!/Vanilla_fi_FI_Types_Text.xml
-!/Vanilla_fi_FI_UI_Civilopedia_Text.xml
-!/Vanilla_fi_FI_UI_EndGame_Text.xml
-!/Vanilla_fi_FI_UI_Technology_Text.xml
-!/Vanilla_fi_FI_Unit_Abilities_Text.xml
-!/Vanilla_fi_FI_Units_Text.xml
-!/Vanilla_fi_FI_UserSetupWarning_Text.xml
-!/Vanilla_fi_FI_Vikings_PackageText.xml
-!/Vanilla_fi_FI_WorldBuilder_Text.xml
+/Civilization VI suomeksi/fi_FI_Expansion1/*
+!/Civilization VI suomeksi/fi_FI_Expansion1/Expansion1_ConfigText.xml
+!/Civilization VI suomeksi/fi_FI_Expansion1/Expansion1_Leaders_Text.xml

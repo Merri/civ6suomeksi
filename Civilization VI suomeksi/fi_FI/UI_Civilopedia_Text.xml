@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TITLE">
+			<Text>CIVILOPEDIA</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_CIVILIZATIONS">
+			<Text>Kansakunnat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_GEOGRAPHY_AND_SOCIAL_DATA">
+			<Text>Maantiede &amp; yhteisö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PREFERENCES">
+			<Text>Mieltymykset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_AGENDAS">
+			<Text>Agendat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PREFERRED_RELIGION">
+			<Text>Uskonto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_LEADERS">
+			<Text>Hallitsijat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PREFERS_RIVERS">
+			<Text>Joet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PREFERS_RIVERS_FOOTNOTE">
+			<Text>(suosii myös jokia)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_SPECIAL_INFRASTRUCTURE">
+			<Text>Omat rakenteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_SPECIAL_UNITS">
+			<Text>Omat yksiköt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_SUZERAIN">
+			<Text>Valta-asema kaupunkivaltioon:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_START_BIAS">
+			<Text>Puolueellisuus alussa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_DESCRIPTION">
+			<Text>Kuvaus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_BELIEF_CLASS">
+			<Text>Uskomusluokka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PROMOTION_CLASS">
+			<Text>Ylennysluokka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TRAITS">
+			<Text>Piirteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_MADE_OBSOLETE_BY">
+			<Text>Syrjäytyy tästä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_APPLIES_TO">
+			<Text>Koskee:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REPLACES">
+			<Text>Korvaa tämän:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REQUIRED_CIVICS">
+			<Text>Vaaditut normit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REQUIRED_TECHNOLOGIES">
+			<Text>Vaaditut tekniikat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_UNLOCKS">
+			<Text>Mahdollistaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_BOOSTS">
+			<Text>Tehostus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_FOLLOWERS">
+			<Text>Noudattajat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PROGRESSION">
+			<Text>Edistys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_LEADS_TO_CIVICS">
+			<Text>Johtaa normeihin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_LEADS_TO_TECHS">
+			<Text>Johtaa tekniikoihin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PRODUCTION_COST">
+			<Text>Tuotantomaksu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PURCHASE_COST">
+			<Text>Ostomaksu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_MAITENANCE_COST">
+			<Text>Ylläpito</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_CULTURE_COST">
+			<Text>Kulttuurimaksu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_RESEARCH_COST">
+			<Text>Tutkimusmaksu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_BASE_COST">
+			<Text>Perushinta: {1_Amount : number #} {2_YieldIcon} {3_YieldName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REQUIREMENTS">
+			<Text>Vaatimukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_BUILD_CHARGES">
+			<Text>Työstöjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_HEAL_CHARGES">
+			<Text>Hoivauksia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_MOVEMENT_POINTS">
+			<Text>Liikkumispisteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_MELEE_STRENGTH">
+			<Text>Meleevoima</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_RANGED_STRENGTH">
+			<Text>Tulitusvoima</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
+			<Text>Pommitusvoima</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
+			<Text>Uskonvoima</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
+			<Text>Ilmatorjuntavoima</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
+			<Text>Levityksiä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_RANGE">
+			<Text>Kantama</Text>
+		</Replace>	
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REPLACED_BY">
+			<Text>Tämän korvaa:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_UNLOCKED_BY">
+			<Text>Tämän mahdollistaa:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_BUILT_BY">
+			<Text>Tämän voi pykätä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_USAGE">
+			<Text>Käyttö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_BUILDINGS">
+			<Text>Mahdollistaa rakennukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_UNITS">
+			<Text>Mahdollistaa yksiköt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
+			<Text>Voi rakentaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT">
+			<Text>Sijainti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_ADJACENCY">
+			<Text>Läheisyys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_EXCLUSIVE_WITH">
+			<Text>Sulkevat pois toisensa:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_COAST">
+			<Text>Tulee sijoittaa rannikolle maan viereen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_CITY">
+			<Text>Tulee sijoittaa kaupungin keskustan viereiseen ruutuun, jonka vieressä on myös joki, järvi, keidas tai vuori</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT_NOT_ADJ_TO_CITY">
+			<Text>Ei voi olla kaupungin keskustan vieressä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_ADJACENCY_BONUS">
+			<Text>Läheisyysetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
+			<Text>Asukastuotot (per asukas)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TRADE_YIELDS">
+			<Text>Kauppatuotot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TRADE_ORIGIN">
+			<Text>Lähde</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TRADE_DOMESTIC_DESTINATION">
+			<Text>Kotimainen kohde</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TRADE_INTERNATIONAL_DESTINATION">
+			<Text>Kansainvälinen kohde</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_UPGRADES_TO">
+			<Text>Päivitys:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_UPGRADE_FROM">
+			<Text>Päivittää:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_UNIQUE_TO">
+			<Text>Tämän voi rakentaa vain:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_UNIQUE_ABILITY">
+			<Text>Ominainen kyky</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PROMOTIONS">
+			<Text>Ylennykset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PROJECTS">
+			<Text>Projektit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_CITY_STATE_TYPE">
+			<Text>Kaupunkivaltion tyyppi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_CREATES">
+			<Text>Luo resurssin:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_CREATED_BY">
+			<Text>Luoja:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_IMPROVED_BY">
+			<Text>Käyttöönotto rakenteella:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_HARVEST">
+			<Text>Poiskorjuu antaa:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REQUIRES">
+			<Text>Vaatii: {1_Name}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
+			<Text>{1_ActionName} ({2_ChargeAmount} {2_ChargeAmount : plural 1?työstö; other?työstöä;})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_GREAT_WORKS">
+			<Text>Merkkiteokset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
+			<Text>Vuoristoinen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
+			<Text>Mäkinen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TERRAIN_WATER">
+			<Text>Vesi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TERRAIN_SHALLOW_WATER">
+			<Text>Matala vesi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_TERRAIN_IMPASSABLE">
+			<Text>Kulkukelvoton</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_ABILITY_INACTIVE">
+			<Text>Pois käytöstä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_ABILITY_INACTIVE_DESC">
+			<Text>Käyttöönotto vaatii erityisiä toimia. Kuvaus sisältää tarkemmat tiedot.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
+			<Text>Ei ole käytettävissä mikäli peli alkaa myöhemmin kuin:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
+			<Text>Tulee olla joen vieressä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
+			<Text>Tulee olla vuoren vieressä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_COAST">
+			<Text>Tulee rakentaa rannikolle</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_LAKE">
+			<Text>Tulee rakentaa järveen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_NOT_LAKE">
+			<Text>Ei voi rakentaa järveen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REQUIRES_FOUND_RELIGION">
+			<Text>Vaatii uskonnon perustamisen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
+			<Text>Rakennukset (mikä tahansa)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
+			<Text>Muutos [ICON_Movement] liikkuvuuteen: {1_Amount}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

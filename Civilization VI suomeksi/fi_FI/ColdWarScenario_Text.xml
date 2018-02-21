@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Victories -->
+		<Replace Language="en_US" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_TITLE">
+			<Text>Sijaissota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_DESC">
+			<Text>Valtaa kolme kaupunkivaltiota.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_PROXYWAR_VICTORY_BLURB">
+			<Text>Tässä on kylmän sodan strategiani: me voitamme, he häviävät. -  Ronald Reagan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_TITLE">
+			<Text>Maailmanlopun herra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_DESC">
+			<Text>Jos jonkin kaupungin keskustaan isketään ydinaseella, iske useimpia kaupungin keskustoja vuororajoitukseen mennessä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_BLURB">
+			<Text>Ainut tapa voittaa on olla pelaamatta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_TITLE">
+			<Text>Tankkipankkiiri</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_DESC">
+			<Text>Mikäli ainoankaan kaupungin keskustaan ei isketä ydinaseella, omista eniten panssarivaunuja vuororajoitukseen mennessä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_TANKBANKER_VICTORY_BLURB">
+			<Text>Meillä on eniten panssarivaunuja pelin lopussa! Olemme voittaneet!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_RULESET_TITLE">
+			<Text>Maailmanlaajuinen ydintalvisota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_RULESET_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_MOD_DESCRIPTION -->
+			<Text>Kylmä sota käy kuumimmillaan tässä taistelupainotteisessa atomiajan skenaariossa. Kesto 50 vuoroa.[NEWLINE]Voittamisen ehdot[NEWLINE][ICON_Bullet]Maailmanlopun herra: Jos jonkin kaupungin keskustaan isketään ydinaseella, iske useimpia kaupungin keskustoja vuororajoitukseen mennessä.[NEWLINE][ICON_Bullet]Tankkipankkiiri: Mikäli ainoankaan kaupungin keskustaan ei isketä ydinaseella, omista eniten panssarivaunuja vuororajoitukseen mennessä.[NEWLINE][ICON_Bullet]Sijaissota: Valtaa kolme kaupunkivaltiota.[NEWLINE]Muutokset säännöissä[NEWLINE][ICON_Bullet]Yksiköt ja ydinaseet ovat halvempia rakentaa ja ylläpitää. Ne eivät vaadi strategisia luonnonvaroja.[NEWLINE][ICON_Bullet]Pidennetty massatuhoaseiden ja pommittajien kantama.[NEWLINE][ICON_Bullet]Rakentajilla on enemmän työstöjä.[NEWLINE][ICON_Bullet]Kartta on paljas alussa.[NEWLINE][ICON_Bullet]Ei heimokyliä.[NEWLINE][ICON_Bullet]Ei barbaareja.[NEWLINE][ICON_Bullet]Ei sotaväsymystä.</Text>
+		</Replace>
+		
+		<!-- Mod Package Text -->
+		<Replace Language="en_US" Tag="LOC_COLDWAR_MOD_TITLE">
+			<Text>Moninpeliskenaario: Maailmanlaajuinen ydintalvisota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_MOD_TEASER">
+			<Text>Kylmä sota käy kuumimmillaan tässä taistelupainotteisessa atomiajan skenaariossa. Kesto 50 vuoroa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLDWAR_MOD_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_RULESET_DESCRIPTION -->
+			<Text>Kylmä sota käy kuumimmillaan tässä taistelupainotteisessa atomiajan skenaariossa. Kesto 50 vuoroa.[NEWLINE]Voittamisen ehdot[NEWLINE][ICON_Bullet]Maailmanlopun herra: Jos jonkin kaupungin keskustaan isketään ydinaseella, iske useimpia kaupungin keskustoja vuororajoitukseen mennessä.[NEWLINE][ICON_Bullet]Tankkipankkiiri: Mikäli ainoankaan kaupungin keskustaan ei isketä ydinaseella, omista eniten panssarivaunuja vuororajoitukseen mennessä.[NEWLINE][ICON_Bullet]Sijaissota: Valtaa kolme kaupunkivaltiota.[NEWLINE]Muutokset säännöissä[NEWLINE][ICON_Bullet]Yksiköt ja ydinaseet ovat halvempia rakentaa ja ylläpitää. Ne eivät vaadi strategisia luonnonvaroja.[NEWLINE][ICON_Bullet]Pidennetty massatuhoaseiden ja pommittajien kantama.[NEWLINE][ICON_Bullet]Rakentajilla on enemmän työstöjä.[NEWLINE][ICON_Bullet]Kartta on paljas alussa.[NEWLINE][ICON_Bullet]Ei heimokyliä.[NEWLINE][ICON_Bullet]Ei barbaareja.[NEWLINE][ICON_Bullet]Ei sotaväsymystä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CW_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Vuororajoitus {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROXYWAR_VICTORY_CAPTURE_CITY_STATES_PROGRESS">
+			<Text>Vallattuja kaupunkivaltioita {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ARMAGEDDON_VICTORY_REQUIRES_PLAYER_HAS_MOST_WMD_DIRECT_CITY_HITS_PROGRESS">
+			<Text>Iskettyjä kaupungin keskuksia {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Ydinisku on tapahtunut {NukeWarStatusIcon}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_TANKBANKER_REQUIRES_PLAYER_HAS_MOST_TANKS_PROGRESS">
+			<Text>Panssareita omistuksessa {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]Ei ydiniskuja kaupungin keskustoihin {NoNukeWarStatusIcon}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

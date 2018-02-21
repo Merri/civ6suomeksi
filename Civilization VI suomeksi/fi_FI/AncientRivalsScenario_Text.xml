@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Ruleset -->
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
+			<Text>Muinaiset kilpailijat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
+			<Text>Laajenna maailmaa ja sivistä tässä tutkimusmatkailuun ja kulttuuriin keskittyneessä muinaisuuden ajan skenaariossa, joka kestää 50 vuoroa.[NEWLINE]Voittamisen ehdot[NEWLINE]Vuororajoituksen kohdalla voitto annetaan pelaajalle, joka täyttää suurimman osan seuraavista ehdoista. Pisteisiin perustuvat tasapelit ovat mahdollisia.[NEWLINE][ICON_Bullet]Kulturelli - kehitä eniten normeja.[NEWLINE][ICON_Bullet]Tutki maailmaa - paljasta eniten ruutuja kartalla.[NEWLINE][ICON_Bullet]Muinainen ryöväri - tärvele eniten ruutuja.[NEWLINE][ICON_Bullet]Muinaisen ajan ihme - hallitse lukuisinta määrää ihmeitä.</Text>
+		</Replace>
+		<!-- Victories  -->
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
+			<Text>Muinaiset kilpailijat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
+			<Text>Vuororajoituksen kohdalla voitto annetaan pelaajalle, joka täyttää suurimman osan seuraavista ehdoista. Pisteisiin perustuvat tasapelit ovat mahdollisia.[NEWLINE][ICON_Bullet]Kulturelli - kehitä eniten normeja.[NEWLINE][ICON_Bullet]Tutki maailmaa - paljasta eniten ruutuja kartalla.[NEWLINE][ICON_Bullet]Muinainen ryöväri - tärvele eniten ruutuja.[NEWLINE][ICON_Bullet]Muinaisen ajan ihme - hallitse lukuisinta määrää ihmeitä.[NEWLINE]</Text>
+		</Replace>
+		<!-- Victories -->
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
+			<Text>Anna minulle tarpeeksi pitkä vipuvarsi ja tukipiste, johon se tukea, niin liikutan maailmaa. -Arkhimedes</Text>
+		</Replace>
+		<!-- Scenario Package -->
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
+			<Text>Moninpeliskenaario: muinaiset kilpailijat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
+			<Text>Laajenna maailmaa ja sivistä tässä tutkimusmatkailuun ja kulttuuriin keskittyneessä muinaisuuden ajan skenaariossa, joka kestää 50 vuoroa.</Text>
+		</Replace>	
+		<Replace Language="en_US" Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
+			<Text>Vuororajoituksen kohdalla voitto annetaan pelaajalle, joka täyttää suurimman osan seuraavista ehdoista. Pisteisiin perustuvat tasapelit ovat mahdollisia.[NEWLINE][ICON_Bullet]Kulturelli - kehitä eniten normeja.[NEWLINE][ICON_Bullet]Tutki maailmaa - paljasta eniten ruutuja kartalla.[NEWLINE][ICON_Bullet]Muinainen ryöväri - tärvele eniten ruutuja.[NEWLINE][ICON_Bullet]Muinaisen ajan ihme - hallitse lukuisinta määrää ihmeitä.[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Vuororajoitus {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
+			<Text>Voittopisteitä {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Kartoitettuja ruutuja {HexesExplored} {ExploredStatusIcon}[NEWLINE]Tärveltyjä ruutuja {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Normeja {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Ihmeitä {WondersPossessed} {WondersStatusIcon}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

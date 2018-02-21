@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Name and Description-->
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_NAME">
+			<Text>Viralliset tasapainotetut kartat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_DESCRIPTION">
+			<Text>Tasapainoitetut kartat ovat erityisen hyviä moninpeleihin.</Text>
+		</Replace>
+		<!--Map Name-->
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
+			<Text>Tasapainoitetut kartat</Text>
+		</Replace>
+		<!--Map Description-->
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
+			<Text>Tasapainoitetut kartat ovat erityisen hyviä moninpeleihin.</Text>
+		</Replace>
+		<!--Map Description-->
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
+			<Text>Neliapila</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
+			<Text>Kansakunnat aloittavat neljällä tasapainoitetulla alueella. Kartta pakottaa pelaajat kohti keskiosaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
+			<Text>Lumihiutale</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
+			<Text>Kansakunnat aloittavat kuudella tasapainoitetulla alueella, jossa kaupunkivaltiot sijaitsevat läheisillä saarilla. Kartta pakottaa pelaajat kohti keskiosaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
+			<Text>Luvattu maa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
+			<Text>Kansakunnat aloittavat tasapainoitetuista aloitussijainneista ja kamppailevat arvokkaasta maastosta kartan keskellä.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

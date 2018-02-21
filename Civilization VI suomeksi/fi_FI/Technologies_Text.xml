@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Mahdollistaa [ICON_RESOURCE_WHEAT] vehnän ja [ICON_RESOURCE_RICE] riisin poiskorjuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+			<Text>Mahdollistaa [ICON_RESOURCE_CATTLE] naudan ja [ICON_RESOURCE_SHEEP] lampaan poiskorjuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_MINING_DESCRIPTION">
+			<Text>Mahdollistaa metsän poishakkuun ja [ICON_RESOURCE_Copper] kuparin poiskorjuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SAILING_DESCRIPTION">
+			<Text>Mahdollistaa rakentajien siirtymisen uittoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+			<Text>Mahdollistaa suon ojittamisen ja [ICON_RESOURCE_BANANAS] poiskorjuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_MASONRY_DESCRIPTION">
+			<Text>Mahdollistaa [ICON_RESOURCE_STONE] kiven poiskorjuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+			<Text>Mahdollistaa sademetsän poishakkuun. Paljastaa [ICON_RESOURCE_IRON] raudan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+			<Text>Mahdollistaa kaikkien maayksiköiden siirtymisen uittoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Mahdollistaa kauppurien siirtymisen uittoon sekä [ICON_RESOURCE_FISH] kalan poiskorjuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] liikkuvuutta kaikille meriyksiköille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+			<Text>+1 [ICON_Production] tuotantoa kaivoksista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_CASTLES_DESCRIPTION">
+			<Text>Kiinan muuri antaa [ICON_Culture] kulttuuria läheisyysetuna. Catherine de Medici saa ilmaisen vakoilijan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+			<Text>+2 [ICON_Gold] kultaa kalastajista. Kaikki meriyksiköt ja uitossa olevat yksiköt voivat mennä meriruutuihin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+			<Text>+1 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_BANKING_DESCRIPTION">
+			<Text>+2 [ICON_Gold] kultaa louhoksista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_PRINTING_DESCRIPTION">
+			<Text>Kasvattaa diplomaattista näkyvyyden tasoa yhdellä muita kansakuntia kohtaan. Kaikki [ICON_Tourism] turismin tuotot [ICON_GreatWork_Writing] kirjallisuuden merkkiteoksista tuplataan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_RADIO_DESCRIPTION">
+			<Text>Paljastaa [ICON_RESOURCE_ALUMINUM] alumiinin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+			<Text>+1 [ICON_Production] tuotantoa kaivoksista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>Mahdollistaa tutkimussopimuksen diplomatiassa. +1 [ICON_Food] ruokaa plantaaseista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SANITATION_DESCRIPTION">
+			<Text>Porraskaivot tarjoavat 1 [ICON_Housing] asumuksia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+			<Text>+2 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+			<Text>Kaikki [ICON_Culture] kulttuuria tarjoavat rakenteet tarjoavat saman verran myös [ICON_Tourism] turismia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Päivittää maatilat käyttämään koneellista maataloutta. +1 [ICON_Food] ruuan läheisyysetua maatiloille jokaisesta viereisestä maatilasta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_STEEL_DESCRIPTION">
+			<Text>+1 [ICON_Production] tuotantoa sahoista. Mahdollistaa kaupunkipuolustukset, joka antaa kaikille kaupungeille 200 linnoitusvoimakkuutta sekä kyvyn tulittaa. Kaikki aiemmat muurit vanhenevat ja piirittämisen tukiyksiköt ovat hyödyttömiä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+			<Text>+1 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+			<Text>+1 [ICON_Production] tuotantoa louhoksista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+			<Text>+1 [ICON_Food] ruokaa kalastusaluksista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Mahdollistaa kouluttaa yhden vakoilijan lisää. Kaikki tuotto [ICON_Tourism] turismista kaksinkertaistuu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>+1 [ICON_Gold] kultaa leireistä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>+1 [ICON_Production] tuotantoa laitumista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+			<Text>Useamman kerran valmistettava tekniikka, joka kasvattaa pistevoiton pottia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SAILING">
+			<Text>Perusta rantakaupunki.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+			<Text>Löydä luonnonihme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+			<Text>Hyödynnä luonnonvara rakentamalla maatila.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ARCHERY">
+			<Text>Tuhoa yksikkö linkomiehellä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_WRITING">
+			<Text>Kohtaa toinen kansakunta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASONRY">
+			<Text>Rakenna louhos.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+			<Text>Tuhoa kolme barbaaria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+			<Text>Hyödynnä luonnanvara rakentamalla kaivos.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>Hyödynnä kaksi meren luonnonvaraa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CURRENCY">
+			<Text>Perusta [ICON_TradeRoute] kauppareitti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+			<Text>Rakenna laidun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+			<Text>Rakenna rautakaivos.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+			<Text>Omista kaksi kaleeria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+			<Text>Rakenna kolme erilaista kaupunkialuetta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+			<Text>Rakenna vesimylly.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+			<Text>Rakenna muinainen muuri.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+			<Text>Tuhoa yksikkö keihäsmiehellä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+			<Text>Rakenna kolme kaivosta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+			<Text>Kehitä feodalismin normi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MACHINERY">
+			<Text>Omista kolme jousimiestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_EDUCATION">
+			<Text>Värvää merkittävä tieteentekijä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+			<Text>Rakenna akvedukti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>Muodosta vähintään kuuden linjauksen hallitus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+			<Text>Rakenna kaksi satamaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+			<Text>Rakenna saha.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BANKING">
+			<Text>Kehitä kiltojen normi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+			<Text>Rakenna asevarasto.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PRINTING">
+			<Text>Rakenna kaksi yliopistoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+			<Text>Tuhoa yksikkö musketöörillä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+			<Text>Rakenna yliopisto vuoren viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+			<Text>Omista kaksi varsijousta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+			<Text>Omista kaksi bombardia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+			<Text>Rakenna kolme työpajaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+			<Text>Kehitä valistuneisuuden normi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+			<Text>Omista kaksi linnaketta omilla mailla. Kummankin tulee olla sotilasinsinöörin rakentamia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+			<Text>Tuhoa yksikkö ritarilla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+			<Text>Rakenna kaksi telakkaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SANITATION">
+			<Text>Rakenna kaksi lähiötä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+			<Text>Rakenna kaksi pankkia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RIFLING">
+			<Text>Rakenna salpietarikaivos.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_FLIGHT">
+			<Text>Rakenna teollisen tai myöhemmän ajan ihme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+			<Text>Omista kolme musketööriä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_STEEL">
+			<Text>Rakenna hiilikaivos ja panssarilaiva.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+			<Text>Omista kolme kaapparia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_RADIO">
+			<Text>Perusta luonnonpuisto.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+			<Text>Saata tutkimussopimus loppuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+			<Text>Kaivauta artefakti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+			<Text>Rakenna kolme kaksitasoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>Rakenna kaksi voimalaitosta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+			<Text>Rakenna kiitorata.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PLASTICS">
+			<Text>Rakenna poraustorni.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>Muodosta vähintään kahdeksan linjauksen hallitus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+			<Text>Rakenna kaksi lentoasemaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+			<Text>Rakenna kaksi lähetyskeskusta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+			<Text>Tuhoa hävittäjäkone.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+			<Text>Omista kolme panssarivaunua.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+			<Text>Kehitä globalisaation normi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+			<Text>Rakenna alumiinikaivos.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+			<Text>Tehosta kehitystä merkittävällä tieteentekijällä tai vakoilijalla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+			<Text>Rannikon kaupunki on antanut kansakunnallemme näkemystä siihen, kuinka vesillä voisi liikkua.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+			<Text>Luonnonihmeen löytäminen on innoittanut kansaamme universumin upeudesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Luonnonvaran hyödyntäminen maatilalla on saanut meidät arvostamaan viljelysten kastelun tärkeyttä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+			<Text>Eteemme on noussut kysymys kun viimein saimme tuhotuksi vihollisen linkomiehellä: olisiko olemassa tehokkaampi heittoase?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+			<Text>Toisen kansakunnan kohtaaminen on saanut meidät huomaamaan uusien kommunikointitapojen tärkeyden.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+			<Text>Luonnonvaran louhinta on antanut meille raaka-aineet, jotta voisimme työllistää muurareita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+			<Text>Taistelumme barbaareja vastaan korostavat tehokkaampien aseiden tarvetta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Kaivostoimintamme on antanut meille kyvyn luoda akselin. Seuraako pyörä perästä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>Kalastajamme ovat alkaneet oppia, kuinka käyttää tähtitaivasta hyväkseen yöllisillä retkillään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+			<Text>Muodostamamme [ICON_TradeRoute] kauppareitti sallii hyödykkeiden vaihtamisen, mutta kaupasta saisi jonkin yhteisen vaihtovälineen avulla joustavampaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>Laiduneläinten avulla lienisi aika oppia ratsastamaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>Säännöllinen raudan lähde on mahdollistanut parempien aseiden ja vahvempien haarniskojen luomisen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+			<Text>Useamman kaleerin valmistus on opettanut meille paljon suurempien laivojen rakentamisesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>Kaupunkisuunnittelijamme ovat ymmärtäneet geometrian alkeet. Kenties täysi matemaattinen järjetelmä seuraa perästä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+			<Text>Työ vesimyllyllä on opettanut rakentajillemme lukuisia rakentamisen periaatteita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+			<Text>Muurien rakentaminen kaupungin ympärille on antanut ymmärryksen insinööritaidosta, jota vaadittaisiin akveduktien ja katapulttien tekoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+			<Text>Keihäsmiehemme ovat osoittautuneet tehokkaiksi, mutta vastustajamme ovat entistä vahvempia ja nopeampia. Olisikohan aihetta valmistaa pidempi ase?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+			<Text>Kun nyt saamme raaka-aineita monenlaisista kaivoksista, niin voisi olla asiallista antaa parempaa koulutusta käsityöläisille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+			<Text>Feodaaliherrat haluaisivat puolustajan maillensa. Josko haarniskoidun soturin asettaminen ratsaille riittäisi?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>Koneistus saattaisi tehostaa heittoasejoukkojemme toimintaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+			<Text>Merkittävän tieteentekijämme opit ovat luoneet uutta intoa opiskeluun valtakunnassamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+			<Text>Sotilasjohtajamme seurasivat tarkoin edistymistämme akveduktin kanssa. He pohtivat uusia käyttötapoja näkemilleen insinööritaidoille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+			<Text>Hallituksemme uusi puolustusministeri ehdottaa, jotta voisimme rakentaa vakuuttavat puolustusrakennelmat pääkaupunkimme suojaksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+			<Text>Monien laivojen lähtiessä satamistamme on noussut kaipaus kirjata matkat tarkemmin muistiin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+			<Text>Tarjolle tulleet yhdenmukaistetut lankut ovat saaneet kuljetusteollisuuteen vauhtia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+			<Text>Kasvavat kiltamme ovat muodostaneet suunnitelmia, jotka vaativat runsaasti varallisuutta. Kenties kykenemme mahdollistamaan lainaamisen?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+			<Text>Asevarastomme miehet pohtivat uudenlaista asetta, jolla yllättää vihollisemme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+			<Text>Tarpeen vuoksi oppineemme pohtivat keinoja kopioida kirjoja nopeasti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+			<Text>Musketööriemme onnistumiset maalla on nostanut ilmoille ajatuksen, että voisimmeko sotia vastaavasti myös merellä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+			<Text>Tieteentekijämme ramppaavat yhtenään vuorille nähdäkseen taivaan tarkemmin. Pysyvästä rakennelmasta saattaisi olla heille apua.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+			<Text>Kovin monien varsijoustemme myötä meille on syntynyt monia heittoaseiden tuntijoita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+			<Text>Bombardien valmistamisen myötä olemme havainneet linnojen olevan haavoittuvia - tarvitsemme vankkumattoman puolustuksen!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+			<Text>Valtakuntamme kiireiset työpajat vihjaavat tulevasta suuruudesta. Onko teollinen vallankumous jo nurkan takana?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+			<Text>Valistuneisuuden ajan myötä valtakunnassamme on runsaasti syvällistä keskustelua tieteellisistä menetelmistä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+			<Text>Kaupunkimme ovat lukuisten vallien suojaamia, mitäpä jos kanuunat voisivat puolustaa niitä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+			<Text>Urhollinen ritarimme on nujertanut vihollisen. Oppikaamme tästä voitosta ja alkakaamme sotilasasioiden oppijoiksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+			<Text>Käyttäkäämme teollinen ymmärryksemme tuoreiden telakoidemme hyväksi: höyrykäyttöiset laivat voisivat hallita meriä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+			<Text>Lähiöiden myötä kaupunkimme voivat kasvaa entistä suuremmiksi. Viemäröintisuunnitelman muodostamisesta on tullut elintärkeää.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+			<Text>Pankkiemme valta on nousussa: on tullut aika tutkia mitkä seikat muodostavat kansallisen taloutemme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+			<Text>Salpietarin myötä tuliaseteollisuutemme on saavuttanut kokonaan uuden tason. On tullut aika parantaa aseidemme tarkkuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+			<Text>Nykyaikaisen ihmeen valmistuminen on saanut insinöörimme varmoiksi siitä, että he kykenevät mihin tahansa. Eivät he kai pohdi lentämistä seuraavaksi?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+			<Text>Asevalmistajamme ovat kyllästyneet työstämään kokonaisia musketteja käsin yksi toisensa jälkeen. Kenties olisi aiheellista järkevöittää ja yhtenäistää toimintaa?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+			<Text>Hiilikäyttöiset sulatusuunimme ja panssarilaivojen koeajot antavat meille pian kyvyn tehdä mitä hienointa terästä!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+			<Text>Sähkövirran löytäminen on kirvoittanut kekseliäitä kaappareitamme pohtimaan vähemmän meluisia voimanlähteitä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+			<Text>Uusi luonnonpuistomme kaipaa kävijöitä. Auttaisikohan uudenlainen viestintätapa mainostamaan sen olemassaoloa?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+			<Text>Yhteistoiminta muiden kansojen kanssa on aloittanut tieteellisten läpimurtojen virran. Tapahtuisiko seuraava edistys kemian saralla?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+			<Text>Arkeologimme ovat havainneet maaöljyä tihkuvan kivistä. Olisikohan geologin aiheellista tutkia asiaa tarkemmin?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+			<Text>Laaja kokemuksemme kaksitasoista on johtanut lukuisiin ilmailun läpimurtoihin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+			<Text>Uusien voimalaitosten kehittäminen on tuonut teollisia edistysaskelia, jotka saattavat auttaa aseiden tuotannossa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+			<Text>Kun nyt tiedämme kuinka tehdä siirrettäviä kiitoratoja maalla, niin eikö samaa ajatusta voisi soveltaa merellä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+			<Text>Petrokemikaalien lähteen luulisi johtavan edistysaskeliin. Varsinkin muovautuvuus on erityisen kiinnostuksen kohde.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+			<Text>Nykyinen hallitus vaatii runsaasti virkakoneistoa. Tiedonseurannan kehittäminen tehokkaaksi auttaisi valtavasti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+			<Text>Useissa kaupungeissa sijaitsevien ilmailun rakennusten myötä lentoteollisuutemme on kasvamassa hyvää tahtia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+			<Text>Radion ja television pioneerien esimerkin myötä olemme kehittyneet erinomaisiksi nopeassa tiedonvälityksessä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+			<Text>Armeijamme on päihittänyt viholliskoneen. On tullut aika rakentaa paras puolustus niitä vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+			<Text>Panssarimme ovat olleet armeijamme tukiranka, joten tieteentekijämme hihkuvat kehittyneemmän mallin puolesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+			<Text>Laaja tutkittavien metallien valikoima auttaa tieteentekijöitämme puskemaan uusille aloille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+			<Text>Laaja tutkittavien metallien valikoima auttaa tieteentekijöitämme puskemaan uusille aloille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+			<Text>Tiimimme jäsen on lähiaikoina saavuttamansa tekniikan myötä jakanut tutkimuksensa huomiot. Heidän innovaationsa kohentaa omaa edistystämme merkittävästi.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

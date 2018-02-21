@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_TECHS">
+			<Text>Tekniikat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_CIVICS">
+			<Text>Normit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_CITIES">
+			<Text>Kaupungit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_UNITS">
+			<Text>Yksiköt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_GENERAL">
+			<Text>Yleiset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
+			<Text>Kaupunkialueet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
+			<Text>Rakennukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_MOD">
+			<Text>Riippuvuudet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TAB_TEXT">
+			<Text>Teksti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
+			<Text>Lisää pelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
+			<Text>Lisää tekoäly</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
+			<Text>Poista pelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
+			<Text>Lisää kaupunki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
+			<Text>Poista kaupunki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
+			<Text>Tärvelty</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
+			<Text>Kulta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
+			<Text>Usko</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
+			<Text>Puolustuksen vahinko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
+			<Text>Ulompi vahinko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
+			<Text>Väestö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
+			<Text>Maasto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
+			<Text>Piirre</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
+			<Text>Piirteen suunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
+			<Text>Luonnonvara</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
+			<Text>Luonnonvaran määrä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
+			<Text>Rakenne</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
+			<Text>Tärvelty rakenne</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
+			<Text>Tie</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
+			<Text>Tärvelty tie</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
+			<Text>Omistaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
+			<Text>Maasto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
+			<Text>Piirteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
+			<Text>Manner</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
+			<Text>Joet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
+			<Text>Jyrkänteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
+			<Text>Luonnonvarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
+			<Text>Kaupungit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
+			<Text>Kaupunkialueet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
+			<Text>Rakennukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
+			<Text>Yksiköt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
+			<Text>Rakenteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
+			<Text>Tiet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
+			<Text>Aloituspaikat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
+			<Text>Omistaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
+			<Text>Paljastettu maasto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
+			<Text>Karttamuokkain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
+			<Text>Pelaajamuokkain</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
+			<Text>Vasen napsautus sijoittaa, oikea poistaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
+			<Text>Ei valittua tilkkua</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
+			<Text>ID</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
+			<Text>Luo uusi ID...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
+			<Text>Leveys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
+			<Text>Korkeus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
+			<Text>Säännöt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
+			<Text>Karttaskripti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
+			<Text>Kartta on Modi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
+			<Text>Valittuna luo maailmanrakentajan kartan itsenäiseksi Modiksi, jota voi käyttää kartan tyyppinä peliä aloitettaessa. Ilman valintaa kartan oletetaan olevan osa laajempaa Modia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
+			<Text>Nimetön kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
+			<Text>Maailmanrakentajan luoma nimetön kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
+			<Text>Nimetön karttamodi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
+			<Text>Maailmanrakentajan luoma karttamodi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ADD_BUTTON">
+			<Text>Lisää</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
+			<Text>Poista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_FEATURE">
+			<Text>Ei piirrettä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_DIRECTION">
+			<Text>Ei suuntaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
+			<Text>Koillinen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
+			<Text>Itä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
+			<Text>Kaakko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
+			<Text>Lounas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
+			<Text>Länsi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
+			<Text>Luode</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_RESOURCE">
+			<Text>Ei luonnonvaraa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
+			<Text>Ei rakennetta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_NO_ROUTE">
+			<Text>Ei tietä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_REVEAL_ALL">
+			<Text>Näytä kaikki</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

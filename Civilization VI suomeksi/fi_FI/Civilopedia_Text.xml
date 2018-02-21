@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Sections -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_TITLE">
+			<Text>Konseptit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_TITLE">
+			<Text>Kansat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_LEADERS_TITLE">
+			<Text>Hallitsijat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_TITLE">
+			<Text>Kaupunkivaltiot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_DISTRICTS_TITLE">
+			<Text>Kaupunkialueet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_BUILDINGS_TITLE">
+			<Text>Rakennukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_WONDERS_TITLE">
+			<Text>Ihmeet ja projektit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITS_TITLE">
+			<Text>Yksiköt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_TITLE">
+			<Text>Yksiköiden ylennykset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
+			<Text>Merkittävät henkilöt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
+			<Text>Tekniikat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CIVICS_TITLE">
+			<Text>Normit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_TITLE">
+			<Text>Hallinnot ja linjaukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_TITLE">
+			<Text>Uskonnot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_TITLE">
+			<Text>Maasto ja piirteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_TITLE">
+			<Text>Luonnonvarat ja resurssit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_IMPROVEMENTS_TITLE">
+			<Text>Rakenteet ja reitit</Text>
+		</Replace>
+		<!-- Common page text -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_INTRO_TITLE">
+			<Text>Esittely</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_TITLE">
+			<Text>Peruskonseptit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CONCEPTS_GETTING_STARTED_TITLE">
+			<Text>Pelin perusteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_HISTORY_TITLE">
+			<Text>Historiallinen tausta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_CAPSULE_TITLE">
+			<Text>Yhteenveto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_DETAILED_TITLE">
+			<Text>Yksityiskohdat</Text>
+		</Replace>
+		<!-- Common chapter header -->
+		<Replace Language="en_US" Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
+			<Text>Esittely</Text>
+		</Replace>
+		<!-- Page group text>-->
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
+			<Text>Kulturellit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_INDUSTRIAL_NAME">
+			<Text>Teolliset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_MILITARISTIC_NAME">
+			<Text>Sotilaalliset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_RELIGIOUS_NAME">
+			<Text>Uskonnolliset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCIENTIFIC_NAME">
+			<Text>Tieteelliset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_TRADE_NAME">
+			<Text>Kaupalliset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_TERRAINS_NAME">
+			<Text>Maastot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_FEATURES_NAME">
+			<Text>Piirteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_FEATURES_PAGEGROUP_NATURAL_WONDERS_NAME">
+			<Text>Luonnonihmeet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOVERNMENTS_NAME">
+			<Text>Hallinnot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
+			<Text>Sotilaslinjaukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_ECONOMIC_POLICES_NAME">
+			<Text>Talouslinjaukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DIPLOMATIC_POLICIES_NAME">
+			<Text>Diplomaattiset linjaukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GREATPEOPLE_POLICIES_NAME">
+			<Text>Merkittävien henkilöiden linjaukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_WILDCARD_POLICIES_NAME">
+			<Text>Villit kortit (linjauksissa)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_IMPROVEMENTS_NAME">
+			<Text>Rakenteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_IMPROVEMENTS_PAGEGROUP_ROUTES_NAME">
+			<Text>Reitit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_RELIGIONS_NAME">
+			<Text>Historialliset uskonnot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_PANTHEON_BELIEFS_NAME">
+			<Text>Kantauskomukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_WORSHIP_BELIEFS_NAME">
+			<Text>Palvontauskomukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOLLOWER_BELIEFS_NAME">
+			<Text>Seuraajauskomukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_FOUNDER_BELIEFS_NAME">
+			<Text>Perustajauskomukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RELIGIONS_PAGEGROUP_ENHANCER_BELIEFS_NAME">
+			<Text>Vahvistavat uskomukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
+			<Text>Hyödylliset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
+			<Text>Ylelliset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_STRATEGIC_NAME">
+			<Text>Strategiset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_ARTIFACT_NAME">
+			<Text>Artefaktit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_WONDERS_NAME">
+			<Text>Ihmeet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_WONDERS_PAGEGROUP_PROJECTS_NAME">
+			<Text>Projektit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PEDIA_UNITPROMOTIONS_PAGEGROUP_UNIT_ABILITIES_NAME">
+			<Text>Yksikön kyvyt</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

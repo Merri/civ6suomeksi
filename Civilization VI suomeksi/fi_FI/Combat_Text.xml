@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_GRAMMAR_A_AN">
+			<Text>{1}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GRAMMAR_A_AN_WITH_ICON">
+			<Text>{2} {1}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GRAMMAR_UPPER_A_AN">
+			<Text>{1}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GRAMMAR_UPPER_A_AN_WITH_ICON">
+			<Text>{2} {1}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_MAKE_RANGED_ATTACK">
+			<Text>Hyökkää kaupungilla!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
+			<Text>{2_UnitName} ({5_Num} vahinkoa) tuhosi {3_EnemyAdjective} {4_EnemyUnitName[3]} torjutessaan hyökkäyksen!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
+			<Text>{2_CityName} ({5_Num} vahinkoa) tuhosi {3_EnemyAdjective} {4_EnemyUnitName[3]} torjutessaan hyökkäyksen!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
+			<Text>{1_CityName} on vallattu vihollisen {2_UnitName[3]} toimesta!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
+			<Text>{1_UnitName} ({2_Num} vahinkoa) valtasi viholliskaupungin {3_CityName}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
+			<Text>{1_UnitName} kaappasi viholliselta {2_UnitName[3]}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
+			<Text>{1_UnitName} kaapattiin vihollisen {2_UnitName[3]} toimesta!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
+			<Text>{1_UnitName} ({2_Num} vahinkoa) tuhosi vihollisen {3_UnitName[3]}!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
+			<Text>{1_UnitName} kuoli hyökätessään vihollisen {2_EnUName[3]} kimppuun!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
+			<Text>{1_UnitName} kuoli hyökätessään vihollisen {2_EnUName[3]} ({3_Num} vahinkoa) torjuntaan!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
+			<Text>{1_UnitName} kuoli hyökätessään vihollisen {2_EnUName[3]} ({3_Num} vahinkoa) kimppuun!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
+			<Text>{1_UnitName} kuoli hyökätessään viholliskaupunkiin {2_EnUName} ({3_Num} vahinkoa)!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
+			<Text>{2_UnitName} ({3_Num} vahinkoa) kärsi hyökätessään vahinkoa {4_EnemyAdjective} {5_EnemyUnitName[3]} toimesta!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
+			<Text>{2_UnitName} ({3_Num} vahinkoa) tuli hyökätessään torjutuksi {4_EnemyAdjective} {5_EnemyUnitName[3]} ({6_Num} vahinkoa) toimesta!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
+			<Text>{1_UnitName} ({2_Num} vahinkoa) hyökkäsi vihollisen {3_EnUName[3]} ({4_Num} vahinkoa) kimppuun!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
+			<Text>{1_UnitName} ({2_Num} vahinkoa) hyökkäsi viholliskaupunkiin {3_CityName} ({4_Num} vahinkoa)!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
+			<Text>{1_UnitName} vetäytyi vihollisen meleehyökkäyksen tieltä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
+			<Text>{1_UnitName} ({2_Num} vahinkoa) puolustautui vihollisen {3_EnUName[3]} ({4_Num} vahinkoa) hyökätessä!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
+			<Text>{1_UnitName} ({2_Num} vahinkoa) torjui vihollisen {3_EnUName[3]} ({4_Num} vahinkoa) hyökkäyksen!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
+			<Text>{2_UnitName} tuhoutui torjutessaan {4_EnemyAdjective} {5_EnemyUnitName[3]} ({6_Num} vahinko) hyökkäyksen!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
+			<Text>{2_UnitName} tuhoutui vastaanottaessaan {3_EnemyAdjective} {4_EnemyUnitName[3]} ({5_Num} vahinkoa) hyökkäystä!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
+			<Text>{1_UnitName} tulitti vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
+			<Text>{1_UnitName} iski vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
+			<Text>{1_UnitName} pommitti vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
+			<Text>{1_UnitName} tuli vihollisen {2_EnUName[3]} pommittamaksi kärsien {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
+			<Text>{1_UnitName} tulitti vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
+			<Text>{1_UnitName} tuli vihollisen {2_EnUName[3]} tulittamaksi kärsien {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
+			<Text>{1_UnitName} massatuhoasehyökkäys onnistui!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
+			<Text>{1_UnitName} ei onnistunut massatuhoasehyökkäyksessä korkean vahingon vuoksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
+			<Text>{1_EnemyAdjective} {2_EnemyUnitName[3]} massatuhoasehyökkäystä ei kyetty estämään!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
+			<Text>{1_EnemyAdjective} {2_EnemyUnitName[3]} massatuhoasehyökkäys estettiin aiheuttaen {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
+			<Text>{1_UnitName} tuhoutui naamioituneen {2_EnUName[3]} toimesta ({3_Num} vahinkoa)!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
+			<Text>{2_Name} kärsi {3_Num} vahinkoa {1_UnitName[3]} hyökkäyksestä!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
+			<Text>{2_Name} kärsi {3_Num} vahinkoa vihollisen {1_UnitName[3]} hyökkäyksestä!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
+			<Text>{2_Name} kärsi {3_Num} vahinkoa ja {4_Num} vahinkoa puolustukseensa {1_UnitName[3]} hyökkäyksestä!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
+			<Text>{1_Name} kärsi {4_Num} vahinkoa puolustukseensa vihollisen {2_EnUName[3]} hyökkäyksestä aiheuttaen {3_Num} vahinkoa!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
+			<Text>{1_Name} tuhosi tulituksellaan vihollisen {2_EnUName[3]}! ({3_Damage} vahinkoa)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_DISTRICT_BOMBARDED_ENEMY">
+			<Text>{1_Name} tulitti vihollisen {2_EnUName[3]} niskaan! ({3_Damage} vahinkoa)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
+			<Text>{2_EnUName} aiheutti {3_Num} vahinkoa tulittaessaan {1_Name[3]} niskaan!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_ICBM_DESTROYED">
+			<Text>Mannertenvälinen ohjus torjuttu ja tuhottu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLUNDER_UNIT_HEALED">
+			<Text>{1_Name} hoivasi itseään ryövätessään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLUNDER_CULTURE">
+			<Text>Saimme {1_Num} [ICON_Culture] kulttuuria ryöväyksestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLUNDER_FAITH">
+			<Text>Saimme {1_Num} [ICON_Faith] uskoa ryöväyksestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLUNDER_GOLD">
+			<Text>Saimme {1_Num} [ICON_Gold] kultaa ryöväyksestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLUNDER_SCIENCE">
+			<Text>Saimme {1_Num} [ICON_Science] tiedettä ryöväyksestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KILL_CULTURE">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KILL_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KILL_FAITH_PLUS">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} {2_Religion}[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KILL_FAITH_MINUS">
+			<Text>[COLOR_RED]-{1_Num} {2_Religion}[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KILL_GOLD">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KILL_SCIENCE">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KILL_GREATPERSON_BONUS">
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num} {2_GreatPerson[3]} pistettä[ENDCOLOR]</Text>
+		</Replace>
+		<!-- Damage Message -->
+		<Replace Language="en_US" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] kestävyys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] kestävyys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] puolustukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] puolustukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_HEADER">
+			<Text>KAUPUNKI KAAPATTU</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_TRADED">
+			<Text>KAUPUNKI KAUPATTU</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_NAME_LABEL">
+			<Text>Kaupungin nimi:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_POPULATION_LABEL">
+			<Text>Väestö:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_DISTRICTS_LABEL">
+			<Text>Kaupunkialueita:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+			<Text>Kaupungin vapauttaminen palauttaa sen aiemman omistajan haltuun mahdollisesti palauttaen samalla kansakunnan mukaan peliin.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
+			<Text>Kaupungin vapauttaminen antaa [COLOR_MEDIUM_GREEN]MERKITTÄVÄN VÄHENNYKSEN[ENDCOLOR] aiemmin kärsittyihin sodanlietsojan haittoihin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
+			<Text>Pidä kaupunki osana valtakuntaamme. Se on vähemmän tuottoisa miehitetty kaupunki, kunnes sen sodanjälkeisestä asemasta on neuvoteltu rauhansopimuksessa.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
+			<Text>Pidä kaupunki valtakuntamme osana.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
+			<Text>Sodanlietsojan haitta tämän kaupungin pitämisestä on: {1_WarmongerLevel}[NEWLINE][NEWLINE]Sodan päätyttyä haitta poistetaan tai tuplataan riippuen kaupungin kohtalosta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+			<Text>Sodanlietsojan haitta pelaajan viimeisen kaupungin pitämisestä pohjautuu aikakauden yllätyssodan haittaan. Tämä arvo [COLOR_RED]TUPLATAAN[ENDCOLOR] kaupungin kaappauksen tuhotessa kansakunnan (kaupunkivaltiot ovat asia erikseen).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
+			<Text>Polta kaupunki tuhoten kaikki sen kaupunginosat ja rakennukset kartalta. Tämä valinta tulee tehdä kaupungin valtausvuorolla.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
+			<Text>Sodanlietsojan haitta on [COLOR_RED]KOLMINKERTAINEN[ENDCOLOR] kaupungin polttamisesta.[NEWLINE][NEWLINE]Sodanlietsojan haitta tämän kaupungin polttamisesta on: {1_WarmongerLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+			<Text>Sodanlietsojan haitta on [COLOR_RED]KOLMINKERTAISESTI[ENDCOLOR] tämän aikakauden muodollisen sodan haitan verran jos poltamme tämän pelaajan viimeisen kaupungin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
+			<Text>Emme voi polttaa kansakunnan alkuperäistä pääkaupunkia emmekä kaupunkia jonka me tai liittolaisemme on perustanut tai omisti sodan alussa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_LIBERATE_FOUNDER_BUTTON_LABEL">
+			<Text>Vapauta perustajalle ({1_CivName})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_LIBERATE_PREWAR_OWNER_BUTTON_LABEL">
+			<Text>Vapauta sotaa edeltäneelle ({1_CivName})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_KEEP_BUTTON_LABEL">
+			<Text>Pidä kaupunki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RAZE_CITY_RAZE_BUTTON_LABEL">
+			<Text>Polta kaupunki</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

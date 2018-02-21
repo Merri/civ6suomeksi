@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_ROUTE_ANCIENT_ROAD_DESCRIPTION">
+			<Text>Voidaan rakentaa [ICON_TradeRoute] kauppareittien tai sotilasinsinöörien avulla. Kohentaa jokaisen tieruudusta toiseen siirtyvän yksikön [ICON_Movement] liikkuvuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ROUTE_MEDIEVAL_ROAD_DESCRIPTION">
+			<Text>Voidaan rakentaa [ICON_TradeRoute] kauppareittien tai sotilasinsinöörien avulla. Kohentaa jokaisen tieruudusta toiseen siirtyvän yksikön [ICON_Movement] liikkuvuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ROUTE_INDUSTRIAL_ROAD_DESCRIPTION">
+			<Text>Voidaan rakentaa [ICON_TradeRoute] kauppareittien tai sotilasinsinöörien avulla. Kohentaa jokaisen tieruudusta toiseen siirtyvän yksikön [ICON_Movement] liikkuvuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ROUTE_MODERN_ROAD_DESCRIPTION">
+			<Text>Voidaan rakentaa [ICON_TradeRoute] kauppareittien tai sotilasinsinöörien avulla. Kohentaa jokaisen tieruudusta toiseen siirtyvän yksikön [ICON_Movement] liikkuvuutta.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

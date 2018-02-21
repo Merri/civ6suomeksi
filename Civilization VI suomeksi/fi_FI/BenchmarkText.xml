@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Main menu text -->
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_GRAPHICS">
+			<Text>Grafiikan suorituskyky</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI">
+			<Text>Tekoälyn suorituskyky</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_GRAPHICS_TT">
+			<Text>Mittaa tietokoneesi grafiikan suorituskyky</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI_TT">
+			<Text>Mittaa tietokoneesi tekoälyn suorituskyky</Text>
+		</Replace>
+		<!-- Benchmarking UI text -->
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_TIME">
+			<Text>Kesto:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_TURN">
+			<Text>Vuoro:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+			<Text>Vuoron kesto keskimäärin:</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

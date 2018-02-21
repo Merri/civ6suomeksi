@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Ruleset -->
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_RULESET_TITLE">
+			<Text>Tekoälyjästi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_RULESET_TEASER">
+			<Text>Murskaa tekoäly ystävien kera tässä taistelupainotteisessa skenaariossa. Päättyy kun jokainen tekoälypelaaja on voitettu.[NEWLINE]Voiton ehdot[NEWLINE]Päihitä kaikki tekoälyt! Pelin voittaa ihmispelaaja, jolla on eniten tekoälyltä kaapattuja kaupunkeja.</Text>
+		</Replace>
+		<!-- Victories  -->
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_TITLE">
+			<Text>Tekoäly on jyrätty</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_DESC">
+			<Text>Päihitä kaikki tekoälyt! Pelin voittaa ihmispelaaja, jolla on eniten tekoälyltä kaapattuja kaupunkeja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_VICTORY_WIN_BLURB">
+			<Text>"En pelkää tietokoneita: pelkään ettei niitä olisi." —Isaac Asimov</Text>
+		</Replace>
+		<!-- Mod Package Text -->
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_TITLE">
+			<Text>Moninpeliskenaario: tekoälyjästi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_TEASER">
+			<Text>Murskaa tekoäly ystävien kera tässä taistelupainotteisessa skenaariossa. Päättyy kun jokainen tekoälypelaaja on voitettu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMPSTOMP_MOD_DESCRIPTION">
+			<Text>Voiton ehdot[NEWLINE]Päihitä kaikki tekoälyt! Pelin voittaa ihmispelaaja, jolla on eniten tekoälyltä kaapattuja kaupunkeja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_COMPSTOMP_PROGRESS">
+			<Text>Tekoälyltä kaapattuja kaupunkeja {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

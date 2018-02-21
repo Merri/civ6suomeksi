@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Base Menu-->
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY_MOVIE">
+			<Text>Toista video</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_MAIN_MENU">
+			<Text>Päävalikkoon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_EXTENDED_GAME">
+			<Text>Vielä yksi vuoro...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
+			<Text>Seuraava pelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_VICTORY_INFO">
+			<Text>TULOKSET</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING">
+			<Text>ARVOSANA</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY">
+			<Text>KUVAAJAT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_CHAT">
+			<Text>CHATTI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
+			<Text>{1_number}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_POP_SCORE">
+			<Text>Pisteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_LEADER_NAME">
+			<Text>Hallitsijan nimi</Text>
+		</Replace>
+		<!-- Rankings -->
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
+			<Text>Saavutit hallitsijana {1_LeaderName[2]} tason</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Augustus Caesar|Augustus Caesarin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>Otin vastaan tiilisen Rooman ja jätin jälkeeni marmorisen kaupungin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Hammurabi|Hammurabin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>Hallituksen ensimmäinen tehtävä on suojata heikommassa asemassa olevat vahvoilta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Abraham Lincoln|Abraham Lincolnin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>Älä jätä huomiseen mitään, minkä voit tehdä jo tänään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Winston Churchill|Winston Churchillin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>Suuri valta antaa suuren vastuun; pieni vastuu antaa pienemmän vastuun; ja missä ei ole valtaa lainkaan veikkaan ettei ole vastuutakaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Nelson Mandela|Nelson Mandelan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>Todellisten johtajien tulee olla valmiit uhraamaan kaiken kansansa vapauden puolesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Katariina Suuri|Katariina Suuren</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
+			<Text>Valta ilman kansallista luottamusta ei merkitse mitään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
+			<Text>Ashoka|Ashokan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
+			<Text>On kiellettyä parjata toisia lahkoja; uskossaan oikeamielinen antaa heille kunnian siitä, mikä vain on sen antamisen arvoista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
+			<Text>Marcus Aurelius|Marcus Aureliuksen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
+			<Text>Elämän tarkoitus ei ole olla valtavirran puolella, vaan paeta ja löytää itsensä hullujen riveistä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
+			<Text>Lech Wałęsa|Lech Wałęsan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
+			<Text>Kansakuntana meillä on oikeus päättää omista asioistamme ja muodostaa oma tulevaisuutemme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
+			<Text>Hatshepsut|Hatshepsutin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
+			<Text>Kuulkaa te kaikki! Te niin monet kuin teitä on! Kaiken olen tehnyt kuten sydämein on muodostettu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
+			<Text>Charles de Gaulle|Charles de Gaullen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
+			<Text>Olkaamme lujia, autoja ja hartaita; surumme päässä on maailman suurin kunnia - niiden miesten kunnia, jotka eivät antaneet periksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
+			<Text>Eleonoora Akvitanialainen|Eleonoora Akvitanialaisen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
+			<Text>Säälittävä muttei kenenkään säälimä, miksi olen saavuttanut tämän inhottavan vanhuuden tuoman häpeän, minä joka olin kahden kuningaskunnan hallitsija ja kahden kuninkaan äiti? Sisuksiani revitään irti kun perheeni viedään ja poistetaan minusta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
+			<Text>Iivana Julma|Iivana Julman</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
+			<Text>Parranajo on synti jota kaikkien marttyyrienkaan veri ei puhdista. Se on kuin Jumalan kuvan turmelu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
+			<Text>Herbert Hoover|Herbert Hooverin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
+			<Text>Tämä maa tarvitsee kunnon naurua … luulisin että ongelmamme olisivat ohitse jos joka kymmenes päivä joku keksisi hyvän vitsin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
+			<Text>Ludvig XVI|Ludvig XVI:n</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
+			<Text>Aina ollessani korkeassa virassa saan aikaiseksi sata tyytymätöntä miestä ja yhden kiittämättömän.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
+			<Text>Neville Chamberlain|Neville Chamberlainin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
+			<Text>Rauha aikanamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
+			<Text>Nero|Neron</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
+			<Text>Mies joka on aina valmis uskomaan hänelle kerrotun ei tule koskaan pärjäämään hyvin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
+			<Text>Warren G. Harding|Warren G. Hardingin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
+			<Text>Pahin taipumuksemme on odottaa liikoja hallitukselta ja samalla tehdä liian vähän sen hyväksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
+			<Text>Ethelred Neuvoton|Ethelred Neuvottoman</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
+			<Text>Pyhän kolminaisuuden nimeen vannon kristityille alamaisilleni nämä kolme asiaa: ensinnäkin ylläpidän todellisen rauhan niin Jumalan kirkolle että kaikille kristityille alamaisilleni; toisekseen kiellän kaiken ryöstelyn ja epäoikeudenmukaisuuden kaikilta miehiltä kaikissa tilanteissa; kolmanneksi lupaan ja edellytän oikeuden ja armon kaikissa tuomioissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
+			<Text>Maria Verinen|Maria Verisen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
+			<Text>Teihin, oi Herra, minä luotan; älköön mikään saata minua pahaan jamaan: jos Jumala on meitä varten, mikä muka voisi olla meitä vastaan?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
+			<Text>Dan Quayle|Dan Quaylen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
+			<Text>Olemme valmiit mitä tahansa odottamatonta tapahtumaa varten - tapahtuipa se tahi ei.</Text>
+		</Replace>
+		<!-- Replay -->
+		<Replace Language="en_US" Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
+			<Text>Ei kuvaajan tietoja</Text>
+		</Replace>
+		<!-- Graph Data Sets -->
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_CULTURE_NAME">
+			<Text>Kulttuuria vuorossa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_CULTURE_DESC">
+			<Text>Vuorossa kerätyn kulttuurin määrä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
+			<Text>Kultavaranto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
+			<Text>Kultaa pelaajan varannossa yhteensä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
+			<Text>Perustettuja kaupunkeja yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
+			<Text>Rakennettuja kaupunkialueita yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
+			<Text>Rakennettuja ihmeitä yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
+			<Text>Pykättyjä rakennuksia yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
+			<Text>Vallattuja kaupunkeja yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
+			<Text>Menetettyjä kaupunkeja yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
+			<Text>Tuhottuja kaupunkeja yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
+			<Text>Julistettuja sotia yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
+			<Text>Voitettuja sotia yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
+			<Text>Taisteluja yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
+			<Text>Tuhottuja yksiköitä yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
+			<Text>Menetettyjä yksiköitä yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
+			<Text>Perustettuja uskontoja yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
+			<Text>Värvättyjä merkittäviä henkilöitä yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
+			<Text>Sodanjulistuksia pelaajaa vastaan yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
+			<Text>Perustettuja kantauskoja yhteensä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
+			<Text>Pisteitä vuorossa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
+			<Text>Tiedettä vuorossa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
+			<Text>Uskoa vuorossa</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

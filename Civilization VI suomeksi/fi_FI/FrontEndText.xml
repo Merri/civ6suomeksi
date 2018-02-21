@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Generic -->
+		<Replace Language="en_US" Tag="LOC_GENERIC_TEST">
+			<Text>Tomáš</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GENERIC_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_YES_BUTTON">
+			<Text>Kyllä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_BUTTON">
+			<Text>Ei</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OK_BUTTON">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEFAULT_BUTTON">
+			<Text>Oletus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GENERIC_CONFIRM_BUTTON">
+			<Text>Vahvista</Text>
+		</Replace>
+		<!-- Front End Popups -->
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
+			<Text>Grafiikkakortin kykyjen arviointi ei onnistunut.[NEWLINE][NEWLINE]Määritä grafiikka-asetukset itse.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
+			<Text>Grafiikka-ajuri on vanhempi kuin ensimmäinen suositeltu versio.[NEWLINE][NEWLINE]Päivitä ajuri viimeisimpään versioon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
+			<Text>Älä häiritse toiste.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
+			<Text>Muistuta myöhemmin uudelleen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
+			<Text>Grafiikka-asetuksia on muutettu. Asetukset-valikon kautta voit sekä tarkastaa että muuttaa asetuksen.</Text>
+		</Replace>
+		<!-- Main Menu-->
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_RESUME_GAME">
+			<Text>Jatka peliä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAY_CIVILIZATION_6">
+			<Text>Pelaa heti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SINGLE_PLAYER">
+			<Text>Yksinpeli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAY_MULTIPLAYER">
+			<Text>Moninpeli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOAD_GAME">
+			<Text>Lataa peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOAD_CONFIG">
+			<Text>Lataa asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOAD_MAP">
+			<Text>Lataa kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPEN_DIRECTORY">
+			<Text>Avaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_FILE_SELECTED">
+			<Text>Tiedostoa ei ole valittu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_OPTIONS">
+			<Text>Pelin asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MODS">
+			<Text>Modit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MY2K_LOGIN">
+			<Text>My2K-kirjautuminen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
+			<Text>Sulje Civilization VI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_BENCH">
+			<Text>Suorituskykymittaus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_CREDITS">
+			<Text>Tekijät</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_TUTORIAL">
+			<Text>Tutoriaali</Text>
+		</Replace>
+		<!-- Load / Save Menus -->
+		<Replace Language="en_US" Tag="LOC_DELETE_BUTTON">
+			<Text>Poista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BACK_BUTTON">
+			<Text>Takaisin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AUTOSAVES">
+			<Text>Välitallennukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_STEAMCLOUD">
+			<Text>Pilvi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_SAVED_GAMES">
+			<Text>Ei tallennettuja pelejä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_SAVED_CONFIGS">
+			<Text>Ei tallennettuja asetuksia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_SAVED_MAPS">
+			<Text>Ei tallennettuja karttoja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SORTBY_NAME">
+			<Text>Järjestä nimen mukaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SORTBY_LASTMODIFIED">
+			<Text>Järjestä edellisen muutoksen mukaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOAD_MENU_MODS">
+			<Text>MODIT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOAD_MENU_DLC">
+			<Text>Lisäosat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SAVE_GAME">
+			<Text>Tallenna peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SAVE_MAP_BUTTON">
+			<Text>Tallenna kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SAVE_CONFIG">
+			<Text>Tallenna asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
+			<Text>Pilvitallennusten suurin sallittu määrä on saavutettu. Ylikirjoita tai poista tallennus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
+			<Text>Tiedostonimi ei kelpaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
+			<Text>Odotetaan pilven tallennuslistaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_TITLE_TXT">
+			<Text>Vahvista ylikirjoitus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
+			<Text>Vahvista poisto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_CHOICE">
+			<Text>Oletko varma?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_EXIT_TXT">
+			<Text>Haluatko varmasti poistua pelistä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_TXT">
+			<Text>Tämä poistaa tallennuksen pysyvästi. Oletko varma poistosta?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
+			<Text>Vahvista tiedoston lataus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_LOAD_TXT">
+			<Text>Kaikki tallentamattoman edistyminen pelissä menetetään. Haluatko varmasti jatkaa?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OVERWRITE_TXT">
+			<Text>Tämä ylikirjoittaa tämänhetkisen tallennuksen. Oletko varma ylikirjoittamisesta?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DELETE_MOD_TXT">
+			<Text>Tämä poistaa modin pysyvästi. Oletko varma poistamisesta?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_DISABLE_MOD">
+			<Text>Haluatko varmasti ottaa modin pois käytöstä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WILL_ALSO_DISABLE_MODS">
+			<Text>Myös seuraavat modit otetaan pois käytöstä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_ENABLE_MOD">
+			<Text>Haluatko varmasti ottaa tämän modin käyttöön?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WILL_ALSO_ENABLE_MODS">
+			<Text>Myös seuraavat modit otetaan käyttöön:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EFFECTED_MODS_TXT">
+			<Text>Vaikuttaa näihin modeihin:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_VERSION_AVAILABLE">
+			<Text>Versio {1_VersionNumber} on saatavilla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_CURRENT_TURN">
+			<Text>VUORO[ICON_Turn] {1}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
+			<Text>Skenaarion kuvaus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
+			<Text>Pelin asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
+			<Text>Säännöt:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
+			<Text>Kartan tyyppi:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
+			<Text>Kartan koko:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
+			<Text>Maailman ikä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
+			<Text>Tallennusversio:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
+			<Text>Lisäasetukset:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_NO_MAP_DATA">
+			<Text>EI KARTTATIETOA</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
+			<Text>Tuner käytössä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADSAVE_QUICK_SAVE">
+			<Text>(pikatallennus)</Text>
+		</Replace>
+		<!-- Advanced Game Setup -->
+		<Replace Language="en_US" Tag="LOC_NETWORK_NAME_TT">
+			<Text>Nimi verkossa[NEWLINE]Muille pelaajille näytettävä nimi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NUMBER_OF_CIVILIZATIONS">
+			<Text>Kansakuntien määrä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYERS">
+			<Text>Pelaajat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TEAM">
+			<Text>Tiimi|Tiimit</Text>
+			<Plurality>1|2</Plurality>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TEAM_GENERIC_NAME">
+			<Text>Tiimi {1_Number}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TEAM_UNKNOWN_NAME">
+			<Text>Tuntematon tiimi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BACK">
+			<Text>Takaisin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_HANDICAP">
+			<Text>Pelin vaikeustaso</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_OPTIONS">
+			<Text>Kartan asetukset</Text>
+		</Replace>
+		<!-- Multiplayer Game Abandoned Popup -->
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_KICKED">
+			<Text>Isäntä potkaisi sinut pelistä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
+			<Text>Yhteys pelin isäntään on katkennut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_ROOM_FULL">
+			<Text>Pelissä on suurin sallittu määrä pelaajia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
+			<Text>Versio ei täsmää isännän kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ERROR">
+			<Text>Lisäsisällön käyttöönotto ei onnistunut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_MISSING">
+			<Text>Lisäsisältö on pakollinen, mutta sitä ei ole ostettu tai asennettu.[NEWLINE]Sisältö:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+			<Text>Steam Workshop esti pääsyn vaadittuun lisäsisältöön.[NEWLINE]Sisältö:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
+			<Text>Tämä peli vaatii lisäsisältöä, jota ei ole asennettu. Lisäsisällön automaattinen lataus on tällä hetkellä pois käytöstä. Latauksen voi käydä sallimassa peliasetuksissa.[NEWLINE]Sisältö:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
+			<Text>Verkkoyhteys on katkennut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
+			<Text>Virhe liityttäessä moninpeliin.</Text>
+		</Replace>
+		<!-- Multiplayer Select Screen-->
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
+			<Text>{1_PlayerName}-peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STANDARD_GAME">
+			<Text>Standardi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
+			<Text>Moninpeli jossa pelaajat pelaavat vuoronsa keskenään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_GAME">
+			<Text>Internet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
+			<Text>[ICON_CheckFail] Internet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
+			<Text>Moninpeli internetissä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
+			<Text>Internet-pelit eivät ole käytettävissä Steamin ollessa alhaalla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LAN_GAME">
+			<Text>Paikallisverkko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
+			<Text>Moninpeli paikallisverkon välityksellä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
+			<Text>Kuuma jakkara</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
+			<Text>Moninpeli tällä koneella; vuorot pelaaja kerrallaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MENU_BACK">
+			<Text>Takaisin</Text>
+		</Replace>
+		<!-- Multiplayer Chat Commands -->
+		<Replace Language="en_US" Tag="LOC_CHAT_HELP_COMMAND_HINT">
+			<Text>[COLOR:ChatMessage_Help]Kirjoita /help saadaksesi chattikomentojen ohjeen.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CHAT_HELP_COMMAND_TEXT">
+			<Text>[COLOR:ChatMessage_Help]CHATTIKOMENNOT[NEWLINE]/t Lähetä viesti yleiselle kanavalle[NEWLINE]/w [PlayerName] Kuiskaa viesti pelaajalle[NEWLINE]/r Vastaa kuiskaukseen[NEWLINE]/help Näyttää tämän ohjeen[ENDCOLOR]</Text>
+		</Replace>
+		<!-- Multiplayer Lobby Screen -->
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
+			<Text>PÄIVITÄ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
+			<Text>Hae viimeisin pelilistaus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
+			<Text>PYSÄYTÄ PÄIVITYS</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
+			<Text>Keskeyttää pelilistauksen haun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_BACK">
+			<Text>TAKAISIN</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_END_GAME">
+			<Text>POISTA</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
+			<Text>Päätetään peli...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
+			<Text>Pelin päättämisessä tapahtui virhe.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
+			<Text>Pelin käynnistäminen ei onnistunut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_JOIN_GAME">
+			<Text>Liity peliin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MISC_BACK">
+			<Text>Takaisin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
+			<Text>Yhdistä IP-osoitteeseen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
+			<Text>Yhdistää pitboss-peliin käyttäen julkista IP-osoitetta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CREATE_GAME">
+			<Text>Luo peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
+			<Text>Vahvista asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOST_GAME">
+			<Text>MONINPELIN PELIASETUKSET</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
+			<Text>Käynnistä uusi moninpeli.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
+			<Text>Luo moninpeli käyttäen aiempaa pelitallennusta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_FRIENDS">
+			<Text>Ystävät</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
+			<Text>Näytä ystävälista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_SETUP">
+			<Text>PELIASETUKSET</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
+			<Text>PELIN YHTEENVETO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_NAME">
+			<Text>Pelin nimi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_GAME_RULESET">
+			<Text>Säännöt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AD_SETUP_MAP_TYPE">
+			<Text>Kartan tyyppi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AD_SETUP_GAME_SPEED">
+			<Text>Pelin nopeus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AD_SETUP_MAP_SIZE">
+			<Text>Kartan koko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_PLAYERS">
+			<Text>Pelaajat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DLCHOSTED">
+			<Text>Lisäosat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_MODSHOSTED">
+			<Text>Modit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_STAGING_ROOM_LOADING_SAVE">
+			<Text>Ladataan tallennettu peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
+			<Text>Peli on käynnissä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
+			<Text>INTERNET-PELIT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LAN_LOBBY">
+			<Text>PAIKALLISVERKKOPELIT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_MODS">
+			<Text>Lisäsisältö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
+			<Text>Virallinen sisältö:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
+			<Text>Yhteisön sisältö:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_UNKNOWN">
+			<Text>Tuntematon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
+			<Text>Tuntematon kartan koko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_TRUE">
+			<Text>Totta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_FALSE">
+			<Text>Tarua</Text>
+		</Replace>
+		<!-- Options -->
+		<Replace Language="en_US" Tag="LOC_CONFIRM_KEY_BINDING">
+			<Text>Vahvista näppäinasetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM">
+			<Text>Vahvista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_GAME">
+			<Text>Peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_GRAPHICS">
+			<Text>Grafiikka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUDIO">
+			<Text>Ääni</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LANGUAGE">
+			<Text>Kieli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE">
+			<Text>Käyttöliittymä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_BINDINGS">
+			<Text>Näppäinasetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_APPLICATION">
+			<Text>Ohjelma</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_GAME_OPTIONS">
+			<Text>Pelin asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
+			<Text>Grafiikka-asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUDIO_OPTIONS">
+			<Text>Ääniasetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
+			<Text>Kielivalinnat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
+			<Text>Käyttöliittymäasetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
+			<Text>Näppäinasetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_QUICK_COMBAT">
+			<Text>Pikataistelu:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_QUICK_MOVEMENT">
+			<Text>Pikaliikkuminen:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTO_END_TURN">
+			<Text>Vuoron lopetus heti:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
+			<Text>Kaupunkien tulitusten vuoroesto:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
+			<Text>Päällä ollessaan käyttämättömät kaupunkien tulitukset estävät vuoronvaihdot.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TIME_OF_DAY">
+			<Text>Päivän aika:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUNER">
+			<Text>Tuner (estää saavutukset):</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TUTORIAL">
+			<Text>Neuvonantaja:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
+			<Text>Vuorot välitallennusten välillä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
+			<Text>Säilytettävien välitallennusten määrä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
+			<Text>Pelaajanimi paikallisverkossa:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
+			<Text>Lataa lisäsisältö automaattisesti:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
+			<Text>Yhteisön luoma lisäsisältö ladataan automaattisesti, mikäli se vaaditaan liityttävässä moninpelissä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
+			<Text>Steam-ohjaimen asetukset tehdään Steamin omalla käyttöliittymällä. Escape, vasen hiiren painike ja oikea hiiren painike eivät ole käytettävissä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
+			<Text>Ensisijainen toiminto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_BIND_HEADER_ALT">
+			<Text>Vaihtoehtoinen toiminto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
+			<Text>Ohjelman asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
+			<Text>Puhuttu kieli:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
+			<Text>Aloitus strategisessa näkymässä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
+			<Text>Kirjallinen kieli:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MASTER_VOLUME">
+			<Text>Yleinen äänenvoimakkuus:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MUSIC_VOLUME">
+			<Text>Musiikin voimakkuus:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_EFFECTS_VOLUME">
+			<Text>Efektien voimakkuus:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_AMBIENT_VOLUME">
+			<Text>Taustaäänien voimakkuus:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_SPEECH_VOLUME">
+			<Text>Puheen voimakkuus:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_MUTE_FOCUS">
+			<Text>Mykistä kun peli ei ole aktiivinen:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_OPTIONS_CLEAR">
+			<Text>Tyhjennä</Text>
+		</Replace>
+		<!-- Front End Popop -->
+		<Replace Language="en_US" Tag="LOC_CLOSE">
+			<Text>Sulje</Text>
+		</Replace>
+		<!-- Multiplayer Joining Room Screen -->
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
+			<Text>ODOTA HETKI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_JOINING_ROOM">
+			<Text>Liitytään huoneeseen...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_JOINING_HOST">
+			<Text>Haetaan isännän tietoja...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
+			<Text>Määritellään pelin sisältöä...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
+			<Text>Yhdistetään pelaajiin...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_ROOM_FULL">
+			<Text>Liittyminen ei onnistu: pelissä on jo suurin sallittu määrä pelaajia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_JOIN_FAILED">
+			<Text>Virhe liityttäessä moninpeliin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_ROOM_GAME_STARTED">
+			<Text>Liittyminen ei onnistu: peli on jo käynnistynyt.</Text>
+		</Replace>
+		<!-- Multiplayer Staging Room Screen -->
+		<Replace Language="en_US" Tag="LOC_MP_SWAP_PLAYER">
+			<Text>Vaihda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
+			<Text>Vaihda tähän pelaajapaikkaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
+			<Text>Vaihto tähän pelaajapaikkaan, mikäli myös toinen pelaaja vaihtaa paikkansa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_KICK_PLAYER">
+			<Text>Potki pelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_STAGING_ROOM">
+			<Text>Kokoontumishuone</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BUTTON">
+			<Text>Valmis</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ARE_YOU_READY">
+			<Text>Oletko valmis?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
+			<Text>Peliasetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
+			<Text>Lisäsisältö</Text>
+		</Replace>
+		<!-- Multiplayer Status Strings -->
+		<Replace Language="en_US" Tag="LOC_READY_LABEL">
+			<Text>Valmis!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOT_READY">
+			<Text>En ole</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_INVALID_SLOT_MAP_SIZE">
+			<Text>[COLOR:StagingStatus_Invalid]Kartan koolle sopimaton[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
+			<Text>Tämä pelaajapaikka ei ole käytettävissä nykyisellä kartan koolla. Pyydä isäntää kasvattamaan kartan kokoa tai vaihda käyttökelpoiseen pelaajapaikkaan.</Text>
+		</Replace>
+		<!-- Multiplayer Status Strings END -->
+		<Replace Language="en_US" Tag="LOC_JOIN">
+			<Text>Liity!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_OPEN">
+			<Text>Avoin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_OPEN_TT">
+			<Text>Liittyvät pelaajat voivat asettua avoimiin paikkoihin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMANREQ">
+			<Text>Avoin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMANREQ_TT">
+			<Text>Avoimet paikat vaativat ihmispelaajan, jotta peli voi alkaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_HOST">
+			<Text>[ICON_Host] Isäntä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_PLAYER">
+			<Text>Pelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_COMPUTER">
+			<Text>Tietokone</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_OPEN">
+			<Text>Avoin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_AI">
+			<Text>Tekoäly</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_AI_TT">
+			<Text>Tekoälypelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_CLOSED">
+			<Text>Suljettu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_CLOSED_TT">
+			<Text>Pelaajat eivät voi käyttää suljettuja paikkoja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMAN">
+			<Text>Ihminen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMAN_TT">
+			<Text>Ihmispelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
+			<Text>Nimetön</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
+			<Text>{1_Num}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CREATE_NEW_TEAM">
+			<Text>Uusi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_TEAM_HEADER">
+			<Text>Joukkue</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
+			<Text>Vaikaustaso</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_READY_HEADER">
+			<Text>Valmis?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
+			<Text>Kansa ja hallitsija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
+			<Text>Peli alkaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
+			<Text>Pelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
+			<Text>Salasana</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
+			<Text>Uudelleen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
+			<Text>Salasanat täsmäävät.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
+			<Text>Salasanat eivät täsmää.</Text>
+		</Replace>
+		<!-- Staging Room Ready Button-->
+		<Replace Language="en_US" Tag="LOC_READY_UNSUPPORTED">
+			<Text>Ei tuettu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_UNSUPPORTED_TT">
+			<Text>Pelaajamäärää ei tueta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
+			<Text>Joukkuevirhe</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
+			<Text>Peliä ei voi aloittaa: kaikki kansat ovat samassa joukkueessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
+			<Text>Peliä ei voi aloittaa: pelaajia on liittymässä peliin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
+			<Text>Karttakokovirhe</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
+			<Text>Peliä ei voi aloittaa. Pelaaja on asettunut pelaajapaikkaan, joka ei ole käypä nykyisellä karttakoolla. Nykyinen kartta tukee vain {1_number} pelaajaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
+			<Text>Ei kylliksi pelaajia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
+			<Text>Peliä ei voi aloittaa: kaksi pelaajaa vaaditaan aloittamiseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
+			<Text>Pelaajia liittyy peliin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
+			<Text>Odotetaan peliin liittyviä pelaajia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
+			<Text>Pelaajalta puuttuu modeja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
+			<Text>Odotetaan pelaajia, joilla ei ole tämän pelin pelaamiseen vaadittavia modeja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
+			<Text>Salasanat eivät täsmää</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
+			<Text>Kaikkien salasanojen tulee täsmätä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
+			<Text>Ei ihmispelaajia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
+			<Text>Vaaditaan ainakin yksi ihmispelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
+			<Text>Joukkuevirhe</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
+			<Text>Ainakin kahden pelaajan tulee olla eri joukkueissa</Text>
+		</Replace>
+		<!-- Staging Room Invite Button -->
+		<Replace Language="en_US" Tag="LOC_INVITE_BUTTON">
+			<Text>Kutsu ystäviä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_INVITE_BUTTON_TT">
+			<Text>Kutsu ystäviä Steamin kaverilistalta tähän peliin.</Text>
+		</Replace>
+		<!-- Confirm Kick Popup -->
+		<Replace Language="en_US" Tag="LOC_CANCEL_BUTTON">
+			<Text>Peruuta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACCEPT_BUTTON">
+			<Text>Hyväksy</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
+			<Text>Tuleeko {1_player} potkia tästä pelistä?</Text>
+		</Replace>
+		<!-- Edit Hotseat Player Popup -->
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
+			<Text>Muokkaa kuuman jakkaran pelaajaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_EDIT_PLAYER">
+			<Text>Muokkaa kuuman jakkaran pelaajaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_PLAYER_NAME">
+			<Text>Pelaajan nimi:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_PASSWORD">
+			<Text>Salasana:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
+			<Text>Salasana uudelleen:</Text>
+		</Replace>
+		<!-- Network Connection Status -->
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTED">
+			<Text>Pelaaja on tällä hetkellä pelissä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connected]Yhdistetty[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_NOTCONNECTED">
+			<Text>Pelaaja ei ole yhdistettynä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Offline]Poissa[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTING">
+			<Text>Pelaaja liittyy peliin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connecting]Liittyy[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_NOT_MOD_READY">
+			<Text>Pelaajalla ei ole tämän pelin pelaamiseen vaadittavia modeja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TIME_MILLISECONDS">
+			<Text>ms</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TIME_SECONDS">
+			<Text>s</Text>
+		</Replace>
+		<!-- Friend Actions  -->
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_PROFILE">
+			<Text>Steam-profiili</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_PROFILE_TT">
+			<Text>Katso tämän ystävän profiilisivu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_CHAT">
+			<Text>Lähetä viesti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_CHAT_TT">
+			<Text>Lähetä viesti tälle ystävälle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_INVITE">
+			<Text>Kutsu peliin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FRIEND_ACTION_INVITE_TT">
+			<Text>Kutsu tämä ystävä peliin.</Text>
+		</Replace>
+		<!-- Friend Status  -->
+		<Replace Language="en_US" Tag="LOC_PRESENCE_ONLINE">
+			<Text>[COLOR:ButtonCS]Online[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_SHELL">
+			<Text>[COLOR:ConnectionStatus_Connected]Päävalikko[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_HOSTING_GAME">
+			<Text>[COLOR:ConnectionStatus_Connected]Isännöi peliä[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_STAGING_ROOM">
+			<Text>[COLOR:ConnectionStatus_Connected]Kokoontumishuone[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_GAME_SP">
+			<Text>[COLOR:ConnectionStatus_Connected]Yksinpeli[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_GAME_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Moninpeli (Online)[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_GAME_LAN">
+			<Text>[COLOR:ConnectionStatus_Connected]Moninpeli (LAN)[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
+			<Text>[COLOR:ConnectionStatus_Connected]Moninpeli (jakkara)[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_INVITED_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Kutsuttu[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_INVITED_OFFLINE">
+			<Text>[COLOR:ButtonCS]Kutsuttu[ENDCOLOR]</Text>
+		</Replace>
+		<!-- Player Connection EVents -->
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
+			<Text>Yhdistetty</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
+			<Text>Poistunut</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
+			<Text>On nyt isäntä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_PLAYER_KICKED_CHAT">
+			<Text>Potkittiin</Text>
+		</Replace>
+		<!-- Multiplayer Chat -->
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CHAT">
+			<Text>CHATTI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_TO_ALL">
+			<Text>Kaikille:</Text>
+		</Replace>
+		<!-- Multiplayer Mod Downloads -->
+		<Replace Language="en_US" Tag="LOC_BYTES">
+			<Text>t</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KILOBYTES">
+			<Text>kt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MEGABYTES">
+			<Text>Mt</Text>
+		</Replace>
+		<!-- Setup -->
+		<Replace Language="en_US" Tag="LOC_SETUP_CREATE_GAME">
+			<Text>Luo peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_CHOOSE_RULESET">
+			<Text>Valitse säännöt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_CHOOSE_SCENARIO">
+			<Text>Valitse skenaario</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_SCENARIOS">
+			<Text>Skenaariot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_SCENARIO">
+			<Text>Skenaario</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_CIVILIZATION">
+			<Text>Valitse kansakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_DIFFICULTY">
+			<Text>Valitse vaikeustaso</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_SPEED">
+			<Text>Valitse nopeus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_TYPE">
+			<Text>Valitse kartan tyyppi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_SIZE">
+			<Text>Valitse kartan koko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DELETE_AI">
+			<Text>Poista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ADVANCED_OPTIONS">
+			<Text>Lisäasetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_VICTORY_CONDITIONS">
+			<Text>Voittamisen ehdot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ADVANCED_OPTIONS">
+			<Text>Lisäasetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EDIT_BUTTON">
+			<Text>Muokkaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ADD_PLAYER">
+			<Text>Lisää pelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ADD_PLAYER_TT">
+			<Text>Lisää pelaajan peliin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ADD_AI_PLAYER">
+			<Text>Lisää tekoäly</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
+			<Text>Lisää tekoälypelaajan peliin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_RESTORE_DEFAULT">
+			<Text>Palauta oletukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
+			<Text>Palauttaa kaikki asetukset oletusarvoihinsa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_START_GAME">
+			<Text>Aloita peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_START_WORLD_BUILDER">
+			<Text>Käynnisä maailmanmuokkaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_START_NEW">
+			<Text>Uusi kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_LOAD">
+			<Text>Lataa kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RANDOM_LEADER">
+			<Text>Satunnainen hallitsija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RANDOM_CIVILIZATION">
+			<Text>Satunnainen kansakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
+			<Text>Ei samoja hallitsijoita</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
+			<Text>Odotetaan lisää pelaajia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_INVALID_OPTION">
+			<Text>Kelvoton asetus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
+			<Text>Ei omistuksessa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
+			<Text>Yksi tai useampi pelaaja-asetus on väärin.</Text>
+		</Replace>
+		<!-- Configuration Parameters.  Move these to a better location -->
+		<Replace Language="en_US" Tag="LOC_RULESET">
+			<Text>Säännöt:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_NAME">
+			<Text>Pelin nimi:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_NAME_DESC">
+			<Text>Moninpelin palvelinlistalla näytettävä pelin nimi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRIVATE_GAME">
+			<Text>Yksityinen peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRIVATE_GAME_DESC">
+			<Text>Yksityisiä pelejä ei näytetä moninpeliaulassa. Yksityiseen peliin pääsee ainoastaan kutsun tai Steamin kaverilistan kautta. Tämä asetus ei vaikuta paikallisverkon peleihin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_VICTORY_TIME">
+			<Text>Aika</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_VICTORY_SCIENCE">
+			<Text>Tiede</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_NO_GOODY_HUTS">
+			<Text>Ei heimokyliä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_NO_BARBARIANS">
+			<Text>Ei barbaareja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
+			<Text>Tiimi jakaa näkyvyyden</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
+			<Text>Tiimissä olevat pelaajat jakavat keskenään kartalla näkemänsä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_TURNTIMER_TYPE">
+			<Text>Aikamoodi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_TURN_TIMER_TIME">
+			<Text>Aikarajoitus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
+			<Text>Vuoron aika normaalinopeuksisessa aikarajoitetussa moodissa (sekuntteina).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_TURNPHASE_TYPE">
+			<Text>Vuoromoodi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_TURNPHASE_DESC">
+			<Text>Moninpelin ihmispelaajien käyttämä vuoromoodi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_SYNC_RANDOM_SEED">
+			<Text>Pelikulun siemenluku</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
+			<Text>Pelin logiikan käyttämä satunnainen siemenluku.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RANDOM_SEED">
+			<Text>Kartan siemenluku</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
+			<Text>Karttageneraattorin käyttämä satunnainen siemenluku.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_NAME">
+			<Text>Maailman ikä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
+			<Text>Uusi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
+			<Text>Normaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
+			<Text>Vanha</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
+			<Text>Satunnainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_NAME">
+			<Text>Lämpö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
+			<Text>Kuuma</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
+			<Text>Normaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
+			<Text>Kylmä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
+			<Text>Satunnainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_NAME">
+			<Text>Kosteus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_ARID_NAME">
+			<Text>Kuiva</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
+			<Text>Normaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_WET_NAME">
+			<Text>Märkä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
+			<Text>Satunnainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_NAME">
+			<Text>Merenpinta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
+			<Text>Matala</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
+			<Text>Normaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
+			<Text>Korkea</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
+			<Text>Satunnainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_NAME">
+			<Text>Luonnonvarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
+			<Text>Vähäiset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
+			<Text>Normaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
+			<Text>Runsaat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
+			<Text>Satunnainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_NAME">
+			<Text>Aloituspaikka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
+			<Text>Tasapainoinen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
+			<Text>Normaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
+			<Text>Legendaarinen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
+			<Text>Määritellyt aloituspaikat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
+			<Text>Käytä kartalle ennalta määriteltyjä aloitussijainteja.</Text>
+		</Replace>
+		<!--Game Speed Descriptions -->
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_MARATHON_HELP">
+			<Text>Erittäin pitkäkestoinen peli (200% hitaampi).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_EPIC_HELP">
+			<Text>Kestävä peli (50% hitaampi).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_STANDARD_HELP">
+			<Text>Normaalinopeuksinen peli.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_QUICK_HELP">
+			<Text>Nopea peli (33% nopeampi).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAMESPEED_ONLINE_HELP">
+			<Text>Verkkomoninpelien käyttämä kaksinkertainen nopeus.</Text>
+		</Replace>
+		<!-- Map Type Descriptions -->
+		<Replace Language="en_US" Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
+			<Text>Paljon pieniä saaria isompien saarien joukossa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
+			<Text>Muutama suurempi maa-alue.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_FRACTAL_DESCRIPTION">
+			<Text>Hankalasti ennustettava kartta, joka voi tarjota yhden tai useamman maa-alueen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
+			<Text>Yksi suuri meri keskellä karttaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
+			<Text>Saaria vaihdellen pienistä suuriin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
+			<Text>Yksi suuri maa-alue, jota koristaa muutama ympäröivä saari.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+			<Text>Mitä salaisuuksia tämä kartta sisältääkään?</Text>
+		</Replace>
+		<!-- Map Size Descriptions -->
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
+			<Text>Hyvin pieni kartta kahdelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
+			<Text>Hivenen pienempi kartta neljälle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
+			<Text>Pieni kartta kuudelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
+			<Text>Keskikokoinen kartta kahdeksalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
+			<Text>Suuri kartta kymmenelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
+			<Text>Valtava kartta kahdelletoista.</Text>
+		</Replace>
+		<!-- Turn Timer Settings -->
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_NONE">
+			<Text>Ei vuorokelloa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_NONE_DESC">
+			<Text>Pelaajat pelaavat vuoronsa ilman aikarajoitteita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_DYNAMIC">
+			<Text>Joustava vuorokello</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_DYNAMIC_DESC">
+			<Text>Vuoron kesto määritellään joustavasti kaupunkien ja yksiköiden määrän mukaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_STANDARD">
+			<Text>Normaali vuorokello</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNTIMER_STANDARD_DESC">
+			<Text>Vuoron kesto määräytyy aikarajoituksen mukaan (sekuntteina).</Text>
+		</Replace>
+		<!-- Turn Mode Settings -->
+		<Replace Language="en_US" Tag="LOC_TURNPHASE_SIMULTANEOUS">
+			<Text>Samanaikaiset vuorot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
+			<Text>Pelaajat pitävät vuoronsa samanaikaisesti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNPHASE_DYNAMIC">
+			<Text>Joustavat vuorot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNPHASE_DYNAMIC_DESC">
+			<Text>Pelaajat pitävät vuoronsa samanaikaisesti, mutta sodassa olevat pelaajat pelaavat vuoronsa järjestyksessä.</Text>
+		</Replace>
+		<!-- Map Config Descriptions -->
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
+			<Text>Määrittää kartan rosoisuuden (mäet ja vuoret).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
+			<Text>Enemmän mäkiä ja vuoria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
+			<Text>Normaali määrä mäkiä ja vuoria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
+			<Text>Vähemmän mäkiä ja vuoria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
+			<Text>Mäkien ja vuorten määrä määritellään satunnaisesti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
+			<Text>Määrittää kartan maaston.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
+			<Text>Kartalla on enemmän aavikkoa ja vähemmän tundraa sekä ikiroutaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
+			<Text>Kartalla on maapalloa vastaava maasto.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
+			<Text>Kartalla on enemmän tundraa ja ikiroutaa, sekä vähemmän aavikkoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
+			<Text>Kartan lämpö määritellään satunnaisesti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_DESCRIPTION">
+			<Text>Määrittää kartalla esiintyvien piirteiden määrän.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
+			<Text>Kartalla on vähemmän metsiä, sademetsiä ja soita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
+			<Text>Kartalla on tavanomainen määrä metsää, sademetsää ja suota.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
+			<Text>Kartalla on enemmän metsää, sademetsää ja suota.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
+			<Text>Kartan piirteet määritellään satunnaisesti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
+			<Text>Mukauttaa veden määrää kartalla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
+			<Text>Vettä on vähemmän.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
+			<Text>Vettä on tavanomainen määrä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
+			<Text>Vettä riittää.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
+			<Text>Veden määrä määritellään satunnaisesti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_DESCRIPTION">
+			<Text>Määrittää luonnonvarojen runsauden.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
+			<Text>Kartalla esiintyy vähemmän luonnonvaroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
+			<Text>Kartalla on tavanomainen määrä luonnonvaroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
+			<Text>Kartalla on enemmän luonnonvaroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
+			<Text>Kartan luonnonvarojen määrä määritellään satunnaisesti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
+			<Text>Muuttaa aloituspaikan arvoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
+			<Text>Kaikilla pelaajilla on samanarvoiset aloituspaikat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
+			<Text>Tavanomaiset aloituspaikat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
+			<Text>Kaikilla pelaajilla on hyvä, mutta ei välttämättä samanarvoinen alku.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERA">
+			<Text>Aloitusaika</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SCRIPT">
+			<Text>Kartta</Text>
+		</Replace>
+		<!-- Tutorial Select Screen-->
+		<Replace Language="en_US" Tag="LOC_SETUP_TUTORIAL_TITLE">
+			<Text>Tervetuloa Civilizationiin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
+			<Text>Täällä aloitamme matkamme valtakunnan kasvattamisen alusta kohti sen suuruutta ja kirjaamme siten oman historiamme.[NEWLINE][NEWLINE]Valtaako maailman suurin taisteluin vai lähetätkö ensimmäisenä kansasi tähtiin? Vaikutatko maailmaan kansasi kulttuurilla vai ovatko uskomukset niitä, jotka leviävät maailman ääriin?[NEWLINE][NEWLINE]Vain aika osaa kertoa...[NEWLINE][NEWLINE]Kaikki suuret sivilisaatiot ovat saaneet alunsa suuresta hallitsijasta. Valitse kansakunta, jolla haluat pelata tämän esittelyn lävitse.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_TUTORIAL_LEADER_1">
+			<Text>Egyptin Kleopatra hallitsee kansaa, jolla on vahvat liittolaiset ja kaupunkien rakentajat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
+			<Text>Sumerien Gilgamesh hallitsee laajoja alueita ja on arvostettu valloittaja.</Text>
+		</Replace>
+		<!-- Loading Screen / Dawn of man -->
+		<Replace Language="en_US" Tag="LOC_LOADING_DOMAIN_LAND">
+			<Text>Oma maayksikkö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_DOMAIN_SEA">
+			<Text>Oma meriyksikkö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_DOMAIN_AIR">
+			<Text>Oma lentoyksikkö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_PLEASE_WAIT">
+			<Text>Pieni tovi, ladataan...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_DISTRICT_BUILDING">
+			<Text>{1_DistrictName} (kaupunkialuerakennus)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_UNIQUE_BUILDING">
+			<Text>Oma rakennus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_UNIQUE_DISTRICT">
+			<Text>Oma kaupunkialue</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
+			<Text>Oma rakenne</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
+			<Text>liittyy maailmannäyttämölle</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_FEATURES_ABILITIES">
+			<Text>Piirteet &amp; kyvyt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_START_GAME">
+			<Text>Aloita peli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_CONTINUE_GAME">
+			<Text>Jatka peliä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
+			<Text>On kiinni sinusta johtaa kansasi kukoistukseen luomalla sivilisaatio, joka kestää ajasta iäisyyteen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
+			<Text>Sankarillinen Fredrik, saksalaisten kuningas, on teidän tehtävänne muodostaa valtakunta lukuisista ympäröivistä itsenäisistä kaupunkivaltioista. Teitä on siunattu sodankäynnin taidolla - käyttäkää sitä tuodaksenne kaupungit valtanne alle, jotta ne voivat kehittyä kaupan ja teollisuuden keskittymiksi. Täten suuresta Fredrikistä punaisine partoineen tullaan varmasti laulamaan mahtavimpana pyhänä saksalaisroomalaisena keisarina.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
+			<Text>On langennut teille, arvon Katariina de' Medici, käyttää tiedon ja taiteen lahjojanne kansanne yhdistämiseksi. Ohjatkaat varovasti, Ranskan äitikuningatar, näiden vaikeiden aikojen lävitse. Tulette rakentamaan suuria ihmeitä, jotka tuovat vieraita maailman ääristä. Ollen tietoinen kaikesta - niin siitä mikä on esillä, kuin siitä mikä on piilossa varjoissa - tulee valtakuntanne varmasti kestämään aikojen koetuksen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
+			<Text>On olemassa heitä, jotka aliarvioivat teidät, kuningatar Kleopatra, mutta olette ovela ja tunnette temput. Viehättävyytenne voimin luotte vankkoja liittoja maailman vahvimpien hallitsijoiden kanssa. Pitäkää ystävät lähellänne ja huomaatte olevanne koskematon Egyptin loiston voittaessa maailman itselleen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
+			<Text>Löydätte itsenne keskeltä tosiystäviä, Gandhi Bapu, mikäli olette ystävällinen. Pitäkää intialaiset turvassa ja vartioikaa rajoja mahtivin elefanttisoturein. Uskonne ohjaa teidät rauhaan ja harmoniaan. Pitäkää mielenne avoimena ja olkaa se muutos, jonka haluatte maailmalle tapahtuvaksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
+			<Text>Paljon lepää harteillanne, kuningas Gilgamesh. Kansanne ja monet muut maailman kansat katsovat teidät hallitsijakseen. Olette kuitenkin enemmän kuin tavanomainen mies, eikä maailman painolasti koskaan saa teitä järkkymään. Rohkaiskaa Sumerin väkeä asettumaan joenvarsien rikkaille maille ja valitkaa liittolaisenne tarkoin, sillä monet halajavat osaa voimastanne. Käykää matkaan, sillä on tullut eeppisen tarunne aika.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_GORGO">
+			<Text>Gorgo, Spartan kuningatar; kunnia teille ja uskollisille hopliittiarmeijoillenne! Kreikka nauttii Aresin siunauksista, jotka kunkin voiton mukana matkaavat. Kansanne ylistää harkitsevaa hallintoanne ja kulturelleja ihmeitänne. Seiso ylväänä Kreikan perinnön tähden ja saavutuksistanne kerrotaan alati uudelleen sukupolvesta toiseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
+			<Text>Laivojenne lähestymistä pelätään, Norjan kuningas Harald, Pohjoisen Salama. Pitkäveneenne hallitsevat aalloilla ollen alati valmiina laskemaan bersekkiarmeijat varomattomille rannoille. Odin siunatkoon kuningaskuntaasi ja kertokoot skaldit laulaen mahtavien soturienne voitoista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_HOJO">
+			<Text>Buddalaisuuden suuri aalto seuraa teitä Japanin shikken, Hojo Tokimune. Kansanne todan totta tietää kuinka harjoittaa tasapainoa ja jopa samuraistanne parhaimmat ovat hyvin oppineita ja henkisesti kykeneviä. Olkaa vahva, antakaa jumalallisen tuulen puhaltaa ja tavoitatte valaistumisen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
+			<Text>Kuningas Mvemba a Nzinga, Äiti-Maalla on monia lahjoja teitä varten. Kansanne tuntee kotiensa tiheät puustot ja sademetsät kulkien niissä vaivatta. Suuret ovat myös lahjat, jotka tulevat kaukaisten maisten matkaajilta. Pitäkää mielenne avoinna, sillä maailman inspiraatiot antaa kansallemme kyvyn luoda voimallista ja ylhäistä taidetta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
+			<Text>Kansanne odottaa teidän, arvon Pedro III, johtavan Brasilian maailmannäyttämölle. Käyttäkää mainettanne taiteen, tieteen ja insinööritaidon tukijana tuodaksenne suuret mielet osaksi hedelmällisiä maitamme; rikkaat ja elämäntäyteiset sademetsät saavat kansamme kukoistamaan! Näette heidät karnevaaleissa, kun he juhlistavat suuria saavutuksianne sambaa tanssien, Pedro Ylevämieli.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
+			<Text>Kykynne sanojen kanssa on suuri lahja, kaunokielinen Perikles, kreikkalaisten hallitsija. Sen avuin kykenette luomaan antaumuksellisen valtioiden liiton, jossa heidän mahtinsa ympäröi teidät. Muodostakaa kulttuurikohteita Kreikan kallioisille rannoille yhdistääksenne kansanne vahvan hallintonne taakse. Kaiken mennessä hyvin tulevat seireenit laulamaan Perikleen perinteistä!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
+			<Text>Ottakaa maidenne kylmät viimat omaksenne, Pietari, arvon tsaari. Kiehtomuksenne tiedettä ja taidetta kohtaan on lahja ja opitte paljon ulkomaille sijoittamistanne suurlähetystöistä. Valtanne alla Venäjä tulee taatusti kukoistamaan ja kasvamaan - levittäytyen kaikkialle ympärilleen - kenties luoden mahtavimman sisämaiden valtakunnan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
+			<Text>Espanja kaikkinensa on valmis vastaamaan rukouksiinne, harras kuningas Filip II. Palatsistanne El Escorialissa voitte lähettää matkaan seuraajanne: lähestyssaarnaajat, apostolit ja konkistadorit, jotka ovat alati valmiit ylittämään meret ja levittämään sanaa kaikkein pyhimmästä valtakunnastamme. Tuokoon heidän löytämänsä rikkaudet voiman yhdistää maailman yhden uskon ja vallan alle, jotta Teistä tulisi katolilaisin kuningas.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_QIN">
+			<Text>Kansassanne kytee suurin voima, keisari Qin Shi Huangdi. Kaikkialta maailmasta tulee väkeä katsomaan mahtavien muurienne ja kookkaiden ihmeidenne yhdistämää Kiinaa. Pysyköön miestenne kädet vailla rakkoja heidän työskennellessään ahkerasti ja vauhdilla pystyttääkseen vaikuttavimmat rakennukset, jotka maa päällään kantaa. Suojelkaa heitä ja teistä tulee kuolematon ainiaaksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
+			<Text>Tieteen ja uskon liitto on vaatii äärimmäistä tasapainottelun taitoa, mutta se on jotakin, jonka te olette omaksuneet, arvon Saladin. Panostuksenne tiedon ja ymmärryksen edistämiseksi on ylväs ja siten kansanne arvostaa teitä mitä syvimmiten. Teidän ei kuitenkaan tarvitse rynnätä tuntemattomaan, sillä ajan kanssa tulevat vastaukset elämän suuriin kysymyksiin löytämään tiensä takaisin Arabiaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
+			<Text>Kaikki värisevät pelosta ja kunnioituksesta teitä kohtaan, Tomyris, suuri soturikuningatar. Johdatte skyyttejä ja valvotte kansaanne ratsunne selästä. Aroilta ravaavista ja kaikkien taistelurivien kärjistä löytyvistä soturiratsuista syntyy suuria taruja - ja te johdatte heitä. Ratsastakaa, kiivas kuningatar, ja paljastukoot todelliset ystävänne vihollistenne horjuessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
+			<Text>Levittäkää verkkonne laajalle, oi Trajanus, suureellisen Rooman keisari. Legioonanne seisovat valmiina marssiakseen ja muodostaakseen suurimman valtakunnan, jonka maailma tulee kuunaan näkemään. Valtakuntanne totta tosiaan olemaan rikkauksien ja ylellisyyksien kyllästämä, mikäli saatte kaikki tiet viemään Roomaan. Ja sitten, sitten kansalaisemme tulevat julistamaan teidät parhaaksi hallitsijakseen ja saatte arvonimen Optimus Princeps.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
+			<Text>On teidän leveiden hartioidenne varaan laskettu, Theodore Roosevelt, johtaa kansanne suurelle matkalle. Käyttäkää sotilaidenne mahtia luodaksenne kotimaidenne kansalle diili, jonka he niin epätoivoisesti ansaitsevat. Tämä varmasti nostaa Yhdysvallat parrasvaloihin ja tuo merten takaa väkeä katsomaan maitamme. Kaikkea hyvää teille, herra presidentti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
+			<Text>Teidän korkeutenne Englannin kuningatar Viktoria, laajentakaa otteenne rajojenne tuolle puolen kaikkialle maan ääriin. Älkäät peljätkö tappiota, sillä lojaalit punatakkinne ja ylivoimainen laivastonne tulee varmasti kestämään koitokset. Vakaan ja rauhallisen kosketuksenne turvin voitte tuoda kaikki maat Englannin vallan alle synnyttäen todellisen Pax Britannican.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
+			<Text>On tultu pitkälle aikojen alun elämän synnystä vetten alla… ihmisen ensimmäisistä pystyaskelista… ja kivikauden suurista pedoista. Nyt vastassa on suurimman matkan sarastus: tästä varhaisesta sivilisaation kehdosta kohden kaukaisia tähtiä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
+			<Text>Vaatimattomasta alusta olemme osoittaneet suurta kasvua. On tullut aika siirtyä pronssista rautaan ja hallita hevosin ja miekoin. Yllä oleva taivas alkaa paljastaa salaisuuksiaan ja pala siitä kannustaa sydämiämme kohden tuntemattomia rantoja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
+			<Text>Olette rakentaneet mahtavia kaupunkeja kivestä ja nähneet varhaisten valtakuntien nousun ja tuhon. Pian seisotte linnojenne suurten tornien varjossa yhdessä ritarienne kanssa. Pian kansamme tarina tulee kirjatuksi. Tulemme ymmärtämään paikkamme tässä maailmassa aivan kuten nuori oppipoika oppii kantamaan miekkaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
+			<Text>Uudet voimat ovat tulleet vallalle muskettien piipusta ja yötaivaan tulikukkien loistosta. Jopa pienet sanat pitävät sisällään suuria muutoksia paperille painettuna. Maailma, joka oli ensin niin laaja ja tuntematon on pienentynyt ja tullut tutummaksi. Silti on aina kysymyksiä, jotka kaipaavat vastausta, uskoa jota koettaa, ja kansallistuntoja, joita muodostaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
+			<Text>Koneiden tasainen humina, savun kitkerä haju, tuhkan ja noen pimittämä näkö – nämä ovat merkkejä muuttuvista ajoista. Tieteen ja kulttuurin edistyminen on valtakunnan veturi. Haasteeksi on noussut tasapaino ihmisen ja maan välillä, sekä sodan ja rauhan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_MODERN_DESCRIPTION">
+			<Text>Aikojen alussa legendat lentävästä ihmisestä lähtivät liitoon. Ja nyt nuo legendat ovat muuttumassa todeksi. Lentotaidon ja uusien yhteydenpitotapojen myötä on mahdollista luoda pieni ja intiimi maailma. Mutta mikä on tämän hinta? Kilpailevat aatoksemme tavoista hallita ja elää elämäämme uhkaa tuoda konfliktin kansainvälisellä tasolla. Polkumme tulee valita tämän kasvavan ideologisen retoriikan melskeessä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
+			<Text>Uusien löydösten rintamat kasvattavat ymmärtämystämme pienestä atomista aina ulkoavaruuden uskomattomuuteen. Pitkään vallalla olleet mysteerit ovat lähempänä paljastumistaan kuin koskaan aiemmin ja saamme vastauksia asioihin, joita ei voi helposti nähdä. Valitsemme tapanne käyttää tätä tietoa ja puskemme pois suurimman pimeyden, jonka olemme kokeneet.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_INFORMATION_DESCRIPTION">
+			<Text>Informaation aika lepää kättemme alla ja välittömän kommunikaation verkot kattavat maapallon. Silti yhtenäistä visiota tulevaisuudesta ei ole luotu. Kisaamme teknologiassa, kulttuurissa ja politiikassa. Hallussamme on aseita, joilla tuhota koko planeetta. On aika johtaa varoen mutta rohkeasti ja luoda kansainvälinen yhteisö, joka kestää edessä olevat vuodet.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_DISABLE">
+			<Text>Poista neuvonantaja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
+			<Text>Uusi vuoropohjaiseen strategiaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_NEW_TO_CIV">
+			<Text>Uusi Civilizationiin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
+			<Text>Uusi Civilization VI:een</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
+			<Text>Ei samoja hallitsijoita</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_TEAMS_NAME">
+			<Text>Ei tiimejä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
+			<Text>Tämä asetus estää kahta pelaajaa valitsemasta samaa hallitsijaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_TEAMS_DESCRIPTION">
+			<Text>Tämä asetus estää tiiminä pelaamisen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LIMIT_TURNS_NAME">
+			<Text>Rajoita vuoroja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LIMIT_TURNS_DESCRIPTION">
+			<Text>Asettaa vuorojen suurimman sallitun määrän</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_NONE_NAME">
+			<Text>Ei vuororajoitusta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
+			<Text>Ei rajoitusta vuorojen määrälle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
+			<Text>Nopeuden mukaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
+			<Text>Peli päättyy vuonna 2050 jaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_CUSTOM_NAME">
+			<Text>Oma</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
+			<Text>Peli kestää määritellyn määrän vuoroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITYSTATE_COUNT_NAME">
+			<Text>Kaupunkivaltiot:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
+			<Text>Peliin osallistuvien kaupunkivaltioiden määrä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAX_TURNS_NAME">
+			<Text>Vuororajoitus:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAX_TURNS_DESCRIPTION">
+			<Text>Korkein mahdollinen määrä pelattavia vuoroja pelissä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_RESUME_GAME_TT">
+			<Text>Jatka edellistä pelattua peliä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_LOAD_GAME_TT">
+			<Text>Lataa viimeksi tallennettu peli.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_PLAY_NOW_TT">
+			<Text>Pelaa pienellä mantereiden kartalla käyttäen satunnaisia hallitsijoita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_CREATE_GAME_TT">
+			<Text>Luo uusi peli käyttäen omia asetuksia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_SCENARIOS_TT">
+			<Text>Pelaa erilaisemman kokemuksen tarjoava skenaario, jossa on erityisiä sääntöjä, hallitsijoita sekä tavoitteita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
+			<Text>Pelaa nyt, luo uusi peli tai jatka aiempaa peliä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_MULTIPLAYER_TT">
+			<Text>Internet-, verkko- ja kuuma jakkara -peleihin pääsee käsiksi tätä kautta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
+			<Text>Asetukset grafiikalle, äänille, näppäinasetuksille ja muulle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_MODS_TT">
+			<Text>Fanien luomia omia tekeleitä, jotka laajentavat Civilization VI:tta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_TUTORIAL_TT">
+			<Text>Oletko aivan tuore tapaus tälle pelille tai muistin virkistämisen tarpeessa? Autamme mielellämme!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_BENCHMARK_TT">
+			<Text>Kuinka hyvin koneesi pöhisee?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_CREDITS_TT">
+			<Text>Kaikki Civilization VI:n tekemiseen osallistuneet.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_EXIT_GAME_TT">
+			<Text>Poistut pelistä.</Text>
+		</Replace>
+		<!-- Copyright screen -->
+		<Replace Language="en_US" Tag="LOC_COPYRIGHT_TEXT">
+			<Text>© 1991-2018 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2018 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2018 by RAD Game Tools Inc.  Fork Copyright © 2018 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2018 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2018 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COPYRIGHT_ACCEPT">
+			<Text>Jatka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_DEFAULT_NAME">
+			<Text>Voitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_HEADER">
+			<Text>VOITTO!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEFEATED_SUBHEADER">
+			<Text>TAPPIO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ELIMINATED_SUBHEADER">
+			<Text>TUHO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCORE_SUBHEADER">
+			<Text>PISTEVOITTO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
+			<Text>TIEDEVOITTO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_CULTURE_SUBHEADER">
+			<Text>KULTTUURIVOITTO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
+			<Text>MAAILMANHERRUUS</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
+			<Text>USKONNOLLINEN VOITTO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
+			<Text>VOITTO: {1_ScenarioName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
+			<Text>{1_ScenarioVictoryType}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
+			<Text>PELIN VOITTAJA</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCORE_NAME">
+			<Text>Pistevoitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCIENCE_NAME">
+			<Text>Tiedevoitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_CULTURE_NAME">
+			<Text>Kulttuurivoitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_DOMINATION_NAME">
+			<Text>Maailmanherruus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_RELIGIOUS_NAME">
+			<Text>Uskonnollinen voitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCORE_TT">
+			<Text>Tämä voitto on niihin hetkiin, kun muun voiton saavuttaminen ei onnistunut ja tyydyt siihen mitä vastaan tulee. Tämä voitto julistetaan kun aika loppuu ja kahta voittajaa ei ole julistettavaksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_SCIENCE_TT">
+			<Text>Ensimmäinen Marsin kansoittaja juhlistaa tiedevoittoa. Tämä voittotapa on selkeä, mutta on hankala saavuttaa ennen ajan loppumista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_CULTURE_TT">
+			<Text>Kulturellinen suuruus saa kaikki maailman kansat käymään kansamme luona. Tämä on vaikein voitto saavuttaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_DOMINATION_TT">
+			<Text>Maailman saattaminen polvilleen sotilasmahdilla ja -viekkaudella. Tämä on tyypillisin tapa voittaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_VICTORY_RELIGIOUS_TT">
+			<Text>Uskonnon levittäminen maailman joka kolkkaan, jotta valo voittaa pimeyden. Diplomaattiset suhteet vaativat hieromista, jotta koko maailman saa seuraamaan yhtä oikeaa uskontoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RULESET_NAME">
+			<Text>Peruspeli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RULESET_DESCRIPTION">
+			<Text>Civilization VI alkuperäisillä pelimekaniikoillaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
+			<Text>Pelaa Kleopatrana</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
+			<Text>Pelaa Gilgameshinä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
+			<Text>Lisäsisältö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
+			<Text>Lisäsisältöä ja modeja laajentamaan Civilization VI:tta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_DEMO">
+			<Text>Demo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
+			<Text>Osta heti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
+			<Text>Avaa Steamin kauppa ostaaksesi Civilization VI:n</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEMO_COMPLETE_CONTENT">
+			<Text>Onneksi olkoon! Olet ottanut ensimmäiset askeleesi kohden ajasta iäisyyteen kestävän sivilisaation luontia. Jatkatko itsesi mittaamista historian suurimpia hallitsijoita vastaan? Kehittyykö kulttuurisi? Valistaako tieteesi? Inspiroiko uskosi? Jyrääkö sotavoimasi?[NEWLINE][NEWLINE]Kuinka hallitset Sid Meierin Civilization VI:ssa? Jatka matkaasi nyt.[NEWLINE][NEWLINE]Rakenna. Valtaa. Inspiroi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
+			<Text>Vaivu hämäriin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEMO_COMPLETE_BUY">
+			<Text>Saavuta suuruus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ARX_VICTORY_PROGRESS">
+			<Text>{1_CivName} voiton edistyminen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ARX_TOP_5">
+			<Text>Top 5</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ARX_GOSSIP_LOG">
+			<Text>Juoruloki</Text>
+		</Replace>
+		<!-- File Errors -->
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
+			<Text>Tallennusta ei voi ladata pelin tässä versiossa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
+			<Text>Tallennusta ei voi avata.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
+			<Text>Tallennusta ei voi kirjoittaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
+			<Text>Tallennusta ei voi lukea.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
+			<Text>Tallennuksen poisto ei onnistu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
+			<Text>Tiedosto ei ole pelitallenne.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
+			<Text>Pelitallennus on viallinen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
+			<Text>Tallennuksen lataus päättyi odottamattomasti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
+			<Text>Pelitilan palauttaminen ei onnistu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
+			<Text>Tallennuksen polkua ei pystytä selvittämään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
+			<Text>Tallennuslaite ei kelpaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
+			<Text>Tallennelistan haku laitteesta ei onnistu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
+			<Text>Yksi tai useampi tallennuksen vaatima modi on asentamatta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
+			<Text>Yksi tai useampi tallennuksen vaatima lisäosa (DLC) on asentamatta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+			<Text>Yksi tai useampi tallennuksen vaatima laajennos (expansion) on asentamatta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TEAM_NAME_SELECT_TITLE">
+			<Text>Tiimin nimi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TEAM_NAME_ENTRY_TITLE">
+			<Text>Anna tiimin nimi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CHOOSE_TEAM_ICON">
+			<Text>Valitse tiimin kuvake</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
+			<Text>Päivän viesti:</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Leader Names-->
+		<Replace Language="en_US" Tag="LOC_REPRESENTATIVE">
+			<Text>edustaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_BARBAROSSA_NAME">
+			<Text>Fredrik I Barbarossa|Fredrik I Barbarossan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
+			<Text>Katariina de' Medici|Katariina de' Medicin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_CLEOPATRA_NAME">
+			<Text>Kleopatra|Kleopatran</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_GANDHI_NAME">
+			<Text>Gandhi|Gandhin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_GILGAMESH_NAME">
+			<Text>Gilgameš|Gilgamešin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_GORGO_NAME">
+			<Text>Gorgo|Gorgon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_HARDRADA_NAME">
+			<Text>Harald Ankara|Harald Ankaran</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_HOJO_NAME">
+			<Text>Hojo Tokimune|Hojo Tokimunen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_MVEMBA_NAME">
+			<Text>Afonso I|Afonso I:n</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_PEDRO_NAME">
+			<Text>Pedro II|Pedro II:n</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_PERICLES_NAME">
+			<Text>Perikles|Perikleen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_PETER_GREAT_NAME">
+			<Text>Pietari Suuri|Pietari Suuren</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_PHILIP_II_NAME">
+			<Text>Filip II|Filip II:n</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_QIN_NAME">
+			<Text>Qin Shi Huangdi|Qin Shi Huangdin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_SALADIN_NAME">
+			<Text>Saladin|Saladinin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TOMYRIS_NAME">
+			<Text>Tomyris|Tomyriksen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAJAN_NAME">
+			<Text>Trajanus|Trajanuksen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_T_ROOSEVELT_NAME">
+			<Text>Teddy Roosevelt|Teddy Rooseveltin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_VICTORIA_NAME">
+			<Text>Viktoria|Viktorian</Text>
+		</Replace>
+		<!--Agenda Names-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
+			<Text>Enkidun liittolainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
+			<Text>Aijubidien dynastia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BACKSTAB_AVERSE_NAME">
+			<Text>Nuiva selkäänpuukottajille</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
+			<Text>Ison kepin linja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
+			<Text>Musta kuningatar</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BUSHIDO_NAME">
+			<Text>Bushido</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
+			<Text>Kaupunkivaltioliittolainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_COUNTER_REFORMER_NAME">
+			<Text>Vastauudistaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
+			<Text>Deloksen meriliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
+			<Text>Innokas opetuslapsi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
+			<Text>Taiteiden tukija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IRON_CROWN_NAME">
+			<Text>Rautakruunu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
+			<Text>Viimeinen viikinkikuningas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_NAME">
+			<Text>Optimus Princeps</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PARANOID_NAME">
+			<Text>Vainoharha</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PEACEKEEPER_NAME">
+			<Text>Rauhanpitäjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_NAME">
+			<Text>Niilin kuningatar</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SUN_NEVER_SETS_NAME">
+			<Text>Aurinko ei laske</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TLATOANI_NAME">
+			<Text>Tlatoani</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WESTERNIZER_NAME">
+			<Text>Länsimaalaistaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME">
+			<Text>Kilpesi kanssa tai sen päällä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
+			<Text>10 000 lin muuri</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AIRPOWER_NAME">
+			<Text>Ilmavoimat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
+			<Text>Barbaarien liittolainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
+			<Text>Kaupunkivaltioiden suojelija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CIVILIZED_NAME">
+			<Text>Sivistynyt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CULTURED_NAME">
+			<Text>Kulturelli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DARWINIST_NAME">
+			<Text>Luonnonvalinnan suosija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DEVOUT_NAME">
+			<Text>Harras</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
+			<Text>Luonnonsuojelija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
+			<Text>Hyväksikäyttäjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLORER_NAME">
+			<Text>Tutkimusmatkailija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FUN_LOVING_NAME">
+			<Text>Hauskanpitäjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
+			<Text>Merkittävien henkilöiden puolestapuhuja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IDEOLOGUE_NAME">
+			<Text>Epäkäytännöllinen idealisti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
+			<Text>Raskas teollisuus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
+			<Text>Rahankerääjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NATURALIST_NAME">
+			<Text>Luonnontutkija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NUKE_LOVER_NAME">
+			<Text>Ydinaseiden suosija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_POPULOUS_NAME">
+			<Text>Väkirikas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_STANDING_ARMY_NAME">
+			<Text>Palkollinen armeija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TECHNOPHILE_NAME">
+			<Text>Teknofiili</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
+			<Text>Ihmevimmainen</Text>
+		</Replace>
+		<!--Agenda Description-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
+			<Text>Pitää kansoista, jotka hakeutuvat pitkiin liittoihin. Ei pidä ystäviensä ja liittolaistensa tuomitsijoista saati heitä vastaan hyökkäävistä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
+			<Text>Haluaa oman palvonnan rakennuksen moniin kaupunkeihin ja pitää kansoista, joilta se löytyy. Ei pidä kansoista jotka noudattavat eri uskontoa eikä kansoista, jotka sotivat ketään hänen uskoaan noudattavaa vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION">
+			<Text>Pitää kansoista, jotka julistavat ystävyyden hänen kanssaan. Ei pidä kansoista jotka selkäänpuukottavat tai julistavat yllätyssotia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION">
+			<Text>Pitää rauhanomaisista kansoista, joilla on kaupunki hänen kotimantereellaan. Vihaa kansoja, jotka aloittavat sotia hänen mantereellaan olevia kaupunkivaltioita tai kansoja kohtaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BLACK_QUEEN_DESCRIPTION">
+			<Text>Hankkii niin paljon vakoilijoita ja diplomaattista näkyvyyttä kuin vain voi. On nuiva niitä kansoja kohtaan, jotka eivät panosta vakoiluun ja tiedonkeruuseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BUSHIDO_DESCRIPTION">
+			<Text>Pitää kansoista, joilla on sekä vahva armeija, että vahva [ICON_Faith] uskon ja [ICON_Culture] kulttuurin tuotto. Tympeytyy kansoista, joilla on vahva armeija, mutta heikko [ICON_Faith] uskon tai [ICON_Culture] kulttuurin tuotto.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
+			<Text>Pitää kansoista, jotka eivät kilpaile samoista kaupunkivaltioista. Ärsyyntyy kansoista, jotka kilpailevat suoraan samoista kaupunkivaltioista kuin hän.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
+			<Text>Pitää hänen uskontoaan noudattavista kansoista ja haluaa kaikkien kaupunkiensa noudattavan yhtä uskontoa. Vihaa kaikkia, jotka kehtaavat levittää omaa uskoaan hänen maillensa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION">
+			<Text>Pitää kansoista, jotka eivät kilpaile samoista kaupunkivaltioista. Ärsyyntyy kansoista, jotka kilpailevat suoraan samoista kaupunkivaltioista kuin hän.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION">
+			<Text>Pitää kansoista, jotka tuovat uskontonsa Kongoon. Ei pidä kansoista, jotka ovat muodostaneet uskonnon, mutta eivät tuo sitä valtauskonnoksi ainoaankaan Kongon kaupunkiin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
+			<Text>Värvää niin paljon [ICON_GreatPerson] merkittäviä henkilöitä kuin vain voi ja pitää kansoista, jotka eivät kilpaile [ICON_GreatPerson] merkittävistä henkilöistä. Suuttuu mikäli menettää [ICON_GreatPerson] merkittävän henkilön jollekin toiselle kansakunnalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
+			<Text>Pitää kansoista, jotka jättävät kaupunkivaltiot huomiotta. Ei pidä kaupunkivaltioihin valta-asemassa olevista kansoista saati kaupunkivaltioita vallanneista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
+			<Text>Rakentaa suuren laivaston ja pitää kansoista, jotka toimivat samoin. Ei pidä kansoista, joilla on vähänlaisesti laivoja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION">
+			<Text>Pyrkii hamstraamaan valtakuntaansa niin paljon maa-alueita kuin mahdollista. Tympeä pienialaisia kansoja kohtaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
+			<Text>Pitää vaarattomista kansoista. Ei pidä kansoista joilla on vahva armeija tai kaupunkeja hänen lähellään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
+			<Text>Pitää vahvojen armeijoijen kansoista ja pyrkii liittoutumaan heidän kanssaan, jottei menisi sukset ristiin. Ärsyyntyy kansoista, joilla on heikko armeija.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PEACEKEEPER_DESCRIPTION">
+			<Text>Ei julista sotia joissa hänet voitaisiin katsoa sodanlietsojaksi ja pyrkii ystävystymään rauhaa ylläpitävien kanssa. Vihaa sodanlietsojia yli kaiken.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION">
+			<Text>Pitää kotimantereensa kansoista ja pyrkii laajenemaan kaikille mantereille. Ei pidä sellaisilla mantereilla olevista kansoista, joille Englanti ei ole saanut perustettua kaupunkia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TLATOANI_DESCRIPTION">
+			<Text>Pitää kansoista joilla on samat ylelliset luonnonvarat kuin hänellä ja pyrkii omistamaan kaikki ylelliset luonnonvarat. Ei pidä kansoista, joilla on ylellinen luonnonvara jota hänellä ei vielä ole.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WESTERNIZER_DESCRIPTION">
+			<Text>Ystävällinen niitä kansoja kohtaan, jotka ovat hänen edellään [ICON_Science] tieteessä tai [ICON_Culture] kulttuurissa. Ei pidä perähikiän kansoista, jotka laahaavat jäljessä [ICON_Science] tieteen tai [ICON_Culture] kulttuurin saralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Ei koskaan anna mitään vastineeksi rauhanehdoissa ja pitää kansoista, jotka toimivat samoin. Ei pidä kansoista, jotka antautuvat tai eivät ikinä sodi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION">
+			<Text>Pitää kansoista jotka jättävät ihmeet hänen rakennettavakseen, ja rakentaa ihmeitä aina kuin mahdollista. Tympeytyy kansoille, jotka vievät ihmeen hänen nokkansa alta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
+			<Text>On ymmärtäväinen barbaareja kohtaan. Ei pidä kansoista, jotka tuhoavat barbaarien etuvartioita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
+			<Text>Vihaa barbaareja. Pitää kansoista, jotka tuhoavat barbaarien etuvartioita. Ei pidä kansoista, jotka jättävät barbaarien etuvartiot rauhaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
+			<Text>Pyrkii tuottamaan [ICON_Culture] kulttuuria ja pitää kansoista, jotka keskittyvät [ICON_Culture] kulttuuriin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
+			<Text>Haluaa kansojen olevan sodassa ja uskoo jatkuvaan kamppailuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
+			<Text>Pyrkii saamaan kunkin kaupungin asukkaat niin onnelliseksi kuin mahdollista. Pitää samaan tapaan kehittyvistä kansoista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
+			<Text>Pyrkii teollistumaan ja pitää kansoista, joilla on paljon [ICON_Production] tuotantoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
+			<Text>Pyrkii kasvattamaan vuorottaiset [ICON_Gold] kultatulot niin korkeaksi kuin mahdollista. Arvostaa muita korkeiden tulojen kansoja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
+			<Text>Pyrkii löytämään kaikki luonnonhimeet. Pitää kansoista, jotka jättävät metsät ja sademetsät raivaamatta, sekä heistä jotka perustavat luonnonpuistoja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
+			<Text>Ei epäröi käyttää ydinaseita. Arvostaa kansoja, jotka heijastavat vahvuuttaan ydinasein.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
+			<Text>Pyrkii korkeimpaan asukaslukuun. Arvostaa muita korkean väkiluvun kansoja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
+			<Text>Pyrkii jatkuvasti pitämään suurta armeijaa. Arvostaa muita kansoja, joilla on suuri armeija.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
+			<Text>Pyrkii tuottamaan paljon [ICON_Science] tiedettä ja pitää kansoista, jotka keskittyvät [ICON_Science] tieteeseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
+			<Text>Pyrkii rakentamaan kunnon ilmavoimat. Arvostaa kansoja, joilla on vahvemmat ilmavoimat. Ei pidä kansoista, joilla on heikommat ilmavoimat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION">
+			<Text>Korostaa suojelusotia. Arvostaa kansoja, jotka lähtevät suojelemaan kaupunkivaltioita sotatoimin. Ei pidä kansoista, jotka hyökkäävät kaupunkivaltioihin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
+			<Text>Poistaa kaikki maastonpiirteet ja rakentaa kaikki ruudut. Pitää kansoista joilla on paljon rakennettuja ruutuja. Ei pidä kansoista, jotka jättävät ruudut rakentamatta tai jotka perustavat luonnonpuistoja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
+			<Text>Rakentaa luonnonpuistoja, jättää piirteet rauhaan ja istuttaa metsiä. Pitää kansoista jotka istuttavat metsiä tai perustavat luonnonpuistoja. Ei pidä kansoista, jotka poistavat ruutujen piirteitä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
+			<Text>Suosii samaa hallitusmuotoa käyttäviä kansoja, ei pidä eri hallitusmuotoa käyttävistä kansoista, ja todellakin vihaa kansoja, joilla on poikkeava saman aikakauden hallitusmuoto kuin hänellä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
+			<Text>Pyrkii tuottamaan [ICON_Faith] uskoa ja pitää kansoista, jotka keskittyvät [ICON_Faith] uskoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
+			<Text>Pyrkii tutkimaan koko kartan ja pitää kansoista, jotka ovat tutkineet karttaa vähemmän kuin hän. Ei pidä kansoista, jotka ovat tutkineet karttaa enemmän kuin hän.</Text>
+		</Replace>
+		<!-- City-State Traits-->
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
+			<Text>1 [ICON_Envoy] edustaja:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS">
+			<Text>3 [ICON_Envoy] edustajaa:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS">
+			<Text>6 [ICON_Envoy] edustajaa:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
+			<Text>Tieteellinen kaupunkivaltio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] tiedettä [ICON_Capital] pääkaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] tiedettä jokaiselle kampukselle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Toiset +2 [ICON_Science] tiedettä jokaiselle kampukselle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
+			<Text>Uskonnollinen kaupunkivaltio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] uskoa [ICON_Capital] pääkaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] uskoa jokaiselle pyhälle paikalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Toiset +2 [ICON_Faith] uskoa jokaiselle pyhälle paikalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
+			<Text>Kaupallinen kaupunkivaltio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] kultaa [ICON_Capital] pääkaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] kultaa jokaiselle kaupalliselle keskukselle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Toiset +4 [ICON_Gold] kultaa jokaiselle kaupalliselle keskukselle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
+			<Text>Kulturelli kaupunkivaltio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] kulttuuria [ICON_Capital] pääkaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] kulttuuria jokaiselle teatteriaukiolle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Toiset +2 [ICON_Culture] kulttuuria jokaiselle teatteriaukiolle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
+			<Text>Sotilaallinen kaupunkivaltio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] tuotantoa [ICON_Capital] pääkaupungille yksiköitä kouluttaessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] tuotantoa jokaiselle varuskunnalle yksiköitä koulutettaessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Toiset +2 [ICON_Production] tuotantoa jokaiselle varuskunnalle yksiköitä koulutettaessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
+			<Text>Teollinen kaupunkivaltio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] tuotantoa [ICON_Capital] pääkaupungille rakennettaessa ihmettä, rakennusta tai kaupunkialuetta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] tuotantoa jokaiselle teollisuusalueelle rakennettaessa ihmettä, rakennusta tai kaupunkialuetta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Toiset +2 [ICON_Production] tuotantoa jokaiselle teollisuusalueelle rakennettaessa ihmettä, rakennusta tai kaupunkialuetta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
+			<Text>Amsterdamin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
+			<Text>Ulkomaille menevät [ICON_TradeRoute] kauppareittimme antavat +1 [ICON_Gold] kultaa jokaisesta kohteen ylellisestä luonnonvarasta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
+			<Text>Bandar Beri Segawanin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
+			<Text>Brysselin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
+			<Text>Kaupunkimme saavat +15% [ICON_Production] tuotantoa ihmeiden valmistamiseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
+			<Text>Buenos Airesin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
+			<Text>Hyödylliset luonnonvaramme käyttäytyvät kuten ylelliset luonnonvarat antaen 1 [ICON_Amenities] elintasoa jokaisesta erilaisesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
+			<Text>Karthagon valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Kukin varuskuntamme tarjoaa +1 [ICON_TradeRoute] kauppareittiä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
+			<Text>Geneven valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
+			<Text>Kaupunkimme saavat +15% [ICON_Science] tiedettä aina kun emme ole sodassa ainoankaan kansakunnan kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
+			<Text>Hattusan valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
+			<Text>Tarjoaa yhden jokaista strategista luonnonvaraa jonka olemme paljastaneet, mutta emme omista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
+			<Text>Hong Kongin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
+			<Text>Kaupunkimme saavat +20% [ICON_Production] tuotantoa kaupunkiprojekteille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
+			<Text>Jakartan valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
+			<Text>Ulkomaiset [ICON_TradingPost] kauppapaikkamme tarjoavat +1 [ICON_Gold] kultaa [ICON_TradeRoute] kauppareitillemme mikäli ne kulkevat kaupunkiin tai sen kautta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
+			<Text>Jerusalemin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
+			<Text>Kääntyy perustamaamme uskontoon ja antaa uskonnollista painetta kuin olisi uskonnon pyhä kaupunki.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KABUL_NAME">
+			<Text>Kabulin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
+			<Text>Yksikkömme saavat kokemuksen tuplana aloittamistaan taisteluista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KANDY_NAME">
+			<Text>Kandyn valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
+			<Text>Saamme [ICON_GreatWork_Relic] muinaismuiston joka kerta kun löydämme uuden luonnonihmeen ja saamme +50% [ICON_Faith] uskoa jokaisesta [ICON_GreatWork_Relic] muinaismuistosta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
+			<Text>Kumasin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
+			<Text>Mihin tahansa kaupunkivaltioon kulkeva [ICON_TradeRoute] kauppareittimme tarjoaa +2 [ICON_Culture] kulttuuria ja +1 [ICON_Gold] kultaa jokaisesta lähtökaupungin kaupunkialueesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
+			<Text>La Ventan valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
+			<Text>Rakentajamme voivat rakentaa valtavia kivipäitä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LISBON_NAME">
+			<Text>Lissabonin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
+			<Text>Vesiruuduissa olevia kauppureitamme ei voi ryövätä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
+			<Text>Mohenjo-Daron valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
+			<Text>Kaikilla kaupungeillamme on täydet [ICON_Housing] asumukset vedensaannista, aivan kuin ne olisi perustettu joen varrelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
+			<Text>Nan Madolin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
+			<Text>Rannikolla tai niiden vieressä olevat kaupunkialueet tarjoavat +2 [ICON_Culture] kulttuuria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
+			<Text>Preslavin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Kevyet ja raskaat ratsuluokan yksikkömme saavat +5 [ICON_Strength] voimaa taistellessaan mäkiruuduissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
+			<Text>Soulin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
+			<Text>Päätyessämme uudelle aikakaudelle saamme yhden satunnaisen [ICON_TechBoosted] heurekan kyseiseltä aikakaudelta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
+			<Text>Tukholman valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Kaupunkialueemme tarjoavat +1 [ICON_GreatPerson] merkittävien henkilöiden pistettä tyyppinsä mukaisesti (teatteriaukiot antavat [ICON_GreatWriter] kirjailijan, [ICON_GreatArtist] taiteilijan ja [ICON_GreatMusician] muusikon).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
+			<Text>Toronton valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
+			<Text>Paikallisvaikutukset teollisuusalueilta ja viihdekompekseilta yltävät kolme ruutua kauemmas.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
+			<Text>Vallettan valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
+			<Text>Kaupungin keskustan ja varuskunnan rakennuksia voi ostaa [ICON_Faith] uskolla. Muinaisten, keskiaikaisten ja renenssanssin muurien ostohinta on alhaisempi, mutta ne voi ostaa ainoastaan [ICON_Faith] uskolla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
+			<Text>Vilnan valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>Päätyessämme uudelle aikakaudelle saamme yhden satunnaisen [ICON_CivicBoosted] inspiraation kyseiseltä aikakaudelta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
+			<Text>Jerevanin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
+			<Text>Apostolimme voivat valita mistä tahansa ylennyksestä satunnaisesti esivalittujen sijasta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
+			<Text>Sansibarin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
+			<Text>Saamme [ICON_RESOURCE_CINNAMON] kanelin ja [ICON_RESOURCE_CLOVES] neilikkaöljyn ylelliset luonnonvarat. Näitä ei saa mitenkään muutoin pelissä ja kumpikin niistä antaa 6 [ICON_Amenities] elintasoa.</Text>
+		</Replace>
+		<!--Leader Trait Names-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
+			<Text>Thermopylai</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
+			<Text>Enkidun seikkailut</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
+			<Text>Välimeren morsian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
+			<Text>Jumalainen tuuli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
+			<Text>El Escorial</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
+			<Text>Suuri diplomaattiseurue</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
+			<Text>Pyhä saksalais-roomalainen keisari</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
+			<Text>Brittiläinen rauha</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
+			<Text>Uskossaan vanhurskas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
+			<Text>Uskonnollinen kääntyjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
+			<Text>Rooseveltin intuitiivinen päätelmä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
+			<Text>Satyāgraha</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
+			<Text>Pohjoisen salama</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
+			<Text>Ensimmäinen keisari</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
+			<Text>Katariinan naisvakoojat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
+			<Text>Trajanuksen pylväs</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
+			<Text>Kyyroksen tappaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
+			<Text>Jalomielisyys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
+			<Text>Kunniaan kääritty</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
+			<Text>Viktorian oma yksikkö: punatakki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
+			<Text>Harald Ankaran oma yksikkö: viikinkien pitkävene</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+			<Text>Theodore Rooseveltin oma yksikkö: rosoratsu</Text>
+		</Replace>
+		<!--Leader Trait Descriptions-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
+			<Text>Voitot taisteluista antavat [ICON_Culture] kulttuuria puolet päihitetyn yksikön [ICON_Strength] taisteluvoimasta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
+			<Text>Voi julistaa sodan liittolaista vastaan sotivaa vastaan ilman sodanlietsojan haittoja. Yhteistä vihollista vastaan sotiessa liitossa olevat yksiköt jakavat ryöväilyn tuotot ja taistelukokemuksen ollessaan viiden ruudun sisällä toisistaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
+			<Text>Egyptin [ICON_TradeRoute] kauppareitit muihin kansakuntiin saavat +4 [ICON_Gold] kultaa. Muiden kansakuntien [ICON_TradeRoute] kauppareitit Egyptiin tarjoavat +2 [ICON_Food] ruokaa heille ja +2 [ICON_Gold] kultaa Egyptille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
+			<Text>Maayksiköt saavat +5 [ICON_Strength] taisteluvoimaa rannikon viereisissä maaruuduissa; lavat saavat +5 [ICON_Strength] taisteluvoimaa matalan veden ruuduissa. Varuskunta, pyhä paikka ja teatteriaukio rakentuvat kaksinkertaisella vauhdilla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
+			<Text>Inkvisiittorit voivat poistaa kerettiläisyyden kerran useammin. Taisteluyksiköillä on +4 [ICON_Strength] taisteluvoiman etu muita uskontoja noudattavia pelaajia vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
+			<Text>Venäjä saa [ICON_Science] tiedettä tai [ICON_Culture] kulttuuria [ICON_TradeRoute] kauppareiteistään kehittyneempiin kansakuntiin (+1 joka kolmannesta tekniikasta tai normista edellä).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
+			<Text>Ylimääräinen sotilaallisen linjauksen paikka. +7 [ICON_Strength] taisteluvoimaa hyökätessä kaupunkivaltioita vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
+			<Text>Kaikki perustetut tai vallatut kaupungit muilta kuin kotimantereelta saavat ilmaisen meleeyksikön. Punatakki tulee saataville sotatieteen kehittämisen myötä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
+			<Text>Heidän uskontonsa palvomisrakennuksen voi ostaa kuka tahansa pelaaja kymmenyksellä sen normaalisti vaatimasta [ICON_Faith] uskosta. Arabian kaupungeissa tämä palvomisrakennus antaa 10% lisää [ICON_Science] tieteen, [ICON_Faith] uskon ja [ICON_Culture] kulttuurin tuottoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
+			<Text>Kykenemätön rakentamaan pyhiä paikkoja, saamaan merkittäviä profeettoja tai muodostamaan uskontoa. Saa kaikki sen uskonnon uskomukset, joka saavuttaa valtauskonnon aseman suurimmassa osassa hänen kaupunkejaan. Saa apostolin aina valmistaessaan M'banzan tai teatteriaukion (apostoli noudattaa kyseisen kaupungin valtauskontoa).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
+			<Text>Yksiköt saavat +5 [ICON_Strength] taisteluvoimaa kotimantereella. +1 houkuttelevuutta kaikille luonnonpuiston omistavan kaupungin ruuduille. Rosoratsu tulee saataville rihlauksen kehittämisen myötä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
+			<Text>+5 [ICON_Faith] uskoa jokaisesta uskonnon muodostaneesta kansakunnasta (Intia mukaanlukien) jonka he ovat kohdanneet ja jota vastaan he eivät ole sodassa. Vastaan taistelevat kansakunnat kärsivät kaksinkertaisesti sotaväsymyksestä sotiessaan Gandhia vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
+			<Text>Sallii rannikon ryöväilyn kaikille meleelaivoille ja +50% [ICON_PRODUCTION] tuotantoa kaikille meleelaivoille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
+			<Text>Muinaisuuden ja antiikin ihmeiden rakentamista voidaan vauhdittaa rakentajien työstöillä. Kukin työstö vastaa 15% ihmeen alkuperäisestä rakennuskustannuksesta. Rakentajilla on yksi työstö normaalia enemmän.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
+			<Text>Saa kohtaamiaan kansakuntia kohtaan yhden tason [ICON_VisLimited] diplomaattista näkyvyyttä tavanomaista enemmän. Saa ylimääräisen vakoojan (ja ylimääräisen vakoojakapasiteetin) linnojen kehittämisen myötä. Kaikki vakoilijat aloittavat agentteina ilmaisen ylennyksen kera.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
+			<Text>Kaikki kaupungit aloittavat ylimääräisen kaupungin keskustan rakennuksen kanssa. (Muinaisuuden aikana aloittaa monumentin kanssa).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
+			<Text>Kaikki yksiköt saavat +5 [ICON_Strength] taisteluvoimaa hyökätessään haavoittuneita yksiköitä vastaan. Tuhotessaan yksikön saavat takaisin jopa 30 kestopistettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
+			<Text>Värvättyään tai tuettuaan itselleen [ICON_GreatPerson] merkittävän henkilön 20% sen vaatimista [ICON_GreatPerson] merkittävien henkilöiden pisteistä palautetaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
+			<Text>+5% [ICON_Culture] kulttuuria kaupunkivaltiosta, johon olemme valta-asemassa.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Instance Names-->
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+			<Text>Kouluta {1_UnitName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
+			<Text>Rakenna {1_DistrictName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
+			<Text>Aiheuta {1_TechName[2]} [ICON_TechBoosted] heureka.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
+			<Text>Aiheuta [ICON_CivicBoosted] inspiraatio kohden {1_CivicName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
+			<Text>Värvää {1_GreatPersonClassName[2]}.</Text>
+		</Replace>
+		<!--Descriptions-->
+		<Replace Language="en_US" Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
+			<Text>Käännytä kaupunkivaltio [ICON_Religion] uskoomme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
+			<Text>Muodosta [ICON_TradeRoute] kauppareitti kaupunkivaltioon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Tuhoa yksi viiden ruudun sisällä kaupungista oleva [ICON_Barbarian] barbaarien etuvartio.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
+			<Text>Kouluta satunnaisesti valittu armeijan [ICON_Unit] yksikkö.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
+			<Text>Rakenna satunnaisesti valittu [ICON_District] kaupunkialue.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
+			<Text>Aiheuta satunnaisesti valittu [ICON_TechBoosted] heureka.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
+			<Text>Aiheuta satunnaisesti valittu [ICON_CivicBoosted] inspiraatio.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
+			<Text>Värvää satunnaisesti valittu [ICON_GreatPerson] merkittävä henkilö.</Text>
+		</Replace>
+		<!--Instance Descriptions-->
+		<Replace Language="en_US" Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Kouluta armeijan yksikkö: {1_UnitName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Rakenna kaupunkialue: {1_DistrictName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Aiheuta {1_TechnologyName[2]} [ICON_TechBoosted] heureka.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
+			<Text>Aiheuta [ICON_CivicBoosted] inspiraatio kohden {1_CivicName[2]}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
+			<Text>Värvää yksi {1_IconString} {2_GreatPersonClassName[2]}.</Text>
+		</Replace>
+		<!--Rewards-->
+		<Replace Language="en_US" Tag="LOC_QUEST_REWARD_ENVOYS">
+			<Text>[ICON_Envoy] Edustajat</Text>
+		</Replace>
+		<!--Instance Rewards-->
+		<Replace Language="en_US" Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">
+			<Text>[ICON_Envoy] {1_Amount} {1_Amount : plural 1?edustaja; other?edustajaa;}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

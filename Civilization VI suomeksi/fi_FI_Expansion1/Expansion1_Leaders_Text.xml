@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Agenda Names-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_BILLIONAIRE_NAME">
+			<Text>Miljonääri</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CHEOMSEONGDAE_NAME">
+			<Text>Cheomseongdae</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_NAME">
+			<Text>Skotlannin kukka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HORSE_LORD_NAME">
+			<Text>Hevosten herra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HORN_CHEST_LOINS_NAME">
+			<Text>Sarvet, rintakehä ja lanteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IRON_CONFEDERACY_NAME">
+			<Text>Rautakonfederaatio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_MAURYA_EMPIRE_NAME">
+			<Text>Maurya-valtakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NARIKALA_FORTRESS_NAME">
+			<Text>Nariqala-linnake</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_NAME">
+			<Text>Tucapelin henki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CURMUDGEON_NAME">
+			<Text>Pidättäytyjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLIRTATIOUS_NAME">
+			<Text>Flirttailija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GOSSIP_NAME">
+			<Text>Juoruilija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SYCOPHANT_NAME">
+			<Text>Mielistelijä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SYMPATHIZER_NAME">
+			<Text>Sympatisoija</Text>
+		</Replace>
+		<!--Agenda Description-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_BILLIONAIRE_DESCRIPTION">
+			<Text>Pyrkii luomaan lukuisia [ICON_TradeRoute] kauppareittejä. Pitää kansakunnista jotka käyvät kauppaa hänen kanssaan, ei pidä heistä jotka eivät käy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CHEOMSEONGDAE_DESCRIPTION">
+			<Text>Pyrkii tuottamaan [ICON_Science] tiedettä ja pitää kansakunnista, jotka panostavat [ICON_Science] tieteeseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_DESCRIPTION">
+			<Text>Ei hyökkää naapuriensa kimppuun paitsi jos nämä pettävät lupauksen. Pitää heistä jotka jättävät naapurinsa rauhaan, ei pidä heistä jotka eivät.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HORSE_LORD_DESCRIPTION">
+			<Text>Haluaa tuottaa maailman ylivertaisimmat ratsujoukot. Ei pidä kilpailijoista tällä saralla, mutta pitää muista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_HORN_CHEST_LOINS_DESCRIPTION">
+			<Text>Pyrkii ryhmittelemään yksiköt joukko-osastoiksi ja armeijoiksi arvostaen muita samoin toimivia kansakuntia. Ei pidä jos joku ei voi tehdä näin, tai tee näin vaikka voisi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_IRON_CONFEDERACY_DESCRIPTION">
+			<Text>Pyrkii luomaan lukuisia liittolaisuuksia ja arvostaa samoin toimivia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_MAURYA_EMPIRE_DESCRIPTION">
+			<Text>Pyrkii valtaamaan naapurinsa ja pitää kansoista, jotka eivät ole hänen naapureitaan (ainakaan vielä).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_NARIKALA_FORTRESS_DESCRIPTION">
+			<Text>Pyrkii rakentamaan korkeat muurit kaupunkiensa ympärille ja arvostaa kun hänen esimerkkiään seurataan. Ei pidä kansakunnista, jotka jättävät kaupunkinsa suojatta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_DESCRIPTION">
+			<Text>Pyrkii luomaan ja ylläpitämään korkeaa kulturellia uskollisuutta. Ei pidä kansoista jotka epäonnistuvat pitämään kansansa uskollisena ja pitää heistä, jotka pystyvät.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CURMUDGEON_DESCRIPTION">
+			<Text>Ei viehkoile vastakkaista sukupuolta olevien kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLIRTATIOUS_DESCRIPTION">
+			<Text>Ystävällinen vastakkaisen sukupuolen edustajille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GOSSIP_DESCRIPTION">
+			<Text>Haluaa tietää kaiken kaikista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SYCOPHANT_DESCRIPTION">
+			<Text>Arvostaa kansakuntia, jotka kykenevät kultakausiin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SYMPATHIZER_DESCRIPTION">
+			<Text>Surullinen mikäli joku joutuu synkälle kaudelle.</Text>
+		</Replace>
+		<!--City-States-->
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] tiedettä jokaiselle kirjastolle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] tiedettä jokaiselle yliopistolle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] uskoa jokaiselle pyhätölle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] uskoa jokaiselle temppelille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] kultaa jokaiselle torille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] kultaa jokaiselle pankille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] kulttuuria jokaiselle amfiteatterille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] kulttuuria jokaiselle taidemuseolle ja arkeologiselle museolle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] tuotantoa yksiköiden koulutukseen jokaiselle parakit tai tallin omaavalle kaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] tuotantoa yksiköiden koulutukseen jokaiselle asevaraston omaavalle kaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] tuotantoa ihmeiden, rakennusten ja kaupunkialueiden valmistukseen jokaiselle työpajan omaavalle kaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] tuotantoa ihmeiden, rakennusten ja kaupunkialueiden valmistukseen jokaiselle tehtaan omaavalle kaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ANTIOCH_NAME">
+			<Text>Antiokia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ANTIOCH_DESCRIPTION">
+			<Text>Antiokian kaupunkivaltio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
+			<Text>Antiokian valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
+			<Text>Ulkomaille menevät [ICON_TradeRoute] kauppareittimme saavat +1 [ICON_Gold] kultaa jokaisesta kohteen ylellisestä luonnonvarasta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ANTIOCH_ADJECTIVE">
+			<Text>Antiokian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_NAME">
+			<Text>Babylon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>Babylonin kaupunkivaltio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
+			<Text>Babylonin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
+			<Text>+2 [ICON_SCIENCE] tiedettä jokaisesta [ICON_GreatWork_WRITING] kirjallisuuden merkkiteoksesta. +1 [ICON_SCIENCE] tiedettä jokaisesta [ICON_GreatWork_RELIC] muinaismuistosta ja [ICON_GreatWork_Artifact] artefaktista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_ADJECTIVE">
+			<Text>Babylonin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Maataisteluyksiköt ovat 20% edullisempia ostaa [ICON_GOLD] kullalla kertautuen jokaista varuskunnan rakennusta kohden.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Saamme +2 uskollisuutta vuorossa kaupungeissa jokaista varuskunnan rakennusta kohden.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Kaupunkialueet joissa on rakennus tarjoavat +1 [ICON_GreatPerson] merkittävien henkilöiden pistettä tyyppinsä mukaisesti (rakennukselliset teatteriaukiot antavat [ICON_GreatWriter] kirjailijan, [ICON_GreatArtist] taiteilijan ja [ICON_GreatMusician] muusikon).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>Korkeimman voimassa olevan liittolaistason mukaisesti kaikki teatteriaukiomme saavat +50% läheisyyseduilleen.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
