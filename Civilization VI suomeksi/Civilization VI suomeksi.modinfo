@@ -130,7 +130,7 @@
 		</Text>
 	</LocalizedText>
 	<Files>
-		<File>LocalizationDatabase_Data.xml</File>
+		<File>LocalizationDatabase_Data.sql</File>
 		<!-- Vanilla -->
 		<File>fi_FI/AncientRivalsScenario_Text.xml</File>
 		<File>fi_FI/Australia_PackageText.xml</File>
