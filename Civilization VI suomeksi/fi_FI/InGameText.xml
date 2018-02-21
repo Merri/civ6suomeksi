@@ -1771,10 +1771,10 @@
 			<Text>Tuotot päälle/pois</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_SHOW_RESOURCES">
-			<Text>Näytä luonnonvarat ja muut resurssit</Text>
+			<Text>Näytä resurssit</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_SHOW_YIELDS">
-			<Text>Näytä tuottokuvakkeet</Text>
+			<Text>Näytä tuotot</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_TOGGLE_STRATEGY_VIEW">
 			<Text>Strategianäkymä päälle/pois</Text>
@@ -1825,7 +1825,7 @@
 			<Text>Näytä kussakin ruudussa vierailevien turistien määrä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_OPTIONS">
-			<Text>Kartta-asetukset</Text>
+			<Text>Kartan tiedot</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_CIVICS_ENABLES">
 			<Text>Mahdollistaa</Text>

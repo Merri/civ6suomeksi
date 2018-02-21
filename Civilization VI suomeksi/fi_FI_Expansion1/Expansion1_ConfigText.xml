@@ -10,49 +10,49 @@
 		</Replace>
 		<!-- Map Config Text -->
 		<Replace Language="en_US" Tag="LOC_MAP_ARCHIPELAGO_NAME">
-			<Text>Archipelago</Text>
+			<Text>Saaristo</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TSLEUROPE_NAME">
-			<Text>True Start Location Europe</Text>
+			<Text>Oikeiden alkukotien Eurooppa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TSLEUROPE_DESCRIPTION">
-			<Text>Civilizations start at the location of their historic capital on the Europe map.</Text>
+			<Text>Kansakunnat aloittavat historiallisen pääkaupunkinsa paikalta Euroopan kartalla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_EUROPE_NAME">
-			<Text>Europe</Text>
+			<Text>Eurooppa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_EUROPE_DESCRIPTION">
-			<Text>A representation of Europe with resources, terrain, and features reflecting their historic locations.</Text>
+			<Text>Mukaelma Euroopasta, jonka luonnonvarat, maasto ja maastonpiirteet kuvastavat historiallisia vastaavuuksiaan.</Text>
 		</Replace>
 		<!-- Player Config Text -->
 		<!-- District Config Text -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME">
-			<Text>Copacabana</Text>
+			<Text>Copacabana|copacabana|cobacabanan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_DESCRIPTION">
-			<Text>A district unique to Brazil. Replaces the Water Park district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Street Carnival. Cannot be built on Reef.</Text>
+			<Text>Brasilian oma kaupunkialue. Korvaa vesipuiston ja tarjoaa +2 [ICON_Amenities] elintasoa. Mahdollistaa myös karnivaaliprojektin, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan työn alla sekä monenlaisia [ICON_GreatPerson] merkittävien henkilöiden pisteitä valmistuessaan. Ei voi rakentaa kaupunkiin, jossa on katukarnevaali. Ei voi rakentaa riutalle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION">
-			<Text>A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Copacabana.</Text>
+			<Text>Brasilian oma kaupunkialue. Korvaa viihdekompleksin ja tarjoaa +2 [ICON_Amenities] elintasoa. Mahdollistaa myös karnivaaliprojektin, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan työn alla sekä monenlaisia [ICON_GreatPerson] merkittävien henkilöiden pisteitä valmistuessaan. Ei voi rakentaa kaupunkiin, jossa on copacabana.</Text>
 		</Replace>
 		<!-- Unit Config Text -->
 		<Replace Language="en_US" Tag="LOC_UNIT_SPEC_OPS_NAME">
-			<Text>Spec Ops</Text>
+			<Text>Erikoisjoukot|erikoisjoukot|erikoisjoukkojen|erikoisjoukoiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SPEC_OPS_DESCRIPTION">
-			<Text>Atomic Era reconnaissance unit. Paradrop ability allows movement from friendly tile to location 7 tiles away (12 if starting from Aerodrome or Airstrip). Can attack support units directly without having to eliminate the combat unit first.</Text>
+			<Text>Atomiajan tiedusteluyksikkö. Laskuvarjohyppy mahdollistaa hypyn ystävällisestä ruudusta seitsemän ruudun päähän (kahdentoista yksikön aloittaessa lentoasemasta tai kiitoradalta). Kykenee iskemään tukiyksiköihin suoraan, joten suojelevaa yksikköä ei tarvitse tuhota ensin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_DRONE_NAME">
-			<Text>Drone</Text>
+			<Text>Liidokki|liidokki|liidokin|liidokiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_DRONE_DESCRIPTION">
-			<Text>Atomic era support unit. Adds +1 [ICON_Range] Range and +5 [ICON_Bombard] Bombard Strength to adjacent ranged siege-class units.</Text>8
+			<Text>Atomiajan tukiyksikkö. Antaa +1 [ICON_Range] kantamaa ja +5 [ICON_Bombard] pommitusvoimaa läheisille tulituskykyisille piiritysluokan yksiköille.</Text>8
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_PIKE_AND_SHOT_NAME">
-			<Text>Pike and Shot</Text>
+			<Text>Musketti ja piikki|musketti ja piikki|musketin ja piikin|musketiksi ja piikiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION">
-			<Text>Late Renaissance era anti-cavalry unit.</Text>
+			<Text>Myöhäinen renessanssin ratsuluokan torjuja.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SUPPLY_CONVOY_NAME">
 			<Text>Supply Convoy</Text>
