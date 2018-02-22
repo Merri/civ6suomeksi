@@ -55,58 +55,58 @@
 			<Text>Myöhäinen renessanssin ratsuluokan torjuja.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SUPPLY_CONVOY_NAME">
-			<Text>Supply Convoy</Text>
+			<Text>Huoltorekka|huoltorekka|huoltorekan|huoltorekaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SUPPLY_CONVOY_DESCRIPTION">
-			<Text>Modern era support unit. Increases healing for adjacent units. Gives units 1 bonus [ICON_Movement] Movement if move is started adjacent to the Convoy.</Text>
+			<Text>Modernin ajan tukiyksikkö. Kohentaa läheisten yksiköiden hoivausta. Antaa läheisille yksiköille +1 [ICON_Movement] liikkuvuutta niiden aloittaessa vuoroa huoltorekan läheltä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_ZULU_IMPI_NAME">
-			<Text>Impi</Text>
+			<Text>Impi|impi|impin|impiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION">
-			<Text>Zulu unique Medieval Era unit that replaces the Pikeman. Increased Flanking bonus, low cost and low maintenance. Earns XP faster.</Text>
+			<Text>Zulujen oma keskiaikainen yksikkö, joka korvaa piikkimiehen. Korotettu sivustaetu, alhainen hinta ja alhaiset ylläpitokustannukset. Kerää kokemusta nopeammin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_KOREAN_HWACHA_NAME">
-			<Text>Hwacha</Text>
+			<Text>Hwacha|hwacha|hwachan|hwachaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION">
-			<Text>Korean unique Renaissance Era unit. High [ICON_Ranged] Ranged Attack Strength. Cannot move and attack in the same turn.</Text>
+			<Text>Korean oma renessanssin yksikkö. Korkea [ICON_Ranged] tulituksen hyökkäysvoima. Ei kykene liikkumaan ja hyökkäämään saman vuoron aikana.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
-			<Text>Highlander</Text>
+			<Text>Ylämaalainen|ylämaalainen|ylämaalaisen|ylämaalaiseksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
-			<Text>Scottish unique Industrial Era unit that replaces the Ranger. Strong reconnaissance unit. +5 [ICON_Strength] Combat Strength bonus when fighting in Hill and Forest terrain.</Text>
+			<Text>Skottien oma teollisen ajan yksikkö, joka korvaa samoojan. Vahva tiedusteluyksikkö. +5 [ICON_Strength] taisteluvoimaa kamppailtaessa mäellä ja metsissä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
-			<Text>De Zeven Provinciën</Text>
+			<Text>De Zeven Provinciën|De Zeven Provinciën|De Zeven Provinciënin|De Zeven Provinciëniksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
-			<Text>Netherlands unique Renaissance Era unit. +7 [ICON_Strength] Combat Strength when attacking defensible districts.</Text>
+			<Text>Hollannin oma renessanssin yksikkö. +7 [ICON_Strength] taisteluvoimaa puolustuskelpoisia kaupunkialueita vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
-			<Text>Keshig</Text>
+			<Text>Keshik|keshik|keshikin|keshikiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
-			<Text>Mongolian unique Medieval Era Ranged Cavalry unit. Can escort moving civilian and support units at their higher [ICON_Movement] Movement speed.</Text>
+			<Text>Monholien oma keskiajan heittoasetta käyttävä ratsuluokan yksikkö. Voi saattaessaan nopeuttaa siviili- ja tukiyksiköt omalle nopeammalle [ICON_Movement] liikkumisnopeudelleen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME">
-			<Text>Khevsur</Text>
+			<Text>Khevsur|khevsur|khevsurin|khevsuriksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION">
-			<Text>Georgian unique Medieval Era unit. +7 [ICON_Strength] Combat Strength bonus when fighting in hill terrain. No [ICON_Movement] Movement penalty in hill terrain.</Text>
+			<Text>Georgian oma keskiajan yksikkö. +7 [ICON_Strength] taisteluvoimaa kamppailtaessa mäkisessä maastossa. Ei haittaa [ICON_Movement] liikkumiselle mäkisestä maastosta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME">
-			<Text>Malón Raider</Text>
+			<Text>Malón|malón|malónin|malóniksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION">
-			<Text>Mapuche unique Renaissance Era unit. +5 [ICON_Strength] Combat Strength bonus if within 4 hexes of friendly territory. Pillaging costs 1 [ICON_Movement] Movement.</Text>
+			<Text>Mapuchejen oma renessanssin yksikkö. +5 [ICON_Strength] taisteluvoimaa oltaessa neljän ruudun sisällä ystävällisistä alueista. Ryövääminen maksaa yhden [ICON_Movement] liikepisteen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME">
-			<Text>Okihtcitaw</Text>
+			<Text>Okihtcitaw|okihtcitaw|okihtcitawin|okihtcitawiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
-			<Text>Cree unique Ancient era unit that replaces the Scout. Strong reconnaissance unit. Starts with 1 free promotion.</Text>
+			<Text>Cree-initiaanien oma antiikin yksikkö, joka korvaa tiedustelijan. Vahva tiedusteluyksikkö. Saa heti ilmaisen ylennyksen.</Text>
 		</Replace>
 		<!-- America -->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION">
