@@ -106,120 +106,118 @@
 			<Text>Okihtcitaw|okihtcitaw|okihtcitawin|okihtcitawiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
-			<Text>Cree-initiaanien oma antiikin yksikkö, joka korvaa tiedustelijan. Vahva tiedusteluyksikkö. Saa heti ilmaisen ylennyksen.</Text>
+			<Text>Cree-intiaanien oma antiikin yksikkö, joka korvaa tiedustelijan. Vahva tiedusteluyksikkö. Saa heti ilmaisen ylennyksen.</Text>
 		</Replace>
 		<!-- America -->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION">
-			<Text>All Diplomatic policy slots in the current government are converted to Wildcard slots.</Text>
+			<Text>Kaikki hallitusmuodon diplomaattisten linjausten paikat ovatkin villien korttien paikkoja.</Text>
 		</Replace>
 		<!-- China -->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION1_DESCRIPTION">
-			<Text>[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 50% of civics and technologies instead of 40%.</Text>
+			<Text>[ICON_TechBoosted] Heurekat ja [ICON_CivicBoosted] inspiraatiot tarjoavat 50% tehosteen normeille tai tekniikoille 40% sijasta.</Text>
 		</Replace>
 		<!-- Cleopatra -->
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION1_DESCRIPTION">
-			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Egypt. Other civilizations' [ICON_TradeRoute] Trade Routes to Egypt provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Egypt.  Trading with Allies earns twice as many bonus Alliance Points.</Text>
+			<Text>Egyptin [ICON_TradeRoute] kauppareitit muihin kansakuntiin saavat +4 [ICON_Gold] kultaa. Muiden kansakuntien [ICON_TradeRoute] kauppareitit Egyptiin tarjoavat +2 [ICON_Food] ruokaa heille ja +2 [ICON_Gold] kultaa Egyptille. Kaupankäynti liittolaisten kanssa antaa tuplasti liittolaispisteitä.</Text>
 		</Replace>
 		<!-- Chandragupta -->
 		<Replace Language="en_US" Tag="LOC_LEADER_CHANDRAGUPTA_NAME">
-			<Text>Chandragupta</Text>
+			<Text>Chandragupta|Chandraguptan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME">
-			<Text>Arthashastra</Text>
+			<Text>Arthaśāstra</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION">
-			<Text>Can declare a War of Territorial Expansion after gaining the Military Training Civic.  +2 [ICON_Movement] Movement and +5 [ICON_Strength] Combat Strength for the first 10 turns after declaring a War of Territorial Expansion.</Text>
+			<Text>Kykenee julistamaan maidenlaajennussodan sotilaskoulutuksen kehittämisen myötä. Saa kymmenen vuoron ajaksi +2 [ICON_Movement] liikkuvuutta ja +5 [ICON_Strength] taisteluvoimaa maidenlaajennussodan julistamisen jälkeen.</Text>
 		</Replace>
 		<!-- England -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
-			<Text>A district unique to England for naval activity in your city. Replaces the Harbor district. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+1 [ICON_Movement] Movement for all naval units built in Dockyard[NEWLINE]+2 [ICON_Gold] Gold and +4 Loyalty per turn when built on a foreign continent. Cannot be built on Reef</Text>
+			<Text>Englannin oma sataman korvaava kaupunkialue. Poistaa ruudussaan uittoon siirtymisestä aiheutuvan [ICON_Movement] liikehaitan. Tulee rakentaa maan vierustamaan rannikko- tai järviruutuun.[NEWLINE][NEWLINE]+1 [ICON_Movement] liikkuvuutta kaikille telakalla valmistetuille laivoille[NEWLINE]+2 [ICON_Gold] kultaa ja +4 uskollisuutta vuorossa muilla kuin kotimantereella. Ei voi rakentaa riutalle.</Text>
 		</Replace>
 		<!-- Lautaro-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
-			<Text>Mapuche</Text>
-			<Gender>Masculine:the</Gender>
+			<Text>Mapuchet</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
-			<Text>Mapuchen</Text>
+			<Text>Mapuchejen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
-			<Text>Mapuche Empire</Text>
+			<Text>Mapuchevaltakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
-			<Text>Toqui</Text>
+			<Text>Toqui (kirveenkantaja)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION">
-			<Text>All units trained in cities with an established [ICON_Governor] Governor gain 25% more experience in combat. +10 [ICON_Strength] Combat Strength bonus against civilizations that are in a Golden Age.</Text>
+			<Text>Kaikki [ICON_Governor] kuvernöörin omaavat kaupungit antavat niissä koulutetuille yksiköille +25% kokemusetua taisteluista. +10 [ICON_Strength] taisteluvoimaa kultakaudella olevia kansakuntia vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION">
-			<Text>+{1_Amount} versus civilizations in a Golden Age</Text>
+			<Text>+{1_Amount} etu kultakaudella olevia kansoja vastaan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_LAUTARO_NAME">
-			<Text>Lautaro</Text>
+			<Text>Lautaro|Lautaron</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME">
-			<Text>Swift Hawk</Text>
+			<Text>Nopea haukka</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
-			<Text>If a Mapuche Unit defeats an enemy unit within the borders of the enemy city, that city loses 5 Loyalty.</Text>
+			<Text>Viholliskaupunki menettää 5 uskollisuutta mikäli saman kansan yksikkö tuhotaan kaupungin alueella mapucheyksikön toimesta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
-			<Text>If a Mapuche Unit defeats an enemy unit within the borders of the enemy city, that city loses 20 Loyalty.</Text>
+			<Text>Viholliskaupunki menettää 20 uskollisuutta mikäli saman kansan yksikkö tuhotaan kaupungin alueella mapucheyksikön toimesta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
-			<Text>Chemamull</Text>
+			<Text>Chemamüll</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Chemamull, unique to Mapuche.[NEWLINE][NEWLINE]Provides [ICON_CULTURE] Culture equal to 75% of the tile's Appeal. Additional [ICON_TOURISM] Tourism after researching Flight. Minimum Appeal of Breathtaking.</Text>
+			<Text>Mahdollistaa mapucherakentajille kyvyn rakentaa chemamüllin.[NEWLINE][NEWLINE]Tarjoaa [ICON_CULTURE] kulttuuria 75% ruudun houkuttelevuuden edestä. Tarjoaa myös [ICON_TOURISM] turismia lentämisen kehittämisen jälkeen. Houkuttelevuuden tulee olla vähintään henkeäsalpaava.</Text>
 		</Replace>
 		<!-- Gilgamesh-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION">
-			<Text>May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.  Their Alliances gain Alliance Points for being at war with a common foe.</Text>
+			<Text>Voi julistaa sodan liittolaista vastaan sotivaa vastaan ilman sodanlietsojan haittoja. Yhteistä vihollista vastaan sotiessa liitossa olevat yksiköt jakavat ryöväilyn tuotot ja taistelukokemuksen ollessaan viiden ruudun sisällä toisistaan. Liittolaiset saavat liittolaispisteitä sodasta yhteistä vihollista vastaan.</Text>
 		</Replace>
 		<!-- Poundmaker-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_NAME">
-			<Text>Cree</Text>
-			<Gender>Masculine:the</Gender>
+			<Text>Cree-intiaanit</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
-			<Text>Cree</Text>
+			<Text>Cree-intiaanien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
-			<Text>Cree Empire</Text>
+			<Text>Creevaltakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
 			<Text>Nîhithaw</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION">
-			<Text>+1 [ICON_TradeRoute] Trade Route capacity and a free Trader with the Pottery technology. Unclaimed tiles within 3 tiles of a Cree city come under Cree control when a Trader first moves into them.</Text>
+			<Text>+1 [ICON_TradeRoute] kauppareittien kapasiteettiin sekä ilmainen kauppuri keramiikan kehittämisen myötä. Omistamattomat ruudut kolmen ruudun sisällä cree-intiaanien kaupungista tulee heidän hallintaansa kauppurin kulkiessa ruutuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_POUNDMAKER_NAME">
-			<Text>Poundmaker</Text>
+			<Text>Ansantekijä|Ansantekijän</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME">
-			<Text>Favorable Terms</Text>
+			<Text>Suotuisat ehdot</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION">
-			<Text>All Alliance types provide Shared Visibility.[NEWLINE]Your [ICON_TradeRoute] Trade Routes grant +1 [ICON_Food] Food for Poundmaker per Camp or Pasture in the receiving city.[NEWLINE][ICON_TradeRoute] Trade Routes grant +1 [ICON_Gold] Gold for Poundmaker per Camp or Pasture in the receiving city.</Text>
+			<Text>Kaikki liittolaisuustyypit antavat jaetun näkyvyyden.[NEWLINE]Ansantekijä saa [ICON_TradeRoute] kauppareiteilleen +1 [ICON_Food] ruokaa jokaisesta leiristä ja laitumesta kohdekaupunkissa.[NEWLINE]Ansantekijä saa [ICON_TradeRoute] kauppareiteistä +1 [ICON_Gold] kultaa jokaisesta leiristä ja laitumesta kohdekaupungissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
 			<Text>Mekewap</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Mekewap, unique to Cree.[NEWLINE][NEWLINE]Provides +1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing. +1 [ICON_GOLD] Gold if adjacent to a Luxury resource.  For every 2 adjacent Bonus Resources +1 [ICON_FOOD] Food.  Additional [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, [ICON_FOOD] Food, and [ICON_HOUSING] Housing as you advance through the Civics and Technology Tree. Must be placed adjacent to a Bonus or Luxury resource. Cannot be built adjacent to another Mekewap.</Text>
+			<Text>Mahdollistaa creerakentajille kyvyn rakentaa mekewapin.[NEWLINE][NEWLINE]Tarjoaa +1 [ICON_PRODUCTION] tuotantoa ja +1 [ICON_Housing] asumuksia. +1 [ICON_GOLD] kultaa ylellisen luonnonvaran vieressä. +1 [ICON_FOOD] ruokaa joka toisesta vierekkäisestä hyödyllisestä luonnonvarasta. Etu [ICON_PRODUCTION] tuotantoon, [ICON_GOLD] kultaan, [ICON_FOOD] ruokaan ja [ICON_HOUSING] asumuksiin kohenee normien ja tekniikoiden kehittämisen myötä. Tulee sijoittaa hyödyllisen tai ylellisen luonnonvaran viereen. Ei voi rakentaa toisen mekewapin viereen.</Text>
 		</Replace>
 		<!-- Robert the Bruce -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
-			<Text>Scotland</Text>
+			<Text>Skotlanti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
-			<Text>Scottish</Text>
+			<Text>Skotlannin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
-			<Text>Scottish Empire</Text>
+			<Text>Skotlannin valtakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
-			<Text>Scottish Enlightenment</Text>
+			<Text>Skottien valistuneisuus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
 			<Text>Happy cities receive an additional +5%  [ICON_SCIENCE] Science and +5%  [ICON_PRODUCTION] Production. Happy cities generate +1  [ICON_GreatScientist] Great Scientist point per Campus and +1 [ICON_GreatEngineer] Great Engineer point per Industrial Zone. Ecstatic cities double all these amounts.</Text>

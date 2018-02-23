@@ -519,7 +519,7 @@
 			<Text>{1_Moves : plural 1?siirto; other?siirtoa;}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_ATTACK_RANGE">
-			<Text>Hyökkäysetäisyys</Text>
+			<Text>Kantama</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_MOVEMENT">
 			<Text>Liikepisteet</Text>
@@ -2042,7 +2042,7 @@
 			<Text>Tutkitaan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_KEY_COMPLETED">
-			<Text>Valmistui</Text>
+			<Text>Valmistunut</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_TREE_HEADER">
 			<Text>TEKNIIKKAKARTTA</Text>
@@ -2911,13 +2911,13 @@
 			<Text>[ICON_Strength] Meleevoima: {1_Combat}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_RANGED_STRENGTH">
-			<Text>[ICON_Ranged] Etävoima: {1_RangedCombat} ([ICON_Range] etäisyys {2_Range})</Text>
+			<Text>[ICON_Ranged] Etävoima: {1_RangedCombat} ([ICON_Range] kantama: {2_Range})</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_BOMBARD_STRENGTH">
-			<Text>[ICON_Bombard] Tulitusvoima: {1_Bombard} ([ICON_Range] etäisyys {2_Range})</Text>
+			<Text>[ICON_Bombard] Tulitusvoima: {1_Bombard} ([ICON_Range] kantama: {2_Range})</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MOVEMENT">
-			<Text>[ICON_Movement] Liikkuminen: {1_Movement}</Text>
+			<Text>[ICON_Movement] Liikkuvuus: {1_Movement}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_CAN_BE_BOOSTED">
 			<Text>[COLOR:Green]Voidaan tehostaa[ENDCOLOR]</Text>

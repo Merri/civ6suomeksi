@@ -344,7 +344,7 @@
 			<Text>+10 voimaa ratsujen torjujia vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
-			<Text>+1 hyökkäysetäisyys läheisille piirityslaitteille.</Text>
+			<Text>+1 kantamaa lähellä oleville piirityslaitteille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
 			<Text>Esteetön näkyvyys</Text>
