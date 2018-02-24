@@ -136,7 +136,7 @@
 		</Replace>
 		<!-- Lautaro-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
-			<Text>Mapuchet</Text>
+			<Text>Mapuchet|mapuchejen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
 			<Text>Mapuchejen</Text>
@@ -177,7 +177,7 @@
 		</Replace>
 		<!-- Poundmaker-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_NAME">
-			<Text>Cree-intiaanit</Text>
+			<Text>Cree-intiaanit|cree-intiaanien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
 			<Text>Cree-intiaanien</Text>
@@ -208,7 +208,7 @@
 		</Replace>
 		<!-- Robert the Bruce -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
-			<Text>Skotlanti</Text>
+			<Text>Skotlanti|skottien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
 			<Text>Skotlannin</Text>
@@ -220,217 +220,213 @@
 			<Text>Skottien valistuneisuus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
-			<Text>Happy cities receive an additional +5%  [ICON_SCIENCE] Science and +5%  [ICON_PRODUCTION] Production. Happy cities generate +1  [ICON_GreatScientist] Great Scientist point per Campus and +1 [ICON_GreatEngineer] Great Engineer point per Industrial Zone. Ecstatic cities double all these amounts.</Text>
+			<Text>Tyytyväiset kaupungit saavat +5%  [ICON_SCIENCE] tiedettä ja +5%  [ICON_PRODUCTION] tuotantoa. Ne myös antavat +1 [ICON_GreatScientist] merkittävien tieteentekijöiden pistettä jokaista kampusta kohden ja +1 [ICON_GreatEngineer] merkittävien insinöörien pistettä jokaista teollisuusaluetta kohden. Ekstaasissa olevat kaupungit tuplaavat mainitut luvut.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
-			<Text>Robert the Bruce</Text>
+			<Text>Robert Bruce</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
 			<Text>Bannockburn</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION">
-			<Text>Can declare a War of Liberation after gaining the Defensive Tactics Civic.  +100% [ICON_Production] Production and +2 [ICON_Movement] Movement for the first 10 turns after declaring a War of Liberation.</Text>
+			<Text>Kykenee julistamaan vapautussodan puolustustaktiikoiden kehittämisen myötä. Vapautussodan julistamisen jälkeen +100% [ICON_Production] tuotantoa ja +2 [ICON_Movement] liikkuvuutta ensimmäisten kymmenen vuoron ajan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
-			<Text>Golf Course</Text>
+			<Text>Golfkenttä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Amenity and +2 [ICON_GOLD] Gold. +1 [ICON_CULTURE] Culture if adjacent to a City Center district and +1 [ICON_CULTURE] Culture if adjacent to an Entertainment Complex district. Additional [ICON_TOURISM] Tourism and [ICON_HOUSING] Housing as you advance through the Civics and Technology Tree. Cannot be placed on Desert or Desert Hills. One per City. Tiles with Golf Courses cannot be swapped. +1 Appeal.</Text>
+			<Text>Mahdollistaa skottirakentajille kyvyn rakentaa golfkentän.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] elintasoa ja +2 [ICON_GOLD] kultaa. +1 [ICON_CULTURE] kulttuuria kaupungin keskustan vieressä ja +1 [ICON_CULTURE] kulttuuria viihdekompleksin vieressä. Etuja [ICON_TOURISM] turismiin ja [ICON_HOUSING] asumuksiin normien ja tekniikoiden kehittämisen myötä. Ei voi sijoittaa aavikolle tai mäkiselle aavikolle. Golfkenttiä ei voi poistaa. +1 houkuttelevuutta.</Text>
 		</Replace>
 		<!-- Seondeok -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KOREA_NAME">
-			<Text>Korea</Text>
+			<Text>Korea|korealaisten</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE">
 			<Text>Korean</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
-			<Text>Korean Empire</Text>
+			<Text>Korean valtakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
-			<Text>Three Kingdoms</Text>
+			<Text>Kolme kuningaskuntaa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION">
-			<Text>Mines receive +1 [ICON_SCIENCE] Science if there is an adjacent Seowon district. Farms receive +1 [ICON_FOOD] Food if there is an adjacent Seowon district.</Text>
+			<Text>Kaivokset saavat +1 [ICON_SCIENCE] tiedettä jos vieressä on seowon. Maatilat saavat +1 [ICON_FOOD] ruokaa jos vieressä on seowon.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_SEONDEOK_NAME">
-			<Text>Seondeok</Text>
+			<Text>Seondeok|Seondeokin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HWARANG_NAME">
-			<Text>Hwarang</Text>
+			<Text>Hwarang (kukkaisritarit)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
-			<Text>+10% [ICON_Culture] Culture and +10% [ICON_Science] Science in all cities with an established [ICON_Governor] Governor.</Text>
+			<Text>+10% [ICON_Culture] kulttuuria ja +10% [ICON_Science] tiedettä kaikissa asettuneen [ICON_Governor] kuvernöörin kaupungeissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_SEOWON_NAME">
-			<Text>Seowon</Text>
+			<Text>Seowon|seowon|seowonin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_SEOWON_DESCRIPTION">
-			<Text>A district unique to Korea for scientific endeavors. Replaces the Campus district. +4 [ICON_SCIENCE] Science. Must be built on Hills.</Text>
+			<Text>Korean oma kampus. +4 [ICON_SCIENCE] tiedettä. Tulee rakentaa mäelle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: -1 [ICON_SCIENCE] Science for each adjacent District.</Text>
+			<Text>Läheisyys: -1 [ICON_SCIENCE] tiedettä jokaisesta vieressä olevasta kaupunkialueesta.</Text>
 		</Replace>
 		<!-- Genghis Khan -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
-			<Text>Mongolia</Text>
+			<Text>Mongolia|mongolien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
-			<Text>Mongolian</Text>
+			<Text>Mongolien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
-			<Text>Mongolian Empire</Text>
+			<Text>Mongolivaltakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
 			<Text>Örtöö</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
-			<Text>Starting a [ICON_TradeRoute] Trade Route immediately creates a [ICON_TradingPost] Trading Post in the destination city. Receive an extra level of [ICON_VisLimited] Diplomatic Visibility for possessing a [ICON_TradingPost] Trading Post in any city of a civilization. All Mongolian units double the usual [ICON_Strength] Combat Bonus for having a higher level of [ICON_VisLimited] Diplomatic Visibility than their opponent.</Text>
+			<Text>Uudet [ICON_TradeRoute] kauppareitit luovat välittömästi [ICON_TradingPost] kauppapaikan kohdekaupunkiin. Kasvanut [ICON_VisLimited] diplomaattinen näkyvyys, mikäli toisen kansakunnan missä tahansa kaupungissa on mongolien [ICON_TradingPost] kauppapaikka. Kaikki mongolien yksiköt saavat korkeammasta [ICON_VisLimited] diplomaattisesta näkyvyydestä aiheutuvan [ICON_Strength] taisteluedun kaksinkertaisena.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_GENGHIS_KHAN_NAME">
-			<Text>Genghis Khan</Text>
+			<Text>Tšingis-kaani|Tšingis-kaanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_NAME">
-			<Text>Mongol Horde</Text>
+			<Text>Mongolijoukkio</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION">
-			<Text>All cavalry class units gain +3 [ICON_Strength] Combat Strength and a chance to capture defeated enemy cavalry class units.</Text>
+			<Text>Kaikki ratsuluokan yksiköt saavat +3 [ICON_Strength] taisteluvoimaa ja ovat kykeneviä kaappaamaan päihitetyn ratsuluokan yksikön.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_CAVALRY_COMBAT_BONUS_PREVIEW_TEXT">
-			<Text>+{1_Amount} Mongol Horde</Text>
+			<Text>+{1_Amount} mongolijoukkiosta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_ORDU_NAME">
-			<Text>Ordu</Text>
+			<Text>Ordu|ordu|ordun</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_ORDU_DESCRIPTION">
-			<Text>A building unique to Mongolia. Grants an ability that gives +1 [ICON_MOVEMENT] Movement to Heavy and Light Cavalry trained in this city. +25% combat experience for all cavalry class units trained in this city. May not be built in an Encampment district that already has a Barracks.</Text>
+			<Text>Mongolien oma rakennus. Antaa kaikille tässä kaupungissa koulutetuille raskaan ja kevyen ratsuluokan yksiköille +1 [ICON_MOVEMENT] liikkuvuutta. +25% etua taistelukokemuksen kertymiseen kaikille tässä kaupungissa koulutetuille ratsuluokan yksiköille. Ei voi rakentaa varuskuntaan, josta löytyy jo parakit.</Text>
 		</Replace>
 		<!-- Shaka Zulu -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZULU_NAME">
-			<Text>Zulu</Text>
-			<Gender>Masculine:the</Gender>
+			<Text>Zulut|zulujen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE">
-			<Text>Zulu</Text>
+			<Text>Zulujen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
-			<Text>Zulu Empire</Text>
+			<Text>Zuluvaltakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
 			<Text>Isibongo</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION">
-			<Text>Cities with a garrisoned unit get +3 Loyalty per turn, or +5 if it is a Corps or Army. Conquering a city with a unit will upgrade it into a Corps or Army, if the proper Civics are unlocked.</Text>
+			<Text>Kaupunkiin asettuneet yksiköt antavat +3 uskollisuutta vuorossa, tai 5 mikäli yksikkö on asettunut joukko-osastoksi tai armeijaksi. Kaupungin valtaaminen päivittää yksikön joukko-osastoksi tai armeijaksi, mikäli vaaditut normit on kehitetty.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_SHAKA_NAME">
-			<Text>Shaka</Text>
+			<Text>Shaka|Shakan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME">
-			<Text>Amabutho</Text>
+			<Text>Amabutho-rykmentti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION">
-			<Text>May form Corps (Mercenaries Civic) and Armies (Nationalism Civic) earlier. An additional +5 [ICON_STRENGTH] Base Combat Strength to both Corps and Armies. </Text>
+			<Text>Voi muodostaa muita aiemmin joukko-osastoja (palkkasoturit) ja armeijoja (nationalismi). Joukko-osastot ja armeijat saavat lisäksi +5 [ICON_STRENGTH] perustaisteluvoimaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_IKANDA_NAME">
-			<Text>Ikanda</Text>
-			<Gender>masculine:an</Gender>
+			<Text>Ikanda|ikanda|ikandan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
-			<Text>A district unique to Zulu which replaces the Encampment. Provides +1 [ICON_Housing] Housing. Once the Civic or Technology prerequisite is met, Corps and Armies can be built outright. Faster Corps and Army creation.</Text>
+			<Text>Varuskunnan korvaava zulujen oma kaupunkialue. Tarjoaa +1 [ICON_Housing] asumuksia. Vaadittujen normien tai tekniikoiden kehittämisen jälkeen voi saman tien kouluttaa joukko-osastoja ja armeijoja. Joukko-osastoja ja armeijoja on nopeampi kouluttaa.</Text>
 		</Replace>
 		<!-- Spain -->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">
-			<Text>May form Fleets and Armadas earlier than usual (Mercantilism). [ICON_TradeRoute] Trade Routes between multiple continents receive bonus [ICON_Gold] Gold for routes to other civilizations, and bonus [ICON_Food] Food and [ICON_Production] Production for routes between your own cities. +2 Loyalty per turn for cities with a Mission improvement adjacent to the City Center and not on your original [ICON_Capital] Capital's continent.</Text>
+			<Text>Voi muodostaa laivastoja ja armadoja tavanomaista aiemmin (merkantilismi). [ICON_TradeRoute] Kauppareitit useamman mantereen välillä saavat lisää [ICON_Gold] kultaa reiteistä muihin kansakuntiin ja lisää [ICON_Food] ruokaa ja [ICON_Production] tuotantoa reiteistä omien kaupunkien välillä. +2 uskollisuutta vuorossa kaupungeille joiden kaupungin keskustan vieressä on lähetystö, mikäli kaupunki sijaitsee muulla kuin alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
 		</Replace>
 		<!-- Tamar-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GEORGIA_NAME">
-			<Text>Georgia</Text>
+			<Text>Georgia|georgialaisten</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE">
 			<Text>Georgian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
-			<Text>Georgian Empire</Text>
+			<Text>Georgian valtakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
-			<Text>Strength in Unity</Text>
+			<Text>Yhtenäisyyden voima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
-			<Text>When making a Dedication at the beginning of a Golden Age, receive its Normal Age bonus towards improving Era Score, in addition to its Golden Age bonus.</Text>
+			<Text>Kultakauden alussa valittu antaumus antaa kultakauden edun lisäksi myös tavanomaisen kauden kausipisteet.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TAMAR_NAME">
-			<Text>Tamar</Text>
+			<Text>Tamar|Tamarin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
-			<Text>Glory of the World, Kingdom and Faith</Text>
+			<Text>Maailman, kuningaskunnan ja uskon kunnia</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
-			<Text>+100% [ICON_FAITH] Faith for 10 turns after declaring a Protectorate War. Each [ICON_ENVOY] Envoy you send to a city-state of your majority Religion counts as two [ICON_ENVOY] Envoys. (Must have a majority Religion). </Text>
+			<Text>+100% [ICON_FAITH] uskoa kymmenen vuoron ajaksi suojelusodan julistamisesta. Kukin valtauskontoasi noudattavaan kaupunkivaltioon lähetetty [ICON_ENVOY] edustaja lasketaan kahtena. (Kansallasi tulee olla valtauskonto).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_TSIKHE_NAME">
-			<Text>Tsikhe</Text>
+			<Text>Tsikhe|tsikhe|tsihken</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_TSIKHE_DESCRIPTION">
-			<Text>A building unique to Georgia. Lower [ICON_Production] Production cost than Renaissance Walls. Raises the strength of your outer defenses to the highest possible level. Provides 3 [ICON_TOURISM] Tourism after advancing to the Conservation Civic. Provides 3 [ICON_Faith] Faith.</Text>
+			<Text>Georgian oma rakennus. Edullisemmat [ICON_Production] tuotantokustannukset kuin renessanssin muurilla. Kasvattaa ulkoisen puolustuksen voiman korkeimmalle mahdolliselle tasolle. Tarjoaa 3 [ICON_TOURISM] turismia ympäristönsuojelun kehittämisen jälkeen. Tarjoaa 3 [ICON_Faith] uskoa.</Text>
 		</Replace>
 		<!-- Wilhemina -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NETHERLANDS_NAME">
-			<Text>Netherlands</Text>
-			<Gender>Masculine:the</Gender>
+			<Text>Alankomaat|hollantilaisten</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE">
-			<Text>Dutch</Text>
+			<Text>Hollannin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
-			<Text>Dutch Empire</Text>
+			<Text>Hollannin valtakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
-			<Text>Grote Rivieren</Text>
+			<Text>Grote rivieren</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION">
-			<Text>Major adjacency bonus for Campuses, Theater Squares, and Industrial Zones if next to a river. Culture Bomb adjacent tiles when completing a Harbor.</Text>
+			<Text>Merkittävä läheisyysetu kampuksille, teatteriaukioille ja teollisuusalueille joen varrella. Sataman valmistuminen kulttuuripommittaa sataman viereiset ruudut pelaajan omistukseen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_WILHELMINA_NAME">
-			<Text>Wilhelmina</Text>
+			<Text>Vilhelmiina|Vilhelmiinan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
 			<Text>Radio Oranje</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
-			<Text>Your [ICON_TradeRoute] Trade Routes to your own cities provide +1 Loyalty per turn for the starting city. [ICON_TradeRoute] Trade Routes to foreign cities or from foreign cities provide +1 [ICON_Culture] Culture to you.</Text>
+			<Text>Omiin kaupunkeihin suunnatut [ICON_TradeRoute] kauppareittimme tarjoavat +1 uskollisuutta vuorossa lähtökaupungille. Ulkomailta tulevat ja sinne menevät [ICON_TradeRoute] kauppareitit tarjoavat +1 [ICON_Culture] kulttuuria meille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_POLDER_NAME">
-			<Text>Polder</Text>
+			<Text>Polderi|polderi|polderin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Polder, unique to Netherlands.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food and +1 [ICON_Production] Production. +1 [ICON_FOOD] Food if adjacent to a Polder improvement. Additional [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, and [ICON_FOOD] Food  as you advance through the Civics and Technology Tree. Must be placed on a Coast or Lake tile adjacent to 3 or more flat land tiles. Increases [ICON_Movement] Movement Cost of tile to 3.</Text>
+			<Text>Mahdollistaa hollantilaisrakentajille kyvyn rakentaa polderin.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ruokaa ja +1 [ICON_Production] tuotantoa. +1 [ICON_FOOD] ruokaa mikäli polderin vieressä. Etuja [ICON_PRODUCTION] tuotantoon, [ICON_GOLD] kultaan ja [ICON_FOOD] ruokaan normien ja tekniikoiden kehittämisen myötä. Tulee sijoittaa kolmen tai useamman tasaisen maan vierustamaan rannikko- tai järviruutuun. Kasvattaa ruudun [ICON_Movement] liikkumiskulun kolmeen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_NAME">
-			<Text>Fishery</Text>
+			<Text>Kalastamo|kalastamo|kalastamon</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
-			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Aquaculture promotion. Yields 1 [ICON_Food] Food, +1 additional [ICON_Food] Food if adjacent to a sea resource. Must be built on a coastal plot.</Text>
+			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Aquaculture promotion. Tuottaa 1 [ICON_Food] ruokaa, +1 [ICON_Food] ruokaa lisää mikäli meriluonnonvaran vieressä. Tulee rakentaa rannikkoruutuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
-			<Text>City Park</Text>
+			<Text>Kaupunkipuisto|kaupunkipuisto|kaupunkipuiston</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
-			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Parks and Recreation promotion. Yields 2 Appeal and 1 [ICON_Culture] Culture. +1 [ICON_Amenities] Amenity if adjacent to water. Cannot be adjacent to another City Park.</Text>
+			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Parks and Recreation promotion. Tuottaa 2 houkuttelevuutta ja 1 [ICON_Culture] kulttuuria. +1 [ICON_Amenities] elintasoa mikäli veden vieressä. Ei voi rakentaa toisen kaupunkipuiston viereen.</Text>
 		</Replace>
 		<!-- Jerusalem -->
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME_EXPANSION">
-			<Text>Jerusalem Suzerain Bonus</Text>
+			<Text>Jerusalemin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
-			<Text>Your cities with Holy Sites exert pressure as if they were Holy Cities (4x Religion pressure on all cities within 10 tiles).</Text>
+			<Text>Pyhän paikan omaavat kaupunkimme puskevat painetta kuten pyhät kaupungit (nelinkertainen uskonnon paine kaikkiin kymmenen ruudun sisällä oleviin kaupunkeihin).</Text>
 		</Replace>
 		<!-- Free Cities -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FREE_CITIES_NAME">
-			<Text>Free Cities</Text>
-			<Gender>Masculine:the</Gender>
+			<Text>Vapaa kaupunki|vapaiden kaupunkilaisten</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION">
-			<Text>Free Cities</Text>
+			<Text>Vapaat kaupungit</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
