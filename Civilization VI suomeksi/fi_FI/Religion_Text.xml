@@ -311,7 +311,7 @@
 			<Text>+25% [ICON_Production] tuotantoa kohden muinaisuuden ja antiikin sotayksiköitä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
-			<Text>Kasvattaa parantumista +30:lla pyhässä paikassa ja sen viereisissä ruuduissa.</Text>
+			<Text>Kasvattaa hoivausta +30:lla pyhässä paikassa ja sen viereisissä ruuduissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
 			<Text>Kahdeksan ruudun sisällä pyhästä paikasta tuhottu vihollisyksikkö tarjoaa puolet voimastaan [ICON_Faith] uskona.</Text>

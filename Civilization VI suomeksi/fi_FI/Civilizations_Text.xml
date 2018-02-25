@@ -387,7 +387,7 @@
 			<Text>Knarr</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
-			<Text>Yksiköt voivat seilata meriruutuihin laivanrakentamisen kehittämisen jälkeen. Meleelaivayksiköt parantuvat neutraalilla alueella. Yksiköihin ei vaikuta ylimääräiset [ICON_Movement] liikkumismaksut uittoontumisesta ja rantautumisesta.</Text>
+			<Text>Yksiköt voivat seilata meriruutuihin laivanrakentamisen kehittämisen jälkeen. Meleelaivayksiköt hoivautuvat neutraaleilla mailla. Yksiköihin ei vaikuta ylimääräiset [ICON_Movement] liikekulut uittoontumisesta ja rantautumisesta.</Text>
 		</Replace>
 		<!-- Civilization Info -->
 		<Replace Language="en_US" Tag="LOC_CIVINFO_LOCATION">

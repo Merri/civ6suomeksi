@@ -2525,7 +2525,7 @@
 			<Text>Vaihda tukikohta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_RELIGIOUS_HEAL_DESCRIPTION">
-			<Text>Hoida uskonnolliset yksiköt</Text>
+			<Text>Hoivaa uskonnolliset yksiköt</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_REMOVE_FEATURE_DESCRIPTION">
 			<Text>Poista piirre</Text>
@@ -2627,7 +2627,7 @@
 			<Text>Yksikkö vartioi ja menee uneen, mutta herää nähdessään vihollisen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_HEAL_DESCRIPTION">
-			<Text>Vartioi kunnes parantunut</Text>
+			<Text>Vartioi kunnes hoivattu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_MAKE_TRADE_ROUTE_DESCRIPTION">
 			<Text>Muodosta kauppareitti</Text>
@@ -4190,7 +4190,7 @@
 			<Text>{1_CityStateName} Erityinen etu:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS">
-			<Text>Valta-aseman diplomaattinen etu:[NEWLINE][ICON_Bolt]Kaupunkivaltio kulkee kanssamme sotaan ja rauhaan toisia pelaajia vastaan.[NEWLINE][ICON_Bolt]Kaupunkivaltion alueesta tulee ystävällinen: yksikkömme voivat kulkea, parantua ja päivittyä siellä.[NEWLINE][ICON_Bolt]Rakentajamme voivat tehdä rakenteita kaupunkivaltion maille.[NEWLINE][ICON_Bolt]Voimme nähdä kaupunkivaltiota ympäröivät maat kolmen ruudun päähän.[NEWLINE][ICON_Bolt]Voimme värvätä [ICON_Gold] kullalla kaupunkivaltion armeijan väliaikaisesti käyttöömme.[NEWLINE][ICON_Bolt]Saamme omistajuuden kaikille kaupunkivaltion luonnonvaroille.</Text>
+			<Text>Valta-aseman diplomaattinen etu:[NEWLINE][ICON_Bolt]Kaupunkivaltio kulkee kanssamme sotaan ja rauhaan toisia pelaajia vastaan.[NEWLINE][ICON_Bolt]Kaupunkivaltion maista tulee ystävälliset: yksikkömme voivat kulkea, hoivaantua ja päivittää siellä.[NEWLINE][ICON_Bolt]Rakentajamme voivat tehdä rakenteita kaupunkivaltion maille.[NEWLINE][ICON_Bolt]Voimme nähdä kaupunkivaltiota ympäröivät maat kolmen ruudun päähän.[NEWLINE][ICON_Bolt]Voimme värvätä [ICON_Gold] kullalla kaupunkivaltion armeijan väliaikaisesti käyttöömme.[NEWLINE][ICON_Bolt]Saamme omistajuuden kaikille kaupunkivaltion luonnonvaroille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_SUZERAIN_NO_RESOURCES_AVAILABLE">
 			<Text>(Ei toistaiseksi saatavilla)</Text>

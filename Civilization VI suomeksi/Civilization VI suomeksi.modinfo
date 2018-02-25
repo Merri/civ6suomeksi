@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="5">
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="6">
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -26,7 +26,7 @@
 		<!-- Vanilla -->
 		<UpdateText id="FrontendTextFinnish">
 			<Properties>
-				<LoadOrder>90</LoadOrder>
+				<LoadOrder>-10</LoadOrder>
 			</Properties>
 			<File>fi_FI/AncientRivalsScenario_Text.xml</File>
 			<File>fi_FI/Australia_PackageText.xml</File>
@@ -68,7 +68,7 @@
 		<!-- Rise & Fall -->
 		<UpdateText id="Expansion1TextFinnish" criteria="Expansion1">
 			<Properties>
-				<LoadOrder>110</LoadOrder>
+				<LoadOrder>10</LoadOrder>
 			</Properties>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Leaders_Text.xml</File>
@@ -79,7 +79,7 @@
 		<!-- Vanilla -->
 		<UpdateText id="TextFinnish">
 			<Properties>
-				<LoadOrder>90</LoadOrder>
+				<LoadOrder>-10</LoadOrder>
 			</Properties>
 			<File>fi_FI/AncientRivalsScenario_Text.xml</File>
 			<File>fi_FI/Australia_PackageText.xml</File>
@@ -121,7 +121,7 @@
 		<!-- Rise & Fall -->
 		<UpdateText id="Expansion1TextFinnish" criteria="Expansion1">
 			<Properties>
-				<LoadOrder>110</LoadOrder>
+				<LoadOrder>10</LoadOrder>
 			</Properties>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Leaders_Text.xml</File>
