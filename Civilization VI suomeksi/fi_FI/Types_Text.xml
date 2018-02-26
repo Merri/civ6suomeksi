@@ -2063,10 +2063,10 @@
 			<Text>Mars-siirtokunnan reaktori</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_NAME">
-			<Text>Laukaise Marsin kansoitus</Text>
+			<Text>Laukaise Marsin asuintilat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_SHORT_NAME">
-			<Text>Mars-siirtokunnan kansoitus</Text>
+			<Text>Mars-siirtokunnan asuintilat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_NAME">
 			<Text>Laukaise Mars-hydroviljelmä</Text>

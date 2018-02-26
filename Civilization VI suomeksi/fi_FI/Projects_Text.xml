@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
+			<Text>Korjaa kaupungin uloimman puolustuksen. Mahdollista vain jos kaupunkiin ei ole hyökätty edellisen kolmen vuoron aikana.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Kaupunkialueprojekti, joka tuottaa [ICON_Gold] kultaa joka vuoro ja [ICON_GreatGeneral] merkittävien kenraalien pisteitä valmistuessaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Kaupunkialueprojekti, joka tuottaa [ICON_Gold] kultaa joka vuoro ja [ICON_GreatAdmiral] merkittävien amiraalien pisteitä valmistuessaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Kaupunkialueprojekti, joka tuottaa [ICON_Gold] kultaa joka vuoro ja [ICON_GreatEngineer] merkittävien insinöörien pisteitä valmistuessaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Kaupunkialueprojekti, joka tuottaa runsaasti [ICON_Gold] kultaa joka vuoro ja [ICON_GreatMerchant] merkittävien kauppiaiden pisteitä valmistuessaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Kaupunkialueprojekti, joka tuottaa [ICON_Faith] uskoa joka vuoro ja [ICON_GreatProphet] merkittävien profeettojen pisteitä valmistuessaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Kaupunkialueprojekti, joka tuottaa [ICON_Science] tiedettä joka vuoro ja [ICON_GreatScientist] merkittävien tieteentekijöiden pisteitä valmistuessaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Kaupunkialueprojekti, joka tuottaa [ICON_Culture] kulttuuria joka vuoro ja hieman [ICON_GreatWriter] merkittävien kirjailijoiden, [ICON_GreatArtist] merkittävien taiteilijoiden ja [ICON_GreatMusician] merkittävien muusikoiden pisteitä valmistuessaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
+			<Text>Brasilian oma projekti, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan aktiivinen ja [ICON_GreatPerson] merkittävien henkilöiden piseitä [ICON_GreatEngineer] insinööreille, [ICON_GreatMerchant] kauppiaille, [ICON_GreatWriter] kirjailijoille, [ICON_GreatArtist] taiteilijoille ja [ICON_GreatMusician] muusikoille valmistuessaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
+			<Text>Avaruuskilpailun projekti, joka ampaisee satelliitin kiertoradalle. Paljastaa koko maailman maaston ja on merkki ensimmäisestä vaiheesta kohti tiedevoittoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
+			<Text>Avaruuskilpailun projekti, joka lähettää suuren raketin kuuhun miehistön kera. Tarjoaa kertaalleen [ICON_Culture] kulttuuriedun, joka on vuorottainen [ICON_Science] tiede kymmenkertaisena, sekä toimii merkkinä tiedevoiton toisesta vaiheesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
+			<Text>Avaruuskilpailun projekti, joka lähettää reaktorimoduulin kiertoradalle Marsin siirtokuntaa varten. Kaikkien kolmen moduulin lähettäminen johtaa tiedevoittoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
+			<Text>Avaruuskilpailun projekti, joka lähettää asuintilamoduulin kiertoradalle Marsin siirtokuntaa varten. Kaikkien kolmen moduulin lähettäminen johtaa tiedevoittoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
+			<Text>Avaruuskilpailun projekti, joka lähettää hydroviljelymoduulin kiertoradalle Marsin siirtokuntaa varten. Kaikkien kolmen moduulin lähettäminen johtaa tiedevoittoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
+			<Text>Mahdollistaa ydinaseiden valmistuksen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
+			<Text>Mahdollistaa vetypommien valmistuksen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Lisää ydinaseen kansakuntamme varantoon. Vaatii [ICON_Resource_Uranium] uraniumin. Ylläpitokulu on 14 [ICON_Gold] kultaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Lisää vetypommin kansakuntamme varantoon. Vaatii [ICON_Resource_Uranium] uraniumin. Ylläpitokulu on 16 [ICON_Gold] kultaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
+			<Text>Olemme onnistuneesti lähettäneet satelliitin kiertoradalle! Koko maailman maasto paljastuu ja olemme ottaneet ensimmäisen askeleen kohti tiedevoittoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
+			<Text>Olemme onnistuneesti lähettäneet ihmisen kuun kamaralle! Saamme kertaalleen [ICON_Culture] kulttuurietua kymmenkertaisesti vuorottaisen [ICON_Science] tieteemme verran ja olemme ottaneet toisen askeleen kohti tiedevoittoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
+			<Text>Olemme onnistuneesti laukaisseet reaktorimoduulin, joka on tärkeä osa Mars-siirtokunnan avaruusalukselle. Kaikkien kolmen moduulin lähettäminen kiertoradalle saa aluksen valmiiksi ja johtaa tiedevoittoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
+			<Text>Olemme onnistuneesti laukaisseet asuintilamoduulin, joka on tärkeä osa Mars-siirtokunnan avaruusalukselle. Kaikkien kolmen moduulin lähettäminen kiertoradalle saa aluksen valmiiksi ja johtaa tiedevoittoon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
+			<Text>Olemme onnistuneesti laukaisseet hydroviljelmämoduulin, joka on tärkeä osa Mars-siirtokunnan avaruusalukselle. Kaikkien kolmen moduulin lähettäminen kiertoradalle saa aluksen valmiiksi ja johtaa tiedevoittoon.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
