@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_TITLE">
+			<Text>Lisäosa: Puola</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_TEASER">
+			<Text>Uusi kansa ja hallitsija: Puolan Jadwiga</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLAND_JADWIGA_MOD_DESCRIPTION">
+			<Text>Sisältää uuden kansan ja hallitsijan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_TITLE">
+			<Text>Skenaario: Jadwigan perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_TEASER">
+			<Text>Taistele kahden muun pelaan kanssa puolustaaksesi Puolaa ulkoisilta uhilta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_POLAND_SCENARIO_DESCRIPTION">
+			<Text>Tässä 60 vuoron skenaariossa toimit Euroopan tienristeyksessä puolustaen Puolan hedelmällisiä maita kaikista suunnista uhkaavien valtaajien jatkuvilta häiriöiltä. Ohjasta siipihusaarit kohtaamaan saksalainen ritarikunta ja osmanit kehittäessäsi kansakuntaasi.[NEWLINE][NEWLINE]Pelin lopussa korkeimmat tavanomaiset pisteet kerännyt pelaaja voittaa pelin.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
