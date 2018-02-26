@@ -50,6 +50,7 @@
 			<File>fi_FI/InGameText.xml</File>
 			<File>fi_FI/Leaders_Text.xml</File>
 			<File>fi_FI/MultiplayerFrontEndText.xml</File>
+			<File>fi_FI/Nubia_PackageText.xml</File>
 			<File>fi_FI/Poland_PackageText.xml</File>
 			<File>fi_FI/Projects_Text.xml</File>
 			<File>fi_FI/Quests_Text.xml</File>
@@ -105,6 +106,7 @@
 			<File>fi_FI/InGameText.xml</File>
 			<File>fi_FI/Leaders_Text.xml</File>
 			<File>fi_FI/MultiplayerFrontEndText.xml</File>
+			<File>fi_FI/Nubia_PackageText.xml</File>
 			<File>fi_FI/Poland_PackageText.xml</File>
 			<File>fi_FI/Projects_Text.xml</File>
 			<File>fi_FI/Quests_Text.xml</File>
@@ -170,6 +172,7 @@
 		<File>fi_FI/InGameText.xml</File>
 		<File>fi_FI/Leaders_Text.xml</File>
 		<File>fi_FI/MultiplayerFrontEndText.xml</File>
+		<File>fi_FI/Nubia_PackageText.xml</File>
 		<File>fi_FI/Poland_PackageText.xml</File>
 		<File>fi_FI/Projects_Text.xml</File>
 		<File>fi_FI/Quests_Text.xml</File>
