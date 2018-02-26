@@ -14,7 +14,7 @@
 			<Text>Skenaario: Niilin lahjat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MOD_NUBIA_SCENARIO_TEASER">
-			<Text>Kykenetkö tulemaan suurimmaksi vallaksi Niilin jokilaaksossa? Kestää 125 vuoroa.</Text>
+			<Text>Kykenetkö tulemaan suurimmaksi vallaksi Niilin jokilaaksossa? Kestää korkeintaan 125 vuoroa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MOD_NUBIA_SCENARIO_DESCRIPTION">
 			<Text>Tässä 125:n vuoron skenaariossa valtakuntaa tulee laajentaa Niilin jokilaaksoa pitkin ja poikin, varmistaen että kansastamme tulee Amun-jumalan siunatuin. Rakennuta seitsemän temppeliä hänen kunniakseen ja voitto on meidän!</Text>

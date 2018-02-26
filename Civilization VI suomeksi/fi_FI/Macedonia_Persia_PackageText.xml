@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_TITLE">
+			<Text>Lisäosa: Persia ja Makedonia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_TEASER">
+			<Text>Uusia kansoja ja hallitsijoita: Makedonian Aleksanteri Suuri, sekä Persian Kyyros</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION">
+			<Text>Sisältää kaksi uutta kansaa ja hallitsijaa, sekä kaksi uutta maailmanihmettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_TITLE">
+			<Text>Skenaario: Aleksanterin valloitukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_TEASER">
+			<Text>Kykenetkö valtaamaan valtakunnan, joka on Aleksanteri Suuren veroinen? Kestää korkeintaan 60 vuoroa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION">
+			<Text>Tässä yksinpeliskenaariossa sinun tulee laajentaa valtakuntaa ansaitaksesi nimen "Aleksanteri Suuri." Skenaario painottaa taistelua, maiden valtaamista ja rinnallasi taistelevien merkittävien kenraalien harkittua käyttöä.[NEWLINE][NEWLINE]Voittaaksesi valtaa jokainen kartan kaupunki vaikeustason mukaisessa määrässä vuoroja:[NEWLINE][NEWLINE]Uudisasuttaja: 60 vuoroa[NEWLINE]Sotaherra tai heimopäällikkö: 55 vuoroa[NEWLINE]Kuningas tai prinssi: 50 vuoroa[NEWLINE]Kuolematon tai keisari: 45 vuoroa[NEWLINE]Jumalainen: 37 vuoroa</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
