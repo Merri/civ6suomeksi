@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Natural Wonders -->
+		<Replace Language="en_US" Tag="LOC_UI_FEATURE_NATURAL_WONDER_DISCOVERY">
+			<Text>Luonnonihme on löytynyt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_NATURAL_WONDER_DESCRIPTION">
+			<Text>Luonnonihmeiden löytäminen antaa tiedustelijoille kokemusta. Pyhät paikat saavat luonnonihmeistä läheisyysetua. Kaikki viereiset ruudut saavat +2 houkuttelevuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_BARRIER_REEF_DESCRIPTION">
+			<Text>Kahden ruudun luonnonhime, jonka voi löytää rannikolta. Tarjoaa +3 [ICON_Food] ruokaa ja +2 [ICON_Science] tiedettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION">
+			<Text>Kahden ruudun luonnonihme, joka löytyy veden lähellä olevalta kallioseinämältä. Tarjoaa +3 [ICON_Culture] kulttuuria ja +2 [ICON_Gold] kultaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION">
+			<Text>Yhden ruudun luonnonihme, joka on kuten järvi. Tarjoaa +4 [ICON_Faith] uskoa, +1 [ICON_Science] tiedettä ja makeaa vettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION">
+			<Text>Kahden ruudun luonnonihme, joka on kuten järvi. Tarjoaa +2 [ICON_Faith] uskoa, +2 [ICON_Culture] kulttuuria ja makeaa vettä. Yksiköt hoivaantuvat yhdessä vuorossa kokonaan hoivatessaan itsensä Kuolleenmeren lähellä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_EVEREST_DESCRIPTION">
+			<Text>Kolmen ruudun kulkukelvoton luonnonihme, joka on kuten vuori. Tarjoaa +1 [ICON_Faith] uskoa viereisille ruuduille. Mount Everestin vierustalla käyvät uskonnolliset yksiköt eivät enää huomioi mäkiä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION">
+			<Text>Kahden ruudun kulkukelvoton luonnonihme, joka löytyy rannikolta. Tarjoaa +2 [ICON_Science] tiedettä viereisille ruuduille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_KILIMANJARO_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonhime, joka on kuten vuori. Tarjoaa +2 [ICON_Food] ruokaa viereisille ruuduille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_PANTANAL_DESCRIPTION">
+			<Text>Neljän ruudun luonnonihme, joka on kuten suo. Tarjoaa +2 [ICON_Food] ruokaa ja +2 [ICON_Culture] kulttuuria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_PIOPIOTAHI_DESCRIPTION">
+			<Text>Kolmen ruudun kulkukelvoton luonnonhime. Tarjoaa +1 [ICON_Culture] kulttuuria ja +1 [ICON_Gold] kultaa viereisille ruuduille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION">
+			<Text>Kahden ruudun kulkukelvoton luonnonhime. Kaksinkertaistaa kaikkien viereisten ruutujen tuotot.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_TSINGY_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonihme. Tarjoaa +1 [ICON_Culture] kulttuuria ja +1 [ICON_Science] tiedettä viereisille ruuduille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_YOSEMITE_DESCRIPTION">
+			<Text>Kahden ruudun kulkukelvoton luonnonihme. Tarjoaa +1 [ICON_Gold] kultaa ja +1 [ICON_Science] tiedettä viereisille ruuduille.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
