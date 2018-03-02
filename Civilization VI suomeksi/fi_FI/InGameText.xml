@@ -525,31 +525,31 @@
 			<Text>Liikepisteet</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_ANTI_AIR_STRENGTH">
-			<Text>IT-voimakkuus</Text>
+			<Text>Ilmatorjuntavoima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_STRENGTH">
-			<Text>Melee-voimakkuus</Text>
+			<Text>Melee-voima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_RELIGIOUS_STRENGTH">
 			<Text>Uskonvoima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_RANGED_STRENGTH">
-			<Text>Tulitusvoimakkuus</Text>
+			<Text>Tulitusvoima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_BOMBARD_STRENGTH">
-			<Text>Tykitysvoimakkuus</Text>
+			<Text>Tulivoima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_CORPS_SUFFIX">
-			<Text>Joukko-osasto[ICON_Corps]</Text>
+			<Text>(joukko-osasto)[ICON_Corps]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_ARMY_SUFFIX">
-			<Text>Armeija[ICON_Army]</Text>
+			<Text>(armeija)[ICON_Army]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_FLEET_SUFFIX">
-			<Text>Laivasto[ICON_Corps]</Text>
+			<Text>(laivasto)[ICON_Corps]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_ARMADA_SUFFIX">
-			<Text>Armada[ICON_Army]</Text>
+			<Text>(armada)[ICON_Army]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_NO">
 			<Text>Ei</Text>
@@ -558,7 +558,7 @@
 			<Text>VS</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_WATER_AVAILABILITY_GUIDE">
-			<Text>VEDEN SAATAVUUSOPAS</Text>
+			<Text>VEDENSAANTIOPAS</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_FRESH_WATER">
 			<Text>Makeaa vettä</Text>
@@ -2477,10 +2477,10 @@
 			<Text>Viehättävä sijainti tarjoaa +{1_Amount} {2_Icon} {3_YieldType}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_GRANT_DEFENSE">
-			<Text>+{1_Value} [ICON_Strength] puolustusvoimakkuutta ruutua miehittävälle yksikölle</Text>
+			<Text>+{1_Value} [ICON_Strength] puolustusvoimaa ruutua miehittävälle yksikölle</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_GRANT_FORTIFICATION">
-			<Text>Miehittävällä yksiköllä on nyt linnoittautusmisetu.</Text>
+			<Text>Miehittävä yksikkö saa linnoittautusmisedun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_AIR_BASE">
 			<Text>{1_Amount} paikkaa lentokoneille tässä tukikohdassa.</Text>
