@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Name and Description-->
+		<Replace Language="en_US" Tag="LOC_TSLEARTH_NAME">
+			<Text>Alkukotien Maa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text>Kansakunnat aloittavat historiallisen pääkaupunkinsa sijainnista Maapallolla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text>Maa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text>Mukaelma Maapallosta, jossa luonnonvarat, maasto ja maastonpiirteet heijastavat historiallisia sijaintejaan.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

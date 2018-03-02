@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="7">
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="8">
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -46,6 +46,7 @@
 			<File>fi_FI/Combat_Text.xml</File>
 			<File>fi_FI/CompStompScenario_Text.xml</File>
 			<File>fi_FI/Difficulties_Text.xml</File>
+			<File>fi_FI/EarthMaps_ConfigText.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
 			<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
 			<File>fi_FI/InGameText.xml</File>
@@ -104,6 +105,7 @@
 			<File>fi_FI/Combat_Text.xml</File>
 			<File>fi_FI/CompStompScenario_Text.xml</File>
 			<File>fi_FI/Difficulties_Text.xml</File>
+			<File>fi_FI/EarthMaps_ConfigText.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
 			<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
 			<File>fi_FI/InGameText.xml</File>
@@ -172,6 +174,7 @@
 		<File>fi_FI/Combat_Text.xml</File>
 		<File>fi_FI/CompStompScenario_Text.xml</File>
 		<File>fi_FI/Difficulties_Text.xml</File>
+		<File>fi_FI/EarthMaps_ConfigText.xml</File>
 		<File>fi_FI/FrontEndText.xml</File>
 		<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
 		<File>fi_FI/InGameText.xml</File>
