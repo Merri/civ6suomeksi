@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K">
+			<Text>my2K</Text>
+		</Replace>		
+		<!-- String needed for MY2K but not (yet) provided by the server system... -->
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
+			<Text>Luo my2K-tunnus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
+			<Text>Syötä alla olevaan kenttään toimiva sähköpostiosoite luodaksesi my2K-tunnuksen. Vahvistusviesti lähetetään sähköpostiin tunnuksen luonnin vahvistamiseksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
+			<Text>Kirjaudu ulos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_MESSAGE">
+			<Text>Haluatko kirjautua ulos?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_YES">
+			<Text>Kyllä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_NO">
+			<Text>En</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LOGIN_USER">
+			<Text>Kirjaudu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_OK">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CANCEL">
+			<Text>Peruuta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_READ">
+			<Text>Lue</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER">
+			<Text>Luo uusi käyttäjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP">
+			<Text>Lue tunnus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_ISSUE">
+			<Text>Yhteysvirhe</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_FIRAXIS_LIVE_NOT_CONNECTED">
+			<Text>Yhteyttä Civilization VI:n kanssa ei voitu muodostaa. Civilization VI:n ominaisuudet eivät välttämättä toimi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MOTD">
+			<Text>Tuleva lähetys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_TITLE">
+			<Text>Tervetuloa takaisin!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_WELCOME_BACK_MESSAGE">
+			<Text>Kirjauduttu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_TITLE">
+			<Text>Vaimennettu kirjautumisilmoitus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
+			<Text>Sinun tulee kirjautua my2K-tunnukseen omatoimisesti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
+			<Text>Yhteys palautettu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LINK_TO_EXISTING">
+			<Text>Linkitys olemassaolevaan tunnukseen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_ALREADY_LINKED">
+			<Text>Järjestelmän tunnus on jo linkitetty my2K-tunnukseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_UNABLE_TO_LINK_ACCOUNT">
+			<Text>Järjestelmän tunnusta ei kyetä linkittämään my2K-tunnukseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT_TITLE">
+			<Text>Poista linkitys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_LINK_ACCOUNT_TITLE">
+			<Text>Linkitä tunnus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
+			<Text>Haluatko varmasti poistaa linkityksen my2K:hon? Voit hallita tunnustasi tai tarkastella tietosuojaselostetta verkossa osoitteessa www.2k.com</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
+			<Text>Ei yhteyttä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_MODE_LINKED_ONLINE">
+			<Text>Linkitetty (yhteydessä)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
+			<Text>Linkitetty (ei yhteyttä)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

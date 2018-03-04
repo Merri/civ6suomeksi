@@ -47,6 +47,7 @@
 			<File>fi_FI/CompStompScenario_Text.xml</File>
 			<File>fi_FI/Difficulties_Text.xml</File>
 			<File>fi_FI/EarthMaps_ConfigText.xml</File>
+			<File>fi_FI/Expansion1_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
 			<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
@@ -54,6 +55,7 @@
 			<File>fi_FI/Leaders_Text.xml</File>
 			<File>fi_FI/Macedonia_Persia_PackageText.xml</File>
 			<File>fi_FI/MultiplayerFrontEndText.xml</File>
+			<File>fi_FI/My2KText.xml</File>
 			<File>fi_FI/Nubia_PackageText.xml</File>
 			<File>fi_FI/Poland_PackageText.xml</File>
 			<File>fi_FI/Projects_Text.xml</File>
@@ -107,6 +109,7 @@
 			<File>fi_FI/CompStompScenario_Text.xml</File>
 			<File>fi_FI/Difficulties_Text.xml</File>
 			<File>fi_FI/EarthMaps_ConfigText.xml</File>
+			<File>fi_FI/Expansion1_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
 			<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
@@ -114,6 +117,7 @@
 			<File>fi_FI/Leaders_Text.xml</File>
 			<File>fi_FI/Macedonia_Persia_PackageText.xml</File>
 			<File>fi_FI/MultiplayerFrontEndText.xml</File>
+			<File>fi_FI/My2KText.xml</File>
 			<File>fi_FI/Nubia_PackageText.xml</File>
 			<File>fi_FI/Poland_PackageText.xml</File>
 			<File>fi_FI/Projects_Text.xml</File>
@@ -177,6 +181,7 @@
 		<File>fi_FI/CompStompScenario_Text.xml</File>
 		<File>fi_FI/Difficulties_Text.xml</File>
 		<File>fi_FI/EarthMaps_ConfigText.xml</File>
+		<File>fi_FI/Expansion1_PackageText.xml</File>
 		<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 		<File>fi_FI/FrontEndText.xml</File>
 		<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
@@ -184,6 +189,7 @@
 		<File>fi_FI/Leaders_Text.xml</File>
 		<File>fi_FI/Macedonia_Persia_PackageText.xml</File>
 		<File>fi_FI/MultiplayerFrontEndText.xml</File>
+		<File>fi_FI/My2KText.xml</File>
 		<File>fi_FI/Nubia_PackageText.xml</File>
 		<File>fi_FI/Poland_PackageText.xml</File>
 		<File>fi_FI/Projects_Text.xml</File>

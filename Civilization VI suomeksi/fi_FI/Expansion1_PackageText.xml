@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_TITLE">
+			<Text>Laajennos: Nousu ja tuho</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_TEASER">
+			<Text>Pelin laajennos, joka tuo kansakuntien vaihtuvat kaudet, uskollisuuden, kuvernöörit, hätätilat, uusia kansoja ja hallitsijoita, ja kovin paljon muuta!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
+			<Text>Peli käyttää Nousu ja tuho -laajennosta, joka tuo peliin kansakuntien vaihtuvat kaudet, uskollisuuden, kuvernöörit ja hätätilat. Kykenetkö johtamaan kansasi kultakauden kukoistukseen? Tai kohtaako kansasi synkän kauden tuomat haasteet?</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
