@@ -51,7 +51,7 @@
 			<Text>Maatiloja voi rakentaa mäkisille ruohikoille ja tasangoille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
-			<Text>Sallii kouluttaa yhden vakoilijan lisää. Kaksi samanlaista yksikköä voi muodostaa joukko-osaston tai laivaston. Allows one new Casus Belli that can be used to justify wars: Colonial War.</Text>
+			<Text>Sallii kouluttaa yhden vakoilijan lisää. Kaksi samanlaista yksikköä voi muodostaa armeijakunnan tai laivaston. Allows one new Casus Belli that can be used to justify wars: Colonial War.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
 			<Text>Tarjoaa kaksi [ICON_Envoy] edustajaa.</Text>
@@ -193,7 +193,7 @@
 			<Text>Perusta lähiö, jonka houkuttelevuus on henkeäsalpaava.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
-			<Text>Muodosta kolme joukko-osastoa.</Text>
+			<Text>Muodosta kolme armeijakuntaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
 			<Text>Kehitä radio.</Text>

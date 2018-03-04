@@ -119,10 +119,10 @@
 			<Text>Voi perustaa ja ylläpitää yhtä [ICON_TradeRoute] kauppareittiä. Luo tien kulkiessaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
-			<Text>Voi käännyttää [ICON_Citizen] asukkaita uskoonsa. Ei kykene aloittamaan uskontaistoja toista uskoa noudattavia yksikköjä vastaan (mutta voi puolustautua).</Text>
+			<Text>Voi käännyttää [ICON_Citizen] väestöä uskoonsa. Ei kykene aloittamaan uskontaistoja toista uskoa noudattavia yksikköjä vastaan (mutta voi puolustautua).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
-			<Text>Voi käännyttää [ICON_Citizen] asukkaita uskoonsa ja käymään uskontaistoja toista uskoa noudattavia yksikköjä vastaan.</Text>
+			<Text>Voi käännyttää [ICON_Citizen] väestöä uskoonsa ja käymään uskontaistoja toista uskoa noudattavia yksikköjä vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
 			<Text>Kykenee poistamaan muiden uskontojen vaikutuksen omilla alueilla, sekä käymään uskontaistoja toista uskoa noudattavia yksikköjä vastaan.</Text>

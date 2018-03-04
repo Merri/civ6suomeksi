@@ -540,16 +540,16 @@
 			<Text>Tulivoima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_CORPS_SUFFIX">
-			<Text>(joukko-osasto)[ICON_Corps]</Text>
+			<Text>[ICON_Corps] armeijakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_ARMY_SUFFIX">
-			<Text>(armeija)[ICON_Army]</Text>
+			<Text>[ICON_Army] armeija</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_FLEET_SUFFIX">
-			<Text>(laivasto)[ICON_Corps]</Text>
+			<Text>[ICON_Corps] laivasto</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_ARMADA_SUFFIX">
-			<Text>(armada)[ICON_Army]</Text>
+			<Text>[ICON_Army] armada</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_NO">
 			<Text>Ei</Text>
@@ -757,16 +757,16 @@
 		</Replace>
 		<!-- ==================== Unit Flag ==================== -->
 		<Replace Language="en_US" Tag="LOC_UNITFLAG_ARMY_SUFFIX">
-			<Text>Armeija</Text>
+			<Text>(armeija)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITFLAG_CORPS_SUFFIX">
-			<Text>Joukko-osasto</Text>
+			<Text>(armeijakunta)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITFLAG_ARMADA_SUFFIX">
-			<Text>Armada</Text>
+			<Text>(armada)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITFLAG_FLEET_SUFFIX">
-			<Text>Laivasto</Text>
+			<Text>(laivasto)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITFLAG_ACTIVITY_ON_SENTRY">
 			<Text>Vartioi</Text>
@@ -907,7 +907,7 @@
 			<Text>Ei tuota mitään tällä hetkellä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_BANNER_POPULATION">
-			<Text>[ICON_Citizen] väestö</Text>
+			<Text>Väestö [ICON_Citizen]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_BANNER_PRODUCING">
 			<Text>{1_Name} on työn alla.</Text>
@@ -1413,10 +1413,10 @@
 			<Text>Soveltuva kaupunkialue on vihollisen hallussa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW_SHORT">
-			<Text>Vaatii {1_Population} tai suuremman [ICON_Citizen] asukasluvun.</Text>
+			<Text>Väestön tulee olla {1_Population} [ICON_Citizen] tai suurempi.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW">
-			<Text>Kaupungin asukasluvun tulee kasvaa kokoon {1_Population}, jotta seuraava kaupunkialue voidaan rakentaa.</Text>
+			<Text>Kaupungin väestön tulee kasvaa kokoon {1_Population} [ICON_Citizen], jotta seuraava kaupunkialue voidaan rakentaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ZONE_NO_SUITABLE_LOCATION">
 			<Text>Ei soveltuvaa sijaintia tälle kaupunkialueelle.</Text>
@@ -1458,7 +1458,7 @@
 			<Text>Lisää {1_Housing} [ICON_Housing] asumusta kaupungille, sillä ruudun viehätys on {2_AppealName}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_TRAIN_NEED_MILITARY_ACADEMY">
-			<Text>Joukko-osastojen ja armeijojen valmistus vaatii sotilasakademian.</Text>
+			<Text>Armeijakuntien ja armeijojen valmistus vaatii sotilasakademian.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_TRAIN_FULL_TRADE_ROUTE_CAPACITY">
 			<Text>Kansakuntamme tarvitsee lisää kapasiteettia [ICON_TradeRoute] kauppareiteille.</Text>
@@ -1494,7 +1494,7 @@
 			<Text>Kaupungin lentokoneiden kapasiteetti on käytetty.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_TRAIN_REQUIRES_POPULATION">
-			<Text>Kaupunki vaatii vähintään {1_PopulationNeeded} [ICON_Citizen] asukasta.</Text>
+			<Text>Kaupungin väestön tulee olla vähintään {1_PopulationNeeded} [ICON_Citizen].</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_INSUFFICIENT_FUNDS">
 			<Text>[ICON_Gold] Kultaa ei ole tarpeeksi, jotta voisimme ostaa tämän.</Text>
@@ -2630,7 +2630,7 @@
 			<Text>Vartioi kunnes hoivattu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_MAKE_TRADE_ROUTE_DESCRIPTION">
-			<Text>Muodosta kauppareitti</Text>
+			<Text>Perusta kauppareitti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_TELEPORT_TO_CITY_DESCRIPTION">
 			<Text>Siirrä toiseen kaupunkiin</Text>
@@ -2729,13 +2729,13 @@
 			<Text>Tulee olla ruudussa, jossa on sopivan sotilaallisen muodostelman sotayksikkö.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_STANDARD_MILITARY_FORMATION">
-			<Text>Tulee olla ruudussa, jonka yksikkö ei ole joukko-osasto tai armeija.</Text>
+			<Text>Tulee olla ruudussa, jonka yksikkö ei ole armeijakunta tai armeija.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_CORPS_MILITARY_FORMATION">
-			<Text>Tulee olla ruudussa sotilaallisen joukko-osastoyksikön kanssa.</Text>
+			<Text>Tulee olla ruudussa armeijakunnan kokoisen sotayksikön kanssa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ARMY_MILITARY_FORMATION">
-			<Text>Tulee olla ruudussa sotilaallisen armeijayksikön kanssa.</Text>
+			<Text>Tulee olla ruudussa armeijan kokoisen sotayksikön kanssa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ADJACENT_MOUNTAIN">
 			<Text>Tulee olla vuoren vieressä.</Text>
@@ -2762,7 +2762,7 @@
 			<Text>Lisää tuotantoa kaupunkialueeseen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FORM_CORPS_DESCRIPTION">
-			<Text>Muodosta joukko-osasto</Text>
+			<Text>Muodosta armeijakunta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_FORM_ARMY_DESCRIPTION">
 			<Text>Muodosta armeija</Text>
@@ -3593,10 +3593,10 @@
 			<Text>Meillä tulee olla temppeli kaupungin pyhässä paikassa, jotta voimme ostaa gurun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_RELIGION_APOSTLE_TT">
-			<Text>Apostolit voivat käännyttää uskontoonsa [ICON_Citizen] asukkaita ja käydä uskontaistoja muiden uskontojen yksiköiden kanssa. Voi myös kertaalleen käynnistää inkvisition mahdollistaen inkvisiittorien ostamisen tai evankelisoida uskomuksen uskonnolle; kumman tahansa toimen jälkeen apostoli poistuu pelistä.</Text>
+			<Text>Apostolit voivat käännyttää [ICON_Citizen] väestöä uskontoonsa ja käydä uskontaistoja muiden uskontojen yksiköiden kanssa. Voi myös kertaalleen käynnistää inkvisition mahdollistaen inkvisiittorien ostamisen tai evankelisoida uskomuksen uskonnolle; kumman tahansa toimen jälkeen apostoli poistuu pelistä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_RELIGION_MISSIONARY_TT">
-			<Text>Lähetyssaarnaajat voivat käännyttää uskontoonsa [ICON_Citizen] asukkaita. Ei voi käydä uskontaistoja muiden uskontojen yksiköiden kanssa (mutta voi puolustautua).</Text>
+			<Text>Lähetyssaarnaajat voivat käännyttää [ICON_Citizen] väestöä uskontoonsa. Ei voi käydä uskontaistoja muiden uskontojen yksiköiden kanssa (mutta voi puolustautua).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_RELIGION_INQUISITOR_TT">
 			<Text>Inkvisiittorit voivat kitkeä muiden uskontojen vaikutuksen alueellaan, sekä käydä uskontaistoja muiden uskontojen yksiköiden kanssa.</Text>

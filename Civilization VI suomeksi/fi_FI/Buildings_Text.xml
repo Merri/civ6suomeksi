@@ -32,7 +32,7 @@
 			<Text>Arabian oma rakennus. Ylimääräistä [ICON_Faith] uskoa kampuksen läheisyysetujen verran.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
-			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille maayksiköille. Mahdollistaa joukko-osastojen ja armeijojen kouluttamisen suoraan ja niiden koulutuskustannukset ovat 25% alhaisemmat.</Text>
+			<Text>+25% taistelukokemusta kaikille tässä kaupungissa koulutetuille maayksiköille. Mahdollistaa armeijakuntien ja armeijojen kouluttamisen suoraan ja niiden koulutuskustannukset ovat 25% alhaisemmat.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
 			<Text>Täällä luodut lähetyssaarnaajat ja apostolit saavat +1 levityskertoja.</Text>
