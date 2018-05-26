@@ -74,7 +74,7 @@
 			<Text>{2_UnitName} tuhoutui torjutessaan {4_EnemyAdjective} {5_EnemyUnitName[3]} ({6_Num} vahinko) hyökkäyksen!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
-			<Text>{2_UnitName} tuhoutui vastaanottaessaan {3_EnemyAdjective} {4_EnemyUnitName[3]} ({5_Num} vahinkoa) hyökkäystä!</Text>
+			<Text>{2_UnitName} tuhoutui {3_EnemyAdjective} {4_EnemyUnitName[3]} ({5_Num} vahinkoa) hyökkäyksessä!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
 			<Text>{1_UnitName} tulitti vihollisen {2_EnUName[3]} niskaan aiheuttaen {3_Num} vahinkoa!</Text>
