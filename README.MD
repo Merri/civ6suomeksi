@@ -9,7 +9,8 @@ original English game text by Firaxis as a side effect of keeping process easy e
 
 ## Asennus Steam Workshopista
 
-Tämä on helpoin tapa asentaa kielipaketti: kirjaudu sisään Steamiin ja vieraile Workshop-sivulla!
+Tämä on helpoin tapa asentaa kielipaketti: kirjaudu sisään Steamiin ja vieraile Workshop-sivulla! Suomennos pysyy
+automaattisesti ajantasaisena!
 
 [Tilaa Civilization VI suomeksi Steam Workshopista](https://steamcommunity.com/sharedfiles/filedetails/?id=1308266363)
 
@@ -18,6 +19,9 @@ peliä englanninkielisenä.
 
 
 ## Asennus ZIP-tiedostosta
+
+**Huom!** Tämä asennustapa on siitä ikävä, että joudut päivittämään suomennoksen itse. Päivitettäessä on hyvä poistaa
+vanhat tiedostot konfliktien välttämiseksi.
 
 [Lataa ZIP-tiedosto](https://github.com/Merri/civ6suomeksi/archive/text.zip)
 
@@ -28,18 +32,21 @@ Selvitä `Sid Meier's Civilization VI` käyttäjähakemisto. Esimerkkejä sijain
 - Mac OS X: `Users/KÄYTTÄJÄNIMI/Library/Application Support/Sid Meier's Civilization VI`
 - Mac OS X: `cd ~/Library/Application Support/Sid Meier's Civilization VI`
 
-Tee sinne uusi hakemisto nimeltään `Text`. Pura ZIP-tiedosto hakemistoon, jolloin `Text`-hakemiston sisälle pitäisi ilmestyä sisempi hakemisto `Civilization VI suomeksi` ja muutama muu tiedosto.
+Tee sinne uusi hakemisto nimeltään `Text`. Pura ZIP-tiedosto hakemistoon, jolloin `Text`-hakemiston sisälle pitäisi
+ilmestyä sisempi hakemisto `Civilization VI suomeksi` ja muutama muu tiedosto.
 
 ![Asennuksen lopputulos Windowsissa](./install-result-windows.png)
 
 ### Kielen ottaminen käyttöön
 
-Peli käynnistyy englanninkielisenä, mutta pelin kieliasetuksista (Game Options > Language) voi käydä valitsemassa listasta suomen. Tämän jälkeen pelin kieli vaihtuu suomeksi ja peli käynnistyy jatkossa aina suomenkielisenä :)
+Peli käynnistyy englanninkielisenä, mutta pelin kieliasetuksista (Game Options > Language) voi käydä valitsemassa
+listalta suomen. Tämän jälkeen pelin kieli vaihtuu suomeksi ja peli käynnistyy jatkossa aina suomenkielisenä :)
 
 
 ## Asennus käyttäen gittiä ja komentoriviä (Git Bash Windowsissa)
 
-Jos et ole asentanut gittiä, niin [käy kipaisemassa se itsellesi!](https://git-scm.com/download) (Asennuksen voi tehdä oletusasetuksin.)
+Jos et ole asentanut gittiä, niin [käy kipaisemassa se itsellesi!](https://git-scm.com/download) (Asennuksen voi tehdä
+oletusasetuksin.)
 
 1. Avaa komentorivi (tai Git Bash)
 2. Siirry Civ 6:n käyttäjähakemistoon: `cd ~/Documents/My\ Games/Sid\ Meier\'s\ Civilization\ VI`
@@ -54,7 +61,8 @@ Siirtymällä `Text`-hakemistoon voit jatkossa päivittää kielipaketin uusimpa
     git pull
 
 **Huom!**<br />
-Jos `Text`-hakemisto löytyy jo ennestään, niin nimeä se vaikka uusiksi, tai poista se mikäli se on tyhjä. Tätä kirjoittaessa hakemistoa ei ole ennestään olemassa, vaan se täytyy luoda itse.
+Jos `Text`-hakemisto löytyy jo ennestään, niin nimeä se vaikka uusiksi, tai poista se mikäli se on tyhjä. Tätä
+kirjoittaessa hakemistoa ei ole ennestään olemassa, vaan se täytyy luoda itse.
 
 
 ## Linkkejä
