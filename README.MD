@@ -1,12 +1,10 @@
 # Civilization VI suomeksi!
 
 This is Finnish language pack for Sid Meier's Civilization VI.
-There are currently no installation instructions in English.
 
 2016 - 2018 Vesa Piittinen | Finnish content is licensed under CC-BY-SA-4.0<br />
-<small>This is a quality oriented fan translation done for free and own amusement. XML files may include untranslated original English game text by Firaxis as a side effect of keeping process easy enough to work with.</small>
-
-[Facebook](https://www.facebook.com/civ5suomeksi/) | [Discussion at CivFanatics Forums](http://forums.civfanatics.com/threads/civilization-vi-suomeksi.603592/) | Suomentanut myös: [Civilization V suomeksi](https://github.com/Merri/civ5suomeksi/)
+<small>This is a quality oriented fan translation done for free and own amusement. XML files may include untranslated
+original English game text by Firaxis as a side effect of keeping process easy enough to work with.</small>
 
 
 ## Asennus Steam Workshopista
@@ -14,6 +12,9 @@ There are currently no installation instructions in English.
 Tämä on helpoin tapa asentaa kielipaketti: kirjaudu sisään Steamiin ja vieraile Workshop-sivulla!
 
 [Tilaa Civilization VI suomeksi Steam Workshopista](https://steamcommunity.com/sharedfiles/filedetails/?id=1308266363)
+
+Näin asennettuna suomi korvaa englannin ja pelin pitäisi käynnistyä suoraan suomenkielisenä, olettaen että olet pelannut
+peliä englanninkielisenä.
 
 
 ## Asennus ZIP-tiedostosta
@@ -27,7 +28,7 @@ Selvitä `Sid Meier's Civilization VI` käyttäjähakemisto. Esimerkkejä sijain
 - Mac OS X: `Users/KÄYTTÄJÄNIMI/Library/Application Support/Sid Meier's Civilization VI`
 - Mac OS X: `cd ~/Library/Application Support/Sid Meier's Civilization VI`
 
-Tee sinne uusi hakemisto nimeltään `Text`. Pura ZIP-tiedosto hakemistoon, jolloin `Text`-hakemiston sisältö koostuu tiedostoista kuten `.gitignore`, `LICENSE`, `LocalizationDatabase_Data.sql` ja runsas määrä `Vanilla_fi_FI_`-alkuisia XML-tiedostoja.
+Tee sinne uusi hakemisto nimeltään `Text`. Pura ZIP-tiedosto hakemistoon, jolloin `Text`-hakemiston sisälle pitäisi ilmestyä sisempi hakemisto `Civilization VI suomeksi` ja muutama muu tiedosto.
 
 ![Asennuksen lopputulos Windowsissa](./install-result-windows.png)
 
@@ -54,3 +55,10 @@ Siirtymällä `Text`-hakemistoon voit jatkossa päivittää kielipaketin uusimpa
 
 **Huom!**<br />
 Jos `Text`-hakemisto löytyy jo ennestään, niin nimeä se vaikka uusiksi, tai poista se mikäli se on tyhjä. Tätä kirjoittaessa hakemistoa ei ole ennestään olemassa, vaan se täytyy luoda itse.
+
+
+## Linkkejä
+
+- [Facebook](https://www.facebook.com/civ5suomeksi/)
+- [Discussion at CivFanatics Forums](http://forums.civfanatics.com/threads/civilization-vi-suomeksi.603592/)
+- Suomentanut myös: [Civilization V suomeksi](https://github.com/Merri/civ5suomeksi/)
