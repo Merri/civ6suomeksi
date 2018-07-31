@@ -3,7 +3,8 @@
 -- Add so that language is at the top of the list --
 UPDATE "Languages" SET Locale = 'fi_FI', Name = 'Suomi' WHERE Locale = 'en_US';
 -- But also restore option to choose English --
-INSERT INTO "Languages" VALUES('en_US', 'English', null, 2, 1);
+INSERT OR IGNORE INTO "Languages" (Locale, Name, Collator, PluralRule, SupportsSmallCaps) VALUES('en_US', 'English', null, 2, 1);
+INSERT OR IGNORE INTO "Languages" (Locale, Name, PluralRule, SupportsSmallCaps) VALUES('en_US', 'English', 2, 1);
 
 INSERT INTO "DefaultAudioLanguages" VALUES('fi_FI', 'English(US)');
 INSERT INTO "SteamLanguages" VALUES('finnish', 'fi_FI');
