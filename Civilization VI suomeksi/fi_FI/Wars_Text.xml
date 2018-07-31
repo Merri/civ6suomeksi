@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_SURPRISE_WAR_NAME">
+			<Text>Yllätyssota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FORMAL_WAR_NAME">
+			<Text>Muodollinen sota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HOLY_WAR_NAME">
+			<Text>Pyhä sota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RECONQUEST_WAR_NAME">
+			<Text>Takaisinvaltaussota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LIBERATION_WAR_NAME">
+			<Text>Vapautussota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEFENSIVE_PACT_NAME">
+			<Text>Puolustussopimus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_JOINT_WAR_NAME">
+			<Text>Yhteissota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SUZERAIN_WAR_NAME">
+			<Text>Herruussota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROTECTORATE_WAR_NAME">
+			<Text>Suojeluherruussota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLONIAL_WAR_NAME">
+			<Text>Siirtomaasota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TERRITORIAL_WAR_NAME">
+			<Text>Aluelaajennossota</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

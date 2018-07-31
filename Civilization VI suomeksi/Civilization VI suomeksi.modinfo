@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="8">
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="9">
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -72,6 +72,7 @@
 			<File>fi_FI/Units_Text.xml</File>
 			<File>fi_FI/UserSetupWarning_Text.xml</File>
 			<File>fi_FI/Vikings_PackageText.xml</File>
+			<File>fi_FI/Wars_Text.xml</File>
 			<File>fi_FI/WorldBuilder_Text.xml</File>
 		</UpdateText>
 		<!-- Rise & Fall -->
@@ -134,6 +135,7 @@
 			<File>fi_FI/Units_Text.xml</File>
 			<File>fi_FI/UserSetupWarning_Text.xml</File>
 			<File>fi_FI/Vikings_PackageText.xml</File>
+			<File>fi_FI/Wars_Text.xml</File>
 			<File>fi_FI/WorldBuilder_Text.xml</File>
 		</UpdateText>
 		<!-- Rise & Fall -->
@@ -206,6 +208,7 @@
 		<File>fi_FI/Units_Text.xml</File>
 		<File>fi_FI/UserSetupWarning_Text.xml</File>
 		<File>fi_FI/Vikings_PackageText.xml</File>
+		<File>fi_FI/Wars_Text.xml</File>
 		<File>fi_FI/WorldBuilder_Text.xml</File>
 		<!-- Rise & Fall -->
 		<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
