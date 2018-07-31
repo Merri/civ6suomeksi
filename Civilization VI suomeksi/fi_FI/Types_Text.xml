@@ -2103,7 +2103,7 @@
 			<Text>Uskonnollinen käännytys</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_QUEST_SEND_TRADE_ROUTE_NAME">
-			<Text>Muodosta [ICON_TradeRoute] kauppareitti</Text>
+			<Text>Muodosta kauppareitti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_NAME">
 			<Text>Tuhoa barbaarien etuvartio maks. 5 ruudun etäisyydeltä</Text>

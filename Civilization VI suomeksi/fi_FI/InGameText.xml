@@ -1078,6 +1078,9 @@
 		<Replace Language="en_US" Tag="LOC_HUD_CITY_FOOD_CONSUMPTION">
 			<Text>Ruuan kulutus</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_CITY_FOOD_NEEDED_FOR_GROWTH">
+			<Text>Kasvu ei onnistu ilman ruokaa</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_CITY_FOOD_PER_TURN">
 			<Text>Ruokaa vuorossa</Text>
 		</Replace>
@@ -1426,6 +1429,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_REPAIR_LOCATION_CONTAMINATED">
 			<Text>Korjaus ei onnistu saasteen vuoksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_REPAIR_MISSING_PREREQ_TECH">
+			<Text>Korjaus ei onnistu ilman tekniikkaa: {1_TechName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_REPAIR_MISSING_PREREQ_CIVIC">
+			<Text>Korjaus ei onnistu ilman normia: {1_CivicName}.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ZONE_ALREADY_BEING_BUILT">
 			<Text>Kaupungin {2_CityName} osittain rakennettu {1_District[2]} tulee valmistua (tai purkaa) ennen kuin seuraava {3_District[2]} voidaan rakentaa.</Text>
@@ -2842,7 +2851,7 @@
 			<Text>{1_DistrictName}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_ADJACENT_DISTRICT">
-			<Text>{1_DistrictName} tulee sijaita vieressä</Text>
+			<Text>{1_DistrictName} tulee sijaita vieressä ja sen tulee olla tämän kaupungin omistama</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_ADJACENT_RESOURCE">
 			<Text>{1_ResourceName} tulee sijaita vieressä</Text>
@@ -4533,7 +4542,7 @@
 			<Text>Tässä museossa on jo teos tältä taiteilijalta. Lisää saman teeman teos, mutta uniikilta taiteilijalta, jotta saamme teemaedun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREAT_WORKS_ART_MATCHED_THEME">
-			<Text>[COLOR:ResCultureLabelCS]{1_building} on nyt teemattu. [ICON_Culture] Kulttuuri ja [ICON_Tourism] turismi ovat kaksinkertaiset.[ENDCOLOR]</Text>
+			<Text>[COLOR:ResCultureLabelCS]{1_building} on nyt teemattu. +100% [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREAT_WORKS_LOCKED_FROM_MOVE">
 			<Text>Siirretty tähän paikkaan lähiaikoina. Voidaan siirtää seuraavan kerran {1_Turns} vuoron kuluttua.</Text>

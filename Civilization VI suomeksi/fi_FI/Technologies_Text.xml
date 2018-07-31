@@ -5,7 +5,7 @@
 			<Text>Mahdollistaa [ICON_RESOURCE_WHEAT] vehnän ja [ICON_RESOURCE_RICE] riisin poiskorjuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
-			<Text>Mahdollistaa [ICON_RESOURCE_CATTLE] naudan ja [ICON_RESOURCE_SHEEP] lampaan poiskorjuun.</Text>
+			<Text>Mahdollistaa [ICON_RESOURCE_CATTLE] naudan, [ICON_RESOURCE_SHEEP] lampaan ja [ICON_RESOURCE_DEER] peuran poiskorjuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_MINING_DESCRIPTION">
 			<Text>Mahdollistaa metsän poishakkuun ja [ICON_RESOURCE_Copper] kuparin poiskorjuun.</Text>
@@ -14,7 +14,7 @@
 			<Text>Mahdollistaa rakentajien siirtymisen uittoon.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
-			<Text>Mahdollistaa suon ojittamisen ja [ICON_RESOURCE_BANANAS] poiskorjuun.</Text>
+			<Text>Mahdollistaa suon ojittamisen ja [ICON_RESOURCE_BANANAS] banaanien poiskorjuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_MASONRY_DESCRIPTION">
 			<Text>Mahdollistaa [ICON_RESOURCE_STONE] kiven poiskorjuun.</Text>
@@ -26,7 +26,7 @@
 			<Text>Mahdollistaa kaikkien maayksiköiden siirtymisen uittoon.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
-			<Text>Mahdollistaa kauppurien siirtymisen uittoon sekä [ICON_RESOURCE_FISH] kalan poiskorjuun.</Text>
+			<Text>Mahdollistaa kauppurien siirtymisen uittoon sekä [ICON_RESOURCE_FISH] kalan ja [ICON_RESOURCE_CRABS] ravun poiskorjuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
 			<Text>+1 [ICON_Movement] liikkuvuutta kaikille meriyksiköille.</Text>
@@ -242,7 +242,7 @@
 			<Text>Rakenna kaksi voimalaitosta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
-			<Text>Rakenna kiitorata.</Text>
+			<Text>Omista kolme armeijaa tai armadaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_PLASTICS">
 			<Text>Rakenna poraustorni.</Text>
@@ -419,7 +419,7 @@
 			<Text>Uusien voimalaitosten kehittäminen on tuonut teollisia edistysaskelia, jotka saattavat auttaa aseiden tuotannossa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
-			<Text>Kun nyt tiedämme kuinka tehdä siirrettäviä kiitoratoja maalla, niin eikö samaa ajatusta voisi soveltaa merellä?</Text>
+			<Text>Armeijamme kasvun myötä nousee kysymys: voisiko joukkojamme kehittää entisestään jonkin uuden keinon voimin?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
 			<Text>Petrokemikaalien lähteen luulisi johtavan edistysaskeliin. Varsinkin muovautuvuus on erityisen kiinnostuksen kohde.</Text>

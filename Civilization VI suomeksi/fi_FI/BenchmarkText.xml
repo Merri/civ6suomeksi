@@ -14,6 +14,9 @@
 		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI_TT">
 			<Text>Mittaa tietokoneesi tekoälyn suorituskyky</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_BENCHMARK_AI_TT_ERROR">
+			<Text>[COLOR_RED]Asteekkien lisäosa tulee ottaa käyttöön, jotta mittaus voidaan suorittaa.[ENDCOLOR]</Text>
+		</Replace>
 		<!-- Benchmarking UI text -->
 		<Replace Language="en_US" Tag="LOC_BENCHMARK_TIME">
 			<Text>Kesto:</Text>

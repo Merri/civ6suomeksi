@@ -182,13 +182,13 @@
 			<Text>Heikko muinaisuuden meleeyksikkö.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
-			<Text>Muinaisuuden meleeyksikkö, joka on tehokas ratsuja vastaan.</Text>
+			<Text>Muinaisuuden ratsujen torjuntayksikkö.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
 			<Text>Vahva antiikin meleeyksikkö.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
-			<Text>Keskiajan meleeyksikkö, joka on tehokas ratsuja vastaan.</Text>
+			<Text>Keskiajan ratsujen torjuntayksikkö.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
 			<Text>Renessanssin ajan meleeyksikkö.</Text>

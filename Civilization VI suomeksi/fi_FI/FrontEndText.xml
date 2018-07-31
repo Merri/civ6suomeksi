@@ -254,17 +254,35 @@
 		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_KICKED">
 			<Text>Isäntä potkaisi sinut pelistä.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
+			<Text>Potkut!</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
 			<Text>Yhteys pelin isäntään on katkennut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
+			<Text>Yhteys katkesi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_ROOM_FULL">
 			<Text>Pelissä on suurin sallittu määrä pelaajia.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
+			<Text>Peli täynnä</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
 			<Text>Versio ei täsmää isännän kanssa.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
+			<Text>Versioeroavaisuus</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ERROR">
 			<Text>Lisäsisällön käyttöönotto ei onnistunut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
+			<Text>Puuttuva modi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+			<Text>Steam Workshop esti pääsyn vaadittuun lisäsisältöön.[NEWLINE]Sisältö:[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_MOD_MISSING">
 			<Text>Lisäsisältö on pakollinen, mutta sitä ei ole ostettu tai asennettu.[NEWLINE]Sisältö:[NEWLINE]</Text>
@@ -278,8 +296,14 @@
 		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
 			<Text>Verkkoyhteys on katkennut.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
+			<Text>Yhteys menetetty</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
 			<Text>Virhe liityttäessä moninpeliin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
+			<Text>Liittyminen epäonnistui</Text>
 		</Replace>
 		<!-- Multiplayer Select Screen-->
 		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
@@ -605,11 +629,20 @@
 		<Replace Language="en_US" Tag="LOC_MP_ROOM_FULL">
 			<Text>Liittyminen ei onnistu: pelissä on jo suurin sallittu määrä pelaajia.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_ROOM_FULL_TITLE">
+			<Text>Peli täynnä</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MP_JOIN_FAILED">
 			<Text>Virhe liityttäessä moninpeliin.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_JOIN_FAILED_TITLE">
+			<Text>Liittyminen epäonnistui</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MP_ROOM_GAME_STARTED">
 			<Text>Liittyminen ei onnistu: peli on jo käynnistynyt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
+			<Text>Liittyminen epäonnistui</Text>
 		</Replace>
 		<!-- Multiplayer Staging Room Screen -->
 		<Replace Language="en_US" Tag="LOC_MP_SWAP_PLAYER">
@@ -1778,6 +1811,18 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
 			<Text>Päivän viesti:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_DESC">
+			<Text>Pelin aloittamisessa tapahtui virhe.[NEWLINE][NEWLINE]On suositeltua ottaa modit pois käytöstä ja yrittää sitten uudelleen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_CODE">
+			<Text>Virhe - {1_ErrorCode}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_VIEW_MODS">
+			<Text>Hallitse modeja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_TITLE">
+			<Text>Virhe pelin aloituksessa</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

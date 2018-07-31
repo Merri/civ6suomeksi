@@ -217,7 +217,7 @@
 			<Text>+5 [ICON_Religion] uskonnollista voimakkuutta uskonnollisista käskyistä (joka on linjaus).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
-			<Text>+4 [ICON_Strength] taisteluvoimakkuutta hyökkäykselle fasismista (joka on hallitusmuoto).</Text>
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta hyökkäykselle fasismista (joka on hallitusmuoto).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
 			<Text>+6 [ICON_Strength] taisteluvoimakkuutta puolustukselle kommunismista (joka on hallitusmuoto).</Text>
@@ -359,7 +359,7 @@
 			<Text>+5 voimaa uskonnollisista käskyistä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
-			<Text>+4 voimaa fasismista</Text>
+			<Text>+5 voimaa fasismista</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
 			<Text>+4 puolustusta kommunismista</Text>

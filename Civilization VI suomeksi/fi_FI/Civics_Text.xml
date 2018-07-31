@@ -442,7 +442,7 @@
 			<Text>+2 [ICON_TradeRoute] kauppareittiä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
-			<Text>Kaikki taisteluyksiköt saavat +4 [ICON_Strength] taisteluvoimakkuutta.</Text>
+			<Text>Kaikki taisteluyksiköt saavat +5 [ICON_Strength] taisteluvoimakkuutta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
 			<Text>Maayksiköt saavat +4 [ICON_Strength] puolustusvoimakkuutta.</Text>
@@ -782,7 +782,7 @@
 			<Text>Ryöväilystä saadut tuotot ovat kaksinkertaiset kaupunkialueita tärvellessä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
-			<Text>Kolminkertaistaa [ICON_GreatWork_Music] merkittävien musiikkiteosten [ICON_Tourism] turismin.</Text>
+			<Text>+200 [ICON_Tourism] turismia [ICON_GreatWork_Music] merkittävistä musiikkiteoksista.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
 			<Text>+100% pyhän paikan läheisyyseduille.</Text>
@@ -806,7 +806,7 @@
 			<Text>+2 [ICON_GreatGeneral] merkittävien kenraalien pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
-			<Text>Kaksinkertaiset kokemuspisteet tiedusteluyksiköille tutkimusmatkailusta.</Text>
+			<Text>Kaksinkertaiset kokemuspisteet tiedusteluyksiköille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
 			<Text>+4 [ICON_GreatMusician] merkittävien muusikoiden pistettä vuorossa.</Text>

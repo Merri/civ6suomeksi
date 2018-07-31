@@ -653,7 +653,7 @@
 			<Text>Ylimääräinen sotilaallisen linjauksen paikka. +7 [ICON_Strength] taisteluvoimaa hyökätessä kaupunkivaltioita vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
-			<Text>Kaikki perustetut tai vallatut kaupungit muilta kuin kotimantereelta saavat ilmaisen meleeyksikön. Punatakki tulee saataville sotatieteen kehittämisen myötä.</Text>
+			<Text>Kaikki kotimantereen ulkopuolella perustetut kaupungit saavat ilmaisen meleeyksikön. Näihin kaupunkeihin rakennettu kuninkaallisen laivaston telakka tarjoaa ilmaisen meleeyksikön. Punatakki tulee saataville sotatieteen kehittämisen myötä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
 			<Text>Heidän uskontonsa palvomisrakennuksen voi ostaa kuka tahansa pelaaja kymmenyksellä sen normaalisti vaatimasta [ICON_Faith] uskosta. Arabian kaupungeissa tämä palvomisrakennus antaa 10% lisää [ICON_Science] tieteen, [ICON_Faith] uskon ja [ICON_Culture] kulttuurin tuottoa.</Text>
