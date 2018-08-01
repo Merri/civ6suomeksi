@@ -599,7 +599,7 @@
 			<Text>+50% [ICON_Production] tuotantoa kohden uudisasuttajia. Ruutujen ostaminen maksaa 20% vähemmän.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuotanoa kohden keskiajan ja renessanssin melee-, ratsutorjunta- ja heittoaseyksiköitä.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden keskiajan ja renessanssin melee-, ratsutorjunta- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
 			<Text>+50% [ICON_Production] tuotantoa kohden modernin ja atomiajan lentoyksiköitä.</Text>
@@ -806,7 +806,7 @@
 			<Text>+2 [ICON_GreatGeneral] merkittävien kenraalien pistettä vuorossa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
-			<Text>Kaksinkertaiset kokemuspisteet tiedusteluyksiköille.</Text>
+			<Text>Kaksinkertaiset kokemuspisteet tiedusteleville yksiköille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
 			<Text>+4 [ICON_GreatMusician] merkittävien muusikoiden pistettä vuorossa.</Text>

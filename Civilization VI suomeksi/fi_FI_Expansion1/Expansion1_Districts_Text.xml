@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_NAME">
+			<Text>Hallinnon edustus|hallinnon edustus|hallinnon edustuksen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_NAME">
+			<Text>Vesipuisto|vesipuisto|vesipuiston</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_DESCRIPTION">
+			<Text>Kerran valtakuntaamme sijoitettava kaupunkialue, joka juhlistaa hallinnollisia valintojamme. Tarjoaa +8 uskollisuutta tälle kaupungille sekä antaa +1 läheisyysetua kaikille viereisille kaupunkialueille. Tarjoaa +1 [Icon_Governor] käskynhaltijan toimen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Rannikolle sijoitettava väen iloisena pitävä kaupunkialue, joka kasvattaa [ICON_Amenities] elintasoa. Ei voi rakentaa kaupunkiin, jossa on viihdekompleksi. Ei voi rakentaa riutalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_COMMERCIAL_HUB_EXPANSION1_DESCRIPTION">
+			<Text>Talouselämään ja kaupankäyntiin keskittyvä kaupunkialue.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_HARBOR_EXPANSION1_DESCRIPTION">
+			<Text>Merellisen läsnäolon kaupunkialue. Lisäksi poistaa ruudussaan [ICON_Movement] liikkuvuuden haitan uittoon siirtymisestä ja rantautumisesta. Tulee rakentaa rannikolle tai maan vierustamalle järviruudulle. Ei voi rakentaa riutalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_EXPANSION1_DESCRIPTION">
+			<Text>Väen iloisena pitävä kaupunkialue, joka kasvattaa [ICON_Amenities] elintasoa. Ei voi rakentaa kaupunkiin, jossa on vesipuisto.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_RIVER_CULTURE">
+			<Text>+{1_num} [ICON_Culture] kulttuuria joen läheisyydestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_RIVER_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] tuotantoa joen läheisyydestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_RIVER_SCIENCE">
+			<Text>+{1_num} [ICON_Science] tiedettä joen läheisyydestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_BASE_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] tiedettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_NEGATIVE_DISTRICT_SCIENCE">
+			<Text>{1_num: number +#,###;-#,###} [ICON_Science] tiedettä läheisistä kaupunkialueista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] kulttuuria läheisestä hallinnon edustuksesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_FAITH">
+			<Text>+{1_num} [ICON_Faith] uskoa läheisestä hallinnon edustuksesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_GOLD">
+			<Text>+{1_num} [ICON_Gold] kultaa läheisestä hallinnon edustuksesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] tuotantoa läheisestä hallinnon edustuksesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_GOVERNMENT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] tiedettä läheisestä hallinnon edustuksesta.</Text>
+		</Replace>
+		<!-- Projects -->
+		<Replace Language="en_US" Tag="LOC_PROJECT_WATER_CARNIVAL_NAME">
+			<Text>Karnivaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_WATER_CARNIVAL_SHORT_NAME">
+			<Text>Karnivaali (rannikon)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_WATER_CARNIVAL_DESCRIPTION">
+			<Text>Brasilian oma projekti, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan käynnissä ja valmistuessaan [ICON_GreatPerson] merkittävien henkilöiden pisteitä kohden [ICON_GreatEngineer] insinöörejä, [ICON_GreatMerchant] kauppiaita, [ICON_GreatWriter] kirjoittajia, [ICON_GreatArtist] taiteilijoita ja [ICON_GreatMusician] muusikkoja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_NAME">
+			<Text>Leipää ja sirkushuveja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_SHORT_NAME">
+			<Text>Leipää ja sirkushuveja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_WATER_BREAD_AND_CIRCUSES_SHORT_NAME">
+			<Text>Leipää ja sirkushuveja (rannikon)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION">
+			<Text>Kaupungin projekti, joka kasvattaa uskollisuuden painetta tähän ja ympäröiviin kaupunkeihin.[NEWLINE][NEWLINE]Ollessaan käynnissä kukin [ICON_Citizen] asukkaamme aiheuttaa +0,5 uskollisuuspainetta tälle kaupungille. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. Valmistuessa saamme +20 uskollisuutta tähän kaupunkiin.[NEWLINE][NEWLINE]Vaatii viihdekompleksin tai vesipuiston.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION_ALT">
+			<Text>Kaupungin projekti, joka kasvattaa uskollisuuden painetta tähän ja ympäröiviin kaupunkeihin.[NEWLINE][NEWLINE]Ollessaan käynnissä kukin [ICON_Citizen] asukkaamme aiheuttaa +1 uskollisuuspainetta tälle kaupungille. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. Valmistuessa saamme +20 uskollisuutta tähän kaupunkiin.[NEWLINE][NEWLINE]Vaatii viihdekompleksin tai vesipuiston.</Text>
+		</Replace>
+		<!-- Updates to base game Districts -->
+		<Replace Language="en_US" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Väen iloisena pitävä kaupunkialue, joka kasvattaa [ICON_Amenities] elintasoa. Ei voi rakentaa kaupunkiin, jossa on vesipuisto.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Brasilian oma kaupunkialue. Korvaa viihdekompleksin ja tarjoaa +2 [ICON_Amenities] elintasoa ollen myös edullisempi rakentaa. Ei voida rakentaa Copacabanan sisältävään kaupunkiin. Mahdollistaa myös karnevaaliprojektin, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan käynnissä ja lukuisia erilaisia [ICON_GreatPerson] merkittävien henkilöiden pisteitä päättyessään.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Combat Modifiers -->
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(käskynhaltija)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(liitto)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_DIPLOMATIC_BONUS">
+			<Text>+{1_Value} lähiajan diplomaattinen muutos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ESPIONAGE_BONUS">
+			<Text>+{1_Value} vastustajan liikkeiden tuntemisesta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_CITY_COMBAT_BONUS">
+			<Text>+{1_Value} varuskunnan komentajasta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ALLIANCE_MILITARY_BUFF">
+			<Text>+{1_Value} sotilasliitosta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_EMERGENCY_MILITARY_BUFF">
+			<Text>{1_Value: number +#;-#} hätätilasta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ALLIANCE_RELIGIOUS_COMBAT_BUFF">
+			<Text>+{1_Value} uskonnollisesta liitosta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_ANTI_AIR_DEFENSE_BONUS_DESC">
+			<Text>+{1_Value} vahvistetusta ilmatorjunnasta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_CITY_BONUS">
+			<Text>+{1_Value} käskynhaltijan ylennyksestä "suurinkvisiittori"</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_LAND_UNITS_DESC">
+			<Text>-{1_Value} heikommasta kyvystä maayksiköitä vastaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_NAVAL_UNITS_DESC">
+			<Text>-{1_Value} heikommasta kyvystä meriyksiköitä vastaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_LOYALTY">
+			<Text>Uskollisuus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_GOVERNOR">
+			<Text>Käskynhaltija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POST_COMBAT_LOYALTY_PLUS">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} uskollisuutta[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POST_COMBAT_LOYALTY_MINUS">
+			<Text>[COLOR_RED]{1_Num} uskollisuus[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_GOVERNORS">
+			<Text>Elintaso käskynhaltijoilta:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNORS_TITLE">
+			<Text>KÄSKYNHALTIJAT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOYALTY_PANEL_UNMET_CIV">
+			<Text>Kohtaamaton kansa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_OFF">
+			<Text>[COLOR_RED][ICON_Faith] Uskon käyttö värväykseen on jonkin nykyisen linjauksen estämä.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_OFF">
+			<Text>[COLOR_RED][ICON_Gold] Kullan käyttö värväykseen on jonkin nykyisen linjauksen estämä.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
+			<Text>Hoivaaminen ei onnistu tällä alueella valitun linjauksen vuoksi</Text>
+		</Replace>
+		<!-- Alliance Text -->
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
+			<Text>Meillä on jo tämäntyyppinen liitto toisen kansakunnan kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_INVALID_REASON_THEY_HAVE_THIS_ALLIANCE">
+			<Text>{1_OtherCiv} on jo liitossa tällä tavalla toisen kansakunnan kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON_INPUT">
+			<Text>Liiton taso: {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON">
+			<Text>Liiton taso:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL">
+			<Text>Liiton taso</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_COLON">
+			<Text>Liittolaispisteet:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_PER_TURN">
+			<Text>+{1_PointsPerTurn}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_NEEDED">
+			<Text>/ {1_PointsNeeded}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_CURRENT">
+			<Text>Nykyinen liitto: {1_AllianceTypeName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_BUTTON_TOOLTIP">
+			<Text>Tarkastele tärkeitä tietoja liittomme tasosta tähän hallitsijaan, esimerkiksi millaisiin etuihin meillä on pääsy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_SCIENCE_NAME_LEVEL">
+			<Text>Tutkimusliiton taso {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_CULTURAL_NAME_LEVEL">
+			<Text>Kulttuuriliiton taso {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_ECONOMIC_NAME_LEVEL">
+			<Text>Talousliiton taso {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_MILITARY_NAME_LEVEL">
+			<Text>Sotilasliiton taso {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_RELIGIOUS_NAME_LEVEL">
+			<Text>Uskonnollisen liiton taso {1_AllianceLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_RESEARCH">
+			<Text>Tutkimusliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_CULTURAL">
+			<Text>Kulttuuriliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_MILITARY">
+			<Text>Sotilasliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_ECONOMIC">
+			<Text>Talousliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_RELIGIOUS">
+			<Text>Uskonnollinen liitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_RESEARCH">
+			<Text>Muodosta tutkimusliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_CULTURAL">
+			<Text>Muodosta kulttuuriliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_MILITARY">
+			<Text>Muodosta sotilasliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_ECONOMIC">
+			<Text>Muodosta talousliitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_ALLIANCE_RELIGIOUS">
+			<Text>Muodosta uskonnollinen liitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_RENEW_ALLIANCE">
+			<Text>Uusi liitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCES">
+			<Text>Liitot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCES_TT">
+			<Text>Ehdota liittoa tämän valtakunnan kanssa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_TT">
+			<Text>Ehdota nykyisen liiton pidennystä tämän valtakunnan kanssa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCES_CURRENT_BENEFITS_HEADER">
+			<Text>Nykyinen liitto tarjoaa nämä edut:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCES_LEVEL_UP_BENEFITS_HEADER">
+			<Text>Seuraavalla liittotasolla liittomme saa nämä lisäedut:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_ALLIANCES">
+			<Text>{1_Tooltip}[NEWLINE]Yleinen [ICON_Tourism] turismi kasvanut +{2_Percent} liitoista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_ALLIANCES">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) liitoista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#}% ({ActualValue : number +#.#;-#.#}) liitoista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_FAITH_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#} uskonnollisista liitoista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_SHARED_VIS_EFFECT">
+			<Text>Jaettu näkyvyys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_NO_CULTURE_PRESSURE_EFFECT">
+			<Text>Liittolaisemme kaupungit eivät aiheuta uskollisuuspainetta kaupunkeihimme, eivätkä meidän heihin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_NO_RELIGIOUS_PRESSURE_EFFECT">
+			<Text>Liittolaisemme uskonto ei aiheuta uskonpainetta uskomme hallitsemiin kaupunkeihin, eikä meidän uskomme heidän</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_MILITARY_EFFECT_1">
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta meihin ja liittolaiseemme sodassa oleviin pelaajiin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_1">
+			<Text>+4 [ICON_GOLD] kultaa [ICON_TradeRoute] kauppareiteistä liittolaiseemme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_2">
+			<Text>+2 [ICON_GOLD] kultaa liittolaisemme [ICON_TradeRoute] kauppareiteistä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_1">
+			<Text>+2 [ICON_FAITH] uskoa [ICON_TradeRoute] kauppareiteistä liittolaiseemme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_2">
+			<Text>+1 [ICON_FAITH] uskoa liittolaisemme [ICON_TradeRoute] kauppareiteistä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_1">
+			<Text>+2 [ICON_Culture] kulttuuria [ICON_TradeRoute] kauppareiteistä liittolaiseemme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_2">
+			<Text>+1 [ICON_Culture] kulttuuria liittolaisemme [ICON_TradeRoute] kauppareiteistä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_1">
+			<Text>+2 [ICON_SCIENCE] tiedettä [ICON_TradeRoute] kauppareiteistä liittolaiseemme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_2">
+			<Text>+1 [ICON_SCIENCE] tiedettä liittolaisemme [ICON_TradeRoute] kauppareiteistä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_ECONOMIC_EFFECT_1">
+			<Text>Ylimääräisiä [ICON_Envoy] edustajapisteistä jokaisesta kaupunkivaltiosta, joka on liittolaisemme alainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_MILITARY_EFFECT_1">
+			<Text>+15% [ICON_PRODUCTION] tuottavuutta sotilasyksiköiden koulutukseen kun me tai liittolaisemme on sodassa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_RELIGIOUS_EFFECT_1">
+			<Text>+10 uskonnollista taisteluvoimakkuutta muita kuin liittolaisuskontoja vastaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_RESEARCH_EFFECT_1">
+			<Text>Joka 30. vuoro (normaalinopeudella) vapautamme [ICON_TechBoosted] heurekan tekniikalle, jonka liittolaisemme on kehittänyt tai vauhdittanut, mutta me emme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV2_CULTURAL_EFFECT_1">
+			<Text>Kukin [ICON_District] kaupunkialueemme tarjoaa ylimääräisen [ICON_GreatPerson] merkittävän henkilön pisteen vuorossa, mikäli kaupungista on [ICON_TradeRoute] kauppareitti liittolaiseemme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_MILITARY_EFFECT_1">
+			<Text>Yksiköt aloittavat ilmaisella ylennyksellä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_1">
+			<Text>+1 [ICON_FAITH] uskoa jokaisesta liittolaisemme uskoa noudattavasta [ICON_Citizen] asukkaasta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_2">
+			<Text>Ylimääräistä uskonnollista painetta kaupungeissa, joissa ei ole liittolaisemme uskoon käännytettyjä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_RESEARCH_EFFECT_1">
+			<Text>+10% [ICON_SCIENCE] tiedettä kun me tai liittolaisemme kehittää tekniikkaa, jonka toinen on kehittänyt tai on juuri kehittämässä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_1">
+			<Text>Saamme +20% liittolaisemme kaupunkien [ICON_Tourism] turismista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_2">
+			<Text>Saamme +10% liittolaisemme kaupunkien [ICON_Culture] kulttuurista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_LV3_ECONOMIC_EFFECT">
+			<Text>Jaamme valta-asemien edut liittolaisemme kanssa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_DEFAULT">
+			<Text>{1_Amount} pistettä liittolaisuudesta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_TO_THEM">
+			<Text>[NEWLINE]{1_Amount} pistettä muodostetusta [ICON_TradeRoute] kauppareitistä liittolaiseemme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_FROM_THEM">
+			<Text>[NEWLINE]{1_Amount} pistettä liittolaisen meihin muodostamasta [ICON_TradeRoute] kauppareitistä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_COMMON_ENEMY">
+			<Text>[NEWLINE]{1_Amount} pistettä sodanjulistuksesta yhteistä vihollista vastaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} pistettä muista lähteistämme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} pistettä liittolaisemme muista lähteistä</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

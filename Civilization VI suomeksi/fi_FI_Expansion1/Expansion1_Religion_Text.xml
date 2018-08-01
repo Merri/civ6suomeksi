@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+			<Text>Lähettäessämme [ICON_ENVOY] edustajan kaupunkivaltioon aiheutamme 200 uskonnollista painetta kyseiseen kaupunkivaltioon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+			<Text>+1 [ICON_Food] ruokaa [ICON_RESOURCE_WINE] viini-, [ICON_RESOURCE_INCENSE] suitsuke-, [ICON_RESOURCE_COCOA] kaakao-, [ICON_RESOURCE_TOBACCO] tupakka-, [ICON_RESOURCE_OLIVES] oliivi-, [ICON_RESOURCE_COFFEE] kahvi- ja [ICON_RESOURCE_TEA] teeplantaaseista.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

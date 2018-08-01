@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="9">
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="10">
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -81,7 +81,13 @@
 				<LoadOrder>20</LoadOrder>
 			</Properties>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_IngameText.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Leaders_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Religion_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Technologies_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Wars_Text.xml</File>
 		</UpdateText>
 	</FrontEndActions>
 	<!-- these are loaded when starting to play a game -->
@@ -144,7 +150,13 @@
 				<LoadOrder>20</LoadOrder>
 			</Properties>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_IngameText.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Leaders_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Religion_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Technologies_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Wars_Text.xml</File>
 		</UpdateText>
 	</InGameActions>
 	<LocalizedText>
@@ -212,6 +224,12 @@
 		<File>fi_FI/WorldBuilder_Text.xml</File>
 		<!-- Rise & Fall -->
 		<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_IngameText.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_Leaders_Text.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_Religion_Text.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_Technologies_Text.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_Wars_Text.xml</File>
 	</Files>
 </Mod>

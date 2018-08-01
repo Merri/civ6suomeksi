@@ -845,28 +845,28 @@
 		</Replace>
 		<!-- Eras-->
 		<Replace Language="en_US" Tag="LOC_ERA_ANCIENT_NAME">
-			<Text>Muinainen aika|muinaisuuden|muinaisuudesta</Text>
+			<Text>Muinainen aika|muinaisuuden|muinaisuudesta|Muinaisuus|Muinaisuuden|Muinaiseen aikaan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_CLASSICAL_NAME">
-			<Text>Antiikin aika|antiikin|antiikista</Text>
+			<Text>Antiikin aika|antiikin|antiikista|Antiikki|Antiikin|Antiikin aikaan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_MEDIEVAL_NAME">
-			<Text>Keskiaika|keskiajan|keskiajasta</Text>
+			<Text>Keskiaika|keskiajan|keskiajasta|Keskiaika|Keskiajan|Keskiaikaan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_RENAISSANCE_NAME">
-			<Text>Renessanssin aika|renessanssin|renessanssista</Text>
+			<Text>Renessanssin aika|renessanssin|renessanssista|Renessanssi|Renessanssin|Renessanssiin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_INDUSTRIAL_NAME">
-			<Text>Teollinen aika|teollisen ajan|teollisesta ajasta</Text>
+			<Text>Teollinen aika|teollisen ajan|teollisesta ajasta|Teollinen|Teollisen ajan|Teolliseen aikaan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_MODERN_NAME">
-			<Text>Moderni aika|modernin ajan|modernista ajasta</Text>
+			<Text>Moderni aika|modernin ajan|modernista ajasta|Moderni|Modernin ajan|Moderniin aikaan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_ATOMIC_NAME">
-			<Text>Atomiaika|atomiajan|atomiajasta</Text>
+			<Text>Atomiaika|atomiajan|atomiajasta|Atomi|Atomiajan|Atomiaikaan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_INFORMATION_NAME">
-			<Text>Informaatioaika|informaatioajan|informaatioajasta</Text>
+			<Text>Informaatioaika|informaatioajan|informaatioajasta|Informaatio|Informaatioajan|Informaatioaikaan</Text>
 		</Replace>
 		<!--Game Speeds-->
 		<Replace Language="en_US" Tag="LOC_GAME_SPEED">

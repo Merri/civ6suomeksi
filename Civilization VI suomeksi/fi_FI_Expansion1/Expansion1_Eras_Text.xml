@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_ERAS_TURNS_TILL_NEXT_ERA">
+			<Text>AIKAKAUDEN VUOROJA JÄLJELLÄ:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_CURRENT_SCORE">
+			<Text>PISTEET:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_CURRENT_AGE">
+			<Text>KAUSI:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_HEROIC">
+			<Text>SANKARILLINEN</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_GOLDEN">
+			<Text>KULTAINEN</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_NORMAL">
+			<Text>NORMAALI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_DARK">
+			<Text>SYNKKÄ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_CURRENT_AGE_BY_CIV">
+			<Text>KAUDET KANSOITTAIN:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_TO_EARN_AGE_NEXT_ERA">
+			<Text>Seuraavan kauden vaatimat pisteet:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_ERA_REQUIREMENTS_REDUCED">
+			<Text>Aikakauden pistevaatimuksia on heikennetty</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_ERA_REQUIREMENTS_INCREASED">
+			<Text>Aikakauden pistevaatimuksia on kasvatettu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_TITLE">
+			<Text>Aikakauden tilanne</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_NEW_ERA_THRESHOLD">
+			<Text>KYNNYKSET TULEVAAN AIKAKAUTEEN</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_ERA_TYPE_EFFECTS">
+			<Text>{1_EraName[5]} vaikutukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_THE_ERA">
+			<Text>{1_EraName[4]}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA">
+			<Text>Seuraavaan aikakauteen:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA_VALUE">
+			<Text>{1_MinTurns} &mdash; {2_MaxTurns} vuoroa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_SPECIFIC_TURNS_TO_NEXT_ERA">
+			<Text>{1_Turns} {1_Turns : plural 1?vuoro; other?vuoroa;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_CHANGE_TITLE">
+			<Text>MAAILMA SIIRTYY UUTEEN AIKAAN:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_HEROIC_AGE">
+			<Text>Sankarkausi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_GOLDEN_AGE">
+			<Text>Kultakausi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_DARK_AGE">
+			<Text>Synkkä kausi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_NORMAL_AGE">
+			<Text>Normaali kausi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_ACTIVE_BONUSES">
+			<Text>Nykyiset edut:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_ERA_SCORE">
+			<Text>Aikakauden pisteet:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_ERA_PROGRESS_TOOLTIP">
+			<Text>Aikakauden edistyminen[NEWLINE][NEWLINE]Katso aikakauden pisteet ja ponnistukset.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_GOLDEN_THRESHOLD">
+			<Text>Kynnys kultakauteen:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_PROGRESS_DARK_THRESHOLD">
+			<Text>Kynnys synkkään kauteen:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_COMMEMORATION_POPUP_TITLE">
+			<Text>{1_EraName[5]} loppu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_COMMEMORATION_POPUP_DESCRIPTION">
+			<Text>Arvon hallitsija! Miten paljon olemmekaan saavuttaneet! Mitkä valttimme kirjataan historian kirjoihin?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION">
+			<Text>Ponnistus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION_SUBHEADER">
+			<Text>Valitse {1_EraName[2]} ponnistus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_COMMEMORATION_POPUP_CONFIRM">
+			<Text>Vahvista {1_NumSelected}/{2_NeededSelected}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_TITLE">
+			<Text>MAAILMA ON EDENNYT[NEWLINE]{1_EraName[6]}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE">
+			<Text>Olemme sankarkaudella!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE">
+			<Text>Olemme kultakaudella!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE">
+			<Text>Olemme synkällä kaudella!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE">
+			<Text>Olemme normaalilla kaudella.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_LABEL">
+			<Text>[ICON_GLORY_GOLDEN_AGE] KULTAKAUSI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_LABEL">
+			<Text>[ICON_GLORY_DARK_AGE] SYNKKÄ KAUSI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_LABEL">
+			<Text>[ICON_GLORY_NORMAL_AGE] NORMAALI KAUSI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita kolme ponnistusta, jotka kukin tarjoavat voimakkaita etuja aikakauden kuluessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita ponnistuksen, joka tarjoaa voimakkaan edun aikakauden kuluessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita ponnistuksen, joka tarjoaa ylimääräisiä aikakauden pisteitä aikakauden kuluessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita ponnistuksen, joka tarjoaa ylimääräisiä aikakauden pisteitä aikakauden kuluessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT">
+			<Text>Olemme [ICON_GLORY_SUPER_GOLDEN_AGE] sankarkaudella tämän aikakauden ajan![NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa 1,5 uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. On siis helpompaa ylläpitää kaupunkiemme uskollisuutta ja haastaa ulkomaisten kaupunkien uskollisuus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT">
+			<Text>Olemme [ICON_GLORY_GOLDEN_AGE] kultakaudella tämän aikakauden ajan![NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa 1,5 uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. On siis helpompaa ylläpitää kaupunkiemme uskollisuutta ja haastaa ulkomaisten kaupunkien uskollisuus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT">
+			<Text>Olemme [ICON_GLORY_DARK_AGE] synkällä kaudella tämän aikakauden ajan.[NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa 0,5 uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. On täten hankalampaa ylläpitää kaupunkiemme uskollisuutta ja kilpailla ulkomaisten kaupunkien uskollisuuden kanssa.[NEWLINE][NEWLINE][ICON_BULLET]Hallintomme voi ottaa käyttöön voimakkaita synkän aikakauden linjauksia, joilla on kuitenkin hintansa.[NEWLINE][NEWLINE][ICON_BULLET]Pääsemme sankarkaudelle seuraavalla aikakaudella, mikäli onnistumme saavuttamaan riittävästi aikakauden pisteitä saadaksemme kultakauden. Sankarkausi tarjoaa useamman ponnistuksen ja siten monta vahvaa etua.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT">
+			<Text>Olemme [ICON_GLORY_NORMAL_AGE] normaalilla kaudella tämän aikakauden ajan.[NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa normaalin 1 uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_PRIDE_MOMENTS">
+			<Text>Historialliset hetket (+1 &hellip; +6 kukin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_NEW_ERA_THRESHOLDS">
+			<Text>AIKAKAUDEN KYNNYKSET</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GLORY_HUD_ERA_ENDS_IN">
+			<Text>Vuoroa aikakauden loppuun: {1_Turns}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_AGE_EFFECTS">
+			<Text>KAUDEN VAIKUTUKSET</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TECH_BOOSTS">
+			<Text>Ponnistusetu: heurekat (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CIVIC_BOOSTS">
+			<Text>Ponnistusetu: inspiraatiot (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CITY_RELIGION_CONVERSIONS">
+			<Text>Ponnistusetu: uskoomme käännytetyt kaupungit (+{1_ScoreIncrement} kustakin käännytyksestä)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_DISTRICT_CONSTRUCTIONS">
+			<Text>Ponnistusetu: valmistuneet kaupunkialueet (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CORPS_KILLS">
+			<Text>Ponnistusetu: tuhotut armeijakunnat (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARMY_KILLS">
+			<Text>Ponnistusetu: tuhotut armeijat (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TRADE_ROUTE_COMPLETIONS">
+			<Text>Ponnistusetu: päättyneet kauppareitit (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_MAP_DISCOVERIES">
+			<Text>Ponnistusetu: uudet löydetyt merkittävät maat (+{1_ContinentScoreIncrement} mantereista, +{2_NaturalWonderScoreIncrement} luonnonihmeistä)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNIT_SEA_KILLS">
+			<Text>Ponnistusetu: tuhotut meriyksiköt, jotka eivät ole barbaarien (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SCIENCE_BUILDING_CONSTRUCTIONS">
+			<Text>Ponnistusetu: valmistuneet rakennukset, jotka tarjoavat tiedettä perustuottonaan (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CULTURE_BUILDING_CONSTRUCTIONS">
+			<Text>Ponnistusetu: valmistuneet rakennukset, joissa on paikka merkittävälle teokselle (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_AERODROME_BUILDING_CONSTRUCTIONS">
+			<Text>Ponnistusetu: lentoasemaan valmistuneet rakennukset (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_INDUSTRIAL_BUILDING_CONSTRUCTIONS">
+			<Text>Ponnistusetu: valmistuneet teollisen tai myöhemmän ajan rakennukset (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SPY_MISSIONS">
+			<Text>Ponnistusetu: onnistunut hyökkäävä vakoilutoimi (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARTIFACT_EXTRACTIONS">
+			<Text>Ponnistusetu: paljastetut artefaktit (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_GREAT_PEOPLE_EARNED">
+			<Text>Ponnistusetu: värvätyt merkittävät henkilöt (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_UNKNOWN_SOURCE">
+			<Text>Muut lähteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_BASELINE">
+			<Text>Pisteet aikakauden alussa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_BASE_GOLDEN_AGE">
+			<Text>Kultakauden kantakynnys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_BASE_DARK_AGE">
+			<Text>Synkän kauden kantakynnys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_CITIES">
+			<Text>Kaupunkeja aikakauden alussa ({1_ScoreIncrement} per kaupunki)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_UNHAPPY_CITIES">
+			<Text>Onnettomat kaupungit ({1_ScoreIncrement} per puuttuva [ICON_Amenities] elintaso)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_GOVERNMENT">
+			<Text>Hallinto (EI VOIMASSA)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_TECH">
+			<Text>Aikakauden valmistumattomat tekniikat (EI VOIMASSA)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_CIVIC">
+			<Text>Aikakauden valmistumattomat normit (EI VOIMASSA)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_OLD_TECH">
+			<Text>Aiempien aikakausien valmistumattomat tekniikat (EI VOIMASSA)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_OLD_CIVIC">
+			<Text>Aiempien aikakausien valmistumattomat normit (EI VOIMASSA)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_PAST_GOLDEN_AGES">
+			<Text>Ansaittuja kultakausia ({1_ScoreIncrement} per kausi)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_PAST_DARK_AGES">
+			<Text>Ansaittuja synkkiä kausia ({1_ScoreIncrement} per kausi)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_ANARCHY">
+			<Text>Hallinnon anarkia tällä aikakaudella ({1_ScoreIncrement} per anarkia)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_UNKNOWN_SOURCE">
+			<Text>Muut lähteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_SCORE_HEADER">
+			<Text>Aikakauden pisteemme:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_SCORE_SOURCE">
+			<Text>{1_EraScoreNumber} lähteestä {2_EraScoreSourceType}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOLDEN_AGE_THRESHOLD_TEXT">
+			<Text>[NEWLINE]Kynnys [ICON_GLORY_GOLDEN_AGE] kultakauden saavuttamiseksi: {1_thresh} tai enemmän</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DARK_AGE_THRESHOLD_TEXT">
+			<Text>[NEWLINE]Kynnys [ICON_GLORY_DARK_AGE] synkän kauden välttämiseksi: {1_thresh} tai enemmän</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_STABILITY_HEADER">
+			<Text>Vakauspisteemme:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_SCORE_LEADERBOARD_TITLE">
+			<Text>Aikakauden pisteet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_STABILITY_LEADERBOARD_TITLE">
+			<Text>Vakauspisteet</Text>
+		</Replace>
+		<!-- Golden/Dark Ages -->
+		<Replace Language="en_US" Tag="LOC_NEW_TURN_PANEL_NEXT_ERA_COUNTDOWN">
+			<Text>{2_EraName} päättyy {1_TurnsRemaining : plural 1?tämän vuoron jälkeen; other?{1_TurnsRemaining} vuoron kuluttua;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ERA_POPUP_ENTERED_NEW_ERA">
+			<Text>{1_EraName} on koittanut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ERA_POPUP_YOU_ENTERED_GOLDEN_AGE">
+			<Text>Kansakuntamme kukoisti edellisen aikakauden aikana johtaen heidät kultakauteen tämän aikakauden ajaksi!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ERA_POPUP_YOU_ENTERED_DARK_AGE">
+			<Text>Kansakuntamme kompasteli edellisen aikakauden aikana johtaen heidät synkkään kauteen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ERA_POPUP_GOLDEN_AGE_DESCRIPTION">
+			<Text>Merkittäviä etuja tarjoavat kultakaudet ansaitaan aiheuttamalla historiallisia hetkiä.[NEWLINE]Nämä pelaajat ovat ansainneet kultakauden tälle aikakaudelle:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ERA_POPUP_DARK_AGE_DESCRIPTION">
+			<Text>Synkät kaudet ovat mahdollisia keskiajasta alkaen ja aiheuttavat ongelmia suurille tai heikosti kehittyneille kansoille. -1 [ICON_Amenities] elintasoa ja -50% kasvulle kaikissa kaupungeissa. Pelaajan päätyessä toistamiseen synkälle kaudelle puolet hänen kaupungeistaan raunioituu ja muuttuu barbaarien etuvartioiksi.[NEWLINE]Seuraavat pelaajat ovat päätyneet synkälle kaudelle tällä aikakaudella:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_ERA_POPUP_NO_MET_PLAYERS">
+			<Text>(Ei ainutkaan kohtaamamme pelaaja)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEDICATION_POPUP_HEROIC_AGE_ACHIEVED">
+			<Text>Sankarkausi antaa meidän valita kolme ponnistusta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEDICATION_POPUP_GOLDEN_AGE_ACHIEVED">
+			<Text>Kultakausi antaa meidän valita yhden ponnistuksen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEDICATION_POPUP_DARK_AGE_ACHIEVED">
+			<Text>Synkkä kausi antaa meidän valita yhden ponnistuksen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DEDICATION_POPUP_NORMAL_AGE_ACHIEVED">
+			<Text>Normaali kausi antaa meidän valita yhden ponnistuksen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_PREVIOUS_ERA_TOTAL_SCORE">
+			<Text>Pisteet aiemmilta aikakausilta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_EFFECTS_ACTIVE_THIS_AGE">
+			<Text>VAIKUTUKSET TÄLLÄ AIKAKAUDELLA:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERAS_YOU_WILL_EARN_BLANK_AGE_NEXT_ERA">
+			<Text>{1_AgeName} on ansaittu seuraavalle aikakaudelle</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
