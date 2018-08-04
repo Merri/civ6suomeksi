@@ -142,7 +142,7 @@
 			<Text>Mapuchejen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
-			<Text>Mapuchevaltakunta</Text>
+			<Text>Mapuchevaltakunta|Mapuchejen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
 			<Text>Toqui (kirveenkantaja)</Text>
@@ -183,7 +183,7 @@
 			<Text>Cree-intiaanien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
-			<Text>Creevaltakunta</Text>
+			<Text>Creevaltakunta|Cree-intiaanien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
 			<Text>Nîhithaw</Text>
@@ -214,7 +214,7 @@
 			<Text>Skotlannin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
-			<Text>Skotlannin valtakunta</Text>
+			<Text>Skotlannin valtakunta|Skotlannin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
 			<Text>Skottien valistuneisuus</Text>
@@ -245,7 +245,7 @@
 			<Text>Korean</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
-			<Text>Korean valtakunta</Text>
+			<Text>Korean valtakunta|Korean</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
 			<Text>Kolme kuningaskuntaa</Text>
@@ -279,7 +279,7 @@
 			<Text>Mongolien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
-			<Text>Mongolivaltakunta</Text>
+			<Text>Mongolivaltakunta|Mongolian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
 			<Text>Örtöö</Text>
@@ -313,7 +313,7 @@
 			<Text>Zulujen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
-			<Text>Zuluvaltakunta</Text>
+			<Text>Zuluvaltakunta|Zulujen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
 			<Text>Isibongo</Text>
@@ -348,7 +348,7 @@
 			<Text>Georgian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
-			<Text>Georgian valtakunta</Text>
+			<Text>Georgian valtakunta|Georgian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
 			<Text>Yhtenäisyyden voima</Text>
@@ -379,7 +379,7 @@
 			<Text>Hollannin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
-			<Text>Hollannin valtakunta</Text>
+			<Text>Hollannin valtakunta|Hollannin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
 			<Text>Grote rivieren</Text>

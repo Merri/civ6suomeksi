@@ -122,7 +122,7 @@
 			<Text>Tulitusvoima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
-			<Text>Pommitusvoima</Text>
+			<Text>Tulivoima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
 			<Text>Uskonvoima</Text>

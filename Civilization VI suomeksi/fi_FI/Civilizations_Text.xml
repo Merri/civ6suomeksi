@@ -3,61 +3,61 @@
 	<LocalizedText>
 		<!-- Empire Names-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
-			<Text>Amerikan valtakunta</Text>
+			<Text>Amerikan valtakunta|Amerikan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
-			<Text>Arabian valtakunta</Text>
+			<Text>Arabian valtakunta|Arabian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
-			<Text>Barbaarit</Text>
+			<Text>Barbaarit|Barbaarien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
-			<Text>Brasilian valtakunta</Text>
+			<Text>Brasilian valtakunta|Brasilian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
-			<Text>Kiinan valtakunta</Text>
+			<Text>Kiinan valtakunta|Kiinan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
-			<Text>Egyptin valtakunta</Text>
+			<Text>Egyptin valtakunta|Egyptin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
-			<Text>Englannin valtakunta</Text>
+			<Text>Englannin valtakunta|Englannin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
-			<Text>Ranskan valtakunta</Text>
+			<Text>Ranskan valtakunta|Ranskan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
-			<Text>Saksan valtakunta</Text>
+			<Text>Saksan valtakunta|Saksan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
-			<Text>Kreikan valtakunta</Text>
+			<Text>Kreikan valtakunta|Kreikan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
-			<Text>Intian valtakunta</Text>
+			<Text>Intian valtakunta|Intian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
-			<Text>Japanin valtakunta</Text>
+			<Text>Japanin valtakunta|Japanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
-			<Text>Kongon valtakunta</Text>
+			<Text>Kongon valtakunta|Kongon</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
-			<Text>Norjan valtakunta</Text>
+			<Text>Norjan valtakunta|Norjan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
-			<Text>Rooman valtakunta</Text>
+			<Text>Rooman valtakunta|Rooman</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
-			<Text>Venäjän valtakunta</Text>
+			<Text>Venäjän valtakunta|Venäjän</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
-			<Text>Skyyttien valtakunta</Text>
+			<Text>Skyyttien valtakunta|Skyyttien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
-			<Text>Espanjan valtakunta</Text>
+			<Text>Espanjan valtakunta|Espanjan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
-			<Text>Sumerin valtakunta</Text>
+			<Text>Sumerin valtakunta|Sumerin</Text>
 		</Replace>
 		<!-- City-State Empire Names-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">

@@ -215,7 +215,7 @@
 			<Text>Acatitlan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
-			<Text>Asteekkivaltakunta</Text>
+			<Text>Asteekkivaltakunta|Asteekkien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
 			<Text>Asteekkien</Text>
