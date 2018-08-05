@@ -424,25 +424,25 @@
 		</Replace>
 		<!-- Governors -->
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_DEFENDER_NAME">
-			<Text>Viktor</Text>
+			<Text>Viktor|Viktorin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_AMBASSADOR_NAME">
-			<Text>Amani</Text>
+			<Text>Amani|Amanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_CARDINAL_NAME">
-			<Text>Moksha</Text>
+			<Text>Moksha|Mokshan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME">
-			<Text>Magnus</Text>
+			<Text>Magnus|Magnusin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_BUILDER_NAME">
-			<Text>Liang</Text>
+			<Text>Liang|Liangin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_EDUCATOR_NAME">
-			<Text>Pingala</Text>
+			<Text>Pingala|Pingalan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_MERCHANT_NAME">
-			<Text>Reina</Text>
+			<Text>Reina|Reinan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_THE_DEFENDER_TITLE">
 			<Text>Kastiliaani</Text>

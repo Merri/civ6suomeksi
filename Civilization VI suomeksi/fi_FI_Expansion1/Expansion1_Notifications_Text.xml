@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_MESSAGE">
+			<Text>Historiallinen hetki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
+			<Text>Kansamme juhlii historiallista hetkeä! {1_MomentDescription} (+{2_EraScoreAmount} aikakauden pistettä)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
+			<Text>Käskynhaltija on asettunut kaupunkiin {1_CityName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_SUMMARY">
+			<Text>Käskynhaltija, {1_GovernorName}, on asettunut kaupunkiin {2_CityName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_MESSAGE">
+			<Text>Uusi käskynhaltija osoitettavissa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_SUMMARY">
+			<Text>Nimitä uusi käskynhaltija tai anna ylennys vanhalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_MESSAGE">
+			<Text>Uusi käskynhaltijan virka käytettävissä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_SUMMARY">
+			<Text>Ylennä vanha [ICON_Governor] käskynhaltija tai nimitä kansallemme uusi käskynhaltija.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY">
+			<Text>Käskynhaltijan virka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY_TOOLTIP">
+			<Text>Ylennä vanha käskynhaltija tai nimitä kansallemme uusi käskynhaltija.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION">
+			<Text>Käskynhaltijan ylennys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION_TOOLTIP">
+			<Text>Virka on käytettävissä käskynhaltijan ylentämiseksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT">
+			<Text>Käskynhaltijan osoittaminen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT_TOOLTIP">
+			<Text>Nimitä uusi käskynhaltija kansallemme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY">
+			<Text>Pidä tai vapauta kaupunki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY_TOOLTIP">
+			<Text>Ulkomainen kaupunki on kapinoinut edellistä omistajaansa vastaan sen uskollisuuden saavutettua nollan. Heidän uskollisuutensa on voimakkain meitä kohtaan, joten he pyytävät lupaa liittya osaksi kansakuntaamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_MESSAGE">
+			<Text>Käskynhaltijan ylennys käytettävissä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_SUMMARY">
+			<Text>Yksi käskynhaltijamme voidaan ylentää.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_MESSAGE">
+			<Text>{1_CityName} on nyt käskynhaltijaton</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_SUMMARY">
+			<Text>{2_CityName} on menettänyt käskynhaltijan {1_GovernorName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_MESSAGE">
+			<Text>Käskynhaltija {1_GovernorName} siirtyi kaupunkiin {2_CityName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_SUMMARY">
+			<Text>Käskynhaltija {1_GovernorName} on siirtynyt kaupungista {2_CityName} kaupunkiin {3_CityName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_MESSAGE">
+			<Text>Käskynhaltija {1_GovernorName} on palannut palvelukseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_SUMMARY">
+			<Text>Käskynhaltija {1_GovernorName} on palannut palvelukseen. {2_GovernorTitle} voidaan osoittaa kaupunkiin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_MESSAGE">
+			<Text>Kaupungin uskollisuus heikkenee</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_SUMMARY">
+			<Text>{1_CityName} menettää uskollisuuttaan. Kaupunki voidaan menettää mikäli uskollisuus saavuttaa nollan. Tilannetta voidaan vakauttaa osoittamalla käskynhaltija kaupungille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_MESSAGE">
+			<Text>Kaupungin uskollisuus menetetty</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_SUMMARY">
+			<Text>{1_CityName} on kapinoinut itsensä vapaaksi kaupungiksi uskollisuuden saavutettua nollan. Saadaksemme vallan takaisin joudumme joko kasvattamaan uskollisuuttamme siellä tai käyttämään sotilasmahtiamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
+			<Text>Ulkomainen kaupunki itsenäistyi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_SUMMARY">
+			<Text>{1_CivName} ei enää kykene pitämään valtakunnassaan kaupunkia {2_CityName}. Lähimmät vahvan uskollisuuden tai armeijan kansakunnat saattavat pian ottaa tämän vapaan kaupungin haltuunsa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_MESSAGE">
+			<Text>Vapaa kaupunki hakeutuu kansakuntaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_SUMMARY">
+			<Text>{2_CityName}, entinen vapaa kaupunki, on myöntynyt ulkomaiseen paineeseen ja on nyt osa {1_CivName[2]} valtakuntaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_GOLDEN_AGE">
+			<Text>Kultakauden sota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_RETRIBUTION">
+			<Text>Hyvityssota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_WAR_TYPE_IDEOLOGICAL">
+			<Text>Ideologinen sota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_TRADING_POST_IMMEDIATELY_CREATED_SUMMARY">
+			<Text>[ICON_TradeRoute] Kauppareitin muodostaminen on luonut meille [ICON_TradingPost] kauppapaikan kaupunkiin {1_CityName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_MESSAGE">
+			<Text>Pidä tai vapauta kaupunki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_SUMMARY">
+			<Text>Vapaa kaupunki on menettänyt halunsa säilyä itsenäisenä. Vahvasti uskollisina meidän suuntaamme he pyytävät lupaa liittyä osaksi kansakuntaamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_SUMMARY">
+			<Text>Kaupungissa {2_CityName} toimiva agenttimme {1_unitName} onnistui poistamaan vihollisten edustajia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_MESSAGE">
+			<Text>Onnistunut skandaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_SUMMARY">
+			<Text>Kaupungissa {1_CityName} toiminut vihollisvakooja onnistui poistamaan edustajiamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_MESSAGE">
+			<Text>Vihollisen aiheuttama skandaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_SUMMARY">
+			<Text>Agenttimme {1_unitName} onnistui heikentämään kaupungin {2_cityName} omistajan uskollisuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_MESSAGE">
+			<Text>Levottomuuden synnyttäminen onnistui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_SUMMARY">
+			<Text>Vihollisvakooja on heikentänyt uskollisuutta meihin kaupungissa {1_cityName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_MESSAGE">
+			<Text>Vihollinen synnytti levottomuutta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_SUMMARY">
+			<Text>Agenttimme {1_unitName} onnistui lamauttamaan vihollisen käskynhaltijan kaupungista {2_cityName}, aiheuttaen tälle pakkoloman {3_turns} vuoron ajaksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_MESSAGE">
+			<Text>Käskynhaltijan lamautus onnistui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_SUMMARY">
+			<Text>Vihollisvakooja onnistui lamauttamaan käskynhaltijamme {1_governorName[2]} kaupungissa {2_cityName}, aiheuttaen tälle pakkoloman {3_turns} vuoron ajaksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_MESSAGE">
+			<Text>Vihollisvakooja lamautti käskynhaltijamme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_MESSAGE">
+			<Text>Liitto erääntyi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_SUMMARY">
+			<Text>Liittomme {1_CivName[2]} kanssa on erääntynyt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_MESSAGE">
+			<Text>Liiton taso kasvoi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_SUMMARY">
+			<Text>Liittomme taso {1_CivName[2]} kanssa on kasvanut.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_MESSAGE">
+			<Text>Hätätilan julistus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_SUMMARY">
+			<Text>{1_CivName} on aiheuttanut hätätilan itseään vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Hätätila on julistettu tuntematonta pelaajaa vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_MESSAGE">
+			<Text>Hätätila päättyi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_TARGET_SUMMARY">
+			<Text>Meihin kohdistettu hätätila on epäonnistunut ja meidät on palkittu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_SUMMARY">
+			<Text>{1_CivName} on selvinnyt hätätilasta itseään vastaan ja saa palkinnon.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Tuntematonta pelaajaa vastaan kohdistettu hätätila epäonnistui.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_MESSAGE">
+			<Text>Hätätila päättyi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_TARGET_SUMMARY">
+			<Text>Meitä vastaan kohdistettu hätätila onnistui tavoitteissaan ja meitä vastaan toimineet on palkittu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_SUMMARY">
+			<Text>{1_CivName} on hävinnyt hätätilasta itseään vastaan ja hätätilan julistaneet on palkittu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Tuntematonta pelaajaa vastaan kohdistettu hätätila onnistui.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_MESSAGE">
+			<Text>Hätätila väistettiin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_DESTROYED">
+			<Text>{1_EmergencyType} pelaajaa {2_CivName} vastaan on päättynyt, sillä {3_CityName} on tuhottu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_ORIGINAL">
+			<Text>{1_EmergencyType} pelaajaa {2_CivName} vastaan on päättynyt, sillä {3_CityName} on palautettu alkuperäiselle omistajalleen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_PREVIOUS">
+			<Text>{1_EmergencyType} pelaajaa {2_CivName} vastaan on päättynyt, sillä {3_CityName} on palautettu edelliselle omistajalleen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_GIFTED">
+			<Text>{1_EmergencyType} pelaajaa {2_CivName} vastaan on päättynyt, sillä {2_CivName} ei enää omista kaupunkia {3_CityName}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_TARGET_DEFEATED">
+			<Text>{1_EmergencyType} pelaajaa {2_CivName} vastaan on päättnyt, sillä {2_CivName} on päihitetty.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_MESSAGE">
+			<Text>HÄTÄTILA!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_SUMMARY">
+			<Text>Hätätila kaipaa huomiotamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_MESSAGE">
+			<Text>Meille annettu lupaus on pidetty</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_SUMMARY">
+			<Text>{1_CivName} on pitänyt lupauksensa: {2_PledgeType}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_MESSAGE">
+			<Text>Olemme pitäneet lupauksemme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_SUMMARY">
+			<Text>{1_CivName} katsoo, että lupauksemme on pidetty: {2_PledgeType}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_MESSAGE">
+			<Text>Meille annettu lupaus on rikottu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_SUMMARY">
+			<Text>{1_CivName} on rikkonut antamansa lupauksen: {2_PledgeType}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_MESSAGE">
+			<Text>Olemme rikkoneet lupauksemme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_SUMMARY">
+			<Text>{1_CivName} katsoo meidän rikkoneen antamamme lupauksen: {2_PledgeType}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_MESSAGE">
+			<Text>Valitse ponnistus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY"> 
+			<Text>Pelin siirryttyä uudeen aikakauteen on tullut aika valita kansamme ponnistus, joka vie meidät halutunlaista tulevaisuutta kohti.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
+			<Text>Ponnistusetu toteutui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
+			<Text>{1_DedicationBonusTriggerSentence} Tämän ansiosta ponnistusetu tuo meille aikakauden pisteitä!</Text>
+		</Replace>
+		<!--TUTORIAL EVENTS TEXT-->
+	</LocalizedText>
+</GameData>
