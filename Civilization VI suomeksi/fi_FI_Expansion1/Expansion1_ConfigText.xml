@@ -6,7 +6,7 @@
 			<Text>Laajennos: Nousu ja tuho</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_EXPANSION1_DESCRIPTION">
-			<Text>Peli käyttää Nousu ja tuho -laajennosta, joka tuo peliin kansakuntien vaihtuvat kaudet, uskollisuuden, kuvernöörit ja hätätilat. Kykenetkö johtamaan kansasi kultakauden kukoistukseen? Tai kohtaako kansasi synkän kauden tuomat haasteet?</Text>
+			<Text>Peli käyttää Nousu ja tuho -laajennosta, joka tuo peliin kansakuntien vaihtuvat kaudet, uskollisuuden, käskynhaltijat ja hätätilat. Kykenetkö johtamaan kansasi kultakauden kukoistukseen? Tai kohtaako kansasi synkän kauden tuomat haasteet?</Text>
 		</Replace>
 		<!-- Map Config Text -->
 		<Replace Language="en_US" Tag="LOC_MAP_ARCHIPELAGO_NAME">
@@ -260,7 +260,7 @@
 			<Text>Hwarang (kukkaisritarit)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
-			<Text>+10% [ICON_Culture] kulttuuria ja +10% [ICON_Science] tiedettä kaikissa asettuneen [ICON_Governor] kuvernöörin kaupungeissa.</Text>
+			<Text>Asettunut [ICON_Governor] käskynhaltija antaa +10% [ICON_Culture] kulttuuria ja +10% [ICON_Science] tiedettä kaupungilleen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_SEOWON_NAME">
 			<Text>Seowon|seowon|seowonin</Text>

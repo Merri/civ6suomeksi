@@ -623,7 +623,7 @@
 			<Text>+50% [ICON_Production] tuotantoa kohden teollisen ja modernin ajan melee-, ratsutorjunta- ja heittoaseyksiköitä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
-			<Text>+100% [ICON_Culture] kultatuottoa teatteriaukion rakennuksille.</Text>
+			<Text>+100% [ICON_Culture] kulttuurituottoa teatteriaukion rakennuksille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
 			<Text>Avoimet rajat kaikkiin kaupunkivaltioihin ja +4 vaikutusvallan pistettä [ICON_Envoy] edustajien ansaitsemiseen.</Text>

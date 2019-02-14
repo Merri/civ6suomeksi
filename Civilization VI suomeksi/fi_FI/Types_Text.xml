@@ -1960,7 +1960,7 @@
 			<Text>Kartoitus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_SYMPHONIES_NAME">
-			<Text>Symfoniat</Text>
+			<Text>Sinfoniat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_THIRD_ALTERNATIVE_NAME">
 			<Text>Kolmas vaihtoehto</Text>

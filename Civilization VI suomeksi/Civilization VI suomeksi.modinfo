@@ -7,11 +7,18 @@
 		<Authors>LOC_MOD_AUTHORS</Authors>
 		<EnabledByDefault>1</EnabledByDefault>
 		<AffectsSavedGames>0</AffectsSavedGames>
+		<CompatibleVersions>2.0</CompatibleVersions>
 	</Properties>
 	<!-- enable detection of Rise & Fall expansion by a criteria -->
 	<ActionCriteria>
 		<Criteria id="Expansion1">
 			<GameCoreInUse>Expansion1</GameCoreInUse>
+		</Criteria>
+	</ActionCriteria>
+	<!-- enable detection of Gathering Storm expansion by a criteria -->
+	<ActionCriteria>
+		<Criteria id="Expansion2">
+			<GameCoreInUse>Expansion2</GameCoreInUse>
 		</Criteria>
 	</ActionCriteria>
 	<!-- these are loaded before displaying the main menu, but not before the initial "Loading game, please wait" -->

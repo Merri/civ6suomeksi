@@ -5032,7 +5032,7 @@
 			<Text>Strategiset luonnonvarat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_TAB_CITY_STATUS">
-			<Text>Kaupungin tila</Text>
+			<Text>Kaupungit</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_TAB_RESOURCES">
 			<Text>Luonnonvarat &amp; resurssit</Text>
