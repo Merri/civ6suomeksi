@@ -1605,79 +1605,79 @@
 		</Replace>
 		<!-- Improvements -->
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
-			<Text>Barbaarien etuvartio</Text>
+			<Text>Barbaarien etuvartio|barbaarien etuvartio|barbaarien etuvartion</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GOODY_HUT_NAME">
-			<Text>Heimokylä</Text>
+			<Text>Heimokylä|heimokylä|heimokylän</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FARM_NAME">
-			<Text>Maatila</Text>
+			<Text>Maatila|maatila|maatilan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MINE_NAME">
-			<Text>Kaivos</Text>
+			<Text>Kaivos|kaivos|kaivoksen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_QUARRY_NAME">
-			<Text>Louhos</Text>
+			<Text>Louhos|louhos|louhoksen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHING_BOATS_NAME">
-			<Text>Kalastus</Text>
+			<Text>Kalastus|kalastus|kalastuksen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PASTURE_NAME">
-			<Text>Laidun</Text>
+			<Text>Laidun|laidun|laitumen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PLANTATION_NAME">
-			<Text>Plantaasi</Text>
+			<Text>Plantaasi|plantaasi|plantaasin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CAMP_NAME">
-			<Text>Leiri</Text>
+			<Text>Leiri|leiri|leirin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_LUMBER_MILL_NAME">
-			<Text>Saha</Text>
+			<Text>Saha|saha|sahan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OIL_WELL_NAME">
-			<Text>Poraustorni</Text>
+			<Text>Poraustorni|poraustorni|poraustornin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_NAME">
-			<Text>Porauslautta</Text>
+			<Text>Porauslautta|porauslautta|porauslautan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_BEACH_RESORT_NAME">
-			<Text>Merenrannan lomakohde</Text>
+			<Text>Merenrannan lomakohde|merenrannan lomakohde|merenrannan lomakohteen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FORT_NAME">
-			<Text>Linnake</Text>
+			<Text>Linnake|linnake|linnakkeen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_AIRSTRIP_NAME">
-			<Text>Kiitorata</Text>
+			<Text>Kiitorata|kiitorata|kiitoradan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHATEAU_NAME">
-			<Text>Château</Text>
+			<Text>Château|château|châteaun</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_NAME">
-			<Text>Valtava kivipää</Text>
+			<Text>Valtava kivipää|valtava kivipää|valtavan kivipään</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GREAT_WALL_NAME">
-			<Text>Kiinan muuri</Text>
+			<Text>Kiinan muuri|Kiinan muuri|Kiinan muurin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_KURGAN_NAME">
-			<Text>Kurgan</Text>
+			<Text>Kurgan|kurgan|kurganin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSION_NAME">
-			<Text>Lähetystö</Text>
+			<Text>Lähetystö|lähetystö|lähetystön</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ROMAN_FORT_NAME">
-			<Text>Roomalainen linnake</Text>
+			<Text>Roomalainen linnake|roomalainen linnake|roomalaisen linnakkeen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SPHINX_NAME">
-			<Text>Sfinksi</Text>
+			<Text>Sfinksi|sfinksi|sfinksin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_STEPWELL_NAME">
-			<Text>Porraskaivo</Text>
+			<Text>Porraskaivo|porraskaivo|porraskaivon</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ZIGGURAT_NAME">
-			<Text>Zikkurat</Text>
+			<Text>Zikkurat|zikkurat|zikkuratin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSILE_SILO">
-			<Text>Ohjussiilo</Text>
+			<Text>Ohjussiilo|ohjussiilo|ohjussiilon</Text>
 		</Replace>
 		<!-- Policies-->
 		<Replace Language="en_US" Tag="LOC_POLICY_AESTHETICS_NAME">

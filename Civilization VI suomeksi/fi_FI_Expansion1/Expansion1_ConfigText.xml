@@ -166,7 +166,7 @@
 			<Text>Viholliskaupunki menettää 20 uskollisuutta mikäli saman kansan yksikkö tuhotaan kaupungin alueella mapucheyksikön toimesta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
-			<Text>Chemamüll</Text>
+			<Text>Chemamüll|chemamüll|chemamüllin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
 			<Text>Mahdollistaa mapucherakentajille kyvyn rakentaa chemamüllin.[NEWLINE][NEWLINE]Tarjoaa [ICON_CULTURE] kulttuuria 75% ruudun houkuttelevuuden edestä. Tarjoaa myös [ICON_TOURISM] turismia lentämisen kehittämisen jälkeen. Houkuttelevuuden tulee olla vähintään henkeäsalpaava.</Text>
@@ -201,7 +201,7 @@
 			<Text>Kaikki liittolaisuustyypit antavat jaetun näkyvyyden.[NEWLINE]Ansantekijä saa [ICON_TradeRoute] kauppareiteilleen +1 [ICON_Food] ruokaa jokaisesta leiristä ja laitumesta kohdekaupunkissa.[NEWLINE]Ansantekijä saa [ICON_TradeRoute] kauppareiteistä +1 [ICON_Gold] kultaa jokaisesta leiristä ja laitumesta kohdekaupungissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
-			<Text>Mekewap</Text>
+			<Text>Mekewap|mekewap|mekewapin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
 			<Text>Mahdollistaa creerakentajille kyvyn rakentaa mekewapin.[NEWLINE][NEWLINE]Tarjoaa +1 [ICON_PRODUCTION] tuotantoa ja +1 [ICON_Housing] asumuksia. +1 [ICON_GOLD] kultaa ylellisen luonnonvaran vieressä. +1 [ICON_FOOD] ruokaa joka toisesta vierekkäisestä hyödyllisestä luonnonvarasta. Etu [ICON_PRODUCTION] tuotantoon, [ICON_GOLD] kultaan, [ICON_FOOD] ruokaan ja [ICON_HOUSING] asumuksiin kohenee normien ja tekniikoiden kehittämisen myötä. Tulee sijoittaa hyödyllisen tai ylellisen luonnonvaran viereen. Ei voi rakentaa toisen mekewapin viereen.</Text>
@@ -232,7 +232,7 @@
 			<Text>Kykenee julistamaan vapautussodan puolustustaktiikoiden kehittämisen myötä. Vapautussodan julistamisen jälkeen +100% [ICON_Production] tuotantoa ja +2 [ICON_Movement] liikkuvuutta ensimmäisten kymmenen vuoron ajan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
-			<Text>Golfkenttä</Text>
+			<Text>Golfkenttä|golfkenttä|golfkentän</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
 			<Text>Mahdollistaa skottirakentajille kyvyn rakentaa golfkentän.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] elintasoa ja +2 [ICON_GOLD] kultaa. +1 [ICON_CULTURE] kulttuuria kaupungin keskustan vieressä ja +1 [ICON_CULTURE] kulttuuria viihdekompleksin vieressä. Etuja [ICON_TOURISM] turismiin ja [ICON_HOUSING] asumuksiin normien ja tekniikoiden kehittämisen myötä. Ei voi sijoittaa aavikolle tai mäkiselle aavikolle. Golfkenttiä ei voi poistaa. +1 houkuttelevuutta.</Text>
@@ -402,24 +402,9 @@
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
 			<Text>Mahdollistaa hollantilaisrakentajille kyvyn rakentaa polderin.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ruokaa ja +1 [ICON_Production] tuotantoa. +1 [ICON_FOOD] ruokaa mikäli polderin vieressä. Etuja [ICON_PRODUCTION] tuotantoon, [ICON_GOLD] kultaan ja [ICON_FOOD] ruokaan normien ja tekniikoiden kehittämisen myötä. Tulee sijoittaa kolmen tai useamman tasaisen maan vierustamaan rannikko- tai järviruutuun. Kasvattaa ruudun [ICON_Movement] liikkumiskulun kolmeen.</Text>
 		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_NAME">
-			<Text>Kalastamo|kalastamo|kalastamon</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
-			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Aquaculture promotion. Tuottaa 1 [ICON_Food] ruokaa, +1 [ICON_Food] ruokaa lisää mikäli meriluonnonvaran vieressä. Tulee rakentaa rannikkoruutuun.</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
-			<Text>Kaupunkipuisto|kaupunkipuisto|kaupunkipuiston</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
-			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Parks and Recreation promotion. Tuottaa 2 houkuttelevuutta ja 1 [ICON_Culture] kulttuuria. +1 [ICON_Amenities] elintasoa mikäli veden vieressä. Ei voi rakentaa toisen kaupunkipuiston viereen.</Text>
-		</Replace>
 		<!-- Jerusalem -->
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME_EXPANSION">
 			<Text>Jerusalemin valta-asemaetu</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
-			<Text>Pyhän paikan omaavat kaupunkimme puskevat painetta kuten pyhät kaupungit (nelinkertainen uskonnon paine kaikkiin kymmenen ruudun sisällä oleviin kaupunkeihin).</Text>
 		</Replace>
 		<!-- Free Cities -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FREE_CITIES_NAME">

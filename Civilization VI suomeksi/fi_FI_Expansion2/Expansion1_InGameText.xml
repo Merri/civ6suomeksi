@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
+			<Text>Kasvattaa kaupungin puolustuksen [ICON_Strength] taisteluvoimakkuutta (+5). Asettuu kaupunkiin kolmessa vuorossa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
+			<Text>Kaupungin alueita puolustavat yksiköt saavat +5 [ICON_Strength] taisteluvoimakkuutta. Muut kaupunkimme 9 ruudun sisällä saavat +4 uskollisuutta kansakuntaamme kohtaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
+			<Text>Kaupunki kykenee [ICON_Ranged] tulittamaan toistamiseen vuoron aikana. Kaupungissa koulutetut yksiköt saavat ilmaisen ylennyksen, mikäli ne eivät vielä saa sellaista muun vaikutuksen johdosta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
+			<Text>Kaupunkia ei voida piirittää. Kaupungin strategiset luonnonvarat kertyvät +1 tehokkaammin per vuoro.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
+			<Text>Sallii kaupungin ostaa kaupunkialueita [ICON_FAITH] uskolla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
+			<Text>Kaikki [ICON_Governor] käskynhaltijan yksiköt hoivaantuvat yhdessä vuorossa kokonaan tämän kaupungin alueella.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
+			<Text>Kaupunki ei huomioi uskonnollista painetta uskonnoista, jotka eivät ole tämän [ICON_Governor] käskynhaltijan pelaajan perustamia. Rakennusten valmistuminen tuottaa [ICON_FAITH] uskoa vastaten 25% rakennuskustannuksesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
+			<Text>Kaupungissa koulutetut uudisasukkaat eivät vähennä [ICON_Citizen] asukaslukua.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
+			<Text>+1 [ICON_POWER] virtaa hiilivoimalan, öljyvoimalan tai ydinvoimalan käyttämästä luonnonvarasta ja antaa +2 [ICON_Production] tuottavuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
+			<Text>Yksiköiden valmistamiseen vaaditut strategisten luonnonvarojen kulut saavat 80% alennuksen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
+			<Text>Tämä kaupunki saa [ICON_Production] tuotannon kaikista läheisistä teollisuusalueiden alueellisten etujen rakennuksista, eikä ainoastaan yhdestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
+			<Text>Kaupungin ruutuihin voidaan rakentaa kalastamoja. +1 [ICON_Food] ruokaa ja +1 [ICON_Food] ruokaa viereisestä meriluonnonvarasta. Kalastamot antavat +1 [ICON_PRODUCTION] tuottavuutta kun Liang on kaupungissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
+			<Text>Erityinen kaupunginpuisto voidaan rakentaa kaupunkiin. +1 [ICON_Culture] kulttuuria ja +2 houkuttelevuutta. +1 [ICON_Amenities] elintasoa jos veden äärellä. Kaupunginpuistot antavat +3 [ICON_CULTURE] kulttuuria kun Liang on kaupungissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
+			<Text>+1 [ICON_CULTURE] kulttuuria vuorossa kultakin kaupungin [ICON_Citizen] asukkaalta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
+			<Text>+1 [ICON_SCIENCE] tiedettä vuorossa kultakin kaupungin [ICON_Citizen] asukkaalta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
+			<Text>Vauhdittaa kaupungin uusien ruutujen hankintaa. +3 [ICON_Gold] kultaa vuorossa jokaisesta kaupungin läpi kulkevasta ulkomaisesta [ICON_TradeRoute] kauppareitistä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
+			<Text>Lähiseutujen kastiliaanista [ICON_Governor] käskynhaltijasta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
+			<Text>[ICON_Governor] Käskynhaltija {1_GovernorName} on asettumassa kaupunkiin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EMERGENCY_PARTICIPANTS">
+			<Text>HÄTÄTILAN JÄSENET:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
+			<Text>Mikäli aika loppuu ennen kuin jäsenet saavuttavat tavoitteensa:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PANEL_HAS_VISIER">
+			<Text>Osmanien suurvisiiri on asettunut tähän kaupunkivaltioon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on vesiviljelyn ylennys. +1 [ICON_Food] ruokaa ja +1 [ICON_Food] ruokaa lisää viereisestä meriluonnonvarasta. +1 [ICON_PRODUCTION] tuottavuutta kun kaupungissa on käskynhaltija, jolla on vesiviljelyn ylennys. Tulee rakentaa rannikkoruutuun.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

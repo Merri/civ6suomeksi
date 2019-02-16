@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] kultaa jokaiselle torille ja majakalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] kultaa jokaiselle pankille ja telakalle.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

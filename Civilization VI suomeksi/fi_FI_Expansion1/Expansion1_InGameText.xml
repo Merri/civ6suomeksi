@@ -1831,5 +1831,27 @@
 		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_GOVERNORTITLES_NAME">
 			<Text>Käskynhaltijoiden virkoja</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_FILTER_DARK">
+			<Text>Synkät</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_NAME">
+			<Text>Kalastamo|kalastamo|kalastamon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on vesiviljelyn ylennys. +1 [ICON_Food] ruokaa ja +1 [ICON_Food] ruokaa lisää viereisestä meriluonnonvarasta. Tulee rakentaa rannikkoruutuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
+			<Text>Kaupunkipuisto|kaupunkipuisto|kaupunkipuiston</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on puistojen ja vapaa-ajan ylennys. +1 [ICON_Culture] kulttuuria ja +2 houkuttelevuutta. +1 [ICON_Amenities] elintasoa mikäli veden vieressä. Ei voi rakentaa toisen kaupunkipuiston viereen.</Text>
+		</Replace>
+		<!-- MISC -->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NOT_ABLE_TO_DECLARE_SURPRISE_WAR">
+			<Text>Emme voi julistaa yllätyssotia; tähän sisältyy sodanjulistus kaupunkivaltiolle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
+			<Text>Pyhän paikan omaavat kaupunkimme puskevat painetta kuten pyhät kaupungit (nelinkertainen uskonnon paine kaikkiin kymmenen ruudun sisällä oleviin kaupunkeihin).</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
