@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civ Info-->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
+			<Text>Australia|Australian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
+			<Text>Toisen puoliskon maa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
+			<Text>Rantakaupungit saavat +3 [ICON_Housing] asumuksia. Laitumet aiheuttavat kulttuuripommin. Kampukset, kaupalliset keskukset, pyhät paikat ja teatteriaukiot saavat tuottoihinsa +1 ollessaan houkuttelevuudeltaan viehättävässä ruudussa ja +3 henkeäsalpaavissa ruuduissa.</Text>
+		</Replace>
+		<!-- Improvement Info-->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
+			<Text>Sisämaan laidun|sisämaan laidun|sisämaan laitumen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
+			<Text>Antaa rakentajille kyvyn rakentaa sisämaan laitumia, joka on Australialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ruokaa ja +1 [ICON_PRODUCTION] tuottavuutta. +1 [ICON_Food] ruokaa viereisistä laitumista. Viereisistä sisämaan laitumista ja laitumista saa lisää [ICON_FOOD] ruokaa ja [ICON_PRODUCTION] tuottavuutta edettäessä tekniikassa ja normeissa. Voi rakentaa ainoastaan aavikolle, aavikon mäelle, ruohikolle ja tasangolle.</Text>
+		</Replace>
+		<!-- Leader Info-->
+		<Replace Language="en_US" Tag="LOC_LEADER_JOHN_CURTIN_NAME">
+			<Text>John Curtin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN">
+			<Text>Pääministeri Curtin, johdatte Australian haasteesta toiseen ja kansanne vahvistuu niistä. Muut hakeutuvat ystäväksenne vahvuutenne edessä. Jos nämä ystävät osoittautuvat uskollisiksi tulee mahtinne ja suojeluksenne kantamaan teidät pitkälle. Mutta olkaa alati valpas, sillä hyökkääväisyys ei ole teille luontaista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME">
+			<Text>Sivilisaation linnoitus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION">
+			<Text>+100% [ICON_Production] tuottavuutta mikäli meitä vastaan on julistettu sota edellisten 10 vuoron aikana tai mikäli olemme vapauttaneet kaupungin edellisten 20 vuoron aikana.</Text>
+		</Replace>
+		<!-- Unit Info-->
+		<Replace Language="en_US" Tag="LOC_UNIT_DIGGER_NAME">
+			<Text>Diggeri|diggeri|diggerin|diggeriksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_DIGGER_DESCRIPTION">
+			<Text>Australian oma modernin ajan yksikkö, joka korvaa rynnäkkökiväärin. +10 [ICON_Strength] taisteluvoimakkuutta rannikon ruuduissa. +5 [ICON_Strength] taisteluvoimakkuutta puolueettomilla mailla ja ulkomailla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGGER_NAME">
+			<Text>Kaivaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta rannikon ruuduissa. +5 [ICON_Strength] taisteluvoimakkuutta puolueettomilla mailla ja ulkomailla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuutta rannikon ruuduissa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} taisteluvoimakkuutta ystävällisten maiden ulkopuolella</Text>
+		</Replace>
+		<!-- XP2-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION">
+			<Text>+100% [ICON_PRODUCTION] tuottavuutta 10 vuoron sisällä sodanjulistuksesta ja 20 vuoron sisällä kaupungin vapauttamisesta.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

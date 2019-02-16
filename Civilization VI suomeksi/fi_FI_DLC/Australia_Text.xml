@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civ Info-->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION">
+			<Text>Australian valtakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE">
+			<Text>Australian</Text>
+		</Replace>
+		<!-- Leader Agenda-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME">
+			<Text>Alati valpas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION">
+			<Text>Pitää kansoista, jotka vapauttavat kaupunkeja. Ei pidä sotivista kansoista, jotka miehittävät vihollistensa kaupunkeja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AUSTRALIA_LOCATION">
+			<Text>Australian manner</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AUSTRALIA_SIZE">
+			<Text>Noin 7,7 miljoonaa neliökilometriä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AUSTRALIA_POPULATION">
+			<Text>Noin 24 miljoonaa (2017 arvio)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVINFO_AUSTRALIA_CAPITAL">
+			<Text>Melbourne, nykyisin Canberra</Text>
+		</Replace>
+		<!-- City Names -->
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CANBERRA">
+			<Text>Canberra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_SYDNEY">
+			<Text>Sydney</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MELBOURNE">
+			<Text>Melbourne</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BRISBANE">
+			<Text>Brisbane</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ADELAIDE">
+			<Text>Adelaide</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PERTH">
+			<Text>Perth</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HOBART">
+			<Text>Hobart</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GEELONG">
+			<Text>Geelong</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LAUNCESTON">
+			<Text>Launceston </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BALLAARAT">
+			<Text>Ballaarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ROCKHAMPTON">
+			<Text>Rockhampton</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOOWOOMBA">
+			<Text>Toowoomba</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TOWNSVILLE">
+			<Text>Townsville</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BENDIGO">
+			<Text>Bendigo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BROKEN_HILL">
+			<Text>Broken Hill</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MAITLAND">
+			<Text>Maitland</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WOLLONGONG">
+			<Text>Wollongong</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_CAIRNS">
+			<Text>Cairns</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_DARWIN">
+			<Text>Darwin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GOULBURN">
+			<Text>Goulburn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BUNDABERG">
+			<Text>Bundaberg</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_WAGGA_WAGGA">
+			<Text>Wagga Wagga</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LISMORE">
+			<Text>Lismore</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_LITHGOW">
+			<Text>Lithgow</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_MARYBOROUGH">
+			<Text>Maryborough</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALBURY">
+			<Text>Albury</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ORANGE">
+			<Text>Orange</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_FREMANTLE">
+			<Text>Fremantle</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_TWEED_HEADS">
+			<Text>Tweed Heads</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_COFFS_HARBOUR">
+			<Text>Coffs Harbour</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_HERVEY_BAY">
+			<Text>Hervey Bay</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_KALGOORLIE">
+			<Text>Kalgoorlie</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORT_MACQUARIE">
+			<Text>Port Macquarie</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_ALICE_SPRINGS">
+			<Text>Alice Springs</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BATHURST">
+			<Text>Bathurst</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_GLADSTONE">
+			<Text>Gladstone</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_QUEANBEYAN">
+			<Text>Queanbeyan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_PORT_PIRIE">
+			<Text>Port Pirie</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH">
+			<Text>Boomahnoomoonah</Text>
+		</Replace>
+		<!-- Citizen Names -->
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_1">
+			<Text>Anatjari</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_2">
+			<Text>Colebee</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_3">
+			<Text>Djalu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_4">
+			<Text>Gurumarra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_5">
+			<Text>Jarli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_6">
+			<Text>Mandawuy</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_7">
+			<Text>Toba</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_8">
+			<Text>Yarran</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_9">
+			<Text>Warrin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MALE_10">
+			<Text>Waku</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_1">
+			<Text>Bindi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_2">
+			<Text>Kalinda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_3">
+			<Text>Kirra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_4">
+			<Text>Ellin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_5">
+			<Text>Jedda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_6">
+			<Text>Lenah</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_7">
+			<Text>Marindah</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_8">
+			<Text>Parara</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_9">
+			<Text>Tatali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_10">
+			<Text>Wintjiya</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_1">
+			<Text>James</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_2">
+			<Text>Luke</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_3">
+			<Text>Jackson</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_4">
+			<Text>Cody</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_5">
+			<Text>Mitch</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_6">
+			<Text>Blake</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_7">
+			<Text>Hugo</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_8">
+			<Text>Brenden</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_9">
+			<Text>Jordan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_10">
+			<Text>Michael</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_1">
+			<Text>Nicole</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_2">
+			<Text>Olivia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_3">
+			<Text>Zoe</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_4">
+			<Text>Holly</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_5">
+			<Text>Paige</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_6">
+			<Text>Kathleen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_7">
+			<Text>Louisa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_8">
+			<Text>Michele</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_9">
+			<Text>Elizabeth</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_10">
+			<Text>Alicia</Text>
+		</Replace>
+		<!-- Feature Info-->
+		<Replace Language="en_US" Tag="LOC_FEATURE_ULURU_NAME">
+			<Text>Uluru</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_ULURU_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonihme. Tarjoaa +2 [ICON_CULTURE] kulttuuria ja +2 [ICON_FAITH] uskoa viereisille ruuduille. Tarjoaa +4 houkuttelevuutta viereisille ruuduille normaaliin +2 sijaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_ULURU_QUOTE">
+			<Text>"Millaisen maiseman tämä tarjoaakaan sadekaudella; vesiputouksia suuntaan kuin suuntaan!''[NEWLINE]– William Gosse</Text>
+		</Replace>
+		<!-- Trait Info-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_OUTBACK_STATION_NAME">
+			<Text>Australian oma rakenne: sisämaan laidun</Text>
+		</Replace>
+		<!-- Diplo Text -->
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Tunnustamme ilomielin vahvan ystävyyden kansojemme välillä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Toivomme että ymmärrätte, ettemme voi sitoutua virallisiin eleisiin nykyisissä olosuhteissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Uskon ystävyytemme rakentuvan yhteiseen tavoitteeseen ylläpitää vakautta ja suojella hädänalaisia. Toivon teidän olevan tästä yhtä mieltä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Arvostan kaikkea mitä olette tehneet.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Tämä ei ollut mieluisa käänne.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Jalkautamme jokaisen vastarinnan keinon pysäyttääksemme tämän rikkomuksen kansaamme kohtaan!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Perinpohjaisen pohdinnan päätteeksi Australia on löytänyt itsensä poikkitieltä. Olkaat valmiit, sillä sotatila on välillämme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Australia on ottanut lämpimästi vastaan pääkaupunkiimme lähettämänne valtuuskunnan. Tulen tapaamaan heidät henkilökohtaisesti keskustellakseni viimeisimmistä tavoitteistamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Kunnioittaen hylkään valtuuskuntanne.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Olemme lähettäneet valtuuskunnan maillenne ja heidän mukanaan on valikoima lihoja, joita maatilallisemme ovat tuottaneet. Toivon vilpittömin kiitoksin teidän ottavan heidät vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Herjauksenne Australiaa ja sen väkeä kohtaan tulee olemaan tiedoissa mailla ja mantuvilla kun heikentynyt kansanne murenee!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Moitittavat sananne ja toimenne joita olette esittäneet johtavat kansanne tietämättömyyden ja puutteiden tielle. (Tuomitsee meidät).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOHN_CURTIN_ANY">
+			<Text>Pääministerin asemassa minä, John Curtin, puhun Australian kansan puolesta. Toivomme löytävämme sympaattisia liittolaisia taistossa sotahaukkoja vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY">
+			<Text>Mikäli koette sen sopivaksi, toivon teidän vierailevan lähimmässä kaupungissamme. Kenties paahdetut makadamiapähkinät riittäisivät houkutukseksi?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY">
+			<Text>Toki.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY">
+			<Text>Mielestäni tiedon jakaminen, kenties tarinat pääkaupungeistamme, olisivat loistokas siunaus orastavalle ystävyydellemme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY">
+			<Text>Teitä on hyvä nähdä!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHN_CURTIN_ANY">
+			<Text>Kunnioitan pitkäjänteisyyttänne. Jaamme yhteisen kiinnostuksen suojella heitä, jotka eivät useinkaan ole kykeneviä suojelemaan itseään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHN_CURTIN_ANY">
+			<Text>Sota tuo ainoastaan menetettävää. Menetettyjä elämiä, menetettyä tuottavuutta, menetettyä ihmisyyttä - mikään ei ole sitä tärkeämpää!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Suonetteko liittoutua kanssamme?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOHN_CURTIN_ANY">
+			<Text>Toivomme hartaasti kestävän rauhan muotoutuvan välillemme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOHN_CURTIN_ANY">
+			<Text>Ei, tämä ei käy.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Maat jotka haluavat elää sopuisasti joutuvat maksamaan siitä hintansa. Meillä on tähän halua. Kysymys kuuluukin, onko teillä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Niin kauan kuin toimenne ovat hyväntahtoisuuden hengessä, ei meillä ole mitään tätä vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY">
+			<Text>Nykyisessä tilanteen ja Australian joukkojen sijoittumisen tähden olisi harkitsematonta hyväksyä tätä juuri nyt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Rauhan säilyttämiseksi voi olla tarpeellista päästää Australian joukot kulkemaan maidenne kautta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY">
+			<Text>Voinette kuvitella, miltä joukkojenne kokoontuminen rajojemme lähellä vaikuttaa? Oletan että kyseessä on erehdys.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Periaatteet joiden vuoksi olemme taistelleet tulevat kestämään pidempään kuin ainutkaan kansakunta, jonka puolesta toimitte.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Tämä on epämieluisa käänne.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY">
+			<Text>Siispä olemme sopineet!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ON_GUARD_LIBERATE">
+			<Text>John Curtin on hyvilläään, että vapautimme kaupungin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY">
+			<Text>John Curtinia nyppii se, että olemme miehittäneet viholliskaupunkeja</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
