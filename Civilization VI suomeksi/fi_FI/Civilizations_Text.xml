@@ -345,7 +345,7 @@
 			<Text>Nkisi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
-			<Text>+2 [ICON_Food] ruokaa, +2 [ICON_Production] tuotantoa ja +4 [ICON_Gold] kultaa kustakin [ICON_GreatWork_Relic] muinaisjäännöksestä, [ICON_GreatWork_Artifact] artefaktista ja [ICON_GreatWork_Sculpture] merkittävästä taideveistoksesta niiden normaalisti antaman [ICON_Culture] kulttuurin lisäksi. Merkittävien [ICON_GreatWriter] kirjailijoiden, [ICON_GreatArtist] taiteilijoiden, [ICON_GreatMusician] muusikoiden ja [ICON_GreatMerchant] kauppiaiden pisteet saavat 50% edun. Palatsissa on paikat viidelle merkkiteokselle.</Text>
+			<Text>+2 [ICON_Food] ruokaa, +2 [ICON_Production] tuotantoa ja +4 [ICON_Gold] kultaa kustakin [ICON_GreatWork_Relic] muinaismuistosta, [ICON_GreatWork_Artifact] artefaktista ja [ICON_GreatWork_Sculpture] merkittävästä taideveistoksesta niiden normaalisti antaman [ICON_Culture] kulttuurin lisäksi. Merkittävien [ICON_GreatWriter] kirjailijoiden, [ICON_GreatArtist] taiteilijoiden, [ICON_GreatMusician] muusikoiden ja [ICON_GreatMerchant] kauppiaiden pisteet saavat 50% edun. Palatsissa on paikat viidelle merkkiteokselle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
 			<Text>Aarrelaivasto</Text>

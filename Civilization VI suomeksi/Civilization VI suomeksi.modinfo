@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="15">
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="16">
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -10,17 +10,37 @@
 		<CompatibleVersions>2.0</CompatibleVersions>
 	</Properties>
 	<ActionCriteria>
-		<!-- enable detection of Rise & Fall expansion by a criteria -->
+		<!-- Expansion: Rise & Fall -->
 		<Criteria id="Expansion1">
 			<GameCoreInUse>Expansion1</GameCoreInUse>
 		</Criteria>
-		<!-- enable detection of Gathering Storm expansion by a criteria -->
+		<!-- Expansion: Gathering Storm -->
 		<Criteria id="Expansion2">
 			<GameCoreInUse>Expansion2</GameCoreInUse>
 		</Criteria>
 		<!-- DLC: Australia -->
 		<Criteria id="Australia" any="1">
 			<LeaderPlayable>Players:StandardPlayers::LEADER_JOHN_CURTIN,StandardPlayers::LEADER_JOHN_CURTIN,Players:Expansion1_Players::LEADER_JOHN_CURTIN,Players:Expansion2_Players::LEADER_JOHN_CURTIN</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Indonesia & Khmer -->
+		<Criteria id="IndonesiaKhmer" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_GITARJA,Players:StandardPlayers::LEADER_JAYAVARMAN,StandardPlayers::LEADER_GITARJA,StandardPlayers::LEADER_JAYAVARMAN,Players:Expansion1_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN,Players:Expansion2_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Macedonia & Persia -->
+		<Criteria id="MacedoniaPersia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_ALEXANDER,Players:StandardPlayers::LEADER_CYRUS,StandardPlayers::LEADER_ALEXANDER,StandardPlayers::LEADER_CYRUS,Players:Expansion1_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS,Players:Expansion2_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Nubia -->
+		<Criteria id="Nubia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_AMANITORE,StandardPlayers::LEADER_AMANITORE,Players:Expansion1_Players::LEADER_AMANITORE,Players:Expansion2_Players::LEADER_AMANITORE</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Poland -->
+		<Criteria id="PolandJadwiga" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_JADWIGA,StandardPlayers::LEADER_JADWIGA,Players:Expansion1_Players::LEADER_JADWIGA,Players:Expansion2_Players::LEADER_JADWIGA</LeaderPlayable>
 			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
 		</Criteria>
 	</ActionCriteria>
@@ -128,6 +148,22 @@
 			<File>fi_FI_DLC/Australia_ConfigText.xml</File>
 			<File>fi_FI_DLC/Australia_Text.xml</File>
 		</UpdateText>
+		<!-- DLC: Indonesia & Khmer -->
+		<UpdateText id="IndonediaKhmerTextFinnish" criteria="IndonesiaKhmer">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>fi_FI_DLC/Indonesia_Khmer_ConfigText.xml</File>
+			<File>fi_FI_DLC/Indonesia_Khmer_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Macedonia & Persia -->
+		<UpdateText id="MacedoniaPersiaTextFinnish" criteria="MacedoniaPersia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>fi_FI_DLC/Macedonia_Persia_ConfigText.xml</File>
+			<File>fi_FI_DLC/Macedonia_Persia_Text.xml</File>
+		</UpdateText>
 	</FrontEndActions>
 	<!-- these are loaded when starting to play a game -->
 	<InGameActions>
@@ -226,6 +262,22 @@
 			<File>fi_FI_DLC/Australia_ConfigText.xml</File>
 			<File>fi_FI_DLC/Australia_Text.xml</File>
 		</UpdateText>
+		<!-- DLC: Indonesia & Khmer -->
+		<UpdateText id="IndonediaKhmerTextFinnish" criteria="IndonesiaKhmer">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>fi_FI_DLC/Indonesia_Khmer_ConfigText.xml</File>
+			<File>fi_FI_DLC/Indonesia_Khmer_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Macedonia & Persia -->
+		<UpdateText id="MacedoniaPersiaTextFinnish" criteria="MacedoniaPersia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>fi_FI_DLC/Macedonia_Persia_ConfigText.xml</File>
+			<File>fi_FI_DLC/Macedonia_Persia_Text.xml</File>
+		</UpdateText>
 	</InGameActions>
 	<LocalizedText>
 		<Text id="LOC_MOD_TITLE">
@@ -235,7 +287,7 @@
 			<en_US>Finnish Language Pack</en_US>
 		</Text>
 		<Text id="LOC_MOD_DESCRIPTION">
-			<en_US>This language pack providers the glorious Finnish language to the game.</en_US>
+			<en_US>This is Finnish so this must be good.</en_US>
 		</Text>
 		<Text id="LOC_MOD_AUTHORS">
 			<en_US>Vesa Piittinen</en_US>
@@ -307,5 +359,9 @@
 		<!-- DLC -->
 		<File>fi_FI_DLC/Australia_ConfigText.xml</File>
 		<File>fi_FI_DLC/Australia_Text.xml</File>
+		<File>fi_FI_DLC/Indonesia_Khmer_ConfigText.xml</File>
+		<File>fi_FI_DLC/Indonesia_Khmer_Text.xml</File>
+		<File>fi_FI_DLC/Macedonia_Persia_ConfigText.xml</File>
+		<File>fi_FI_DLC/Macedonia_Persia_Text.xml</File>
 	</Files>
 </Mod>

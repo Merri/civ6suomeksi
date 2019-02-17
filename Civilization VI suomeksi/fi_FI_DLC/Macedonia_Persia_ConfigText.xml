@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Civ Info-->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MACEDON_NAME">
+			<Text>Makedonia|makedonialaisten</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
+			<Text>Helleenien sulautuminen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION">
+			<Text>Tehostus kaupungin valtauksessa: [ICON_TechBoosted] heureka jokaisesta vallatun kaupungin varuskunnasta ja kampuksesta, sekä [ICON_CivicBoosted] inspiraatio jokaisesta pyhästä paikasta ja teatteriaukiosta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PERSIA_NAME">
+			<Text>Persia|persialaisten</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME">
+			<Text>Satraapit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] kauppareittien kapasiteettiin poliittisen filosofian myötä. Omien kaupunkien väliset kauppareitit antavat +2 [ICON_Gold] kultaa ja +1 [ICON_Culture] kulttuuria. Maillamme olevat tiet ovat yhtä tasoa kehittyneempiä kuin muutoin.</Text>
+		</Replace>
+		<!-- Leader Info-->
+		<Replace Language="en_US" Tag="LOC_LEADER_ALEXANDER_NAME">
+			<Text>Aleksanteri</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
+			<Text>Maailman laidalle</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
+			<Text>Kaupungit eivät aiheuta sodaväsymystä. Kaikki sotayksiköt parantuvat täysin pelaajan kaapatessa kaupungin, josta löytyy maailmanihme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_CYRUS_NAME">
+			<Text>Kyyros</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME">
+			<Text>Babylonin tuho</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION">
+			<Text>+2 [ICON_Movement] liikkuvuutta ensimmäisten 10 vuoron sisällä yllätyssodan julistamisesta toiselle suurelle kansakunnalle. Ei haittoja tuotoille miehitetyissä kaupungeissa. Yllätyssodan julistaminen lasketaan ainoastaan muodollisen sodan tasoiseksi sodanlietsonnan ja sotaväsymyksen osalta.</Text>
+		</Replace>
+		<!-- Building Info-->
+		<Replace Language="en_US" Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME">
+			<Text>Basilikoì paîdes|basilikoì paîdes|basilikoì paîdesin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION">
+			<Text>Makedonian oma rakennus. +25% taisteluvoimakkuutta kaikille tässä kaupungissa valmistuville melee-, heittoase- ja heitaroi-yksiköille. Tämä kaupunki antaa [ICON_SCIENCE] tiedettä vastaten 25% yksikön koulutuskustannuksista kun muu kuin siviiliyksikkö valmistuu kaupungissa.[NEWLINE][NEWLINE]Ei voi rakentaa varuskuntaan, josta löytyy jo talli.</Text>
+		</Replace>
+		<!-- Improvement Info-->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
+			<Text>Pairidaēza|pairidaēza|pairidaēzan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
+			<Text>Antaa rakentajalle kyvyn rakentaa Persialle ominaisen pairidaēzan.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] kulttuuria ja +2 [ICON_GOLD] kultaa. +2 houkuttelevuutta. +1 [ICON_CULTURE] kulttuuria jokaisesta läheisestä pyhästä paikasta ja teatteriaukiosta. +1 [ICON_GOLD] kultaa jokaisesta läheisestä kaupallisesta keskuksesta ja kaupungin keskustasta. Lisää [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia edettäessä tekniikassa ja normeissa. Ei voi rakentaa lumelle, tundralle, lumimäelle tai toisen pairidaēzan viereen.</Text>
+		</Replace>
+		<!-- Unit Info-->
+		<Replace Language="en_US" Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME">
+			<Text>Hypaspist|hypaspist|hypaspistin|hypaspistiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME">
+			<Text>Hetairoi|hetairoi|hetairoin|hetairoiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
+			<Text>Kuolematon|kuolematon|kuolemattoman|kuolemattomaksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
+			<Text>Makedonian oma meleeyksikkö, joka korvaa miekkamiehen. +5 [ICON_Strength] taisteluvoimakkuutta saarrettaessa kaupunkialuetta. 50% ylimääräinen tukietu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
+			<Text>Makedonian oma raskas ratsuyksikkö, joka korvaa hevosmiehen. Ylimääräinen +5 [ICON_Strength] taisteluvoimakkuutta merkittävän kenraalin lähellä. +5 merkittävän kenraalin pistettä tuhottaessa vihollisyksikkö. Aloittaa ilmaisella ylennyksellä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
+			<Text>Persian oma meleeyksikkö, joka korvaa miekkamiehen. Meleeluokan yksikkö, jolla on etähyökkäys, [ICON_Range] kantama 2. Vahva puolustus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION">
+			<Text>+5 saarrettaessa kaupunkialuetta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 taisteluvoimakkuutta merkittävästä kenraalista</Text>
+		</Replace>
+		<!-- Expansion 1 -->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
+			<Text>+2 [ICON_Movement] liikkuvuutta ensimmäisten 10 vuoron sisällä yllätyssodan julistamisesta toiselle suurelle kansakunnalle. +5 uskollisuutta vuorossa miehitetyissä kaupungeissa, joissa on yksikkö. Yllätyssodan julistaminen lasketaan ainoastaan muodollisen sodan tasoiseksi sodanlietsonnan ja sotaväsymyksen osalta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
+			<Text>Tehostus muun kuin vapaan kaupungin valtauksessa: [ICON_TechBoosted] heureka jokaisesta vallatun kaupungin varuskunnasta ja kampuksesta, sekä [ICON_CivicBoosted] inspiraatio jokaisesta pyhästä paikasta ja teatteriaukiosta.</Text>
+		</Replace>
+		<!-- Expansion 2 -->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_Movement] liikkuvuutta ensimmäisten 10 vuoron sisällä yllätyssodan julistamisesta toiselle suurelle kansakunnalle. +5 uskollisuutta vuorossa miehitetyissä kaupungeissa, joissa on yksikkö. Yllätyssodan julistaminen lasketaan ainoastaan muodollisen sodan tasoiseksi [ICON_STAT_GRIEVANCE] kaunojen ja sodanlietsonnan osalta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
+			<Text>Makedonian oma rakennus. +25% taisteluvoimakkuutta kaikille tässä kaupungissa valmistuville melee-, heittoase- ja heitaroi-yksiköille. Tämä kaupunki antaa [ICON_SCIENCE] tiedettä vastaten 25% yksikön koulutuskustannuksista kun muu kuin siviiliyksikkö valmistuu kaupungissa.[NEWLINE][NEWLINE]Strategisten luonnonvarojen varastot kasvavat +10:llä.[NEWLINE][NEWLINE]Ei voi rakentaa varuskuntaan, josta löytyy jo talli.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
