@@ -3,7 +3,7 @@
 	<LocalizedText>
 		<!-- Civ Info-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
-			<Text>Australia|Australian</Text>
+			<Text>Australia|australialaisten</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
 			<Text>Toisen puoliskon maa</Text>

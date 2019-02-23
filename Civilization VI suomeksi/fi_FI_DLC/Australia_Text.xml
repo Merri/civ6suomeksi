@@ -3,7 +3,7 @@
 	<LocalizedText>
 		<!-- Civ Info-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION">
-			<Text>Australian valtakunta</Text>
+			<Text>Australian valtakunta|Australian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE">
 			<Text>Australian</Text>

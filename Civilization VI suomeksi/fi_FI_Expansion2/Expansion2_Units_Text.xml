@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_UNIT_SKIRMISHER_NAME">
+			<Text>Tukiryhmä|tukiryhmä|tukiryhmän|tukiryhmäksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SKIRMISHER_DESCRIPTION">
+			<Text>Keskiajan tiedusteluyksikkö.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_COURSER_NAME">
+			<Text>Taisteluratsu|taisteluratsu|taisteluratsun|taisteluratsuksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_COURSER_DESCRIPTION">
+			<Text>Keskiajan kevyt ratsuyksikkö.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_CUIRASSIER_NAME">
+			<Text>Kyrassieeri|kyrassieeri|kyrassieerin|kyrassieeriksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+			<Text>Teollisen ajan raskas ratsuyksikkö.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GIANT_DEATH_ROBOT_NAME">
+			<Text>Kuolonrobotti|kuolonrobotti|kuolonrobotin|kuolonrobotiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_GIANT_DEATH_ROBOT_DESCRIPTION">
+			<Text>Informaatioajan tehopakkaus. Kykenee liikkumaan ja taistelemaan vedessä. Kyvyt kohentuvat kehittämällä tulevaisuuden tekniikoita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+			<Text>Keskiajan tukiyksikkö. Kouluttaminen vaatii asevaraston. Kykenee rakentamaan teitä, rautateitä, linnakkeita, kiitoratoja, ohjussiiloja ja vuoritunneleita. Yksi työstö voidaan myös käyttää valmistuttamaan 20% osuus kanaalista tai padosta.</Text>
+		</Replace>
+		<!--Rock Band Text-->
+		<Replace Language="en_US" Tag="LOC_UNIT_ROCK_BAND_NAME">
+			<Text>Rokkibändi|rokkibändi|rokkibändin|rokkibändiksi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ROCK_BAND_DESCRIPTION">
+			<Text>Kykenee esittämään rokkikonsertin soveltuvalla sijainnilla. Näitä ovat ihmeet, kaupunkialueet joilta löytyy soveltuva rakennus tai erityisessä sijainnissa, jonka mahdollistaa bändin ylennys. Myydyt albumit edustavat seuraavan konsertin odotetta [ICON_TOURISM] turismia seuraavasta konsertista. Konsertin jälkeen albumien myynti ja taso rokkibändinä saattavat kasvaa. Tulee ostaa [ICON_Faith] uskolla. Voi esiintyä vain kerran per ruutu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RESULT_LEGENDS_OF_ROCK_NAME">
+			<Text>Rokin legendoja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RESULT_HEADLINERS_NAME">
+			<Text>Kansikuva-ainesta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RESULT_RISING_STARS_NAME">
+			<Text>Nousevia tähtiä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RESULT_OPENING_ACT_NAME">
+			<Text>Alkusoitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RESULT_CREATIVE_DIFFERENCES_NAME">
+			<Text>Taiteellisia ristiriitoja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RESULT_AGING_ROCKERS_NAME">
+			<Text>Kulahtaneita rokkareita</Text>
+		</Replace>
+		<!--Updated Text-->
+		<Replace Language="en_US" Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION">
+			<Text>Kykenee heikentämään muiden uskontojen vaikutusta 75% ja käymään uskontaistoja muiden uskontojen yksiköiden kanssa.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

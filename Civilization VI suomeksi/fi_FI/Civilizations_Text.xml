@@ -647,13 +647,13 @@
 			<Text>Kreikkalaisten oma kaupunkialue: Akropolis</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
-			<Text>Kereikkalaisten oma yksikkö: Hopliitti</Text>
+			<Text>Kreikkalaisten oma yksikkö: Hopliitti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
 			<Text>Intialaisten oma rakenne: Porraskaivo</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
-			<Text>Japanilaisten oma rakennus: elektroniikkatehdas</Text>
+			<Text>Japanilaisten oma rakennus: Elektroniikkatehdas</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
 			<Text>Japanilaisten oma yksikkö: Samurai</Text>
