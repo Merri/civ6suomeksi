@@ -2,7 +2,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="en_US" Tag="LOC_EXPANSION2_NAME">
-			<Text>Lisäosa: Kehkeytyvä myrsky</Text>
+			<Text>Laajennos: Kehkeytyvä myrsky</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_EXPANSION2_DESCRIPTION">
 			<Text>Tämä peli käyttää lisäosaa Kehkeytyvä myrsky, joka sisältää maailmankongressin, ympäristön vaikutukset ja luonnonkatastrofit, sähkövirran sekä muuta. Kykenetkö hallitsemaan muuttuvan maailman yllättävyydet luoden sivilisaation, joka kestää ajasta iäisyyteen?</Text>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="17">
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="18">
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -141,6 +141,7 @@
 			<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		</UpdateText>
 		<!-- DLC: Australia -->
 		<UpdateText id="AustraliaTextFinnish" criteria="Australia">
@@ -257,6 +258,7 @@
 			<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		</UpdateText>
 		<!-- DLC: Australia -->
 		<UpdateText id="AustraliaTextFinnish" criteria="Australia">
@@ -362,6 +364,7 @@
 		<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
+		<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		<!-- DLC -->
 		<File>fi_FI_DLC/Australia_ConfigText.xml</File>
 		<File>fi_FI_DLC/Australia_Text.xml</File>

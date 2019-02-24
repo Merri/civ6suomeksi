@@ -299,7 +299,7 @@
 			<Text>+10% tuottavuutta kohden ihmeitä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY_XP1">
-			<Text>+20% yksiköiden kokemusta.</Text>
+			<Text>+20% kokemusta yksiköille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP_XP1">
 			<Text>+15% merkittävien henkilöiden pisteitä.</Text>
