@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Replace Language="en_US" Tag="LOC_HUD_CITY_RELIGION_TT">
+            <Text>Valtauskonto: {1_ReligionName}</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BELONGS_TT">
+            <Text>Kaupunki on {1_CivName[2]} hallinnassa</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BELONGS_FREECITY_TT">
+            <Text>Kaupunki on vapaiden kaupunkien hallussa</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_TT">
+            <Text>{1_CityName} ({2_CivName[2]})</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_NO_ID">
+            <Text>Tiedustelumme tietää [ICON_Governor] käskynhaltijan asettuneen tähän kaupunkiin, mutta meillä ei ole tietoa siitä kuka hän on tai suorittaako hän virkaansa</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_HUD_CITY_GOVERNOR_NO_TURNS">
+            <Text>[ICON_Governor] {1_GovernorName} on tiedustelumme mukaan asettunut tähän kaupunkiin, mutta emme tiedä suorittaako hän virkaansa</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_ACTIVE_TRADING">
+            <Text>Omistamme kauppapaikan täällä</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_INACTIVE_TRADING">
+            <Text>Omistamme kauppapaikan täällä, mutta se on pois toiminnasta sodan vuoksi</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CAN_STRIKE">
+            <Text>Kaupunki kykenee tulittamaan</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_FORTIFICATION_TT">
+            <Text>Kaupungilla on heikko puolustus</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_WALLED_FORTIFICATION_TT">
+            <Text>Muuri suojelee kaupunkia</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_ORIGINAL_CAPITAL_TT">
+            <Text>Tämä on {1_Owner[2]} alkuperäinen pääkaupunki</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_NEW_CAPITAL_TT">
+            <Text>Tämä on {1_Owner[2]} uusi pääkaupunki</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CAPTURED_CAPITAL_TT">
+            <Text>Tämä on {1_OriginalOwner[2]} alkuperäinen pääkaupunki (vallattu)</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_OTHER_CITY_TT">
+            <Text>Tämä on {1_Owner[2]} kaupunki</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_CITY_STATE_TT">
+            <Text>Kaupunkivaltio</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_CITY_BANNER_FREE_CITY_TT">
+            <Text>Vapaa kaupunki</Text>
+        </Replace>
+    </LocalizedText>
+</GameData>

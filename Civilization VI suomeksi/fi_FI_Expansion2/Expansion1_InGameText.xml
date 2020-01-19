@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
+			<Text>15% alennus ostoihin [ICON_Gold] kullalla.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
 			<Text>Kasvattaa kaupungin puolustuksen [ICON_Strength] taisteluvoimakkuutta (+5). Asettuu kaupunkiin kolmessa vuorossa.</Text>
 		</Replace>
@@ -49,6 +52,12 @@
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
 			<Text>Vauhdittaa kaupungin uusien ruutujen hankintaa. +3 [ICON_Gold] kultaa vuorossa jokaisesta kaupungin läpi kulkevasta ulkomaisesta [ICON_TradeRoute] kauppareitistä.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
+			<Text>+3 [ICON_Strength] taisteluvoimakkuutta (Tšingis-kaani).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
+			<Text>Kyky kaapata voitetut ratsuyksiköt (Tšingis-kaani).</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
 			<Text>Lähiseutujen kastiliaanista [ICON_Governor] käskynhaltijasta</Text>
 		</Replace>
@@ -64,8 +73,17 @@
 		<Replace Language="en_US" Tag="LOC_CITY_STATE_PANEL_HAS_VISIER">
 			<Text>Osmanien suurvisiiri on asettunut tähän kaupunkivaltioon</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_INHERENT_BONUS">
+			<Text>Ominainen etu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
+			<Text>Ominainen etu</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
-			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on vesiviljelyn ylennys. +1 [ICON_Food] ruokaa ja +1 [ICON_Food] ruokaa lisää viereisestä meriluonnonvarasta. +1 [ICON_PRODUCTION] tuottavuutta kun kaupungissa on käskynhaltija, jolla on vesiviljelyn ylennys. Tulee rakentaa rannikkoruutuun.</Text>
+			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on vesiviljelyn ylennys. +0.5 [ICON_Housing] asumusta, +1 [ICON_Food] ruokaa ja +1 [ICON_Food] ruokaa lisää viereisestä meriluonnonvarasta. +1 [ICON_PRODUCTION] tuottavuutta kun kaupungissa on käskynhaltija, jolla on vesiviljelyn ylennys. Tulee rakentaa rannikkoruutuun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on puistojen ja vapaa-ajan ylennys. +1 [ICON_Culture] kulttuuria ja +2 houkuttelevuutta. +1 [ICON_Amenities] elintasoa mikäli veden vieressä. +3 [ICON_CULTURE] kulttuuria kun kaupungissa on käskynhaltija, jolla on puistojen ja vapaa-ajan ylennys. Ei voi rakentaa toisen kaupunginpuiston viereen.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

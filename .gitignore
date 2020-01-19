@@ -21,6 +21,7 @@
 !/Civilization VI suomeksi/fi_FI/Expansion1_PackageText.xml
 !/Civilization VI suomeksi/fi_FI/FeaturesAndTerrains_Text.xml
 !/Civilization VI suomeksi/fi_FI/FrontEndText.xml
+!/Civilization VI suomeksi/fi_FI/Improvements_Text.xml
 !/Civilization VI suomeksi/fi_FI/Indonesia_Khmer_PackageText.xml
 !/Civilization VI suomeksi/fi_FI/InGameText.xml
 !/Civilization VI suomeksi/fi_FI/Leaders_Text.xml
@@ -47,6 +48,7 @@
 !/Civilization VI suomeksi/fi_FI/WorldBuilder_Text.xml
 
 /Civilization VI suomeksi/fi_FI_Expansion1/*
+!/Civilization VI suomeksi/fi_FI_Expansion1/Expansion1_CityBanner_Text.xml
 !/Civilization VI suomeksi/fi_FI_Expansion1/Expansion1_ConfigText.xml
 !/Civilization VI suomeksi/fi_FI_Expansion1/Expansion1_Districts_Text.xml
 !/Civilization VI suomeksi/fi_FI_Expansion1/Expansion1_Eras_Text.xml

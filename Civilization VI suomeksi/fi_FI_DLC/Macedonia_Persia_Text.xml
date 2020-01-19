@@ -660,7 +660,7 @@
 			<Text>Vain pelko ja tietämättömyys voi johtaa moiseen julistukseen hyväntahtoista Persian hallintoa vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CYRUS_ANY">
-			<Text>Tuomitsemme kaiken mitä edustatte! Persia löytää keinot päästä irti teistä ja tavoistanne. (Tuomitsee meidät).</Text>
+			<Text>Tuomitsemme kaiken mitä edustatte! Persia kyllä löytää keinot päästä eroon teistä ja tavoistanne. (Tuomitsee meidät).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_CYRUS_ANY">
 			<Text>Seisotte Persian suuren Kyyroksen edessä. Uskon meistä tulevan ystävät mitä pikimmiten, ainakin joksikin aikaa.</Text>

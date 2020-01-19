@@ -71,7 +71,7 @@
 			<Text>Päivittää maatilat käyttämään koneellista maataloutta. +1 [ICON_Food] ruuan läheisyysetua maatiloille jokaisesta viereisestä maatilasta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_STEEL_DESCRIPTION">
-			<Text>+1 [ICON_Production] tuotantoa sahoista. Mahdollistaa kaupunkipuolustukset, joka antaa kaikille kaupungeille 200 linnoitusvoimakkuutta sekä kyvyn tulittaa. Kaikki aiemmat muurit vanhenevat ja piirittämisen tukiyksiköt ovat hyödyttömiä.</Text>
+			<Text>+1 [ICON_Production] tuotantoa sahoista. Mahdollistaa asutuskeskusten suojat, jotka antavat kaikille kaupungeille 400 linnoitusvoimakkuutta sekä kyvyn tulittaa. Kaikki aiemmat muurit vanhenevat ja piirittämisen tukiyksiköt ovat hyödyttömiä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
 			<Text>+1 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>

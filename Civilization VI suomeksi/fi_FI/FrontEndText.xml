@@ -61,6 +61,9 @@
 		<Replace Language="en_US" Tag="LOC_LOAD_MAP">
 			<Text>Lataa kartta</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_LOAD_TILED">
+			<Text>Tuo kartta editorista</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_OPEN_DIRECTORY">
 			<Text>Avaa</Text>
 		</Replace>
@@ -72,6 +75,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MODS">
 			<Text>Modit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MODS_AND_DLC">
+			<Text>Modit ja DLC:t</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MODS_AND_DLC_TT">
+			<Text>Peliä laajentavat modit ja ladattava sisältö.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAIN_MENU_MY2K_LOGIN">
 			<Text>My2K-kirjautuminen</Text>
@@ -626,6 +635,9 @@
 		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
 			<Text>Yhdistetään pelaajiin...</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_MATCHMAKING">
+			<Text>Etsitään peliä...</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MP_ROOM_FULL">
 			<Text>Liittyminen ei onnistu: pelissä on jo suurin sallittu määrä pelaajia.</Text>
 		</Replace>
@@ -754,6 +766,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
 			<Text>Peli alkaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_COUNTDOWN_FORMAT">
+			<Text>Valmistaudu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
 			<Text>Pelaaja</Text>
@@ -1028,10 +1043,46 @@
 			<Text>Lisää tekoälypelaajan peliin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SETUP_RESTORE_DEFAULT">
-			<Text>Palauta oletukset</Text>
+			<Text>Palauta oletus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
 			<Text>Palauttaa kaikki asetukset oletusarvoihinsa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_MAP_SELECT">
+			<Text>Kartan valinta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
+			<Text>Luo peli - valitse kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_SELECT_MAP">
+			<Text>Valitse kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_OFFICIAL_MAPS">
+			<Text>Viralliset kartat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_FIRAXIS_MAPS">
+			<Text>Firaxisin kartat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_FIRAXIS_MAPS_TOOLTIP">
+			<Text>Näytä ainoastaan Firaxisin viralliset kartat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS">
+			<Text>Maailmanrakentajan kartat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS_TOOLTIP">
+			<Text>Näytä ainoastaan maailmanrakentajan kartat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_ALL_MAPS">
+			<Text>Kaikki kartat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_ALL_MAPS_TOOLTIP">
+			<Text>Näytä kaikki kartat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_MAP_INFO">
+			<Text>Kartan tiedot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MAP_SELECTED_MAP">
+			<Text>Valittu kartta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_START_GAME">
 			<Text>Aloita peli</Text>
@@ -1044,6 +1095,18 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_LOAD">
 			<Text>Lataa kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_IMPORT">
+			<Text>Tuo kartta editorista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_START_NEW_TOOLTIP">
+			<Text>Luo uuden tyhjän tai generoidun maailmanrakentajan kartan muokattavaksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_LOAD_TOOLTIP">
+			<Text>Lataa aiemmin tallennetun maailmanrakentajan kartan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_IMPORT_TOOLTIP">
+			<Text>Muuntaa oikein muotoillun .TMX-tiedoston maailmanrakentajan kartaksi.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_RANDOM_LEADER">
 			<Text>Satunnainen hallitsija</Text>
@@ -1217,6 +1280,9 @@
 		<Replace Language="en_US" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
 			<Text>Määritellyt aloituspaikat</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_MIRRORED_NAME">
+			<Text>Peilatut</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
 			<Text>Käytä kartalle ennalta määriteltyjä aloitussijainteja.</Text>
 		</Replace>
@@ -1249,14 +1315,29 @@
 		<Replace Language="en_US" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
 			<Text>Yksi suuri meri keskellä karttaa.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEVEN_SEAS_DESCRIPTION">
+			<Text>Useampi laaja vesialue, jotka ovat maiden ympäröimiä. Vesialueilta voi löytyä saaria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SMALL_CONTINENTS_DESCRIPTION">
+			<Text>Maailma koostuu muutamasta keskikokoisesta maa-alueesta ja jokusesta pienestä saaresta.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
 			<Text>Saaria vaihdellen pienistä suuriin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_LAKES_DESCRIPTION">
+			<Text>Maailma jossa on vain järviä ja sisämeriä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_MIRROR_DESCRIPTION">
+			<Text>Satunnaisesti luotu tasapainotettu nelinpelikartta. Erinomainen kilpailullisiin moninpeleihin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
 			<Text>Yksi suuri maa-alue, jota koristaa muutama ympäröivä saari.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
 			<Text>Mitä salaisuuksia tämä kartta sisältääkään?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TERRA_DESCRIPTION">
+			<Text>Mannerkartta, jossa kaikki suuret kansakunnat aloittavat suurimmalta mantereelta.</Text>
 		</Replace>
 		<!-- Map Size Descriptions -->
 		<Replace Language="en_US" Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
@@ -1396,6 +1477,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
 			<Text>Kaikilla pelaajilla on hyvä, mutta ei välttämättä samanarvoinen alku.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_START_POSITION_MIRRORED_DESCRIPTION">
+			<Text>Kaikki pelaajat aloittavat täsmälleen samasta sijainnista omalla neljänneksellään.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_START_ERA">
 			<Text>Aloitusaika</Text>
@@ -1630,6 +1714,9 @@
 		<Replace Language="en_US" Tag="LOC_MAINMENU_BENCHMARK_TT">
 			<Text>Kuinka hyvin koneesi pöhisee?</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAINMENU_WORLDBUILDER_TT">
+			<Text>Maailmanrakentaja-karttaeditori.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAINMENU_CREDITS_TT">
 			<Text>Kaikki Civilization VI:n tekemiseen osallistuneet.</Text>
 		</Replace>
@@ -1725,7 +1812,7 @@
 			<Text>Lisäsisältö</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
-			<Text>Lisäsisältöä ja modeja laajentamaan Civilization VI:tta.</Text>
+			<Text>Lisäsisältöä Civilization VI:lle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAIN_MENU_DEMO">
 			<Text>Demo</Text>
@@ -1823,6 +1910,54 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_TITLE">
 			<Text>Virhe pelin aloituksessa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_UNKNOWN_VERSION">
+			<Text>Epäyhteensopiva tallennusversio.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_MOD_CONTENT">
+			<Text>Yksi tai useampi modi ei onnistunut lataamaan sisältöään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_MOD_CONFIG">
+			<Text>Yksi tai useampi modi ei onnistunut määrittämään sisältöä tai tietokannan tietueita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_MOD_OWNERSHIP">
+			<Text>Yksi tai useampi modi on ostamatta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GAME_START_ERROR_SCRIPT_PROCESSING">
+			<Text>Yksi tai useampi käynnistysskripti sisältää virheitä. Tarkista lua.log</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CLOUD_SAVES_REQUIRE_LINKED_ACCOUNT">
+			<Text>Pilvitallennukset vaativat 2K-tunnuksen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CLOUD_SAVES_SERVICE_NOT_CONNECTED">
+			<Text>Pilvitallennuspalvelut eivät ole saavutettavissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_OVERVIEW_TOOLTIP">
+			<Text>Teknistä tietoa tästä pelistä:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_VERSION_TOOLTIP">
+			<Text>Versio: {1_Version}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_MAP_SEED">
+			<Text>Kartan alkio: {1_MapSeed}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_GAME_SEED">
+			<Text>Pelin alkio: {1_GameSeed}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_MOUSE_COPY_TOOLTIP">
+			<Text>Klikkaa oikealla painikkeella kopioidaksesi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PAUSEMENU_INFO_TOUCH_COPY_TOOLTIP">
+			<Text>Pidä pohjassa 5 sekuntia kopioidaksesi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_SCOUT_CAT_TITLE">
+			<Text>DLC: tiedustelukissa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_SCOUT_CAT_TEASER">
+			<Text>Korvaa tiedustelijan koiran kissajengillä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MOD_SCOUT_CAT_DESCRIPTION">
+			<Text>Joskus pelaaja rakastaa koiraansa niin paljon ettei halua nähdä sen tallustelevan ympäri maita ja mantuja. Siten kissajengin lähettäminen on looginen vaihtoehto, jotta koira saa levätä kylässään. Tai sitten jos kissat ovat intohimosi, niin tämä DLC vain korjaa vääryyden.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

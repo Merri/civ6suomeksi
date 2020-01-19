@@ -137,13 +137,13 @@
 			<Text>Paljastettu maasto</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
-			<Text>Karttamuokkain</Text>
+			<Text>Kartan tiedot ja teksti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
 			<Text>Pelaajamuokkain</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
-			<Text>Vasen napsautus sijoittaa, oikea poistaa.</Text>
+			<Text>Vasen napsautus sijoittaa, oikea poistaa, oikean pitäminen pohjassa piirtää. CTRL-Z kumoaa ja CTRL-Y palauttaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
 			<Text>Ei valittua tilkkua</Text>
@@ -167,7 +167,7 @@
 			<Text>Karttaskripti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
-			<Text>Kartta on Modi</Text>
+			<Text>Paketoi kartta modiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
 			<Text>Valittuna luo maailmanrakentajan kartan itsenäiseksi Modiksi, jota voi käyttää kartan tyyppinä peliä aloitettaessa. Ilman valintaa kartan oletetaan olevan osa laajempaa Modia.</Text>

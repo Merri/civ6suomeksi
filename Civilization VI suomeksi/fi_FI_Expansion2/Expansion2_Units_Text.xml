@@ -23,10 +23,13 @@
 			<Text>Kuolonrobotti|kuolonrobotti|kuolonrobotin|kuolonrobotiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_GIANT_DEATH_ROBOT_DESCRIPTION">
-			<Text>Informaatioajan tehopakkaus. Kykenee liikkumaan ja taistelemaan vedessä. Kyvyt kohentuvat kehittämällä tulevaisuuden tekniikoita.</Text>
+			<Text>Informaatioajan tehopakkaus. Kykenee liikkumaan ja taistelemaan vedessä. Sietää massatuhoaseita. Kyvyt kohentuvat kehittämällä tulevaisuuden tekniikoita.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
 			<Text>Keskiajan tukiyksikkö. Kouluttaminen vaatii asevaraston. Kykenee rakentamaan teitä, rautateitä, linnakkeita, kiitoratoja, ohjussiiloja ja vuoritunneleita. Yksi työstö voidaan myös käyttää valmistuttamaan 20% osuus kanaalista tai padosta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_MILITARY_ENGINEER_ALT_DESCRIPTION">
+			<Text>Keskiajan tukiyksikkö. Kouluttaminen vaatii asevaraston. Kykenee rakentamaan teitä, rautateitä, linnakkeita, kiitoratoja, ohjussiiloja ja vuoritunneleita. Yksi työstö voidaan myös käyttää valmistuttamaan 20% osuus kanaalista, padosta, akveduktista tai tulvavallista.</Text>
 		</Replace>
 		<!--Rock Band Text-->
 		<Replace Language="en_US" Tag="LOC_UNIT_ROCK_BAND_NAME">
@@ -56,6 +59,12 @@
 		<!--Updated Text-->
 		<Replace Language="en_US" Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION">
 			<Text>Kykenee heikentämään muiden uskontojen vaikutusta 75% ja käymään uskontaistoja muiden uskontojen yksiköiden kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_BATTERING_RAM_EXPANSION2_DESCRIPTION">
+			<Text>Muinaisuuden tukiyksikkö. Tämän ollessa kaupungin vieressä hyökkäävät melee- ja ratsutorjuntayksiköt tekevät täyden vahingon kaupungin muureihin. Ei vaikutusta keskiajan ja renessanssin muureihin. Hyödytön asutuskeskusten suojia vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_SIEGE_TOWER_EXPANSION2_DESCRIPTION">
+			<Text>Antiikin tukiyksikkö. Tämän ollessa kaupungin vieressä hyökkäävät melee- ja ratsutorjuntayksiköt eivät välitä muureista vaan hyökkäävät suoraan kaupunkiin. Ei vaikutusta renessanssin muureihin. Hyödytön asutuskeskusten suojia vastaan.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

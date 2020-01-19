@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="18">
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="20">
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -80,6 +80,7 @@
 			<File>fi_FI/Expansion1_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
+			<File>fi_FI/Improvements_Text.xml</File>
 			<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
 			<File>fi_FI/InGameText.xml</File>
 			<File>fi_FI/Leaders_Text.xml</File>
@@ -110,6 +111,7 @@
 			<Properties>
 				<LoadOrder>20</LoadOrder>
 			</Properties>
+			<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
@@ -126,6 +128,7 @@
 				<LoadOrder>30</LoadOrder>
 			</Properties>
 			<!-- Rise & Fall -->
+			<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
@@ -227,6 +230,7 @@
 			<Properties>
 				<LoadOrder>20</LoadOrder>
 			</Properties>
+			<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
@@ -243,6 +247,7 @@
 				<LoadOrder>30</LoadOrder>
 			</Properties>
 			<!-- Rise & Fall -->
+			<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
@@ -324,6 +329,7 @@
 		<File>fi_FI/Expansion1_PackageText.xml</File>
 		<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 		<File>fi_FI/FrontEndText.xml</File>
+		<File>fi_FI/Improvements_Text.xml</File>
 		<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
 		<File>fi_FI/InGameText.xml</File>
 		<File>fi_FI/Leaders_Text.xml</File>
@@ -349,6 +355,7 @@
 		<File>fi_FI/Wars_Text.xml</File>
 		<File>fi_FI/WorldBuilder_Text.xml</File>
 		<!-- Rise & Fall -->
+		<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>

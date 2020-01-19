@@ -74,7 +74,10 @@
 		</Replace>
 		<!-- Damage Message -->
 		<Replace Language="en_US" Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
-			<Text>+{1_Num}</Text>
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_FAITH_DECREASE_FLOATER">
+			<Text>{1_Num} [ICON_Faith] [COLOR_RED]MENETETTY[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Damage Message -->
 		<Replace Language="en_US" Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
@@ -95,18 +98,35 @@
 			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num}[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_PRODUCTION]{1_Num}[ICON_Production][ENDCOLOR] [COLOR_RED]MENETETTY[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Food Yield Message -->
 		<Replace Language="en_US" Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
-			<Text>[COLOR_FLOAT_FOOD]+{1_Num}[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num} [ICON_Food][ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_FOOD]{1_Num} [ICON_Food][ENDCOLOR] [COLOR_RED]MENETETTY[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Gold Yield Message -->
 		<Replace Language="en_US" Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num}[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_GOLD_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_GOLD]{1_Num} [ICON_Gold][ENDCOLOR] [COLOR_RED]MENETETTY[ENDCOLOR]</Text>
+		</Replace>
+		<!-- Science Yield Message -->
+		<Replace Language="en_US" Tag="LOC_WORLD_SCIENCE_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_SCIENCE_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_SCIENCE]{1_Num} [ICON_Science][ENDCOLOR] [COLOR_RED]MENETETTY[ENDCOLOR]</Text>
+		</Replace>
+		<!-- Culture Yield Message -->
+		<Replace Language="en_US" Tag="LOC_WORLD_CULTURE_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLD_CULTURE_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_CULTURE]{1_Num} [ICON_Culture][ENDCOLOR] [COLOR_RED]MENETETTY[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Civilian-->
 		<Replace Language="en_US" Tag="LOC_UNIT_SETTLER_DESCRIPTION">
@@ -210,7 +230,7 @@
 			<Text>Heikko muinaisuuden heittoaseyksikkö. Parempi hyökätessään kuin puolustautuessaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_ARCHER_DESCRIPTION">
-			<Text>Ensimmäinen muinaisuuden heittoaseyksikkö, jonka tulituksen [ICON_Range] etäisyys on 2.</Text>
+			<Text>Ensimmäinen muinaisuuden heittoaseyksikkö, jonka tulituksen [ICON_Range] kantama on 2.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
 			<Text>Keskiajan heittoaseyksikkö.</Text>
@@ -255,7 +275,7 @@
 			<Text>Teollisen ajan tukiyksikkö. Kykenee hoivaamaan viereisiä yksiköitä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
-			<Text>Modernin ajan tukiyksikkö. Kasvattaa läheisten pommittajatason yksiköiden [ICON_Range] etäisyyttä yhdellä (+1).</Text>
+			<Text>Modernin ajan tukiyksikkö. Antaa +1 [ICON_Range] kantamaa piiritysluokan yksiköille yhden ruudun säteellä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
 			<Text>Keskiajan tukiyksikkö. Valmistus vaatii asevaraston. Kykenee luomaan teitä, linnakkeita ja kiitoratoja (jotka ovat rakenteita).</Text>
@@ -349,7 +369,7 @@
 			<Text>Kreikan antiikin yksikkö, joka korvaa keihäsmiehen. +10 [ICON_Strength] taisteluvoimakkuutta vähintään yhdestä vieressä olevasta hopliitista.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
-			<Text>Skyyttien antiikin heittoaseyksikkö, jolla on 4 [ICON_Movement] liikkuvuutta. Ase kantaa [ICON_Range] etäisyydellä 1.</Text>
+			<Text>Skyyttien antiikin heittoaseyksikkö, jolla on 4 [ICON_Movement] liikkuvuutta. 1 [ICON_Range] kantama.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
 			<Text>Sumerin muinaisuuden yksikkö. Voimakkaampi kuin ainutkaan toinen aloittava yksikkö. Ei haittoja ratsuja torjuvia yksiköitä vastaan. 4 [ICON_Movement] liikkuvuutta aloittaessaan avoimesta maastosta.</Text>
@@ -367,7 +387,7 @@
 			<Text>Japanin keskiaikainen meleeyksikkö. Ei kärsi taisteluhaitoista ollessaan haavoittunut.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
-			<Text>Morjan keskiaikainen yksikkö. 4 [ICON_Movement] liikkuvuutta aloittaessaan vihollisen maaperällä. +7 [ICON_Strength] taisteluvoimakkuutta hyökätessä ja -7 [ICON_Strength] taisteluvoimakkuutta puolustautuessa.</Text>
+			<Text>Norjan keskiaikainen yksikkö. 4 [ICON_Movement] liikkuvuutta aloittaessaan vihollisen maaperällä. +7 [ICON_Strength] taisteluvoimakkuutta hyökätessä ja -7 [ICON_Strength] taisteluvoimakkuutta puolustautuessa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
 			<Text>Norjan muinaisuuden meriyksikkö, joka korvaa kaleerin. Kykenee ryöväämään rannikon maita ja kaappaamaan viereisiä siviilejä käyttäen rannikon ryövärikykyä. 4 [ICON_Movement] liikkuvuutta ollessaan rannikon vesillä.</Text>
@@ -400,7 +420,7 @@
 			<Text>Saksan modernin ajan meriyksikkö, joka korvaa sukellusveneen. Valmistus on halvempaa, +1 näkyvyys ja +10 [ICON_Strength] taisteluvoimakkuutta meriruuduissa. Kykenee paljastamaan muut kätkeytyneet yksiköt.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
-			<Text>Amerikan atomiajan lentoyksikkö, joka korvaa hävittäjäkoneen. Saa +5 hyökkäysvoimakkuutta hävittäjäkoneita vastaan, +2 lentoetäisyyttä sekä 50% nopeammin kokemusta.</Text>
+			<Text>Amerikan atomiajan lentoyksikkö, joka korvaa hävittäjäkoneen. Saa +5 [ICON_Strength] taisteluvoimakkuutta hävittäjäkoneita vastaan, +2 lentokantamaa sekä +50% kokemusta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
 			<Text>Brasilian teollisen ajan yksikkö, joka korvaa taistelulaivan. Vahvempi kuin taistelulaiva. Tulee saataville nationalismin myötä.</Text>

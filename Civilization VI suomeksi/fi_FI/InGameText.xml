@@ -666,7 +666,7 @@
 			<Text>+{1_Value} ystävällisiltä mailta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_FORTIFIED_DEFENSE_DESC">
-			<Text>+{1_Value} linnoittautumispuolustuksesta</Text>
+			<Text>+{1_Value} linnoittautuneesta puolustuksesta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_UNITS_DESC">
 			<Text>-{1_Value} tehottomampi yksikköjä vastaan</Text>
@@ -810,7 +810,7 @@
 		</Replace>
 		<!-- ==================== Map Pin Popup ==================== -->
 		<Replace Language="en_US" Tag="LOC_MAP_PIN_POPUP_TITLE">
-			<Text>Muokkaa karttapinniä</Text>
+			<Text>Muokkaa karttanastaa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_PIN_NAME">
 			<Text>Nimi:</Text>
@@ -819,10 +819,10 @@
 			<Text>Lähetä chattiin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_PIN_SEND_TO_CHAT_TT">
-			<Text>Lisää tämä karttapinni chattiviestiin.</Text>
+			<Text>Lisää tämä karttanasta chattiviestiin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_PIN_SEND_TO_CHAT_NOT_VISIBLE_TT">
-			<Text>Karttapinni ei ole nähtävissä nykyisellä chatin kohteella.</Text>
+			<Text>Karttanasta ei ole nähtävissä nykyisellä chatin kohteella.</Text>
 		</Replace>
 		<!-- ==================== Plot Info ==================== -->
 		<Replace Language="en_US" Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_PURCHASE">
@@ -1370,7 +1370,16 @@
 			<Text>Kantauskomuksemme</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MINIMAP_TOOLTIP">
-			<Text>Napsauta siirttäksesi kameraa.</Text>
+			<Text>Napsauta siirtääksesi kameraa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MINIMAP_OWNER_TOOLTIP">
+			<Text>Omistaja: {1_PlayerName}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINIMAP_UNCLAIMED_TOOLTIP">
+			<Text>Vapaata maastoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MINIMAP_FOG_OF_WAR_TOOLTIP">
+			<Text>Tutkimatonta maastoa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_NEEDS_BELIEF_TOOLTIP">
 			<Text>Olemme mahdollistaneet uuden uskomuksen uskonnollemme.</Text>
@@ -1390,6 +1399,39 @@
 		<Replace Language="en_US" Tag="LOC_HUD_CITY_WILL_NOT_COMPLETE">
 			<Text>Liian vähäinen vuorottainen tuotanto valmistuakseen ikinä.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_SCORE">
+			<Text>Kokonaispisteet (huomioidaan jos pelin vuorot loppuvat)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_STRENGTH">
+			<Text>Armeijan voimakkuus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_SCIENCE">
+			<Text>Tiedettä vuorossa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_CULTURE">
+			<Text>Kulttuuria vuorossa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_GOLD">
+			<Text>Kultaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_FAITH">
+			<Text>Uskoa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_MODE_STATS_ALWAYS_HIDE">
+			<Text>Piilota tilastot aina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_MODE_STATS_HIDE">
+			<Text>Piilota tilastot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_MODE_STATS_ALWAYS_SHOW">
+			<Text>Näytä tilastot aina</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYERNAME_AUTOPLAY_OBSERVER">
+			<Text>AutoPlayn seuraaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYERNAME_UNKNOWN">
+			<Text>Tuntematon</Text>
+		</Replace>
 		<!-- ==================== Production Menu (for cities) ==================== -->
 		<Replace Language="en_US" Tag="LOC_BUILDING_CONSTRUCT_NO_SUITABLE_LOCATION">
 			<Text>Ei sopivaa sijaintia tämän rakentamiseksi.</Text>
@@ -1402,6 +1444,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_THREE_BUILDINGS">
 			<Text>Joko {1_Building[2]}, {2_BuildingTheSecond[2]} tai {3_BuildingTheThird[2]} on rakennettava, jotta tämä rakennus voidaan rakentaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_CONSTRUCT_REQUIRE_WALL_REPAIR">
+			<Text>{1_Building} tulee korjata.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_CONSTRUCT_TURNS_UNTIL_CAN_BE_REPAIRED">
+			<Text>{2_Turns} [ICON_Turn] {1_Building} on korjattavissa {2_Turns : plural 1?seuraavalla vuorolla; other?{2_Turns} vuoron kuluttua;}.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_CONSTRUCT_IS_OCCUPIED">
 			<Text>Vihollinen pitää hallussaan tätä kaupunkialuetta.</Text>
@@ -1442,6 +1490,13 @@
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ZONE_CONFIRM_POPUP">
 			<Text>Haluammeko rakentaa kaupunkialueen tähän?</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_FOUND_CITY_CONFIRM_POPUP">
+			<Text>{1_Feature} poistetaan ruudusta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FOUND_CITY_WILL_REMOVE_FEATURE">
+			<Text>Haluammeko rakentaa kaupunkialueen tähän?</Text>
+		</Replace>
+		<!-- TODO: Add reason strings here -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ZONE_CONFIRM_DISTRICT_POPUP">
 			<Text>Haluammeko rakentaa {1_DistrictName[3]} tänne?</Text>
 		</Replace>
@@ -1756,16 +1811,16 @@
 			<Text>Loitonna</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_PIN_LIST">
-			<Text>Karttapinnit</Text>
+			<Text>Karttanastat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_TOGGLE_MAP_PIN_LIST">
-			<Text>Karttapinnit</Text>
+			<Text>Karttanastat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_PLACE_MAP_PIN">
-			<Text>Lisää pinni</Text>
+			<Text>Lisää nasta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_PLACE_MAP_PIN_TT">
-			<Text>Napsauta heksaruutua asettaaksesi siihen karttapinnin.</Text>
+			<Text>Napsauta heksaruutua asettaaksesi siihen karttanastan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_TOGGLE_GRID">
 			<Text>Ruudukko päälle/pois</Text>
@@ -1812,6 +1867,12 @@
 		<Replace Language="en_US" Tag="LOC_HUD_TOURISM_LENS">
 			<Text>Turismi</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_EMPIRE_LENS">
+			<Text>Valtakunta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_POWER_LENS">
+			<Text>Virta</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_RELIGION_LENS_TOOLTIP">
 			<Text>Näytä valtauskontojen jakautuminen kartalla.</Text>
 		</Replace>
@@ -1833,8 +1894,44 @@
 		<Replace Language="en_US" Tag="LOC_HUD_TOURISM_LENS_TOOLTIP">
 			<Text>Näytä kussakin ruudussa vierailevien turistien määrä.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_EMPIRE_LENS_TOOLTIP">
+			<Text>Näytä kaupunkiemme rajat, kaupunkialueiden sijainnit ja läheisyydet.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_POWER_LENS_TOOLTIP">
+			<Text>Näytä kaupunkiemme virran lähteet sekä alueellinen virran peitto.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_MAP_OPTIONS">
 			<Text>Kartan tiedot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH">
+			<Text>Karttahaku</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_IN_PROGRESS">
+			<Text>Etsitään...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_UPDATING">
+			<Text>Päivitetään...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_WAITING_FOR_TURN">
+			<Text>Odotetaan seuraavaa vuoroa...</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_RESULTS">
+			<Text>Löytyi {1_Count : plural 1?yksi osuma; other?{1_Count} osumaa;}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_BEGIN_SEARCH">
+			<Text>HAE</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_CLEAR_SEARCH">
+			<Text>TYHJENNÄ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_NO_SEARCH_TERMS_TOOLTIP">
+			<Text>Ei voi hakea ilman hakuehtoa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TOOLTIP">
+			<Text>Hakuehdot[NEWLINE]Haun osumat sisältävät KAIKKI annetut ehdot.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_FILTER_TOOLTIP">
+			<Text>Hakurajaus[NEWLINE]Haun osumat EIVÄT sisällä annettuja ehtoja.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_CIVICS_ENABLES">
 			<Text>Mahdollistaa</Text>
@@ -1928,6 +2025,43 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_POPUP_PROJECT_CREATED_BY_UNKNOWN">
 			<Text>Kohtaamaton kansa edistyi kohden tiedevoittoa.</Text>
+		</Replace>
+		<!-- Map Search Terms -->
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_MOUNTAIN">
+			<Text>Vuori</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_HILL">
+			<Text>Mäki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_WATER">
+			<Text>Vesi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_FEATURE">
+			<Text>Piirre</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_IMPROVEMENT">
+			<Text>Rakenne</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_OWNED">
+			<Text>Omistettu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_UNCLAIMED">
+			<Text>Omistamaton</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_PILLAGED">
+			<Text>Tärvelty</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_NATIONAL_PARK">
+			<Text>Kansallispuisto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_UNDER_CONSTRUCTION">
+			<Text>Rakenteilla</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_CONTAMINATION">
+			<Text>Saaste</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_MAP_SEARCH_TERMS_SPECIALIST">
+			<Text>Osaaja</Text>
 		</Replace>
 		<!-- Boost Text -->
 		<Replace Language="en_US" Tag="LOC_BOOST_TO_BOOST">
@@ -2937,6 +3071,9 @@
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_UNLOCKS">
 			<Text>Mahdollistaa:</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_BUILDING_CITIZEN_YIELDS_HEADER">
+			<Text>Asukastuotto (asukkasta kohden tässä kaupunkialueessa):</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_DISTRICT_CITIZEN_YIELDS_HEADER">
 			<Text>Asukastuotto (asukasta kohden):</Text>
 		</Replace>
@@ -3096,6 +3233,9 @@
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_ARTIFACT_RESOURCE">
 			<Text>Artefakti</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_BONUS_STRATEGIC">
+			<Text>Strateginen luonnonvara</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_ARTIFACT_RESOURCE_DETAILS">
 			<Text>Lähettämällä tänne arkeologin voimme suorittaa kaivaukset [ICON_GreatWork_Artifact] artefaktille, joka alkaa tuottaa kaupungillemme [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia.</Text>
 		</Replace>
@@ -3175,6 +3315,9 @@
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_HOUSING">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Housing] asumusta</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_HOUSING_WITH_REQUIREMENT">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Housing] asumusta (vaatii {2_TechOrCivicName})</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_AIRSLOTS">
 			<Text>Kapasiteetti lentokoneille: {1_Amount}</Text>
 		</Replace>
@@ -3190,8 +3333,12 @@
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_WEAPONSLOTS">
 			<Text>Asekapasiteetti: {1_Amount}</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_AMENITY">
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?elintaso; other?elintasoa;}</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_AMENITY_ENTERTAINMENT">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?elintaso; other?elintasoa;} viihteestä</Text></Replace>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?elintaso; other?elintasoa;} viihteestä</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_CITIZENS">
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_Citizen] {1_Amount : plural 1?paikka; other?paikkaa;} asukkaille</Text>
 		</Replace>
@@ -3225,11 +3372,23 @@
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_BUILDING_DISTRICT_COPY">
 			<Text>Ylimääräinen {1_ToYieldIcon} {2_ToYieldName} vastaten {3_FromYieldIcon} {4_FromYieldName} kaupunkialueen läheisyyseduista.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_ONCE">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} viereisestä ruudusta, jossa on {5_AdjacentObject}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS_ONCE">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] elintasoa viereisestä ruudusta, jossa on {2_AdjacentObject}.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} jokaisesta viereisestä ruudusta, jossa on {5_AdjacentObject}.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] elintasoa jokaisesta viereisestä ruudusta, jossa on {2_AdjacentObject}.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_PER">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} jokaisesta viereisestä {4_Count}:sta ruudusta, joissa on {5_AdjacentObject}.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS_PER">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] elintasoa jokaisesta viereisestä {2_Count}:sta ruudusta, joissa on {3_AdjacentObject}.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_REQUIRES_TECH_OR_CIVIC">
 			<Text>Vaatii {1_TechOrCivicName[2]}.</Text>
@@ -3257,6 +3416,18 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_NATURAL_WONDER">
 			<Text>luonnonihme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_BONUS">
+			<Text>stra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_PILLAGE_AWARD">
+			<Text>Ryöväilyn palkkio: {1_AwardIcon} {2_AwardText}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_PILLAGE_AWARD_NO_ICON">
+			<Text>Ryöväilyn palkkio: {1_AwardText}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_PILLAGE_AWARD_HEALING">
+			<Text>Hoivaantuminen</Text>
 		</Replace>
 		<!-- ==================== Calendar Text ==================== -->
 		<Replace Language="en_US" Tag="LOC_TIME_AD">
@@ -3549,6 +3720,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_RELIGION_FOUND_PANTHEON">
 			<Text>Perusta tämä kantausko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_RELIGION_RESELECT_PANTHEON">
+			<Text>Valitse eri kantausko</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_RELIGION_FOUND_RELIGION">
 			<Text>Perusta tämä uskonto</Text>
@@ -4394,10 +4568,10 @@
 			<Text>Nimetön pinni {1_number}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_PIN_LIST_PLAYER_PIN_TOOLTIP">
-			<Text>Vasen napsautus tarkastellaksesi pinniä. Oikea napaustus muokataksesi.</Text>
+			<Text>Vasen napsautus tarkastellaksesi nastaa kartalla. Oikea napaustus muokataksesi.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_PIN_LIST_REMOTE_PIN_TOOLTIP">
-			<Text>Vasen napsautus tarkastellaksesi pinniä.</Text>
+			<Text>Vasen napsautus tarkastellaksesi nastaa kartalla.</Text>
 		</Replace>
 		<!-- ==================== Pause Panel Text ==================== -->
 		<Replace Language="en_US" Tag="LOC_GAME_PAUSED_BY">
@@ -4548,7 +4722,7 @@
 			<Text>Siirretty tähän paikkaan lähiaikoina. Voidaan siirtää seuraavan kerran {1_Turns} vuoron kuluttua.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREAT_WORKS_ARTIFACT_LOCKED_FROM_MOVE">
-			<Text>Artefaktit voidaan siirtää ainoastaan täysistä arkeologisista museoista (eli joissa ei ole vapaita paikkoja).</Text>
+			<Text>Artefaktit voidaan vaihtaa ainoastaan täysien arkeologisten museoiden välillä (joissa ei ole vapaita paikkoja).</Text>
 		</Replace>
 		<!-- ==================== GreatWorkObjectTypes ==================== -->
 		<Replace Language="en_US" Tag="LOC_GREATWORKOBJECT_SCULPTURE">
@@ -4817,6 +4991,24 @@
 		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_ESPIONAGE_TOOLTIP">
 			<Text>Vakoilu[NEWLINE][NEWLINE]Tarkastele ja hallitse vakoilijoitamme.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_TOOLTIP">
+			<Text>Raporttilista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_CITY_STATUS">
+			<Text>Kaupungin tila</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_NOTIFICATIONS">
+			<Text>Ilmoitukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_GOSSIP">
+			<Text>Juorut</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_YIELDS">
+			<Text>Tuotot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_RESOURCES">
+			<Text>Luonnonvarat</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_TRADEROUTES_TOOLTIP">
 			<Text>Kauppareitit[NEWLINE][NEWLINE]Tarkastele ja hallitse [ICON_TradeRoute] kauppareittejämme.</Text>
 		</Replace>
@@ -4845,6 +5037,84 @@
 			<Text>Merkittävät henkilöt[NEWLINE][NEWLINE]Näytä saatavilla olevat [ICON_GreatPerson] merkittävät henkilöt, sekä edistymisemme kohden seuraavaa [ICON_GreatPerson] merkittävää henkilöä.</Text>
 		</Replace>
 		<!-- ==================== REPORTS =================== -->
+		<Replace Language="en_US" Tag="LOC_REPORTS_LIST_EMPIRE">
+			<Text>Valtakunta:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_PRIORITY">
+			<Text>Tärkeys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_PLAYER_FILTER_ALL">
+			<Text>Kaikki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_ALL">
+			<Text>[ICON_GOSSIP_ALL] Kaikki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_DIPLOMACY">
+			<Text>[ICON_GOSSIP_DIPLOMACY] Diplomatia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_MILITARY">
+			<Text>[ICON_GOSSIP_MILITARY] Armeija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_DISCOVER">
+			<Text>[ICON_GOSSIP_DISCOVER] Löydöt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_ESPIONAGE">
+			<Text>[ICON_GOSSIP_ESPIONAGE] Vakoilu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_SCIENCE">
+			<Text>[ICON_GOSSIP_SCIENCE] Tiede</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_RELIGION">
+			<Text>[ICON_GOSSIP_RELIGION] Uskonto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_CULTURE">
+			<Text>[ICON_GOSSIP_CULTURE] Kulttuuri</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_GREATPERSON">
+			<Text>[ICON_GOSSIP_GREATPERSON] Merkittävä henkilö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_VICTORY">
+			<Text>[ICON_GOSSIP_VICTORY] Voitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_SETTLEMENT">
+			<Text>[ICON_GOSSIP_SETTLEMENT] Asutus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_CITY">
+			<Text>[ICON_GOSSIP_CITY] Kaupunki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_FILTER_BARBARIAN">
+			<Text>[ICON_GOSSIP_BARBARIAN] Barbaari</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_DATE">
+			<Text>Pvm</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_TURN">
+			<Text>Vuoro</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_LEADER">
+			<Text>Hallitsija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_GOSSIP_TYPE">
+			<Text>Tyyppi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_NOTIFICATION_ICON">
+			<Text>Ilmoitus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_NOTIFICATION_DESCRIPTION">
+			<Text>Kuvaus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_LIST_GLOBAL">
+			<Text>Kaikki:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GLOBAL_RESOURCES_TITLE">
+			<Text>Kaikkien luonnonvarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GLOBAL_OVERVIEW_TITLE">
+			<Text>Maailman yleiskatsaus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_LIST_OVERVIEW">
+			<Text>Yleiskatsaus</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_AMOUNT">
 			<Text>Määrä</Text>
 		</Replace>
@@ -5034,6 +5304,12 @@
 		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_TAB_CITY_STATUS">
 			<Text>Kaupungit</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_TAB_NOTIFICATIONS">
+			<Text>Ilmoitukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_TAB_GOSSIP">
+			<Text>Juorut</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_TAB_RESOURCES">
 			<Text>Luonnonvarat &amp; resurssit</Text>
 		</Replace>
@@ -5114,6 +5390,108 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_NUMBER_OF_TURNS">
 			<Text>{1_Turns} vuoron ajan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_STRATEGIC_RESOURCES">
+			<Text>Strategiset luonnonvarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_LUXURY_RESOURCES">
+			<Text>Ylelliset luonnonvarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_POWER_RESOURCES">
+			<Text>Virran luonnonvarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_ARTIFACTS">
+			<Text>Artefaktit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_OTHER_RESOURCES">
+			<Text>Muut luonnonvarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_BONUS_RESOURCES">
+			<Text>Hyödylliset luonnonvarat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SHOW_CITYSTATES">
+			<Text>Näytä kaupunkivaltiot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_CITIES">
+			<Text>Kaupungit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_HIDE_CITYSTATES">
+			<Text>Piilota kaupunkivaltiot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SHOW_MY_CIV">
+			<Text>Näytä kansamme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_HIDE_MY_CIV">
+			<Text>Piilota kansamme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SHOW_OWNED_BY_ME">
+			<Text>Näytä luonnonvaramme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_HIDE_OWNED_BY_ME">
+			<Text>Piilota luonnonvaramme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SHOW_ONLY_NOT_OWNED">
+			<Text>Näytä vain luonnonvarat joita emme omista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_ORDER_CIVS_BY">
+			<Text>Järjestä kansakunnat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_ORDER_AMOUNT">
+			<Text>määrä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_ORDER_PLAYER">
+			<Text>pelaaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_ORDER_PLAYER_SLOT">
+			<Text>pelaajapaikka</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_BY">
+			<Text>Järjestä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_NAME">
+			<Text>nimi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_TYPE">
+			<Text>tyyppi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_SCARCITY">
+			<Text>harvinaisuus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_BY_RESOURCE_NAME">
+			<Text>Järjestä luonnonvaran nimellä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_BY_RESOURCE_TYPE">
+			<Text>Järjestä luonnonvaran tyypillä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_BY_RESOURCE_SCARCITY">
+			<Text>Järjestä harvinaisuudella</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_ALIGN_LEADERS">
+			<Text>Rivitä hallitsijat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_ALIGN_LEADERS_TOOLTIP">
+			<Text>Järjestä kukin hallitsija samaan paikkaan kullakin rivillä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_SELECT_TO_TRADE">
+			<Text>Käy kauppaa hallitsijan [1_LeaderName] kanssa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_CIVS_NO_RESOURCES">
+			<Text>Emme tunne kansakuntia, joilla olisi luonnonvaroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_CIVS_NO_LUXURY_RESOURCES">
+			<Text>Emme tunne kansakuntia, joilla olisi ylellisiä luonnonvaroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_CIVS_NO_STRATEGIC_RESOURCES">
+			<Text>Emme tunne kansakuntia, joilla olisi strategisia luonnonvaroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_CIVS_NO_POWER_RESOURCES">
+			<Text>Emme tunne kansakuntia, joilla olisi virran luonnonvaroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_CIVS_NO_OTHER_RESOURCES">
+			<Text>Emme tunne kansakuntia, joilla olisi muita luonnonvaroja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_REPORTS_CIVS_NO_POSSESS_RESOURCE">
+			<Text>Emme tunne kansakuntia, joilla olisi tätä luonnonvaraa.</Text>
 		</Replace>
 		<!-- Player Yields ToolTips -->
 		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_ANARCHY">
@@ -5590,6 +5968,209 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_TEXT_TAG">
 			<Text>Tekstin tagi</Text>
+		</Replace>
+		<!-- Settlement recommendations-->
+		<Replace Language="en_US" Tag="LOC_HUD_ADVISOR_SAYS">
+			<Text>Neuvonantaja kertoo</Text>
+		</Replace>
+		<!-- Settlement recommendations tooltips (old unused)-->
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD">
+			<Text>ALUEELLINEN TUOTTO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_INNER_YIELD">
+			<Text>SISÄKEHÄN TUOTTO</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_FRESH_WATER">
+			<Text>MAKEA VESI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_NEW_RESOURCES">
+			<Text>UUDET LUONNONVARAT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_COAST">
+			<Text>RANTA</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_RESOURCES">
+			<Text>VARHAISEN PELIN LUONNONVAROJA</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_LUXURY_RESOURCES">
+			<Text>käyttämätön</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES">
+			<Text>LUONNONVARAT</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_FEATURES">
+			<Text>PIIRTEITÄ</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_FOREIGN_CONTINENT">
+			<Text>VIERAS MANNER</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_NEAREST_CITY">
+			<Text>LÄHIN KAUPUNKI</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_DANGER">
+			<Text>käyttämätön</Text>
+		</Replace>
+		<!-- Settlement recommendations tooltips - POOR-->
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_TOTAL_YIELD">
+			<Text>Heikot tuotot kolmen ruudun säteellä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_INNER_YIELD">
+			<Text>Heikot tuotot sijainnin lähellä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_FRESH_WATER">
+			<Text>Ei makeaa vettä sijainnissa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_NEW_RESOURCES">
+			<Text>Vähän uusia luonnonvaroja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_COAST">
+			<Text>Sijainti on sisämaassa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_RESOURCES">
+			<Text>Rajoitetusti hevosia, rautaa, salpietaria</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_STRATEGIC_RESOURCES">
+			<Text>Vähän ylellisyyksiä tai strategisia lähettyvyllä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_FEATURES">
+			<Text>Ei huomattavia piirteitä lähellä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_FOREIGN_CONTINENT">
+			<Text>Ei etua vieraasta mantereesta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_NEAREST_CITY">
+			<Text>Kaukana ystävällisistä kaupungeista</Text>
+		</Replace>
+		<!-- Settlement recommendations tooltips - GOOD-->
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_TOTAL_YIELD">
+			<Text>Vahvat tuotot kolmen ruudun säteellä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_INNER_YIELD">
+			<Text>Vahvat tuotot sijainnin lähellä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_FRESH_WATER">
+			<Text>Makeaa vettä sijainnissa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_NEW_RESOURCES">
+			<Text>Mahdollisuus uusiin luonnonvaroihin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_COAST">
+			<Text>Sijainti on rannalla</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_RESOURCES">
+			<Text>Hevosia, rautaa tai salpietaria lähettyvillä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_STRATEGIC_RESOURCES">
+			<Text>Uusia ylellisyyksiä ja strategisia luonnonvaroja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_FEATURES">
+			<Text>Hyödyttäviä piirteitä lähettyvillä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_FOREIGN_CONTINENT">
+			<Text>Vieraalle mantereelle asettuminen houkuttaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_NEAREST_CITY">
+			<Text>Lähellä ystävällisiä kohteita</Text>
+		</Replace>
+		<!-- Production Queue -->
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_SHOW_QUEUE">
+			<Text>Näytä jono ({1_QueueSize})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_HIDE_QUEUE">
+			<Text>Piilota jono ({1_QueueSize})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_LOCK_SHOW_QUEUE">
+			<Text>Lukitse jono aina esille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_UNLOCK_AUTOHIDE_QUEUE">
+			<Text>Poista lukitus piilottaaksesi jonon tuotantonäkymän sulkemisen ohessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_TOGGLE_AUTOHIDE_QUEUE">
+			<Text>Jonon piilotus päälle/pois</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_REMOVE_ITEM">
+			<Text>Poista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_MOVE_LEFT_ITEM">
+			<Text>Siirrä vasemmalle</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_MOVE_RIGHT_ITEM">
+			<Text>Siirrä oikealle</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_BUTTON_TEXT">
+			<Text>Hallinta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_BUILDINGS_TOOLTIP">
+			<Text>Kaupunkialueet ja rakennukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_WONDERS_TOOLTIP">
+			<Text>Ihmeet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_UNITS_TOOLTIP">
+			<Text>Yksiköt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_PANEL_PROJECTS_TOOLTIP">
+			<Text>Projektit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_MANAGER_TITLE">
+			<Text>Tuotannon hallinta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_MANAGER_SORT_BY">
+			<Text>Järjestä: {1_SortType}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_MANAGER_FILTER_FOUNDING">
+			<Text>Perustus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_MANAGER_FILTER_NAME">
+			<Text>Nimi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_MANAGER_FILTER_POPULATION">
+			<Text>Väestö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRODUCTION_QUEUE_BEHAVIOR_TT">
+			<Text>Käytä asetusvalikkoa muuttaaksesi tuotantojonon oletuksena tapahtuvaa näkyvyyttä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_FULLSCREEN_MAP">
+			<Text>Näytä kokoruudun kartta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_VIEW_PAST_GOSSIP">
+			<Text>Näytä menneet juorut</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_VIEW_GOSSIP">
+			<Text>Näytä juorut</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_VIEW_PAST_RUMORS">
+			<Text>Näytä menneet huhut</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_VIEW_RUMORS">
+			<Text>Näytä huhut</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_TURN">
+			<Text>Vuoro</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RUMOR">
+			<Text>Huhu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_GOSSIP">
+			<Text>Juoru</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_GOSSIP_CLOSE">
+			<Text>Sulje</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_COLLAPSE_LIST">
+			<Text>Napsauta sulkeaksesi listan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_EXPAND_LIST">
+			<Text>Napsauta laajentaaksesi listan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_GOSSIP_DISMISS_DETAILS">
+			<Text>Juorun saa pois esiltä napsauttamalla.[NEWLINE]Juoruhistoria löytyy raporteista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_STATUSMESSAGE_DISMISS_DETAILS">
+			<Text>Viestin saa pois esiltä napsauttamalla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_PANEL_ABILITIES_HEADER">
+			<Text>Kyvyt:</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

@@ -389,7 +389,48 @@
 		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ZEALOUS">
 			<Text>Hartaat </Text>
 		</Replace>
-		<!-- Suffix-->
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_TITANIUM">
+			<Text>Titaani</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DEATH">
+			<Text>Kuolon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_HELL">
+			<Text>Helvetin </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DIABOLICAL">
+			<Text>Pirullinen </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_LAND">
+			<Text>Maa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_GARGANTUAN">
+			<Text>Järkälemäinen </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_MAMMOTH">
+			<Text>Mammuttimainen </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_MONSTROUS">
+			<Text>Hirveä </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_ARMORED">
+			<Text>Panssaroitu </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
+			<Text>Jytky</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
+			<Text>Karmea </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_ABOMINABLE">
+			<Text>Kammottava </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_INFERNAL">
+			<Text>Helvetillinen </Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_PREFIX_DREAD">
+			<Text>Pelko</Text>
+		</Replace>		<!-- Suffix-->
 		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
 			<Text>eläimet</Text>
 		</Replace>
@@ -875,6 +916,54 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
 			<Text>hihhulit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MACHINE">
+			<Text>kone</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MECH">
+			<Text>mecha</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_GOLEM">
+			<Text>golemi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
+			<Text>saurus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_COLOSSUS">
+			<Text>kolossi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_HULK">
+			<Text>hulkki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_BEAST">
+			<Text>peto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_OGRE">
+			<Text>örkki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_MONSTROSITY">
+			<Text>peikko</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_ROBOT">
+			<Text>robotti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
+			<Text>automaatti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
+			<Text>kyklooppi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_GIANT">
+			<Text>jätti</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_TITAN">
+			<Text>titaani</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_WALKER">
+			<Text>kulkija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
+			<Text>tuhoaja</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

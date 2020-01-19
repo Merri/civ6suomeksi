@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Improvements Description-->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Tuottaa barbaareja. Tuhoamisesta saa palkkion [ICON_Gold] kultana. -1 houkuttelevuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa merenrannan lomakohteita.[NEWLINE][NEWLINE]Tarjoaa [ICON_Tourism] turismia ruudun houkuttelevuuden edestä. Rakentaminen onnistuu ainoastaan rannan aavikko-, tasanko- ja ruohikkoruutuihin. Houkuttelevuuden tulee olla vähintään henkeäsalpaava.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa maatiloja.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa. Rakentaminen onnistuu ainoastaan ruohikolle ja tasangolle.[NEWLINE][NEWLINE]Useamman maatilan rakentaminen rinnakkain antaa lisiä asumuksien määrään.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa kaivoksia.[NEWLINE][NEWLINE]+1 [ICON_Production] tuottavuutta. -1 houkuttelevuutta. Voi rakentaa mäelle sekä soveltuvien luonnonvarojen ruutuihin.[NEWLINE][NEWLINE]Ylelliset ja strategiset luonnonvarat tulevat kaupungin hyödynnettäväksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa louhoksia.[NEWLINE][NEWLINE]+1 [ICON_Production] tuottavuutta. -1 houkuttelevuutta. Voi rakentaa ainoastaan soveltuvien luonnonvarojen ruutuihin.[NEWLINE][NEWLINE]Ylelliset luonnonvarat tulevat kaupungin hyödynnettäväksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa kalastuksia.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa. Voi rakentaa ainoastaan soveltuvien luonnonvarojen ruutuihin.[NEWLINE][NEWLINE]Ylelliset luonnonvarat tulevat kaupungin hyödynnettäväksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa laitumia.[NEWLINE][NEWLINE]+1 [ICON_Production] tuottavuutta. Voi rakentaa ainoastaan soveltuvien luonnonvarojen ruutuihin.[NEWLINE][NEWLINE]Strategiset luonnonvarat tulevat kaupungin hyödynnettäväksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa plantaaseja.[NEWLINE][NEWLINE]+2 [ICON_Gold] kultaa. Voi rakentaa ainoastaan soveltuvien luonnonvarojen ruutuihin.[NEWLINE][NEWLINE]Ylelliset luonnonvarat tulevat kaupungin hyödynnettäväksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa leirejä.[NEWLINE][NEWLINE]+1 [ICON_Gold] kultaa. Voi rakentaa ainoastaan soveltuvien luonnonvarojen ruutuihin.[NEWLINE][NEWLINE]Ylelliset luonnonvarat tulevat kaupungin hyödynnettäväksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa sahoja.[NEWLINE][NEWLINE]+1 [ICON_Production] tuottavuutta. Joen varrella +1 [ICON_Production] tuottavuutta. Voi rakentaa ainoastaan metsiin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa poraustorneja.[NEWLINE][NEWLINE]-1 houkuttelevuutta. Voi rakentaa ainoastaan maaruutuihin, joista löytyy [ICON_RESOURCE_OIL] öljyä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa porauslauttoja.[NEWLINE][NEWLINE]-1 houkuttelevuutta. Voi rakentaa ainoastaan rannikon ja järvien ruutuihin, joista löytyy [ICON_RESOURCE_OIL] öljyä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
+			<Text>Miehittävä yksikkö saa +4 [ICON_Strength] puolustusvoimakkuutta ja saavat ilmaiseksi kahden vuoron linnoittautumisedun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
+			<Text>Sallii sotilasinsinöörin rakentaa kiitoradan.[NEWLINE][NEWLINE]Kykenee ylläpitämään kolmea lentoyksikköä. Voi rakentaa ainoastaan tasaiseen maastoon. -1 houkuttelevuutta.</Text>
+		</Replace>
+		<!--Unique Improvements Description-->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa chateaun, joka on Ranskalle ominainen.[NEWLINE][NEWLINE]+2 [ICON_Culture] kulttuuria. +1 houkuttelevuutta. +2 [ICON_Culture] kulttuuria ihmeen vieressä. +1 [ICON_Gold] kultaa ylellisen luonnonvaran vieressä. Voi rakentaa ainoastaan joen rannalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa valtavan kivipään.[NEWLINE][NEWLINE]+2 [ICON_Faith] uskoa. +1 [ICON_Faith] uskoa jokaisesta kahdesta viereisestä sademetsäruudusta. +1 [ICON_Faith] uskoa jokaisesta kahdesta viereisestä metsästä. Ei voi rakentaa lumelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa Kiinan muurin, joka on Kiinalle ominainen.[NEWLINE][NEWLINE]Korottaa [ICON_Strength] puolustusta. Vierekkäiset osuudet korottavat [ICON_Gold] kultaetuja. Lisää [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia vierekkäisistä osuuksista edettäessä tekniikassa ja normeissa. Tulee rakentaa linjaan valtakunnan rajoja myöten.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa kurganin, joka on skyyteille ominainen.[NEWLINE][NEWLINE]+1 [ICON_Faith] uskoa. +1 [ICON_Gold] kultaa. +1 [ICON_Faith] uskoa jokaisesta läheisestä laitumesta. Ei voi rakentaa mäelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa lähetystön, joka on Espanjalle ominainen.[NEWLINE][NEWLINE]+2 [ICON_Faith] uskoa. +2 [ICON_Faith] uskoa muulla kuin [ICON_Capital] pääkaupungin mantereella. +2 [ICON_Science] tiedettä kampuksen vieressä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
+			<Text>Sallii legioonan rakentaa roomalaisen linnakkeen, joka on Roomalle ominainen.[NEWLINE][NEWLINE]Miehittävä yksikkö saa +4 [ICON_Strength] puolustusvoimakkuutta ja saavat ilmaiseksi kahden vuoron linnoittautumisedun.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa sfinksin, joka on Egyptille ominainen.[NEWLINE][NEWLINE]+1 [ICON_Faith] uskoa ja +1 [ICON_Culture] kulttuuria. +1 houkuttelevuutta. +2 [ICON_Faith] uskoa ihmeen vieressä. Ei voi rakentaa toisen sfinksin viereen. Voi rakentaa tulvatasangoille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa porraskaivon, joka on Intialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa ja +1 [ICON_Housing] asumuksia. +1 [ICON_Faith] uskoa pyhän paikan vieressä. +1 [ICON_Food] ruokaa maatilan vieressä. Lisää [ICON_Housing] asumuksia, [ICON_Faith] uskoa ja [ICON_Food] ruokaa edettäessä tekniikassa ja normeissa. Ei voi rakentaa mäelle eikä toisen porraskaivon viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa zigguratin, joka on Sumerille ominainen.[NEWLINE][NEWLINE]+2 [ICON_Science] tiedettä. +1 [ICON_Culture] kulttuuria joen varrella. Ei voi rakentaa mäelle.</Text>
+		</Replace>
+		<!--Goody Huts -->
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
+			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} muinaismuisto[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Saimme tiedusteluyksikön.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Yksikkömme on päivitetty.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Yksikkömme sai kokemusta.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Yksikkömme on hoivattu.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
+			<Text>[COLOR_FLOAT_SCIENCE]Yksi ilmainen tekniikka.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
+			<Text>+{1_Num} väestöä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
+			<Text>Olemme saaneet {1_Num} kpl yksiköitä: {2_Unit}</Text>
+		</Replace>
+		<!--Barbarian Camps -->
+		<Replace Language="en_US" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Replace>
+		<!--Nuclear -->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+			<Text>Sallii sotilasinsinöörin rakentaa ohjussiilon.[NEWLINE][NEWLINE]Toimii laukaisualustana ydin- ja vetypommeille.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

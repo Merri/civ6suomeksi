@@ -220,6 +220,18 @@
 		<Replace Language="en_US" Tag="LOC_UI_PEDIA_CREATED_BY">
 			<Text>Luoja:</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_ESPIONAGE_MISSIONS">
+			<Text>Vakoilutehtävät</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_TURNS">
+			<Text>Vuorot: {1_Name} (normaalilla nopeudella)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_BASE_PROBABILITY">
+			<Text>Alkutodennäköisyys: {1_Name}%</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_TARGET_DISTRICT">
+			<Text>Kohdekaupunkialue: {1_Name}</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_PEDIA_IMPROVED_BY">
 			<Text>Käyttöönotto rakenteella:</Text>
 		</Replace>
@@ -228,6 +240,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_PEDIA_REQUIRES">
 			<Text>Vaatii: {1_Name}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UI_PEDIA_VALID_RESOURCES">
+			<Text>Käyvät luonnonvarat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
 			<Text>{1_ActionName} ({2_ChargeAmount} {2_ChargeAmount : plural 1?työstö; other?työstöä;})</Text>

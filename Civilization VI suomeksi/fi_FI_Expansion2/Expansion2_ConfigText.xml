@@ -24,6 +24,31 @@
 		<Replace Language="en_US" Tag="LOC_VICTORY_DIPLOMATIC_TEXT">
 			<Text>Harmonia ja rauha ovat yliajaneet sodan ja väkivallan. Ihmisten väliset erilaisuudet ja erimielisyydet voi aina ratkaista hyvällä tahdolla. Kun kamppailut ovat nyt takana päin, mitä lie kunniaa jaettu tulevaisuus tuokaan muassaan?</Text>
 		</Replace>
+		<!-- New Maps -->
+		<Replace Language="en_US" Tag="LOC_MAP_CONTINENTS_ISLANDS_NAME">
+			<Text>Mantereet ja saaret</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_PRIMORDIAL_NAME">
+			<Text>Alkukantainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SPLINTERED_FRACTAL_NAME">
+			<Text>Takkuinen fraktaali</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TILTED_AXIS_NAME">
+			<Text>Kallistunut akseli</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_CONTINENTS_ISLANDS_DESCRIPTION">
+			<Text>Jokusia saarten ympäröimiä suurempia maa-alueita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_PRIMORDIAL_DESCRIPTION">
+			<Text>Varhaisen maailman kartta, jonka mantereet ja saaret ovat yllätyksellisiä. Olot ovat epävakaat usein esiintyvien rannikon aakeiden laakeiden, että tulivuorten vuoksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SPLINTERED_FRACTAL_DESCRIPTION">
+			<Text>Erittäin satunnainen kartta, joka tuottaa runsaasti kapeita, kiemurtelevia mantereita ja saaria.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TILTED_AXIS_DESCRIPTION">
+			<Text>Napa-alueisiin keskittynyt mannerkartta.</Text>
+		</Replace>
 		<!--America-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION2_DESCRIPTION">
 			<Text>Kaikki nykyisen hallinnon diplomaattisten linjausten paikat muutetaan villeiksi korteiksi. +1 [ICON_FAVOR] diplomaattista suosiota vuorossa jokaisesta hallinnon villin kortin paikasta.</Text>
@@ -45,7 +70,7 @@
 			<Text>Jääkiekkokenttä|jääkiekkokenttä|jääkiekkokentän</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ICE_HOCKEY_RINK_DESCRIPTION">
-			<Text>Mahdollistaa rakentajan luoda jääkiekkokaukaloita, jotka ovat Kanadalle ominaisia.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] elintasoa. +1 [ICON_CULTURE] kulttuuria jokaisesta viereisestä tundra-, tundramäki-, lumi ja lumimäkiruudusta. Tarjoaa [ICON_Tourism] turismia kulttuurista lentämisen kehittämisen jälkeen. +2 [ICON_FOOD] ruokaa ja [ICON_PRODUCTION] tuottavuutta ammattiurheilun kehittämisen jälkeen. +4 [ICON_CULTURE] kulttuuria jos vieressä on stadion. Voidaan rakentaa tundralle, tundramäelle, lumelle ja lumimäelle. Yksi per kaupunki. +2 houkuttelevuutta.</Text>
+			<Text>Mahdollistaa rakentajan luoda jääkiekkokaukaloita, jotka ovat Kanadalle ominaisia.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] elintasoa. +1 [ICON_CULTURE] kulttuuria jokaisesta viereisestä tundra-, tundramäki-, lumi ja lumimäkiruudusta. Tarjoaa [ICON_Tourism] turismia kulttuurista lentämisen kehittämisen jälkeen. +2 [ICON_FOOD] ruokaa ja [ICON_PRODUCTION] tuotantoa ammattiurheilun kehittämisen jälkeen. +4 [ICON_CULTURE] kulttuuria jos vieressä on stadion. Voidaan rakentaa tundralle, tundramäelle, lumelle ja lumimäelle. Yksi per kaupunki. +2 houkuttelevuutta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_NAME">
 			<Text>Rauhan neljät kasvot</Text>
@@ -57,7 +82,7 @@
 			<Text>Last Best West</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_DESCRIPTION">
-			<Text>Sallii maatilojen rakentamisen tundralle. Kansalaisinsinööritaidon kehittämisen jälkeen maatiloja voi rakentaa myös mäkiselle tundralle. Lumi-, lumimäki-, tundramäki- ja tundraruutujen ostahinta on 50% normaalista. +100% kertymistahti kerrytettävistä luonnonvaroista lumi-, lumimäki-, tundramäki- ja tundraruuduista.</Text>
+			<Text>Sallii maatilojen rakentamisen tundralle. Kansalaisinsinööritaidon kehittämisen jälkeen maatiloja voi rakentaa myös mäkiselle tundralle. Lumi-, lumimäki-, tundramäki- ja tundraruutujen kaivokset antavat +1 [ICON_PRODUCTION] tuotantoa, sahat +1 [ICON_PRODUCTION] tuotantoa, leirit +1 [ICON_FOOD] ruokaa ja +100% strategisten luonnonvarojen kertymistahdille. Mainittujen ruutujen ostaminen on 50% edullisempaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_CANADA_MOUNTIE_NAME">
 			<Text>Ratsupoliisi|ratsupoliisi|ratsupoliisin|ratsupoliisiksi</Text>
@@ -70,14 +95,14 @@
 			<Text>Maailman työpaja</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION">
-			<Text>Rauta- ja hiilikaivokset kertyvät yhdellä enemmän vuoroa kohden. +100% [ICON_PRODUCTION] tuottavuutta sotilasinsinöörien kouluttamiseen. Sotilasinsinöörit saavat +2 työstöä. Rakennukset joille [ICON_POWER] virta tarjoaa lisää tuottoa saavat +2 kyseistä tuottoa.</Text>
+			<Text>Rauta- ja hiilikaivosten tuotto kertyy kahdella enemmän vuoroa kohden. +100% [ICON_PRODUCTION] tuotantoa sotilasinsinöörien kouluttamiseen. Sotilasinsinöörit saavat +2 työstöä. Rakennukset joille [ICON_POWER] virta tarjoaa lisää tuottoa saavat +2 kyseistä tuottoa. +20% [ICON_PRODUCTION] tuotantoa teollisuusalueen rakennuksille. Satamien rakennukset kasvattavat strategisten resurssien kokonaisvarantoa +10:llä standardinopeulla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
-			<Text>Ilmainen meleeyksikkö ja lisäys kauppareittien kapasiteettiin perustettaessa ensimmäistä kaupunkia uudelle mantereelle, joka ei ole kansan kotimanner. Kuninkaallisen laivaston telakan valmistaminen tarjoaa kopion vahvimmasta rakennettavissa olevasta meriyksiköstä. Punatakki tulee saataville sotatieteen kehittämisen myötä.</Text>
+			<Text>Ilmainen meleeyksikkö ja lisäys [ICON_TradeRoute] kauppareittien kapasiteettiin perustettaessa ensimmäistä kaupunkia uudelle mantereelle, joka ei ole kansan kotimanner. Kuninkaallisen laivaston telakan valmistaminen tarjoaa kopion vahvimmasta rakennettavissa olevasta meriyksiköstä. Punatakki tulee saataville sotatieteen kehittämisen myötä.</Text>
 		</Replace>
 		<!--Egypt-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITERU_EXPANSION2_DESCRIPTION">
-			<Text>+15% [ICON_Production] tuottavuutta kaupunkialueille ja ihmeille, mikäli joen varrella. Ei vahingoitu tulvissa.</Text>
+			<Text>+15% [ICON_Production] tuotantoa kaupunkialueille ja ihmeille, mikäli joen varrella. Ei vahingoitu tulvissa.</Text>
 		</Replace>
 		<!--Eleanor-->
 		<Replace Language="en_US" Tag="LOC_LEADER_ELEANOR_NAME">
@@ -88,6 +113,10 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_DESCRIPTION">
 			<Text>Eleonooran kaupungeissa sijaitsevat merkkiteokset aiheuttavat -1 uskollisuutta 9 ruudun sisällä oleviin ulkomaisiin kaupunkeihin. Kaupunki joka itsenäistyy toisesta kansakunnasta uskollisuuspaineen vuoksi ja saa suurimman uskollisuuspaineen Eleonooran kansalta ohittaa vapaan kaupungin vaiheen ja siirtyy suoraan Eleonooran kansakunnalle.</Text>
+		</Replace>
+		<!--Georgia-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
+			<Text>Ponnistuksen valinta kulta- ja sankarkausien alussa tuottaa normaalikauden edun kohden kausipisteitä toisen edun lisäksi. +50% [ICON_Production] tuotantoa kohden puolustusrakennelmia.</Text>
 		</Replace>
 		<!--Hungary-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HUNGARY_NAME">
@@ -106,19 +135,19 @@
 			<Text>Lämpökylpylä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_THERMAL_BATH_DESCRIPTION">
-			<Text>Unkarille ominainen rakennus. +2 [ICON_AMENITIES] elintasoa ja +2 [ICON_PRODUCTION] tuottavuutta yltäen jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan. Nämä edut kohdistetaan kaupungille vain kertaalleen, joten useampi rakennus kuuden ruudun sisällä kaupungin keskustasta ei tuota lisähyötyä.[NEWLINE][NEWLINE]Tämä kaupunki saa +3 [ICON_TOURISM] turismia ja toiset +2 [ICON_AMENITIES] elintasoa mikäli kaupungin rajojen sisältä löytyy geoterminen halkeama.</Text>
+			<Text>Unkarille ominainen rakennus. +2 [ICON_AMENITIES] elintasoa ja +2 [ICON_PRODUCTION] tuotantoa yltäen jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan. Nämä edut kohdistetaan kaupungille vain kertaalleen, joten useampi rakennus kuuden ruudun sisällä kaupungin keskustasta ei tuota lisähyötyä.[NEWLINE][NEWLINE]Tämä kaupunki saa +3 [ICON_TOURISM] turismia ja toiset +2 [ICON_AMENITIES] elintasoa mikäli kaupungin rajojen sisältä löytyy geoterminen halkeama.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_NAME">
 			<Text>Tonavan helmi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_DESCRIPTION">
-			<Text>+50% [ICON_PRODUCTION] tuottavuutta kaupunkialueille ja rakennuksille, jotka rakennetaan joen toiselle puolelle kaupungin keskustasta katsoen.</Text>
+			<Text>+50% [ICON_PRODUCTION] tuotantoa kaupunkialueille ja rakennuksille, jotka rakennetaan joen toiselle puolelle kaupungin keskustasta katsoen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RAVEN_KING_NAME">
 			<Text>Korppikuningas</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_RAVEN_KING_DESCRIPTION">
-			<Text>Värvätyt yksiköt saavat kyvyn, joka antaa niille +2 [ICON_Movement] liikkuvuutta ja +5 [ICON_Strength] taisteluvoimakkuutta. Värvättyjen yksiköiden päivittäminen ei vaadi [ICON_GOLD] kultaa eikä luonnonvaroja. Yksiköiden värvääminen kaupunkivaltiosta tarjoaa 2 [ICON_ENVOY] edustajaa kyseiseen kaupunkivaltioon. Musta armeija tulee saataville linnojen keksimisen myötä.</Text>
+			<Text>Värvätyt yksiköt saavat kyvyn, joka antaa niille +2 [ICON_Movement] liikkuvuutta ja +5 [ICON_Strength] taisteluvoimakkuutta. Värvättyjen yksiköiden päivittäminen vaatii 75% vähemmän [ICON_GOLD] kultaa ja luonnonvaroja. Yksiköiden värvääminen kaupunkivaltiosta tarjoaa 2 [ICON_ENVOY] edustajaa kyseiseen kaupunkivaltioon. Musta armeija tulee saataville linnojen keksimisen myötä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_NAME">
 			<Text>Musta armeija|musta armeija|mustan armeijan|mustaksi armeijaksi</Text>
@@ -148,7 +177,7 @@
 			<Text>Mit’a</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_DESCRIPTION">
-			<Text>Asukkaat voivat työstää vuoriruutuja. Vuoriruudut tarjoavat +2 [ICON_PRODUCTION] tuottavuutta. +1 [ICON_FOOD] ruokaa vuoriruuduille jokaisesta viereisestä pengerviljelmästä.</Text>
+			<Text>Asukkaat voivat työstää vuoriruutuja. Vuoriruudut tarjoavat +2 [ICON_PRODUCTION] tuotantoa. +1 [ICON_FOOD] ruokaa vuoriruuduille jokaisesta viereisestä pengerviljelmästä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_PACHACUTI_NAME">
 			<Text>Pachacuti</Text>
@@ -157,7 +186,7 @@
 			<Text>Pengerviljelmä|pengerviljelmä|pengerviljelmän</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION">
-			<Text>Antaa rakentajille kyvyn rakentaa pengerviljelmiä, jotka ovat inkoille ominaisia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ruokaa. Tarjoaa +1 [ICON_Housing] asumuksia joka toisesta pengerviljelmästä. +1 [ICON_FOOD] ruokaa jokaisesta läheisestä vuoriruudusta. Jokainen viereinen akvedukti antaa +2 [ICON_PRODUCTION] tuottavuutta. +1 [ICON_PRODUCTION] tuottavuutta mikäli lähellä makeaa vettä ja vieressä ei ole akveduktia. Lisää [ICON_FOOD] ruokaa läheisistä pengerviljelmistä edistyttäessä tekniikoissa ja normeissa. Voidaan sijoittaa ruohikon mäelle, tasangon mäelle ja aavikon mäelle.</Text>
+			<Text>Antaa rakentajille kyvyn rakentaa pengerviljelmiä, jotka ovat inkoille ominaisia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ruokaa. Tarjoaa +1 [ICON_Housing] asumuksia joka toisesta pengerviljelmästä. +1 [ICON_FOOD] ruokaa jokaisesta läheisestä vuoriruudusta. Jokainen viereinen akvedukti antaa +2 [ICON_PRODUCTION] tuotantoa. +1 [ICON_PRODUCTION] tuotantoa mikäli lähellä makeaa vettä ja vieressä ei ole akveduktia. Lisää [ICON_FOOD] ruokaa läheisistä pengerviljelmistä edistyttäessä tekniikoissa ja normeissa. Voidaan sijoittaa ruohikon mäelle, tasangon mäelle ja aavikon mäelle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_INCA_WARAKAQ_NAME">
 			<Text>Warak’aq|warak’aq|warak’aqin|warak’aqiksi</Text>
@@ -175,7 +204,7 @@
 			<Text>Qhapaq ñan|qhapaq ñan|qhapaq ñanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_DESCRIPTION">
-			<Text>Antaa rakentajille kyvyn rakentaa qhapaq ñanin, joka on Pachacutille ominainen.[NEWLINE][NEWLINE]Toimii liikkumisen portaalina vuoristossa mahdollistaen yksiköiden siirtymisen siihen ja poistumisen toisesta portaalista kuluttaen 2 [ICON_Movement] liikepistettä. Voi rakentaa ainoastaan viereiseen vuoriruutuun. Ei voida ryövätä tai poistaa.</Text>
+			<Text>Antaa rakentajille kyvyn rakentaa qhapaq ñanin, joka on Pachacutille ominainen.[NEWLINE][NEWLINE]Toimii liikkumisen portaalina vuoristossa mahdollistaen yksiköiden siirtymisen siihen ja poistumisen toisesta portaalista kuluttaen 2 [ICON_Movement] liikepistettä. Lävitse kulkevat [ICON_TradeRoute] kauppareitit voivat moninkertaistaa kohteensa kaupunkialueiden perusteella saamansa [ICON_Gold] kullan. Voi rakentaa ainoastaan viereiseen vuoriruutuun. Ei voida ryövätä tai poistaa.</Text>
 		</Replace>
 		<!--Mali-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MALI_NAME">
@@ -191,7 +220,7 @@
 			<Text>Jelien laulut</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_DESCRIPTION">
-			<Text>Kaupungin keskustat saavat +1 [ICON_FAITH] uskoa ja +1 [ICON_FOOD] ruokaa jokaisesta läheisestä aavikkomäki- ja aavikkoruudusta. Kaivokset saavat -1 [ICON_PRODUCTION] tuottavuutta ja +4 [ICON_GOLD] kultaa. Voivat ostaa kaupallisen keskuksen rakennuksia [ICON_Faith] uskolla. -30% [ICON_PRODUCTION] tuottavuutta rakennusten rakentamiseen ja yksiköiden kouluttamiseen.</Text>
+			<Text>Kaupungin keskustat saavat +1 [ICON_FAITH] uskoa ja +1 [ICON_FOOD] ruokaa jokaisesta läheisestä aavikkomäki- ja aavikkoruudusta. Kaivokset saavat -1 [ICON_PRODUCTION] tuotantoa ja +4 [ICON_GOLD] kultaa. Voivat ostaa kaupallisen keskuksen rakennuksia [ICON_Faith] uskolla. -30% [ICON_PRODUCTION] tuotantoa rakennusten rakentamiseen ja yksiköiden kouluttamiseen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_MANSA_MUSA_NAME">
 			<Text>Mansa Musa</Text>
@@ -228,7 +257,7 @@
 			<Text>Mana</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_DESCRIPTION">
-			<Text>Aloittaa pelin purjehduksella ja laivanrakennuksella, sekä kyvyllä ylittää meriruutuja. Uitossa olevat yksiköt saavat +2 [ICON_Movement] liikkuvuutta. Rakenteettomat metsät ja sademetsät saavat +1 [ICON_PRODUCTION] tuottavuutta, josta tulee +2 ympäristönsuojelun kehittämisen myötä. Kalastajat tarjoavat +1 [ICON_FOOD] ruokaa ja kulttuuripommittavat viereiset ruudut. Ei voi poistaa luonnonvaroja ruuduista. Ei saa [ICON_GreatWriter] merkittäviä kirjailijoita.</Text>
+			<Text>Aloittaa pelin purjehduksella ja laivanrakennuksella, sekä kyvyllä ylittää meriruutuja. Uitossa olevat yksiköt saavat +2 [ICON_Movement] liikkuvuutta. Rakenteettomat metsät ja sademetsät saavat +1 [ICON_PRODUCTION] tuotantoa. Lisäksi merkantilismi tarjoaa +1 [ICON_PRODUCTION] tuotantoa ja ympäristönsuojelu +2 [ICON_PRODUCTION] tuotantoa. Kalastajat tarjoavat +1 [ICON_FOOD] ruokaa ja kulttuuripommittavat viereiset ruudut. Ei voi poistaa luonnonvaroja ruuduista. Ei saa [ICON_GreatWriter] merkittäviä kirjailijoita.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_KUPE_NAME">
 			<Text>Kupe</Text>
@@ -243,7 +272,7 @@
 			<Text>Marae|marae|maraen|maraeksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_MARAE_DESCRIPTION">
-			<Text>Maoreille ominainen rakennus. +2 [ICON_CULTURE] kulttuuria ja [ICON_FAITH] uskoa jokaiselle kaupungin kulkukelpoiselle luonnonpiirteen ja luonnonihmeen ruudulle. Lentämisen kehittämisen myötä +2 [ICON_TOURISM] turismia jokaiselle kaupungin luonnonpiirteen ja luonnonihmeen ruudulle. Ei ylläpitokustannusta. Ei sisällä paikkoja merkkiteoksille.</Text>
+			<Text>Maoreille ominainen rakennus. +1 [ICON_CULTURE] kulttuuria ja [ICON_FAITH] uskoa jokaiselle kaupungin kulkukelpoiselle luonnonpiirteen ja luonnonihmeen ruudulle. Lentämisen kehittämisen myötä +1 [ICON_TOURISM] turismia jokaiselle kaupungin luonnonpiirteen ja luonnonihmeen ruudulle. Ei ylläpitokustannusta. Ei sisällä paikkoja merkkiteoksille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MAORI_TOA_NAME">
 			<Text>Toa|toa|toan|toaksi</Text>
@@ -255,7 +284,11 @@
 			<Text>Pa|pa|pa'n|pa'ksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MAORI_PA_DESCRIPTION">
-			<Text>Antaa toalle kyvyn rakentaa pa, joka on maoreille ominainen.[NEWLINE][NEWLINE]Miehittävä yksikkö saa +4 [ICON_Strength] puolustusvoimakkuutta ja ilmaiseksi 2 vuoron edestä kertyvää linnoittautumisetua. Pa'ta miehittävä maoriyksikkö hoivaantuu vaikka se liikkuisi tai hyökkäisi.</Text>
+			<Text>Antaa toalle kyvyn rakentaa pa, joka on maoreille ominainen.[NEWLINE][NEWLINE]Miehittävä yksikkö saa +4 [ICON_Strength] puolustusvoimakkuutta ja ilmaiseksi 2 vuoron edestä kertyvää linnoittautumisetua. Pa'ta miehittävä maoriyksikkö hoivaantuu vaikka se liikkuisi tai hyökkäisi. Rakennettava mäelle.</Text>
+		</Replace>
+		<!--Netherlands-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
+			<Text>Merkittävä läheisyysetu kampuksille, teatteriaukioille ja teollisuusalueille joen varrella. Sataman valmistuminen kulttuuripommittaa sataman viereiset ruudut pelaajan omistukseen. +50% [ICON_PRODUCTION] tuotantoa patojen ja tulvavallien rakentamiseen.</Text>
 		</Replace>
 		<!--Ottomans-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_OTTOMAN_NAME">
@@ -271,7 +304,7 @@
 			<Text>Mahtava turkkilainen bombardi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuottavuutta piiritysyksiköille. Kaikki piiritysyksiköt saavat +5 [ICON_Strength] taisteluvoimakkuutta kaupunkialueiden puolustuksia vastaan. Vallatut kaupungit eivät menetä [ICON_Citizen] väestöä. Muiden kuin osmanien kaupungit saavat +1 [ICON_AMENITIES] elintasoa ja +4 uskollisuutta vuorossa.</Text>
+			<Text>+50% [ICON_Production] tuotantoa piiritysyksiköille. Kaikki piiritysyksiköt saavat +5 [ICON_Strength] taisteluvoimakkuutta kaupunkialueiden puolustuksia vastaan. Vallatut kaupungit eivät menetä [ICON_Citizen] väestöä. Muiden kuin osmanien kaupungit saavat +1 [ICON_AMENITIES] elintasoa ja +4 uskollisuutta vuorossa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_SULEIMAN_NAME">
 			<Text>Suleiman</Text>
@@ -323,13 +356,13 @@
 			<Text>Karthagon perustaja</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_DESCRIPTION">
-			<Text>Kykenee siirtämään pääkaupunkinsa kothonin sisältävään kaupunkiin suorittamalla siellä erityisen projektin. +1 [ICON_TradeRoute] kauppareittien kapasiteettiin jokaisesta hallinnon edustuksen kaupunkialueesta ja sen rakennuksesta. +50% [ICON_Production] tuottavuutta kaupunkialueiden valmistumiseen kaupungissa, jossa on hallinnon edustus.</Text>
+			<Text>Kykenee siirtämään alkuperäisen pääkaupunkinsa mihin tahansa perustamaansa kothonin sisältävään kaupunkiin suorittamalla siellä erityisen projektin. +1 [ICON_TradeRoute] kauppareittien kapasiteettiin jokaisesta hallinnon edustuksen kaupunkialueesta ja sen rakennuksesta. +50% [ICON_Production] tuotantoa kaupunkialueiden valmistumiseen kaupungissa, jossa on hallinnon edustus.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_COTHON_NAME">
 			<Text>Kothon|kothon|kothonin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_COTHON_DESCRIPTION">
-			<Text>Foinikialle ominainen merellisten toimintojen kaupunkialue. Korvaa sataman ja on edullisempi rakentaa. Tulee rakentaa rannikolle tai maata vierustavaan järviruutuun.[NEWLINE][NEWLINE]+50% [ICON_PRODUCTION] tuottavuutta meriyksiköiden ja uudisasuttajien valmistamiseen kaupungissa. Kaupungin alueilla sijaitsevat vahingoittuneet meriyksiköt hoivaantuvat +100 KP joka vuoro.</Text>
+			<Text>Foinikialle ominainen merellisten toimintojen kaupunkialue. Korvaa sataman ja on edullisempi rakentaa. Tulee rakentaa rannikolle tai maata vierustavaan järviruutuun.[NEWLINE][NEWLINE]+50% [ICON_PRODUCTION] tuotantoa meriyksiköiden ja uudisasuttajien valmistamiseen kaupungissa. Kaupungin alueilla sijaitsevat vahingoittuneet meriyksiköt hoivaantuvat +100 KP joka vuoro.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_PHOENICIA_BIREME_NAME">
 			<Text>Dieeri|dieeri|dieerin|dieeriksi</Text>
@@ -338,8 +371,11 @@
 			<Text>Foinikian oma muinaisen ajan yksikkö, joka korvaa kaleerin. Suurempi [ICON_Strength] taisteluvoimakkuus ja [ICON_Movement] liikkuvuus. Kauppureita ei voida ryöstää, mikäli ne ovat vesiruudussa neljän ruudun sisällä dieeristä.</Text>
 		</Replace>
 		<!--India-->
+		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_EXPANSION2_DESCRIPTION">
+			<Text>Seuraajauskomuksen edut vaikuttavat kaupungeissa kunkin uskonnon osalta, mikäli sillä on kaupungissa vähintään yksi noudattaja. Kaupungit saavat [ICON_Amenities] elintasoa jokaisesta uskonnosta, jolla on ainakin 1 seuraaja. Lähetyssaarnaajilla on +2 levitystä. +100% uskonnollinen paine omista [ICON_TradeRoute] kauppareiteistä.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_STEPWELL_EXPANSION2_DESCRIPTION">
-			<Text>Antaa rakentajille kyvyn rakentaa porraskaivon, joka on Intialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa ja +1 [ICON_Housing] asumuksia. +1 [ICON_Faith] uskoa pyhän paikan läheisyydestä. +1 [ICON_Food] ruokaa maatilan läheisyydestä. Estää [ICON_Food] ruuan menetyksen kuivuuden aikana. Ei voi rakentaa mäelle eikä toisen porraskaivon viereen.</Text>
+			<Text>Antaa rakentajille kyvyn rakentaa porraskaivon, joka on Intialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa ja +1 [ICON_Housing] asumuksia. +1 [ICON_Faith] uskoa pyhän paikan läheisyydestä. +1 [ICON_Food] ruokaa maatilan läheisyydestä. Lisää [ICON_Housing] asumuksia, [ICON_Faith] uskoa ja [ICON_Food] ruokaa edettäessä tekniikassa ja normeissa. Estää [ICON_Food] ruuan menetyksen kuivuuden aikana. Ei voi rakentaa mäelle eikä toisen porraskaivon viereen.</Text>
 		</Replace>
 		<!--Japan-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION">
@@ -347,6 +383,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_EXPANSION2_DESCRIPTION">
 			<Text>+5 [ICON_Faith] uskoa ja +1 [ICON_Favor] diplomaattista suosiota vuorossa jokaisesta kohtaamastaan kansasta (Intia mukaanlukien), jotka ovat muodostaneet uskonnon eikä ole sodassa häntä vastaan. Viholliskansakunnat kärsivät kaksinkertaisesta sotaväsymyksestä taistellessaan Gandhia vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_EXPANSION2_DESCRIPTION">
+			<Text>Japanin oma rakennus. +4 [ICON_Culture] kulttuuria tälle kaupungille sähkön kehittämisen jälkeen. Rakennuksen [ICON_Production] tuottavuusetu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan ja se on kertaluonteinen jokaista kaupunkia kohden: toinen elektroniikkatehdas ei kasvata vaikutusta.</Text>
 		</Replace>
 		<!--Qin-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_EXPANSION2_DESCRIPTION">
@@ -356,9 +395,12 @@
 		<Replace Language="en_US" Tag="LOC_DISTRICT_BATH_EXPANSION2_DESCRIPTION">
 			<Text>Roomalle ominainen kaupunkialue kasvua varten. Korvaa akveduktin ja on edullisempi valmistaa.[NEWLINE][NEWLINE]Tarjoaa kaupungille makean veden lähteen läheisestä joesta, järvestä, keitaasta tai vuoresta. Kaupungit joilla ei ole ennestään makeaa vettä saavat jopa 6 [ICON_Housing] asumusta. Kaupungit joilla on jo makeaa vettä saavat +2 [ICON_Housing] asumusta. +1 [ICON_Amenities] elintasoa rakennettaessa geotermisen halkeaman lähelle. Jokaisessa tapauksessa kylpylä antaa myös +2 [ICON_Housing] asumuksia ja +1 [ICON_Amenities] elintasoa. Estää [ICON_Food] ruuan menettämisen kuivuuden aikana. Tulee rakentaa kaupungin keskustan viereen.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_BATH_EXPANSION2_ALT_DESCRIPTION">
+			<Text>Roomalle ominainen kaupunkialue kasvua varten. Korvaa akveduktin ja on edullisempi valmistaa.[NEWLINE][NEWLINE]Tarjoaa kaupungille makean veden lähteen läheisestä joesta, järvestä, keitaasta tai vuoresta. Kaupungit joilla ei ole ennestään makeaa vettä saavat jopa 6 [ICON_Housing] asumusta. Kaupungit joilla on jo makeaa vettä saavat +2 [ICON_Housing] asumusta. +1 [ICON_Amenities] elintasoa rakennettaessa geotermisen halkeaman lähelle. Jokaisessa tapauksessa kylpylä antaa myös +2 [ICON_Housing] asumuksia ja +1 [ICON_Amenities] elintasoa. Estää [ICON_Food] ruuan menettämisen kuivuuden aikana. Tulee rakentaa kaupungin keskustan viereen. Sotilasinsinöörit voivat käyttää työstön edistääkseen valmistumista 20% kylpylän rakennuskustannuksesta.</Text>
+		</Replace>
 		<!--Russia-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_EXPANSION2_DESCRIPTION">
-			<Text>Ylimääräisiä alueita kaupungin perustamisesta. +1 [ICON_Faith] uskoa ja +1 [ICON_Production] tuottavuutta tundrasta. Yksiköt eivät kärsi vahinkoa lumimyrskyistä. Venäjää vastaan sodassa olevat kansat kärsivät +100% vahinkoa yksiköilleen Venäjän alueilla tapahtuvista lumimyrskyistä.</Text>
+			<Text>Ylimääräisiä alueita kaupungin perustamisesta. +1 [ICON_Faith] uskoa ja +1 [ICON_Production] tuotantoa tundrasta. Yksiköt eivät kärsi vahinkoa lumimyrskyistä. Venäjää vastaan sodassa olevat kansat kärsivät +100% vahinkoa yksiköilleen Venäjän alueilla tapahtuvista lumimyrskyistä.</Text>
 		</Replace>
 		<!--Sweden-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SWEDEN_NAME">
@@ -374,7 +416,7 @@
 			<Text>Nobel-palkinto</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_DESCRIPTION">
-			<Text>Ruotsi saa 50 [ICON_Favor] diplomaattista suosiota värvetessään merkittävän henkilön. Ruotsi saa +1 [ICON_GreatEngineer] merkittävien insinöörien pistettä tehtaista ja +1 [ICON_GreatScientist] merkittävien tieteentekijöiden pistettä yliopistoista. Ruotsin mukanaolo pelissä lisää kolme ylimääräistä maailmankongressin kilpailua, jotka saavat alkunsa teollisella ajalla.</Text>
+			<Text>Ruotsi saa 50 [ICON_Favor] diplomaattista suosiota värvetessään merkittävän henkilön (normaalilla nopeudella). Ruotsi saa +1 [ICON_GreatEngineer] merkittävien insinöörien pistettä tehtaista ja +1 [ICON_GreatScientist] merkittävien tieteentekijöiden pistettä yliopistoista. Ruotsin mukanaolo pelissä lisää kolme ylimääräistä maailmankongressin kilpailua, jotka saavat alkunsa teollisella ajalla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_KRISTINA_NAME">
 			<Text>Kristiina</Text>
@@ -424,6 +466,9 @@
 			<Text>Brasilian oma kaupunkialue. Korvaa viihdekompleksin ja tarjoaa +2 [ICON_Amenities] elintasoa. Mahdollistaa myös karnivaaliprojektin, joka tarjoaa +1 [ICON_Amenities] elintasoa ollessaan työn alla sekä monenlaisia [ICON_GreatPerson] merkittävien henkilöiden pisteitä valmistuessaan. Ei voi rakentaa kaupunkiin, jossa on copacabana.</Text>
 		</Replace>
 		<!-- China -->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GREAT_WALL_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa Kiinan muurin, joka on Kiinalle ominainen.[NEWLINE][NEWLINE]+2 [ICON_GOLD] kultaa. Korottaa [ICON_Strength] puolustusta. Vierekkäiset osuudet korottavat [ICON_Gold] kultaetuja. Lisää [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia vierekkäisistä osuuksista edettäessä tekniikassa ja normeissa. Tulee rakentaa linjaan valtakunnan rajoja myöten. Voi vahingoittua (ei tuhoutua) ainoastaan luonnon toimesta.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION2_DESCRIPTION">
 			<Text>[ICON_TechBoosted] Heurekat ja [ICON_CivicBoosted] inspiraatiot tarjoavat 50% tehosteen normeille tai tekniikoille 40% sijasta.</Text>
 		</Replace>
@@ -431,9 +476,19 @@
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION2_DESCRIPTION">
 			<Text>Egyptin [ICON_TradeRoute] kauppareitit muihin kansakuntiin saavat +4 [ICON_Gold] kultaa. Muiden kansakuntien [ICON_TradeRoute] kauppareitit Egyptiin tarjoavat +2 [ICON_Food] ruokaa heille ja +2 [ICON_Gold] kultaa Egyptille. Kaupankäynti liittolaisten kanssa antaa tuplasti liittolaispisteitä.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SPHINX_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa sfinksin, joka on Egyptille ominainen.[NEWLINE][NEWLINE]+1 [ICON_Faith] uskoa ja +1 [ICON_Culture] kulttuuria. +2 houkuttelevuutta. +2 [ICON_Faith] uskoa ihmeen vieressä. +1 [ICON_Culture] kulttuuria tulvatasangolla. Lisää [ICON_CULTURE] culttuuria luonnonhistorian kehittämisen myötä. Tarjoaa [ICON_TOURISM] turismia lentämisen kehittämisen myötä. Ei voi rakentaa lumelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_EXPANSION2_DESCRIPTION">
+			<Text>Egyptin muinaisuuden heittoaseyksikkö. 4 [ICON_Movement] liikkuvuutta aloittaessaan avoimessa maastossa.</Text>
+		</Replace>
 		<!-- England -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION2_DESCRIPTION">
 			<Text>Englannin oma sataman korvaava kaupunkialue. Poistaa ruudussaan uittoon siirtymisestä aiheutuvan [ICON_Movement] liikehaitan. Tulee rakentaa maan vierustamaan rannikko- tai järviruutuun.[NEWLINE][NEWLINE]+1 [ICON_Movement] liikkuvuutta kaikille telakalla valmistetuille laivoille[NEWLINE]+2 [ICON_Gold] kultaa ja +4 uskollisuutta vuorossa muilla kuin kotimantereella. Ei voi rakentaa riutalle.</Text>
+		</Replace>
+		<!-- France -->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa chateaun, joka on Ranskalle ominainen.[NEWLINE][NEWLINE]+2 [ICON_Culture] kulttuuria. +1 houkuttelevuutta. +1 [ICON_Culture] kulttuuria ihmeen vieressä (+2 lentämisen kehittämisen myötä). +1 [ICON_Gold] kultaa ylellisen luonnonvaran vieressä. Tarjoaa [ICON_TOURISM] turismia lentämisen kehittämisen myötä. Voi rakentaa ainoastaan joen rannalle.</Text>
 		</Replace>
 		<!-- Gilgamesh-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION2_DESCRIPTION">
@@ -441,7 +496,11 @@
 		</Replace>
 		<!-- Mongolia -->
 		<Replace Language="en_US" Tag="LOC_BUILDING_ORDU_EXPANSION2_DESCRIPTION">
-			<Text>Mongolien oma rakennus. Antaa kaikille tässä kaupungissa koulutetuille raskaan ja kevyen ratsuluokan yksiköille +1 [ICON_MOVEMENT] liikkuvuutta. +25% etua taistelukokemuksen kertymiseen kaikille tässä kaupungissa koulutetuille ratsuluokan yksiköille.[NEWLINE]Strategisten luonnonvarojen varastot kasvavat +10.[NEWLINE][NEWLINE]Ei voi rakentaa varuskuntaan, josta löytyy jo parakit.</Text>
+			<Text>Mongolien oma rakennus. Antaa kaikille tässä kaupungissa koulutetuille raskaan ja kevyen ratsuluokan yksiköille +1 [ICON_MOVEMENT] liikkuvuutta. +25% etua taistelukokemuksen kertymiseen kaikille tässä kaupungissa koulutetuille ratsuluokan yksiköille.[NEWLINE]Strategisten luonnonvarojen varastot kasvavat +10 (normaalilla nopeudella).[NEWLINE][NEWLINE]Ei voi rakentaa varuskuntaan, josta löytyy jo parakit.</Text>
+		</Replace>
+		<!-- Norway -->
+		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rannikon ryöväilyn kaikille meleelaivoille ja +50% [ICON_PRODUCTION] tuotantoa kaikille meleelaivoille. Ryöväily ja rannikkoryöväily tuottaa [ICON_SCIENCE] tiedettä [ICON_GOLD] kullan lisäksi. Louhosten, laitumien, plantaasien ja leirien ryöväily ja rannikkoryöväily tuottaa [ICON_CULTURE] kulttuuria [ICON_FAITH] uskon lisäksi. Voi rakentaa viikinkien pitkäveneen purjehduksen kehittämisen myötä.</Text>
 		</Replace>
 		<!-- Spain -->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION2_DESCRIPTION">
@@ -449,6 +508,13 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_EXPANSION2_DESCRIPTION">
 			<Text>Inkvisiittorit voivat poistaa kerettiläisyyden kerran useammin. Inkvisiittorit poistavat 100% muiden uskojen vaikutuksesta. Taisteluyksiköillä on +4 [ICON_Strength] taisteluvoiman etu muita uskontoja noudattavia pelaajia vastaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa lähetystön, joka on Espanjalle ominainen.[NEWLINE][NEWLINE]+2 [ICON_Faith] uskoa. +2 [ICON_Faith] uskoa, +1 [ICON_Production] tuotantoa ja +1 [ICON_Food] ruokaa muulla kuin [ICON_Capital] pääkaupungin mantereella. +1 [ICON_Science] tiedettä jokaisesta viereisestä kampuksesta ja pyhästä paikasta. Lisää [ICON_Science] tiedettä kulttuuriperinnön kehittämisen myötä.</Text>
+		</Replace>
+		<!-- German -->
+		<Replace Language="en_US" Tag="LOC_DISTRICT_HANSA_EXPANSION2_DESCRIPTION">
+			<Text>Saksalle ominainen teollisen toiminnan kaupunkialue. Korvaa teollisuusalueen ja on edullisempi valmistaa.[NEWLINE][NEWLINE]+ 2[ICON_Production] tuotantoetua jokaisesta viereisestä kaupallisesta keskuksesta, akveduktista, kanaalista ja padosta. +1 [ICON_Production] tuotantoetua jokaisesta viereisestä luonnonvarasta. +1 [ICON_Production] tuotantoetua jokaisesta kahdesta viereisestä kaupunkialueesta.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

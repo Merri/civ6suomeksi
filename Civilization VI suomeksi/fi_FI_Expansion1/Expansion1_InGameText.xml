@@ -38,6 +38,9 @@
 		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_NAVAL_UNITS_DESC">
 			<Text>-{1_Value} heikommasta kyvystä meriyksiköitä vastaan</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
+			<Text>Miehitetty</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_LOYALTY">
 			<Text>Uskollisuus</Text>
 		</Replace>
@@ -52,6 +55,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_GOVERNORS">
 			<Text>Elintaso käskynhaltijoilta:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_CITY_OCCUPIED_LOYALITY_STATUS">
+			<Text>Miehitetty: {1_LoyalityStatus}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NO_GOVERNORS_TITLE_AVAILABLE">
+			<Text>Ei käskynhaltijoiden virkoja</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNORS_TITLE">
 			<Text>KÄSKYNHALTIJAT</Text>
@@ -399,7 +408,7 @@
 			<Text>Sysätty vallasta:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED_TURNS_REMAINING">
-			<Text>({1_Turns} {1_Turns : plural 1?vuoro; other?vuoroa;})</Text>
+			<Text>(vielä {1_Turns} {1_Turns : plural 1?vuoro; other?vuoroa;})</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_CANDIDATE">
 			<Text>Käskynhaltijaehdokas</Text>
@@ -784,31 +793,46 @@
 			<Text>Alppitreeni</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION">
-			<Text>Vierailtuaan Matterhornin lähellä maataisteluyksiköt saavat +3 [ICON_Strength] taisteluvoimakkuutta taisteluihin mäellä, sekä kykenevät kulkemaan mäkisessä maastossa nopeammin.</Text>
+			<Text>+3 [ICON_Strength] taisteluvoimakkuutta taisteluihin mäellä ja mäkinen maasto ei hidasta kulkemista (Matterhorn)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ALPINE_TRAINING_COMBAT_HILLS_MODIFIER_DESCRIPTION">
-			<Text>+{1_Amount} taisteluvoimakkuutta mäellä taistellessa</Text>
+			<Text>+3 [ICON_Strength] taisteluvoimakkuutta mäellä taistellessa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_RECEIVE_BOMBARD_STRENGTH_BUFF_DESCRIPTION">
-			<Text>+{1_Amount} tulivoimaa tukevista yksiköistä</Text>
+			<Text>+5 [ICON_Bombard] tulivoimaa tukevista yksiköistä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_SCOTTISH_HIGHLANDER_DESCRIPTION">
-			<Text>+{1_Amount} taisteluvoimakkuusetua mäillä ja metsissä.</Text>
+			<Text>+5 [ICON_Strength] taisteluvoimakkuusetua mäillä ja metsissä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Jakaa [ICON_Movement] liikkuvuutensa saattamilleen siviileille ja tukiyksiköille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_GEORGIAN_KHEVSURETI_DESCRIPTION">
-			<Text>+{1_Amount} taisteluvoimakkuusetua mäkisessä maastossa.</Text>
+			<Text>+7 [ICON_Strength] taisteluvoimakkuusetua mäkisessä maastossa.[NEWLINE][ICON_Bullet]Ei haittaa [ICON_Movement] liikkuvuudelle maaston mäkisyydestä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_MAPUCHE_MALON_RAIDER_DESCRIPTION">
-			<Text>+{1_Amount} taisteluvoimakkuusetua ollessa korkeintaan neljän ruudun päässä ystävällisistä maista.</Text>
+			<Text>+5 [ICON_Strength] taisteluvoimakkuusetua ollessa korkeintaan neljän ruudun päässä ystävällisistä maista.[NEWLINE][ICON_Bullet]Ryöväily maksaa 1 [ICON_Movement] liikepisteen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_PREVIEW_ZEVEN_PROVINCIEN_DESCRIPTION">
-			<Text>+{1_Amount} puolustavia kaupunkialueita vastaan</Text>
+			<Text>+7 [ICON_Strength] taisteluvoimakkuutta puolustavia kaupunkialueita vastaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_DUTCH_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>+7 [ICON_Strength] taisteluvoimakkuutta hyökätessä puolustavia kaupunkialueita vastaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>Aloittaa yhdellä ilmaisella ylennyksellä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ZULU_IMPI_DESCRIPTION">
+			<Text>+100% sivustaetu.[NEWLINE][ICON_Bullet]Kokemus karttuu 25% nopeammin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_NAME">
 			<Text>Mongoliaro</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_DESCRIPTION">
 			<Text>+1 [ICON_Movement] liikkuvuutta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_ORDU_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% taistelukokemusta (Ordu)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_NAME">
 			<Text>Taloudellinen kultakausi</Text>
@@ -820,13 +844,37 @@
 			<Text>Inkvisitio</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_DESCRIPTION">
-			<Text>+{1_Amount} uskonnollista taisteluvoimakkuutta ystävällisillä mailla.</Text>
+			<Text>+15 uskonnollista taisteluvoimakkuutta ystävällisillä mailla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_NAME">
 			<Text>Hämärän ajan urhoollisuus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_DESCRIPTION">
-			<Text>+{1_Amount} taisteluvoimakkuutta kaikille hyökkääville meleeyksiköille.</Text>
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta kaikille hyökkääville meleeyksiköille.</Text>
+		</Replace>
+		<Replace Language="en_US"  Tag="LOC_ABILITY_GRANT_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>Tarjoaa +1 [ICON_Movement] liikkuvuutta yksiköille, jotka aloittavat liikkumisensa korkeintaan yhden ruudun päästä.</Text>
+		</Replace>
+		<Replace Language="en_US"  Tag="LOC_ABILITY_PARADROP_DESCRIPTION">
+			<Text>Voi hypätä ystävällisestä ruudusta 7 ruudun etäisyydelle (12 ruudun lähdettäessä lentoasemalta tai kiitoradalta).</Text>
+		</Replace>
+		<Replace Language="en_US"  Tag="LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_DESCRIPTION">
+			<Text>Taistelemisesta +25% kokemuksen karttumiseen (Toqui)</Text>
+		</Replace>
+		<Replace Language="en_US"  Tag="LOC_ABILITY_TOQUI_COMBAT_BUFF_VS_GOLDEN_AGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta kultakaudella olevia kansakuntia vastaan.[NEWLINE] </Text>
+		</Replace>
+		<Replace Language="en_US"  Tag="LOC_ABILITY_TIMUR_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>Taistelemisesta +25% kokemuksen karttumiseen (Timur)</Text>
+		</Replace>
+		<Replace Language="en_US"  Tag="LOC_ABILITY_DRONE_GRANT_SIEGE_BONUS_DESCRIPTION">
+			<Text>Tarjoaa +5 [ICON_Bombard] tulitusvoimaa piiritysluokan yksiköille yhden ruudun päähän.</Text>
+		</Replace>
+		<Replace Language="en_US"  Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
+			<Text>+3 [ICON_Strength] taisteluvoimakkuutta (mongoliratsut).</Text>
+		</Replace>
+		<Replace Language="en_US"  Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
+			<Text>Kyky kaapata voitetut ratsuyksiköt (mongoliratsut).</Text>
 		</Replace>
 		<!-- Feature -->
 		<Replace Language="en_US" Tag="LOC_FEATURE_REEF_NAME">
@@ -1844,7 +1892,7 @@
 			<Text>Kaupunkipuisto|kaupunkipuisto|kaupunkipuiston</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
-			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on puistojen ja vapaa-ajan ylennys. +1 [ICON_Culture] kulttuuria ja +2 houkuttelevuutta. +1 [ICON_Amenities] elintasoa mikäli veden vieressä. Ei voi rakentaa toisen kaupunkipuiston viereen.</Text>
+			<Text>[ICON_Governor] Käskynhaltijan oma rakenne, joka voidaan rakentaa kun kaupungissa on käskynhaltija, jolla on puistojen ja vapaa-ajan ylennys. +1 [ICON_Culture] kulttuuria ja +2 houkuttelevuutta. +1 [ICON_Amenities] elintasoa mikäli veden vieressä. Ei voi rakentaa toisen kaupunginpuiston viereen.</Text>
 		</Replace>
 		<!-- MISC -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NOT_ABLE_TO_DECLARE_SURPRISE_WAR">
@@ -1852,6 +1900,16 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
 			<Text>Pyhän paikan omaavat kaupunkimme puskevat painetta kuten pyhät kaupungit (nelinkertainen uskonnon paine kaikkiin kymmenen ruudun sisällä oleviin kaupunkeihin).</Text>
+		</Replace>
+		<!-- Type Traits-->
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] käskynhaltijapistettä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS_WITH_REQUIREMENT">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] käskynhaltijapistettä (vaatii: {2_TechOrCivicName})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_REQUIRES_GOVERNMENT_TIER">
+			<Text>Vaadittu käskynhaltijan taso: {1_GovernmentTier}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

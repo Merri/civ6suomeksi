@@ -900,11 +900,26 @@
 		<Replace Language="en_US" Tag="LOC_MAP_ISLAND_PLATES">
 			<Text>Saarimassat</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_LAKES">
+			<Text>Järvet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_MIRROR">
+			<Text>Peilattu</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_PANGAEA">
 			<Text>Pangaia</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SEVEN_SEAS">
+			<Text>Seitsemän merta</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_SMALL_CONTINENTS">
+			<Text>Pienet mantereet</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_SHUFFLE">
 			<Text>Sekoitus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_MAP_TERRA">
+			<Text>Terra</Text>
 		</Replace>
 		<!-- Map Sizes -->
 		<Replace Language="en_US" Tag="LOC_MAP_SIZE">
