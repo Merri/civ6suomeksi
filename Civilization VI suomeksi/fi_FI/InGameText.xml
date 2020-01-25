@@ -1494,7 +1494,7 @@
 			<Text>{1_Feature} poistetaan ruudusta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_FOUND_CITY_WILL_REMOVE_FEATURE">
-			<Text>Haluammeko rakentaa kaupunkialueen tähän?</Text>
+			<Text>Ruudussa oleva piirre poistetaan. Haluammeko silti rakentaa kaupungin tähän?</Text>
 		</Replace>
 		<!-- TODO: Add reason strings here -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ZONE_CONFIRM_DISTRICT_POPUP">

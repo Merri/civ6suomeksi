@@ -513,7 +513,7 @@
 			<Text>Halikarnassoksen mausoleumi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_HALICARNASSUS_MAUSOLEUM_DESCRIPTION">
-			<Text>Antaa ilmaisen [ICON_GREATADMIRAL] merkittävän amiraalin valmistuessaan.[NEWLINE][NEWLINE]Kaikki [ICON_GREATADMIRAL] merkittävät amiraalit kykenevät käyttämään eläköitymiskykynsä yhden ylimääräisen kerran ja [ICON_GREATENGINEER] merkittävät insinöörit saavat yhden ylimääräisen työstön. Tulee rakentaa sataman viereen.</Text>
+			<Text>+1 [ICON_Science] tiedettä, +1 [ICON_Faith] uskoa ja +1 [ICON_Culture] kulttuuria kaikille kaupungin rannikkoruuduille. [ICON_GREATENGINEER] Merkittävät insinöörit saavat yhden ylimääräisen työstön. Tulee rakentaa sataman viereen.</Text>
 		</Replace>
 		<!-- Diplo Text-->
 		<Replace Language="en_US" Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_AT_WAR">

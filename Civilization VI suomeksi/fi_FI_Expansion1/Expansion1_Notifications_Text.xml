@@ -191,7 +191,7 @@
 			<Text>Meitä vastaan kohdistettu hätätila onnistui tavoitteissaan ja meitä vastaan toimineet on palkittu.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_SUMMARY">
-			<Text>{1_CivName} on hävinnyt hätätilasta itseään vastaan ja hätätilan julistaneet on palkittu.</Text>
+			<Text>{1_CivName} on hävinnyt hätätilansa, hätätilan julistaneet on palkittu.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_UNKNOWN_TARGET_SUMMARY">
 			<Text>Tuntematonta pelaajaa vastaan kohdistettu hätätila onnistui.</Text>

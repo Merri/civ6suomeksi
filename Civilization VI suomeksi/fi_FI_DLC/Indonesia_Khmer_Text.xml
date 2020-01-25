@@ -468,6 +468,12 @@
 		<Replace Language="en_US" Tag="LOC_PROMOTION_JONG_DESCRIPTION">
 			<Text>+{1_Amount} etu muodostelmassa</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_JONG_DESCRIPTION">
+			<Text>+5 taisteluvoimakkuuteen muodostelmassa.[NEWLINE][ICON_Bullet]Muodostelman yksiköt jakavat Jongin liikkuvuuden.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_GITARJA_RELIGIOUS_NO_EMBARK_DISEMBARK_COST_DESCRIPTION">
+			<Text>Ei liikkumismaksua siirtymisestä uittoon ja rantautumisesta. (Gitarja)</Text>
+		</Replace>
 		<!-- World Wonders -->
 		<Replace Language="en_US" Tag="LOC_BUILDING_ANGKOR_WAT_NAME">
 			<Text>Angkor Wat|Angkor Wat|Angkor Watin</Text>

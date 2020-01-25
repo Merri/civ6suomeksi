@@ -85,12 +85,21 @@
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
 			<Text>Tehostus muun kuin vapaan kaupungin valtauksessa: [ICON_TechBoosted] heureka jokaisesta vallatun kaupungin varuskunnasta ja kampuksesta, sekä [ICON_CivicBoosted] inspiraatio jokaisesta pyhästä paikasta ja teatteriaukiosta.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION">
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta piiritettäessä kaupunkialuetta.[NEWLINE][ICON_Bullet] +50% tukietu.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_HETAIROI_DESCRIPTION">
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta merkittävän kenraalin lähellä.[NEWLINE][ICON_Bullet] +5 merkittävien kenraalien pistettä vihollisyksikön tuhoamisesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% kokemusta taistelemisesta. (Basilikoì paîdes)</Text>
+		</Replace>
 		<!-- Expansion 2 -->
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION">
 			<Text>+2 [ICON_Movement] liikkuvuutta ensimmäisten 10 vuoron sisällä yllätyssodan julistamisesta toiselle suurelle kansakunnalle. +5 uskollisuutta vuorossa miehitetyissä kaupungeissa, joissa on yksikkö. Yllätyssodan julistaminen lasketaan ainoastaan muodollisen sodan tasoiseksi [ICON_STAT_GRIEVANCE] kaunojen ja sodanlietsonnan osalta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
-			<Text>Makedonian oma rakennus. +25% taisteluvoimakkuutta kaikille tässä kaupungissa valmistuville melee-, heittoase- ja heitaroi-yksiköille. Tämä kaupunki antaa [ICON_SCIENCE] tiedettä vastaten 25% yksikön koulutuskustannuksista kun muu kuin siviiliyksikkö valmistuu kaupungissa.[NEWLINE][NEWLINE]Strategisten luonnonvarojen varastot kasvavat +10:llä.[NEWLINE][NEWLINE]Ei voi rakentaa varuskuntaan, josta löytyy jo talli.</Text>
+			<Text>Makedonian oma rakennus. +25% taisteluvoimakkuutta kaikille tässä kaupungissa valmistuville melee-, heittoase- ja heitaroi-yksiköille. Tämä kaupunki antaa [ICON_SCIENCE] tiedettä vastaten 25% yksikön koulutuskustannuksista kun muu kuin siviiliyksikkö valmistuu kaupungissa.[NEWLINE][NEWLINE]Strategisten luonnonvarojen varastot kasvavat +10:llä (normaalilla nopeudella).[NEWLINE][NEWLINE]Ei voi rakentaa varuskuntaan, josta löytyy jo talli.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

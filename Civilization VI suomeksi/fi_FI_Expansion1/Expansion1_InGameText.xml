@@ -1011,6 +1011,9 @@
 		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_FREE_CITIES">
 			<Text>Itsenäistymisen kaipuusta</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ALWAYS_LOYAL">
+			<Text>Aina täysin uskollinen</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
 			<Text>Paine lähiseutujen [ICON_Citizen] asukkaista</Text>
 		</Replace>
