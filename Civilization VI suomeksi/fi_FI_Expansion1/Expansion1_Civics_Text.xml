@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Policy Names -->
+		<Replace Language="en_US" Tag="LOC_POLICY_AUTOCRACY_NAME">
+			<Text>Itsevaltiaan perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_OLIGARCHY_NAME">
+			<Text>Oligarkin perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CLASSICAL_REPUBLIC_NAME">
+			<Text>Tasavaltalaisen perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MONARCHY_NAME">
+			<Text>Monarkin perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_THEOCRACY_NAME">
+			<Text>Teokraatin perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MERCHANT_REPUBLIC_NAME">
+			<Text>Meritokraatin perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FASCISM_NAME">
+			<Text>Fasistin perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COMMUNISM_NAME">
+			<Text>Kommunistin perintö</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_DEMOCRACY_NAME">
+			<Text>Demokraatin perintö</Text>
+		</Replace>
+		<!-- Policies -->
+		<Replace Language="en_US" Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
+			<Text>Toimen jälkeinen info</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
+			<Text>Kaikki yksiköt saavat +25% taistelukokemusta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>Liittolaisten kaupunkeihin osoittamamme [ICON_TradeRoute] kauppareitit tarjoavat +4 [ICON_Food] ruokaa ja +4 [ICON_Production] tuotantoa molemmille kaupungeille. Liittolaispisteet kasvavat +0,25 pisteellä vuorossa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CIVIL_PRESTIGE_NAME">
+			<Text>Ylevä kansalaisuus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_CIVIL_PRESTIGE_DESCRIPTION">
+			<Text>Vähintään kaksi ylennystä omaavat asettuneet [ICON_GOVERNOR] käskynhaltijat tarjoavat +1 [ICON_Amenities] elintasoa ja +2 [ICON_Housing] asumusta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>+15% nopeampi kasvu ja 3 uskollisuutta vuorossa kaupungeille, jotka eivät ole alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>+25% [ICON_Gold] kultaa ja +10% [ICON_PRODUCTION] tuotantoa kaupungeille, jotka eivät ole alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_NAME">
+			<Text>Viestintätoimisto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_DESCRIPTION">
+			<Text>+1 uskollisuutta vuorossa [ICON_Governor] käskynhaltijan omista ylennyksistä kaupungilleen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>Lisää [ICON_Gold] kultaa kaupallisten keskusten rakennuksista: +50% jos kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän, +50% jos kaupunkialueella on vähintään +4 läheisyyseduista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>Lisää [ICON_Culture] kulttuuria teatteriaukioiden rakennuksista: +50% jos kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän, +50% jos kaupunkialueella on vähintään +3 läheisyyseduista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LIMITANEI_NAME">
+			<Text>Limitanei</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LIMITANEI_DESCRIPTION">
+			<Text>+2 uskollisuutta vuorossa yksiköiden vartioimille kaupungeille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Sotaväsymystä kertyy 25% vähemmän. +2 uskollisuutta vuorossa yksiköiden vartioimille kaupungeille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Vihollisvakoilijoiden taso on 2 alhaisempi maillamme. Kaikki kaupungit kuitenkin kärsivät -2 uskollisuutta vuorossa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PRAETORIUM_NAME">
+			<Text>Pretorio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PRAETORIUM_DESCRIPTION">
+			<Text>[ICON_Governor] Käskynhaltijat tarjoavat +2 uskollisuutta kaupungeilleen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>Lisää [ICON_Science] tiedettä kampusten rakennuksista: +50% jos kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän, +50% jos kaupunkialueella on vähintään +3 läheisyyseduista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
+			<Text>Kyky toiseen iskuun</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_DESCRIPTION">
+			<Text>Ydinaseiden ylläpito vaatii 50% vähemmän [ICON_Gold] kultaa vuorossa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Lisää [ICON_Faith] uskoa pyhien paikkojen rakennuksista: +50% jos kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän, +50% jos kaupunkialueella on vähintään +3 läheisyyseduista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_WISSELBANKEN_NAME">
+			<Text>Wisselbanken</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_WISSELBANKEN_DESCRIPTION">
+			<Text>Liittolaisten kaupunkeihin osoittamamme [ICON_TradeRoute] kauppareitit tarjoavat +2 [ICON_Food] ruokaa ja +2 [ICON_Production] tuotantoa molemmille kaupungeille. Liittolaispisteet kasvavat +0,25 pisteellä vuorossa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MONASTICISM_NAME">
+			<Text>Luostarilaitos</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TWILIGHT_VALOR_NAME">
+			<Text>Viimehetken kunnia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INQUISITION_NAME">
+			<Text>Inkvisitio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ISOLATIONISM_NAME">
+			<Text>Isolaatio</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LETTERS_OF_MARQUE_NAME">
+			<Text>Palautusluvat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ROBBER_BARONS_NAME">
+			<Text>Ryöväriparonit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ELITE_FORCES_NAME">
+			<Text>Eliittijoukot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVISM_NAME">
+			<Text>Kollektivismi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ROGUE_STATE_NAME">
+			<Text>Oman tien kulkija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MONASTICISM_DESCRIPTION">
+			<Text>+75% [ICON_Science] tiedettä pyhän paikan sisältävissä kaupungeissa.[NEWLINE]MUTTA: -25% [ICON_Culture] kulttuuria kaikissa kaupungeissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TWILIGHT_VALOR_DESCRIPTION">
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta kaikille hyökkääville meleeyksiköille.[NEWLINE]MUTTA: ei voi hoivata omien maiden ulkopuolella.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_INQUISITION_DESCRIPTION">
+			<Text>Inkvisiition aloitus vaatii 1 apostolin levityksen. Kaikki uskonnolliset yksiköt saavat +15 [ICON_Religion] uskonnollista taisteluvoimakkuutta ystävällisillä mailla.[NEWLINE]MUTTA: -25% [ICON_Science] tiedettä kaikissa kaupungeissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ISOLATIONISM_DESCRIPTION">
+			<Text>Kansalliset reitit tarjoavat +2 [ICON_Food] ruokaa, +2 [ICON_Production] tuotantoa.[NEWLINE]MUTTA: ei uudisasuttajia eikä mahdollisuutta perustaa kaupunkeja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_LETTERS_OF_MARQUE_DESCRIPTION">
+			<Text>Meriryövärit: +100% [ICON_Production] tuotantoa, +2 [ICON_Movement] liikkuvuutta. Kauppareittien ryöväämisestä kaksinkertaiset tuotot.[NEWLINE]MUTTA: [ICON_TradeRoute] Kauppareittien tuotot -50%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ROBBER_BARONS_DESCRIPTION">
+			<Text>+50% [ICON_Gold] kultaa pörssin sisältävissä kaupungeissa. +25% [ICON_Production] tuotantoa tehtaan sisältävissä kaupungeissa.[NEWLINE]MUTTA: -2 [ICON_Amenities] elintasoa kaikissa kaupungeissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ELITE_FORCES_DESCRIPTION">
+			<Text>+100% taistelukokemusta kaikille yksiköille.[NEWLINE]MUTTA: +2 [ICON_Gold] kultaa kunkin taistelu- ja vakoilijayksikön ylläpitokuluihin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
+			<Text>Maatiloille +1 [ICON_Food] ruokaa. Kaikille kaupungeille +2 [ICON_Housing] asumusta. +100% teollisuusalueen läheisyyseduille.[NEWLINE]MUTTA: [ICON_GreatPerson] merkittävien henkilöiden pisteet karttuvat 50% hitaammin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
+			<Text>+50% [ICON_Production] tuotantoa ydinaseprojekteille ja ydinaseille.[NEWLINE]MUTTA: ei vaikutusvallan kertymää kohden [ICON_Envoy] lähettiläiden saamista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
+			<Text>Tuotot ryöväilystä ja rannikon ryöväilystä pvat +100%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_RAID_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Tuotot ryöväilystä ja rannikon ryöväilystä ovat +50%.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_MILITARY_RESEARCH_EXPANSION1_DESCRIPTION">
+			<Text>Sotilasakatemiat, meriportit ja renessanssin muurit tuottavat +2 [ICON_Science] tiedettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_PUBLIC_TRANSPORT_EXPANSION1_DESCRIPTION">
+			<Text>Maatilan korvaaminen lähiöllä antaa 100 [ICON_Gold] kultaa per ruudun houkuttelevuuden taso.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
+			<Text>+2 [ICON_Production] tuotantoa ja +5 [ICON_Gold] kultaa kaikille [ICON_TradeRoute] kauppareiteille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
+			<Text>Tuotot ryöväilystä ja rannikon ryöväilystä ovat +100%. +50% palkkio [ICON_TradeRoute] kauppareittien ryöväämisestä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Tuotot ryöväilystä, rannikon ryöväilystä ja [ICON_TradeRoute] kauppareittien ryöväilystä ovat +50%.</Text>
+		</Replace>
+		<!-- Updated from base game -->
+		<Replace Language="en_US" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Sallii kolmen samanlaisen yksikön yhdistämisen armeijaksi tai armadaksi. Mahdollistaa uuden Casus Bellin sodanjulistukseen: aluelaajennossota.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

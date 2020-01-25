@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="20">
+<Mod id="8ED00BF3-99F6-4360-81BF-709791A90FBF" version="21">
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -111,8 +111,12 @@
 			<Properties>
 				<LoadOrder>20</LoadOrder>
 			</Properties>
+			<File>fi_FI_Expansion1/Expansion1_Buildings_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Civics_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_InGameText.xml</File>
@@ -128,8 +132,12 @@
 				<LoadOrder>30</LoadOrder>
 			</Properties>
 			<!-- Rise & Fall -->
+			<File>fi_FI_Expansion1/Expansion1_Buildings_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Civics_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_InGameText.xml</File>
@@ -230,8 +238,12 @@
 			<Properties>
 				<LoadOrder>20</LoadOrder>
 			</Properties>
+			<File>fi_FI_Expansion1/Expansion1_Buildings_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Civics_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_InGameText.xml</File>
@@ -247,8 +259,12 @@
 				<LoadOrder>30</LoadOrder>
 			</Properties>
 			<!-- Rise & Fall -->
+			<File>fi_FI_Expansion1/Expansion1_Buildings_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Civics_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>fi_FI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
 			<File>fi_FI_Expansion1/Expansion1_InGameText.xml</File>
@@ -355,8 +371,12 @@
 		<File>fi_FI/Wars_Text.xml</File>
 		<File>fi_FI/WorldBuilder_Text.xml</File>
 		<!-- Rise & Fall -->
+		<File>fi_FI_Expansion1/Expansion1_Buildings_Text.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_CityNames_Text.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_Civics_Text.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_ConfigText.xml</File>
+		<File>fi_FI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_Districts_Text.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_Eras_Text.xml</File>
 		<File>fi_FI_Expansion1/Expansion1_InGameText.xml</File>

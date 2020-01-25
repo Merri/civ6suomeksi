@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Government Buildings -->
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_TALL_NAME">
+			<Text>Julkinen neuvosto|julkinen neuvosto|julkisen neuvoston</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_WIDE_NAME">
+			<Text>Perinnetorppa|perinnetorppa|perinnetorpan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
+			<Text>Sotaherran valtaistuin|sotaherran valtaistuin|sotaherran valtaistuimen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_FAITH_NAME">
+			<Text>Suurmestarin kappeli|suurmestarin kappeli|suurmestarin kappelin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
+			<Text>Ulkoministöriö|ulkoministeriö|ulkoministeriön</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SPIES_NAME">
+			<Text>Tiedustelupalvelu|tiedustelupalvelu|tiedustelupalvelun</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_MILITARY_NAME">
+			<Text>Sotajaosto|sotajaosto|sotajaoston</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CULTURE_NAME">
+			<Text>Luonnonhistorian museo|luonnonhistorian museo|luonnonhistorian museon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
+			<Text>Kuninkaallinen yhteisö|kuninkaallinen yhteisö|kuninkaallisen yhteisön</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] elintasoa ja +3 [ICON_Housing] asumusta [ICON_Governor] käskynhaltijoiden kaupungeille[NEWLINE]-2 uskollisuutta [ICON_Governor] käskynhaltijattomissa kaupungeissa.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
+			<Text>+50% [ICON_Production] tuottavuutta uudisasuttajiin tässä kaupungissa.[NEWLINE]Uudet kaupungit saavat ilmaisen rakentajan.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
+			<Text>Viholliskaupungin valtaaminen antaa 20% edun [ICON_Production] tuotantoon kaikissa kaupungeissa viiden vuoron ajaksi.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
+			<Text>Kaupunkivaltioiden joukkojen värväys vaatii vain puolet [ICON_Gold] kullastaan.[NEWLINE]Kaupunkivaltioiden yksiköt saavat +4 [ICON_Strength] taisteluvoimakkuutta ollessamme valta-asemassa kaupunkivaltioon (mukaanlukien värvätyt yksiköt).[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="GOV_CITYSTATES_LEVIED_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+4 ulkoministeriöstä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+4 ulkoministeriöstä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
+			<Text>+1 vakoilija ja vakoilijoiden kapasiteetti.[NEWLINE]Kaikki vakoilutoimet onnistuvat todennäköisemmin.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
+			<Text>Mahdollistaa maayksiköiden ostamisen [ICON_Faith] uskolla.[NEWLINE]Rakenteiden ja kaupunkialueiden ryövääminen tuottaa enemmän [ICON_Faith] uskoa.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
+			<Text>Kaikki yksiköt hoivaantuvat jopa 20 osumapisteellä päihittäessään yksikön.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
+			<Text>Tarjoaa 4 paikkaa kaikenlaisille merkkiteoksille.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
+			<Text>Rakentajat saavat kyvyn käyttää kaikki työstönsä antaakseen [ICON_Production] tuotantoetua kaupunkialueen projektille kerran vuorossa kaupunkia kohden.[NEWLINE]Palkitsee yhdellä [Icon_Governor] käskynhaltijan viralla.</Text>
+		</Replace>
+		<!-- Water Entertainment Complex Buildings -->
+		<Replace Language="en_US" Tag="LOC_BUILDING_FERRIS_WHEEL_NAME">
+			<Text>Maailmanpyörä|maailmanpyörä|maailmanpyörän</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_FERRIS_WHEEL_DESCRIPTION">
+			<Text>+2 [ICON_Tourism] turismia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_AQUARIUM_NAME">
+			<Text>Akvaario|akvaario|akvaarion</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
+			<Text>Edut [ICON_Amenities] elintasoon yltävät jokaiseen 9 ruudun sisällä olevaan kaupungin keskustaan. Etu toimii vain kerran kaupunkia kohden, joten useampi rakennus 9 ruudun sisällä ei tuota kertaantuvia etuja. +1 [ICON_SCIENCE] tiedettä jokaiselle tämän kaupungin rannikon luonnonvaralle, hylylle ja riutalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
+			<Text>Akvaariokeskus|akvaariokeskus|akvaariokeskuksen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
+			<Text>Edut [ICON_Amenities] elintasoon yltävät jokaiseen 9 ruudun sisällä olevaan kaupungin keskustaan. Etu toimii vain kerran kaupunkia kohden, joten useampi rakennus 9 ruudun sisällä ei tuota kertaantuvia etuja. +2 [ICON_Tourism] turismia jokaiselle kaupungin ihmeelle, joka on rannalla tai rannikolla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
+			<Text>Tarjoaa 1 [ICON_TOURISM] turismia luonnonsuojelun kehittämisen myötä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
+			<Text>Tarjoaa 1 [ICON_TOURISM] turismia luonnonsuojelun kehittämisen myötä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
+			<Text>Edut [ICON_Amenities] elintasoon yltävät jokaiseen 6 ruudun sisällä olevaan kaupungin keskustaan. Etu toimii vain kerran kaupunkia kohden, joten useampi rakennus 6 ruudun sisällä ei tuota kertaantuvia etuja. +1 [ICON_SCIENCE] tiedettä kaupungin jokaiselle ruudulle, jolla on sademetsä tai suo.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
+			<Text>Edut [ICON_Amenities] elintasoon yltävät jokaiseen 6 ruudun sisällä olevaan kaupungin keskustaan. Etu toimii vain kerran kaupunkia kohden, joten useampi rakennus 6 ruudun sisällä ei tuota kertaantuvia etuja. +2 [ICON_Tourism] turismia mikäli kaupungin [ICON_CITIZEN] väestö on 10 tai enemmän ja +5 [ICON_Tourism] turismia kaupungin [ICON_CITIZEN] väestön ollessa 20 tai enemmän.</Text>
+		</Replace>
+		<!-- Neighborhood Buildings -->
+		<Replace Language="en_US" Tag="LOC_BUILDING_FOOD_MARKET_NAME">
+			<Text>Ruokatori|ruokatori|ruokatorin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_FOOD_MARKET_DESCRIPTION">
+			<Text>Voidaan rakentaa vain kerran kaupunkia kohden, vaikka lähiöitä olisi useampi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_SHOPPING_MALL_NAME">
+			<Text>Ostoskeskus|ostoskeskus|ostoskeskuksen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_SHOPPING_MALL_DESCRIPTION">
+			<Text>+4 [ICON_Tourism] turismia. Voidaan rakentaa vain kerran kaupunkia kohden, vaikka lähiöitä olisi useampi.</Text>
+		</Replace>
+		<!-- Wonders -->
+		<Replace Language="en_US" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_NAME">
+			<Text>Amundsen-Scottin tutkimusasema|Amundsen-Scottin tutkimusasema|Amundsen-Scottin tutkimusaseman</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_DESCRIPTION">
+			<Text>+20% [ICON_SCIENCE] tiedettä ja 10% [ICON_PRODUCTION] tuotantoa kaikissa kaupungeissa. Jos pelaajan omistaman kaupungin keskustasta 3 ruudun säteellä löytyy viisi lumi- tai lumimäkiruutua, niin nämä tuotot tuplataan. Tulee rakentaa tutkimuslaboratorion sisältävään kampukseen, joka on lumi- tai lumimäkiruudussa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_NAME">
+			<Text>Casa de Contratación|Casa de Contratación|Casa de Contrataciónin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
+			<Text>3 [ICON_Governor] käskynhaltijoiden ylennystä. [ICON_Governor] Käskynhaltijalliset kaupungit jotka eivät sijaitse alkuperäisen [ICON_Capital] pääkaupungin mantereella saavatua +15% [ICON_Production] tuotantoa, +15% [ICON_Faith] uskoa ja +15% [ICON_Gold] kultaa. Tulee rakentaa hallinnon edustuksen viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>Colosseum tuottaa 2 seuraavista: [ICON_Culture] kulttuuria, uskollisuutta vuorossa ja [ICON_Amenities] elintasoa kullekin kaupungin keskustalle 6 ruudun sisällä. Tulee rakentaa tasaiselle maalle lähelle viihdekompeksia, josta löytyy areena.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Tehostus kaikille muinaisuuden ja antiikin ajan tekniikoille. Saamme satunnaisen tekniikan tehostuksen toisen pelaajan värvätessä [ICON_GreatScientist] merkittävän tieteentekijän. Tulee rakentaa tasaiselle maalle lähelle kampusta, josta löytyy kirjasto.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_KILWA_KISIWANI_NAME">
+			<Text>Kilwa Kisiwani|Kilwa Kisiwani|Kilwa Kisiwanin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
+			<Text>+3 [ICON_ENVOY] lähettilästä valmistuessa. Ollessamme valta-asemassa kaupunkivaltioon tämä kaupunki saa +15% edun kaupunkivaltion tarjoamiin tyyppietuihin. Mikäli olemme valta-asemessa kahteen tai useampaan samantyyppiseen kaupunkivaltioon vielä +15% etu annetaan kaikille kaupungeillemme. Tulee rakentaa tasaiselle ruudulle rannalla.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_KOTOKU_IN_NAME">
+			<Text>Kōtoku-in|Kōtoku-in|Kōtoku-inin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
+			<Text>+20% [ICON_Faith] uskoa kaupungille. Antaa 4 soturimunkkia.[NEWLINE][NEWLINE]Tulee rakentaa lähelle pyhää paikkaa, josta löytyy temppeli. Soturimunkit voi saada ainoastaan mikäli pelaaja on perustanut uskonnon tai mikäli pelaajalla tai kaupungilla on valtauskonto.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
+			<Text>Pyhän Vasilin katedraali|Pyhän Vasilin katedraali|Pyhän Vasilin katedraalin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] uskonnollista turismia tässä kaupungissa. +1 [ICON_Food] ruokaa, +1 [ICON_Production] tuotantoa ja +1 [ICON_Culture] kulttuuria kaikille tämän kaupungin tundraruuduille. Tulee rakentaa kaupungin keskustan viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_LIBERTY_NAME">
+			<Text>Vapaudenpatsas|Vapaudenpatsas|Vapaudenpatsaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
+			<Text>Antaa 2 uudisasuttajaa. Kaikki kaupunkimme 6 ruudun sisällä ovat aina 100% uskollisia. Tulee rakentaa rannikolle maan ja sataman viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
+			<Text>Taj Mahal|Taj Mahal|Taj Mahalin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
+			<Text>Ihmeen valmistumisen jälkeen +1 aikakauden pistettä historiallisesta hetkestä mikäli se antaisi vähintään 2 aikakauden pistettä ilman tätä ihmettä. Tulee rakentaa joen varrelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
+			<Text>Artemiin temppeli|Artemiin temppeli|Artemiin temppelin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
+			<Text>Jokainen leiri, laidun ja plantaasi 4 ruudun sisällä tarjoaa +1 [ICON_AMENITIES] elintasoa. Tulee rakentaa leirin viereen.</Text>
+		</Replace>
+		<!-- Trade balance changes -->
+		<Replace Language="en_US" Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] kauppareittien kapasiteettiin, mikäli kaupungissa ei ole majakkaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION1_DESCRIPTION">
+			<Text>+25% taistelukokemusta jokaiselle kaupungissa valmistuvalle meriyksikölle. +1 [ICON_FOOD] ruokaa kaupungin jokaiselle rannikkoruudulle. +1 [ICON_TradeRoute] kauppareittien kapasiteettiin, mikäli kaupungissa ei ole toria.</Text>
+		</Replace>
+		<!-- Other balance changes -->
+		<Replace Language="en_US" Tag="LOC_BUILDING_MONUMENT_EXPANSION1_DESCRIPTION">
+			<Text>Tarjoaa +1 uskollisuutta vuorossa kaupungille. Tarjoaa myös +1 [ICON_Culture] jos kaupunki on täysin uskollinen.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

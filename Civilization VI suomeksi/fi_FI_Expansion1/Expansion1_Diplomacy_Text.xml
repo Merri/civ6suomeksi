@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_ALLIANCE_LEVEL">
+			<Text>Taso {1_Level}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_INTEL_REPORT_ALLIANCE">
+			<Text>Tiedustelutiedot: liitto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TOOLTIP">
+			<Text>Katso nykyiset ja mahdolliset liittolaiskuviomme ja niiden vaikutukset tämän hallitsijan kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TURNS_TO_LEVEL">
+			<Text>{1_CurrentTurns} / {2_TurnsToLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_CURRENT_ALLIANCE">
+			<Text>Nykyinen liitto:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_BENEFITS_NEXT_LEVEL">
+			<Text>Seuraavan tason hyödyt:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_BENEFITS_CURRENT_LEVEL">
+			<Text>Mahdolliset liitot:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_NO_CURRENT_ALLIANCE">
+			<Text>Meillä ei ole liittoa tämän pelaajan kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_EXPIRES_IN_X_TURNS">
+			<Text>(Vanhenee [ICON_TURN] {1_Turns} vuorossa)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_OVERVIEW_EMERGENCIES">
+			<Text>Tarkastele tämän hallitsijan kanssa yhteiset hätätilat.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_EMERGENCIES_TARGET_YOU">
+			<Text>Kohdistaen meihin:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_EMERGENCIES_PARTICIPATING_YOU">
+			<Text>Osallistuen kanssamme:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_INTEL_REPORT_EMERGENCY">
+			<Text>Tiedustelutiedot: hätätila</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOACTION_EMERGENCY_TAB_TOOLTIP">
+			<Text>Hätätila</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_AT_WAR_WITH_CS">
+			<Text>[COLOR_RED]Olemme sodassa tämän kaupunkivaltion kanssa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_MAX_ALLIANCE_POINTS">
+			<Text>MAKS.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_NEED_ALLIANCE_TO_GAIN_POINTS_TT">
+			<Text>[COLOR_RED]Liittolaispisteet kertyvät ainoastaan liiton ollessa voimassa[ENDCOLOR][NEWLINE]{1_CityDetails}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ALLIANCE_FLAG_TT">
+			<Text>{1_AllianceType}[NEWLINE]Taso {2_AllianceLevel}</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
