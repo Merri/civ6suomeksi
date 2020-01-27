@@ -2374,7 +2374,7 @@
 			<Text>Kartoitus|kartoituksen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_CELESTIAL_NAVIGATION_NAME">
-			<Text>Tähtipaikannus|tähtipaikanuksen</Text>
+			<Text>Tähtipaikannus|tähtipaikannuksen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_CHEMISTRY_NAME">
 			<Text>Kemia|kemian</Text>

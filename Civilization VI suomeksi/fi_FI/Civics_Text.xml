@@ -433,7 +433,7 @@
 			<Text>Kaikki kaupunkialueen sisältävät kaupungit saavat +1 [ICON_Amenities] elintasoa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
-			<Text>+50% [ICON_Production] tuotantoa kohden puolustusrakennelmia. +1 [ICON_Housing] asumusta jokaisesta muurien tasosta.</Text>
+			<Text>+50% [ICON_Production] tuotantoa kohden puolustuksen rakennelmia. +1 [ICON_Housing] asumusta jokaisesta muurien tasosta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
 			<Text>Maataisteluyksiköitä voi ostaa uskolla. +5 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin.</Text>
@@ -668,7 +668,7 @@
 			<Text>+50% [ICON_Production] tuotantoa kohden modernin, atomi- ja informaatioajan raskaita ja kevyitä ratsuyksiköitä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_LIMES_DESCRIPTION">
-			<Text>+100% [ICON_Production] tuotantoa kohden puolustusrakennuksia.</Text>
+			<Text>+100% [ICON_Production] tuotantoa kohden puolustuksen rakennelmia.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
 			<Text>+2 [ICON_GreatWriter] merkittävien kirjailijoiden pistettä vuorossa.</Text>

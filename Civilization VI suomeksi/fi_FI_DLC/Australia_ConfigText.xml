@@ -9,7 +9,7 @@
 			<Text>Toisen puoliskon maa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
-			<Text>Rantakaupungit saavat +3 [ICON_Housing] asumuksia. Laitumet aiheuttavat kulttuuripommin. Kampukset, kaupalliset keskukset, pyhät paikat ja teatteriaukiot saavat tuottoihinsa +1 ollessaan houkuttelevuudeltaan viehättävässä ruudussa ja +3 henkeäsalpaavissa ruuduissa.</Text>
+			<Text>Rantakaupungit saavat +3 [ICON_Housing] asumusta. Laitumet aiheuttavat kulttuuripommin. Kampukset, kaupalliset keskukset, pyhät paikat ja teatteriaukiot saavat tuottoihinsa +1 ollessaan houkuttelevuudeltaan viehättävässä ruudussa ja +3 henkeäsalpaavissa ruuduissa.</Text>
 		</Replace>
 		<!-- Improvement Info-->
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">

@@ -204,7 +204,7 @@
 			<Text>Mekewap|mekewap|mekewapin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
-			<Text>Mahdollistaa creerakentajille kyvyn rakentaa mekewapin.[NEWLINE][NEWLINE]Tarjoaa +1 [ICON_PRODUCTION] tuotantoa ja +1 [ICON_Housing] asumuksia. +1 [ICON_GOLD] kultaa ylellisen luonnonvaran vieressä. +1 [ICON_FOOD] ruokaa joka toisesta vierekkäisestä hyödyllisestä luonnonvarasta. Etu [ICON_PRODUCTION] tuotantoon, [ICON_GOLD] kultaan, [ICON_FOOD] ruokaan ja [ICON_HOUSING] asumuksiin kohenee normien ja tekniikoiden kehittämisen myötä. Tulee sijoittaa hyödyllisen tai ylellisen luonnonvaran viereen. Ei voi rakentaa toisen mekewapin viereen.</Text>
+			<Text>Mahdollistaa creerakentajille kyvyn rakentaa mekewapin.[NEWLINE][NEWLINE]Tarjoaa +1 [ICON_PRODUCTION] tuotantoa ja +1 [ICON_Housing] asumusta. +1 [ICON_GOLD] kultaa ylellisen luonnonvaran vieressä. +1 [ICON_FOOD] ruokaa joka toisesta vierekkäisestä hyödyllisestä luonnonvarasta. Etu [ICON_PRODUCTION] tuotantoon, [ICON_GOLD] kultaan, [ICON_FOOD] ruokaan ja [ICON_HOUSING] asumuksiin kohenee normien ja tekniikoiden kehittämisen myötä. Tulee sijoittaa hyödyllisen tai ylellisen luonnonvaran viereen. Ei voi rakentaa toisen mekewapin viereen.</Text>
 		</Replace>
 		<!-- Robert the Bruce -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
@@ -334,7 +334,7 @@
 			<Text>Ikanda|ikanda|ikandan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
-			<Text>Varuskunnan korvaava zulujen oma kaupunkialue. Tarjoaa +1 [ICON_Housing] asumuksia. Vaadittujen normien tai tekniikoiden kehittämisen jälkeen voi saman tien kouluttaa joukko-osastoja ja armeijoja. Joukko-osastoja ja armeijoja on nopeampi kouluttaa.</Text>
+			<Text>Varuskunnan korvaava zulujen oma kaupunkialue. Tarjoaa +1 [ICON_Housing] asumusta. Vaadittujen normien tai tekniikoiden kehittämisen jälkeen voi saman tien kouluttaa joukko-osastoja ja armeijoja. Joukko-osastoja ja armeijoja on nopeampi kouluttaa.</Text>
 		</Replace>
 		<!-- Spain -->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">

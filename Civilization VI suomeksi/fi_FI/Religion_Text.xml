@@ -352,7 +352,7 @@
 			<Text>Mahdollistaa moskeijojen rakentamisen (+3 [ICON_Faith] uskoa). +1 levityskertoja lähetyssaarnaajille ja apostoleille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
-			<Text>Mahdollistaa pagodien rakentamisen (+3 [ICON_Faith] uskoa ja +1 [ICON_Housing] asumuksia).</Text>
+			<Text>Mahdollistaa pagodien rakentamisen (+3 [ICON_Faith] uskoa ja +1 [ICON_Housing] asumusta).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
 			<Text>Mahdollistaa stupien rakentamisen (+3 [ICON_Faith] uskoa ja +1 [ICON_Amenities] elintasoa).</Text>
@@ -380,7 +380,7 @@
 			<Text>[ICON_GreatWork_Relic] Muinaismuistot antavat kolminkertaisesti sekä [ICON_Faith] uskoa että [ICON_Tourism] turismia.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
-			<Text>Pyhätöt ja temppelit tarjoavat kumpainenkin +1 [ICON_Housing] asumuksia.</Text>
+			<Text>Pyhätöt ja temppelit tarjoavat kumpainenkin +1 [ICON_Housing] asumusta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
 			<Text>Mahdollistaa [ICON_Faith] uskon käyttämisen soturimunkkien koulutukseen, jotka ovat keskiaikaisia maayksiköitä ja joilla on erityiset ylennysmahdollisuudet. Ostaminen on mahdollista ainoastaan kaupungeissa, joiden pyhästä paikasta löytyy temppeli.</Text>

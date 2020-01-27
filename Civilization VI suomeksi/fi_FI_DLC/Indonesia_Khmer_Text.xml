@@ -479,7 +479,7 @@
 			<Text>Angkor Wat|Angkor Wat|Angkor Watin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_ANGKOR_WAT_DESCRIPTION">
-			<Text>+1 [ICON_Citizen] väestöä kaikkiin nykyisiin kaupunkeihin valmistuessa. +1 [ICON_Housing] asumuksia kaikkiin kaupunkeihin.[NEWLINE][NEWLINE]Tulee rakentaa akveduktin viereen.</Text>
+			<Text>+1 [ICON_Citizen] väestöä kaikkiin nykyisiin kaupunkeihin valmistuessa. +1 [ICON_Housing] asumusta kaikkiin kaupunkeihin.[NEWLINE][NEWLINE]Tulee rakentaa akveduktin viereen.</Text>
 		</Replace>
 		<!-- New adjacency bonuses-->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_NUSANTARA_FAITH">

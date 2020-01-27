@@ -284,10 +284,10 @@
 			<Text>Kaikki melee-, ratsutorjunta- ja meriyksiköt saavat +4 [ICON_Strength] taisteluvoimakkuutta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP_XP1">
-			<Text>Kaikki kaupunkialueelliset kaupungit saavat +1 [ICON_Housing] asumuksia ja +1 [ICON_Amenities] elintasoa.</Text>
+			<Text>Kaikki kaupunkialueelliset kaupungit saavat +1 [ICON_Housing] asumusta ja +1 [ICON_Amenities] elintasoa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY_XP1">
-			<Text>+1 [ICON_Housing] asumuksia per muurien taso.</Text>
+			<Text>+1 [ICON_Housing] asumusta per muurien taso.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY_XP1">
 			<Text>+5 [ICON_Religion] uskonnollista voimakkuutta uskontaistoihin.[NEWLINE]+.5 [ICON_Faith] uskoa jokaisesta [ICON_Citizen] asukkaasta [ICON_Governor] käskynhaltijoiden kaupungeista.</Text>
@@ -302,7 +302,7 @@
 			<Text>+0.6 [ICON_Production] tuottavuutta jokaisesta [ICON_Citizen] asukkaasta [ICON_Governor] käskynhaltijoiden kaupungeissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
-			<Text>+1 [ICON_Production] tuottavuutta, +1 [ICON_Housing] asumuksia kustakin kaupunkialueesta</Text>
+			<Text>+1 [ICON_Production] tuottavuutta, +1 [ICON_Housing] asumusta kustakin kaupunkialueesta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
 			<Text>+10% tuottavuutta kohden ihmeitä.</Text>

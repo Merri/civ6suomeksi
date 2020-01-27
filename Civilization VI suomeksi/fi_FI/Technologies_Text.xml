@@ -59,7 +59,7 @@
 			<Text>Mahdollistaa tutkimussopimuksen diplomatiassa. +1 [ICON_Food] ruokaa plantaaseista.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_SANITATION_DESCRIPTION">
-			<Text>Porraskaivot tarjoavat 1 [ICON_Housing] asumuksia.</Text>
+			<Text>Porraskaivot tarjoavat 1 [ICON_Housing] asumusta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
 			<Text>+2 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>

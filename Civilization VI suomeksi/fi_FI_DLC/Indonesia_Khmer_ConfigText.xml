@@ -15,7 +15,7 @@
 			<Text>Kampung|kampung|kampungin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
-			<Text>Sallii rakentajan rakentaa kampungin, joka on Indonesialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] tuottavuutta ja +1 [ICON_Housing] asumuksia. +1 [ICON_FOOD] ruokaa jokaisesta viereisestä kalastajasta. Lisää [ICON_PRODUCTION] tuottavuutta, [ICON_Housing] asumuksia ja [ICON_TOURISM] turismia edettäessä tekniikassa ja normeissa. Tulee sijoittaa rannikon tai järven ruutuun lähelle vesialueiden luonnonvaraa.</Text>
+			<Text>Sallii rakentajan rakentaa kampungin, joka on Indonesialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] tuottavuutta ja +1 [ICON_Housing] asumusta. +1 [ICON_FOOD] ruokaa jokaisesta viereisestä kalastajasta. Lisää [ICON_PRODUCTION] tuottavuutta, [ICON_Housing] asumuksia ja [ICON_TOURISM] turismia edettäessä tekniikassa ja normeissa. Tulee sijoittaa rannikon tai järven ruutuun lähelle vesialueiden luonnonvaraa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_GITARJA_NAME">
 			<Text>Gitarja</Text>
@@ -79,7 +79,7 @@
 			<Text>Kuninkaan luostarit</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION">
-			<Text>Pyhät paikat tarjoavat +2 [ICON_FOOD] ruokaa ja +1 [ICON_HOUSING] asumuksia joen varrella. Pyhät paikat aiheuttavat kulttuuripommin.</Text>
+			<Text>Pyhät paikat tarjoavat +2 [ICON_FOOD] ruokaa ja +1 [ICON_HOUSING] asumusta joen varrella. Pyhät paikat aiheuttavat kulttuuripommin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_KHMER_DOMREY_NAME">
 			<Text>Domrey|domrey|domreyn|domreyksi</Text>

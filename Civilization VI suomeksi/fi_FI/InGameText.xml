@@ -2614,7 +2614,7 @@
 			<Text>+{1_Amount} {2_Icon} {3_YieldType}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_HOUSING">
-			<Text>Tarjoaa {1_Amount:number #.#} [ICON_Housing] asumuksia</Text>
+			<Text>Tarjoaa {1_Amount:number #.#} [ICON_Housing] asumusta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_OPERATION_BUILD_IMPROVEMENT_YIELD_FROM_APPEAL">
 			<Text>Viehättävä sijainti tarjoaa +{1_Amount} {2_Icon} {3_YieldType}</Text>
@@ -4992,10 +4992,10 @@
 			<Text>Vakoilu[NEWLINE][NEWLINE]Tarkastele ja hallitse vakoilijoitamme.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_TOOLTIP">
-			<Text>Raporttilista</Text>
+			<Text>Yleisiä tietoja</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_CITY_STATUS">
-			<Text>Kaupungin tila</Text>
+			<Text>Kaupungit</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PARTIALSCREEN_REPORTS_NOTIFICATIONS">
 			<Text>Ilmoitukset</Text>
@@ -5104,7 +5104,7 @@
 			<Text>Kuvaus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_LIST_GLOBAL">
-			<Text>Kaikki:</Text>
+			<Text>Koko maailma:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GLOBAL_RESOURCES_TITLE">
 			<Text>Kaikkien luonnonvarat</Text>

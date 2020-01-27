@@ -116,7 +116,7 @@
 		</Replace>
 		<!--Georgia-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
-			<Text>Ponnistuksen valinta kulta- ja sankarkausien alussa tuottaa normaalikauden edun kohden kausipisteitä toisen edun lisäksi. +50% [ICON_Production] tuotantoa kohden puolustusrakennelmia.</Text>
+			<Text>Ponnistuksen valinta kulta- ja sankarkausien alussa tuottaa normaalikauden edun kohden kausipisteitä toisen edun lisäksi. +50% [ICON_Production] tuotantoa kohden puolustuksen rakennelmia.</Text>
 		</Replace>
 		<!--Hungary-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HUNGARY_NAME">
@@ -186,7 +186,7 @@
 			<Text>Pengerviljelmä|pengerviljelmä|pengerviljelmän</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION">
-			<Text>Antaa rakentajille kyvyn rakentaa pengerviljelmiä, jotka ovat inkoille ominaisia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ruokaa. Tarjoaa +1 [ICON_Housing] asumuksia joka toisesta pengerviljelmästä. +1 [ICON_FOOD] ruokaa jokaisesta läheisestä vuoriruudusta. Jokainen viereinen akvedukti antaa +2 [ICON_PRODUCTION] tuotantoa. +1 [ICON_PRODUCTION] tuotantoa mikäli lähellä makeaa vettä ja vieressä ei ole akveduktia. Lisää [ICON_FOOD] ruokaa läheisistä pengerviljelmistä edistyttäessä tekniikoissa ja normeissa. Voidaan sijoittaa ruohikon mäelle, tasangon mäelle ja aavikon mäelle.</Text>
+			<Text>Antaa rakentajille kyvyn rakentaa pengerviljelmiä, jotka ovat inkoille ominaisia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ruokaa. Tarjoaa +1 [ICON_Housing] asumusta joka toisesta pengerviljelmästä. +1 [ICON_FOOD] ruokaa jokaisesta läheisestä vuoriruudusta. Jokainen viereinen akvedukti antaa +2 [ICON_PRODUCTION] tuotantoa. +1 [ICON_PRODUCTION] tuotantoa mikäli lähellä makeaa vettä ja vieressä ei ole akveduktia. Lisää [ICON_FOOD] ruokaa läheisistä pengerviljelmistä edistyttäessä tekniikoissa ja normeissa. Voidaan sijoittaa ruohikon mäelle, tasangon mäelle ja aavikon mäelle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_INCA_WARAKAQ_NAME">
 			<Text>Warak’aq|warak’aq|warak’aqin|warak’aqiksi</Text>
@@ -266,7 +266,7 @@
 			<Text>Kupen merimatka</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_DESCRIPTION">
-			<Text>Aloittaa pelin meriruudussa. Saa ilmaisen rakentajan ja  +1 [ICON_Citizen] väestöä ensimmäisen kaupungin perustamisesta. Palatsi tarjoaa +3 [ICON_HOUSING] asumuksia ja +1 [ICON_AMENITIES] elintasoa. +2 [ICON_SCIENCE] tiedettä ja +2 [ICON_CULTURE] kulttuuria jokaisesta vuorosta ennen ensimmäisen kaupungin perustamista.</Text>
+			<Text>Aloittaa pelin meriruudussa. Saa ilmaisen rakentajan ja  +1 [ICON_Citizen] väestöä ensimmäisen kaupungin perustamisesta. Palatsi tarjoaa +3 [ICON_HOUSING] asumusta ja +1 [ICON_AMENITIES] elintasoa. +2 [ICON_SCIENCE] tiedettä ja +2 [ICON_CULTURE] kulttuuria jokaisesta vuorosta ennen ensimmäisen kaupungin perustamista.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_MARAE_NAME">
 			<Text>Marae|marae|maraen|maraeksi</Text>
@@ -375,7 +375,7 @@
 			<Text>Seuraajauskomuksen edut vaikuttavat kaupungeissa kunkin uskonnon osalta, mikäli sillä on kaupungissa vähintään yksi noudattaja. Kaupungit saavat [ICON_Amenities] elintasoa jokaisesta uskonnosta, jolla on ainakin 1 seuraaja. Lähetyssaarnaajilla on +2 levitystä. +100% uskonnollinen paine omista [ICON_TradeRoute] kauppareiteistä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_STEPWELL_EXPANSION2_DESCRIPTION">
-			<Text>Antaa rakentajille kyvyn rakentaa porraskaivon, joka on Intialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa ja +1 [ICON_Housing] asumuksia. +1 [ICON_Faith] uskoa pyhän paikan läheisyydestä. +1 [ICON_Food] ruokaa maatilan läheisyydestä. Lisää [ICON_Housing] asumuksia, [ICON_Faith] uskoa ja [ICON_Food] ruokaa edettäessä tekniikassa ja normeissa. Estää [ICON_Food] ruuan menetyksen kuivuuden aikana. Ei voi rakentaa mäelle eikä toisen porraskaivon viereen.</Text>
+			<Text>Antaa rakentajille kyvyn rakentaa porraskaivon, joka on Intialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa ja +1 [ICON_Housing] asumusta. +1 [ICON_Faith] uskoa pyhän paikan läheisyydestä. +1 [ICON_Food] ruokaa maatilan läheisyydestä. Lisää [ICON_Housing] asumuksia, [ICON_Faith] uskoa ja [ICON_Food] ruokaa edettäessä tekniikassa ja normeissa. Estää [ICON_Food] ruuan menetyksen kuivuuden aikana. Ei voi rakentaa mäelle eikä toisen porraskaivon viereen.</Text>
 		</Replace>
 		<!--Japan-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION">
@@ -393,10 +393,10 @@
 		</Replace>
 		<!--Rome-->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_BATH_EXPANSION2_DESCRIPTION">
-			<Text>Roomalle ominainen kaupunkialue kasvua varten. Korvaa akveduktin ja on edullisempi valmistaa.[NEWLINE][NEWLINE]Tarjoaa kaupungille makean veden lähteen läheisestä joesta, järvestä, keitaasta tai vuoresta. Kaupungit joilla ei ole ennestään makeaa vettä saavat jopa 6 [ICON_Housing] asumusta. Kaupungit joilla on jo makeaa vettä saavat +2 [ICON_Housing] asumusta. +1 [ICON_Amenities] elintasoa rakennettaessa geotermisen halkeaman lähelle. Jokaisessa tapauksessa kylpylä antaa myös +2 [ICON_Housing] asumuksia ja +1 [ICON_Amenities] elintasoa. Estää [ICON_Food] ruuan menettämisen kuivuuden aikana. Tulee rakentaa kaupungin keskustan viereen.</Text>
+			<Text>Roomalle ominainen kaupunkialue kasvua varten. Korvaa akveduktin ja on edullisempi valmistaa.[NEWLINE][NEWLINE]Tarjoaa kaupungille makean veden lähteen läheisestä joesta, järvestä, keitaasta tai vuoresta. Kaupungit joilla ei ole ennestään makeaa vettä saavat jopa 6 [ICON_Housing] asumusta. Kaupungit joilla on jo makeaa vettä saavat +2 [ICON_Housing] asumusta. +1 [ICON_Amenities] elintasoa rakennettaessa geotermisen halkeaman lähelle. Jokaisessa tapauksessa kylpylä antaa myös +2 [ICON_Housing] asumusta ja +1 [ICON_Amenities] elintasoa. Estää [ICON_Food] ruuan menettämisen kuivuuden aikana. Tulee rakentaa kaupungin keskustan viereen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_BATH_EXPANSION2_ALT_DESCRIPTION">
-			<Text>Roomalle ominainen kaupunkialue kasvua varten. Korvaa akveduktin ja on edullisempi valmistaa.[NEWLINE][NEWLINE]Tarjoaa kaupungille makean veden lähteen läheisestä joesta, järvestä, keitaasta tai vuoresta. Kaupungit joilla ei ole ennestään makeaa vettä saavat jopa 6 [ICON_Housing] asumusta. Kaupungit joilla on jo makeaa vettä saavat +2 [ICON_Housing] asumusta. +1 [ICON_Amenities] elintasoa rakennettaessa geotermisen halkeaman lähelle. Jokaisessa tapauksessa kylpylä antaa myös +2 [ICON_Housing] asumuksia ja +1 [ICON_Amenities] elintasoa. Estää [ICON_Food] ruuan menettämisen kuivuuden aikana. Tulee rakentaa kaupungin keskustan viereen. Sotilasinsinöörit voivat käyttää työstön edistääkseen valmistumista 20% kylpylän rakennuskustannuksesta.</Text>
+			<Text>Roomalle ominainen kaupunkialue kasvua varten. Korvaa akveduktin ja on edullisempi valmistaa.[NEWLINE][NEWLINE]Tarjoaa kaupungille makean veden lähteen läheisestä joesta, järvestä, keitaasta tai vuoresta. Kaupungit joilla ei ole ennestään makeaa vettä saavat jopa 6 [ICON_Housing] asumusta. Kaupungit joilla on jo makeaa vettä saavat +2 [ICON_Housing] asumusta. +1 [ICON_Amenities] elintasoa rakennettaessa geotermisen halkeaman lähelle. Jokaisessa tapauksessa kylpylä antaa myös +2 [ICON_Housing] asumusta ja +1 [ICON_Amenities] elintasoa. Estää [ICON_Food] ruuan menettämisen kuivuuden aikana. Tulee rakentaa kaupungin keskustan viereen. Sotilasinsinöörit voivat käyttää työstön edistääkseen valmistumista 20% kylpylän rakennuskustannuksesta.</Text>
 		</Replace>
 		<!--Russia-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_EXPANSION2_DESCRIPTION">

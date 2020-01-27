@@ -67,7 +67,7 @@
 			<Text>Sallii rakentajan rakentaa sfinksin, joka on Egyptille ominainen.[NEWLINE][NEWLINE]+1 [ICON_Faith] uskoa ja +1 [ICON_Culture] kulttuuria. +1 houkuttelevuutta. +2 [ICON_Faith] uskoa ihmeen vieressä. Ei voi rakentaa toisen sfinksin viereen. Voi rakentaa tulvatasangoille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
-			<Text>Sallii rakentajan rakentaa porraskaivon, joka on Intialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa ja +1 [ICON_Housing] asumuksia. +1 [ICON_Faith] uskoa pyhän paikan vieressä. +1 [ICON_Food] ruokaa maatilan vieressä. Lisää [ICON_Housing] asumuksia, [ICON_Faith] uskoa ja [ICON_Food] ruokaa edettäessä tekniikassa ja normeissa. Ei voi rakentaa mäelle eikä toisen porraskaivon viereen.</Text>
+			<Text>Sallii rakentajan rakentaa porraskaivon, joka on Intialle ominainen.[NEWLINE][NEWLINE]+1 [ICON_Food] ruokaa ja +1 [ICON_Housing] asumusta. +1 [ICON_Faith] uskoa pyhän paikan vieressä. +1 [ICON_Food] ruokaa maatilan vieressä. Lisää [ICON_Housing] asumuksia, [ICON_Faith] uskoa ja [ICON_Food] ruokaa edettäessä tekniikassa ja normeissa. Ei voi rakentaa mäelle eikä toisen porraskaivon viereen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
 			<Text>Sallii rakentajan rakentaa zigguratin, joka on Sumerille ominainen.[NEWLINE][NEWLINE]+2 [ICON_Science] tiedettä. +1 [ICON_Culture] kulttuuria joen varrella. Ei voi rakentaa mäelle.</Text>
