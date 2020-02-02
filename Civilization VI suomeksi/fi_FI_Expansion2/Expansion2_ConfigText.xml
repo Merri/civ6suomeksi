@@ -251,7 +251,7 @@
 			<Text>Maorien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAORI_DESCRIPTION">
-			<Text>Maorien valtakunta|Maorit</Text>
+			<Text>Maorien valtakunta|Maorien</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_NAME">
 			<Text>Mana</Text>

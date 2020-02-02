@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_DIPLO_PERSON_CLEO">
+			<Text>Egyptin Kleopatra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_GREETING_CLEO">
+			<Text>Tervehdys matkalainen. Teidän tulee tietää, että seisotte suuruuden edessä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ADVISOR_READY">
+			<Text>Mitä uskollinen alamaiseni haluaisi minun tekevän?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+			<Text>Julista ystävyys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+			<Text>Muodosta rauha</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+			<Text>[SIZE_16]Vaadi avoimia rajoja[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+			<Text>[SIZE_16]Lähetä valtuuskunta[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+			<Text>[SIZE_16]Muodosta suurlähetystö[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>Tuomitse</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+			<Text>[SIZE_16]Julista yllätyssota[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+			<Text>[SIZE_16]Julista virallinen sota[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+			<Text>[SIZE_16]Julista pyhä sota[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+			<Text>[SIZE_16]Julista vapautussota[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](ei sodanlietsonnan haittaa ystävällisten kaupunkien valtaamisesta)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+			<Text>[SIZE_16]Julista takaisinvaltaussota[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](ei sodanlietsonnan haittaa omien kaupunkien takaisin valtaamisesta)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+			<Text>[SIZE_16]Julista suojelussota[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](ei sodanlietsonnan haittaa liittolaiskaupunkivaltioiden puolustamisesta)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+			<Text>[SIZE_16]Julista siirtomaasota[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+			<Text>[SIZE_16]Julista aluelaajennossota[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+			<Text>Sodanlietsojan haitta: {1_WarmongerLevel}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+			<Text>Maksaa {1_Cost} [ICON_Gold] kultaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
+			<Text>Kohde on käännyttänyt yhden kaupunkimme uskonnon.</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Kohde on vallannut meiltä yhden kaupunkimme.</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
+			<Text>Kohde on vallannut kaupungin yhdeltä ystävältämme tai liittolaiseltamme.</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Kohde on julistanut sodan yhdelle liittolaiskaupunkivaltioistamme.</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
+			<Text>Kohde on kaksi tekniikan aikakautta jäljessä meitä.</Text>
+		</Replace>		
+		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Kaksi kohteen kaupungeista on 10 ruudun sisällä kahden vastustajansa kaupungeista.</Text>
+		</Replace>
+	 <Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+			<Text>Haluammeko varmasti aloittaa sodan?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+			<Text>Kyllä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+			<Text>Ei</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+			<Text>Tee sopimus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+			<Text>Tee vaatimus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_IGNORE">
+			<Text>Jätä huomiotta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_EXIT">
+			<Text>Näkemiin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+			<Text>Ehdota huutokauppaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_INTRO">
+			<Text>Miten voin olla avuksi?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_INTRO_AI">
+			<Text>Mitä olette tästä mieltä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEMAND_INTRO">
+			<Text>Vaatimuksiini tulee suostua.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+			<Text>Näytä sopimus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+			<Text>Näytä vaatimus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+			<Text>Ei vaadittavia kohteita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+			<Text>Ei kohteita asettaa sopimukseen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+			<Text>Luvatkaa olla vakoilematta meitä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+			<Text>Luvatkaa olla asuttamatta alueita lähellä meitä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+			<Text>Luvatkaa olla käännyttämättä kaupunkejamme</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+			<Text>Luvatkaa olla kaivamatta meidän artefaktejamme</Text>
+		</Replace>
+		<!-- Action Failure Reasons -->
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE]Joku joukkueessamme on ystävä tai liittolainen tämän pelaajan joukkueelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE]Emme ole tuominneet tätä pelaajaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE]Meidän tulee odottaa {2_Turns} vuoroa tuomitsemisesta (odota {3_Remaining} vuoroa).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE]Meillä on puolustusliitto tämän hallitsijan kanssa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE][COLOR_RED]Emme täytä tämän sodan perusteen ehtoja.[ENDCOLOR][NEWLINE][{2_CasusBelliDescription}]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE]Meidän tulee odottaa {2_Turns} vuoroa rauhan muodostamisen jälkeen (odota {3_Remaining} vuoroa).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE]Meidän tulee odottaa vuoroon {2_TurnNumber} voidaksemme julistaa sodan merkittävälle kansakunnalle tässä pelissä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
+			<Text>{1_ActionType} ei onnistu[NEWLINE]Tarvitsemme {2_GoldRequirement} [ICON_Gold] kultaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE]Meidän tulee odottaa {2_Turns} vuoroa sodanjulistuksen jälkeen (odota {3_Remaining} vuoroa).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
+			<Text>{1_WarActionType} ei onnistu[NEWLINE]Sodat ovat pysyviä tässä pelissä.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

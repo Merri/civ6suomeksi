@@ -310,7 +310,7 @@
 			<Text>Vakoilijamme tapettiin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_SUMMARY">
-			<Text>{2_mission} epäonnistui kun {1_civName[2]} vakoilija tapettiin kaupungissa{3_cityName}. {4_CounterspyAssist}</Text>
+			<Text>{2_mission} epäonnistui kun {1_civName[2]} vakoilija tapettiin kaupungissa {3_cityName}. {4_CounterspyAssist}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
 			<Text>Vihollisvakoilija tapettu</Text>
@@ -433,7 +433,7 @@
 			<Text>Uskolla voi ostaa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
-			<Text>Meillä on nyt tarpeeksi [ICON_Faith] uskoa {1_ItemName[2]} ostamiseksi.</Text>
+			<Text>Meillä on nyt tarpeeksi [ICON_Faith] uskoa {1_ItemName[3]} ostamiseksi.</Text>
 		</Replace>
 		<!-- Multiplayer Notifications -->
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">

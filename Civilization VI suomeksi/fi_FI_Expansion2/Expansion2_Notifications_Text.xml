@@ -65,19 +65,19 @@
 			<Text>Hirveä myrsky!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_ARRIVED_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
+			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_ARRIVED_LOSSES_SUMMARY">
-			<Text>A {1_StormType} named {2_StormName} has developed and is headed to the {3_Direction}. The storm will cause destruction over the next two turns. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
+			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_MESSAGE">
 			<Text>Myrsky jatkuu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja suuntaa nyt {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
+			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja suuntaa nyt {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_LOSSES_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja suuntaa nyt {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
+			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja suuntaa nyt {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_DISSIPATED_MESSAGE">
 			<Text>Myrsky laantuu</Text>
@@ -101,7 +101,7 @@
 			<Text>Tervetullut sade</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_SUMMARY">
-			<Text>{1_DroughtType} väistyy sateen viimein poistaessaan kuivuuden tuoman kurjuuden. "{2_DroughtName}" on kohenevien satojen myötä historiaa.</Text>
+			<Text>{1_DroughtType} väistyy sateen viimein poistaessa kuivuuden tuoman kurjuuden. "{2_DroughtName}" on kohenevien satojen myötä historiaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_EVENT_AVOIDED_MESSAGE">
 			<Text>Kriisi estetty</Text>
@@ -164,19 +164,19 @@
 			<Text>Radioaktiivisia höyryjä!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_SUMMARY">
-			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt toimintahäiriöstä ja joutui päästämään ulos radioaktiivista höyryä välttääkseen suuremman katastrofin. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
+			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt toimintahäiriöstä ja joutui päästämään ulos radioaktiivista höyryä välttääkseen suuremman katastrofin. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_MESSAGE">
 			<Text>Säteilyvuoto!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_SUMMARY">
-			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt vakavasta toimintahäiriöstä, joka on aiheuttanut särön reaktorissa. Suuria määriä radioaktiivisuutta on vapautunut ympäröiville alueille. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
+			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt vakavasta toimintahäiriöstä, joka on aiheuttanut särön reaktorissa. Suuria määriä radioaktiivisuutta on vapautunut ympäröiville alueille. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_MESSAGE">
 			<Text>Ytimen sulaminen!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_SUMMARY">
-			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt katastrofaalisesta toimintahäiriöstä, jonka vuoksi reaktoriydin on sulanut. Kuolettavia määriä radioaktiivisuutta on levinnyt ympäröiville alueille. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
+			<Text>Kaupungin {1_CityName} ydinvoimala on kärsinyt katastrofaalisesta toimintahäiriöstä, jonka vuoksi reaktoriydin on sulanut. Kuolettavia määriä radioaktiivisuutta on levinnyt ympäröiville alueille. (Tällä vuorolla {2_Tiles} {2_Tiles: plural 1?ruutu; other?ruutua;} kärsi, {3_Pop} [ICON_CITIZEN] {3_Pop: plural 1?asukas; other?asukasta;} menetettiin ja {4_Units} {4_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui)</Text>
 		</Replace>
 		<!--DIPLOMACY-->
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">

@@ -76,6 +76,7 @@
 			<File>fi_FI/Combat_Text.xml</File>
 			<File>fi_FI/CompStompScenario_Text.xml</File>
 			<File>fi_FI/Difficulties_Text.xml</File>
+			<File>fi_FI/DiplomacyStatements_Common_Text.xml</File>
 			<File>fi_FI/EarthMaps_ConfigText.xml</File>
 			<File>fi_FI/Expansion1_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
@@ -206,6 +207,7 @@
 			<File>fi_FI/Combat_Text.xml</File>
 			<File>fi_FI/CompStompScenario_Text.xml</File>
 			<File>fi_FI/Difficulties_Text.xml</File>
+			<File>fi_FI/DiplomacyStatements_Common_Text.xml</File>
 			<File>fi_FI/EarthMaps_ConfigText.xml</File>
 			<File>fi_FI/Expansion1_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
@@ -345,6 +347,7 @@
 		<File>fi_FI/Combat_Text.xml</File>
 		<File>fi_FI/CompStompScenario_Text.xml</File>
 		<File>fi_FI/Difficulties_Text.xml</File>
+		<File>fi_FI/DiplomacyStatements_Common_Text.xml</File>
 		<File>fi_FI/EarthMaps_ConfigText.xml</File>
 		<File>fi_FI/Expansion1_PackageText.xml</File>
 		<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
