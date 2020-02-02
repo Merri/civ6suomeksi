@@ -65,28 +65,28 @@
 			<Text>Tämä on se ruutu.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIRECTION_NORTH">
-			<Text>Pohjoinen</Text>
+			<Text>Pohjoinen|pohjoiseen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIRECTION_SOUTH">
-			<Text>Etelä</Text>
+			<Text>Etelä|etelään</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIRECTION_WEST">
-			<Text>Länsi</Text>
+			<Text>Länsi|länteen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIRECTION_EAST">
-			<Text>Itä</Text>
+			<Text>Itä|itään</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIRECTION_NORTH_WEST">
-			<Text>Luode</Text>
+			<Text>Luode|luoteeseen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIRECTION_NORTH_EAST">
-			<Text>Koillinen</Text>
+			<Text>Koillinen|koilliseen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIRECTION_SOUTH_WEST">
-			<Text>Lounas</Text>
+			<Text>Lounas|lounaaseen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIRECTION_SOUTH_EAST">
-			<Text>Kaakko</Text>
+			<Text>Kaakko|kaakkoon</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DANGER">
 			<Text>Vaara</Text>
@@ -2457,10 +2457,10 @@
 			<Text>Aseta linjaukset</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_UNLOCK_FAITH">
-			<Text>Vapauta käyttämällä {1_Faith} [ICON_FaithLarge] uskoa</Text>
+			<Text>Avauskulu: {1_Faith} [ICON_FaithLarge] uskoa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_UNLOCK_GOLD">
-			<Text>Vapauta käyttämällä {1_Gold} [ICON_GoldLarge] kultaa</Text>
+			<Text>Avauskulu: {1_Gold} [ICON_GoldLarge] kultaa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVT_VIEW_GOVERNMENTS">
 			<Text>Näytä hallitusmuodot</Text>
@@ -2689,7 +2689,7 @@
 			<Text>Uudelleenkouluta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_REST_REPAIR_DESCRIPTION">
-			<Text>Lepää ja korjaa</Text>
+			<Text>Hoivaa ja korjaa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_ROUTE_TO_DESCRIPTION">
 			<Text>Siirry ruutuun</Text>
@@ -2704,7 +2704,7 @@
 			<Text>Vahingoita raketteja</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_SPY_GAIN_SOURCES_DESCRIPTION">
-			<Text>Hanki lähteitä</Text>
+			<Text>Hanki suhteita</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_SPY_GREAT_WORK_HEIST_DESCRIPTION">
 			<Text>Varasta merkittävä teos</Text>
@@ -2896,7 +2896,7 @@
 			<Text>Tulee olla työn alla olevassa ihmeessä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_OPEN_PLAYER_RELIC_SLOT">
-			<Text>Tulee olla vapaa [ICON_GreatWork_Relic] muinaismuiston paikka jossakin kaupungissamme.</Text>
+			<Text>Tulee olla vapaa [ICON_GreatWork_Relic] muinaisjäännöksen paikka jossakin kaupungissamme.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ON_MISSING_BUILDING">
 			<Text>{1_BuildingName} ei saa löytyä kaupungista, jossa yksikkö on.</Text>
@@ -3358,7 +3358,7 @@
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Music] {1_Amount : plural 1?paikka; other?paikkaa;} merkittäville musiikkiteoksille</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_RELIC_SLOTS">
-			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Relic] {1_Amount : plural 1?paikka; other?paikkaa;} muinaismuistoille</Text>
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Relic] {1_Amount : plural 1?paikka; other?paikkaa;} muinaisjäännöksille</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_GREAT_WORKS_ARTIFACT_SLOTS">
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Artifact] {1_Amount : plural 1?paikka; other?paikkaa;} artefakteille</Text>
@@ -4225,7 +4225,7 @@
 			<Text>Nykyiset tehtävät:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_BONUSES">
-			<Text>Kaupungin {1_CityStateName} edut</Text>
+			<Text>{1_CityStateName} tarjoaa nämä edut</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_BONUSES_EARNED">
 			<Text>Saavutetut edut:</Text>
@@ -4294,7 +4294,7 @@
 			<Text>[ICON_Envoy] Edustajia:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_INFLUENCED_BY">
-			<Text>Vaikuttaja:</Text>
+			<Text>Vaikuttajat:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_LOOK_AT">
 			<Text>Näytä kaupunkivaltio kartalla.</Text>
@@ -4325,7 +4325,7 @@
 			<Text>Etu kaupungin {1_CityStateName} tukemisesta:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_QUESTS">
-			<Text>Tehtävä:</Text>
+			<Text>Tehtäviä:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_RELATIONSHIPS">
 			<Text>Suhteet:</Text>
@@ -4340,7 +4340,7 @@
 			<Text>Poista ehdotettu [ICON_Envoy] edustaja kansamme ja kaupunkivaltion väliltä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_REPORT">
-			<Text>Kaupunkivaltioraportti</Text>
+			<Text>Yleiset tiedot</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_REWARD">
 			<Text>Palkinto:</Text>
@@ -4379,7 +4379,7 @@
 			<Text>(Ei toistaiseksi saatavilla)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_SUZERAIN_LIST">
-			<Text>Valta-asemassa:</Text>
+			<Text>Valta-asema:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_TITLE">
 			<Text>Kaupunkivaltiot</Text>
@@ -4424,7 +4424,7 @@
 			<Text>Näytä kaikki</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_YOU">
-			<Text>on meillä</Text>
+			<Text>me</Text>
 		</Replace>
 		<!-- ==================== Great People Popup ==================== -->
 		<Replace Language="en_US" Tag="LOC_GREAT_PEOPLE_ABILITIES">
@@ -4762,7 +4762,7 @@
 			<Text>[ICON_GreatWork_Music] Kappale</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREATWORKOBJECT_RELIC">
-			<Text>[ICON_GreatWork_Relic] Muinaismuisto</Text>
+			<Text>[ICON_GreatWork_Relic] Muinaisjäännös</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREATWORKOBJECT_SCULPTURE_PLURAL">
 			<Text>[ICON_GreatWork_Sculpture] Veistokset</Text>
@@ -4774,7 +4774,7 @@
 			<Text>[ICON_GreatWork_Landscape] Maisemat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREATWORKOBJECT_RELIGIOUS_PLURAL">
-			<Text>[ICON_GreatWork_Religious] Uskonnolliset muinaismuistot</Text>
+			<Text>[ICON_GreatWork_Religious] Pyhäinjäännökset</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREATWORKOBJECT_ARTIFACT_PLURAL">
 			<Text>[ICON_GreatWork_Artifact] Artefaktit</Text>
@@ -4801,7 +4801,7 @@
 			<Text>[ICON_GreatWork_Music] Kappaleet</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREATWORKOBJECT_RELIC_PLURAL">
-			<Text>[ICON_GreatWork_Relic] Muinaismuistot</Text>
+			<Text>[ICON_GreatWork_Relic] Muinaisjäännökset</Text>
 		</Replace>
 		<!-- ==================== TradeRouteChooser ==================== -->
 		<Replace Language="en_US" Tag="LOC_ROUTECHOOSER_BEGIN_ROUTE_BUTTON">
@@ -5293,7 +5293,7 @@
 			<Text>Yksiköiden kulut</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_SOURCES">
-			<Text>Lähteet</Text>
+			<Text>Suhteet</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_REPORTS_STRATEGICS">
 			<Text>Strategiset</Text>

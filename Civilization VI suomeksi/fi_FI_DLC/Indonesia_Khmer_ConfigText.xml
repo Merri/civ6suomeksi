@@ -52,7 +52,7 @@
 			<Text>Prasat|prasat|prasatin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
-			<Text>Khmerien oma rakennus. Korvaa temppelin. Vaaditaan apostolien ja inkvisiittorien ostamiseen [ICON_Faith] uskolla. Kaupungissa ostetut lähetyssaarnaajat saavat marttyyrikyvyn, joka antaa [ICON_GreatWork_Relic] muinaismuiston lähetyssaarnaajan kuollessa uskontaiston seurauksena.</Text>
+			<Text>Khmerien oma rakennus. Korvaa temppelin. Vaaditaan apostolien ja inkvisiittorien ostamiseen [ICON_Faith] uskolla. Kaupungissa ostetut lähetyssaarnaajat saavat marttyyrikyvyn, joka antaa [ICON_GreatWork_Relic] muinaisjäännöksen lähetyssaarnaajan kuollessa uskontaiston seurauksena.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KHMER_NAME">
 			<Text>Khmer|khmerien</Text>

@@ -5,7 +5,7 @@
 			<Text>Historiallinen hetki</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
-			<Text>Kansamme juhlii historiallista hetkeä! {1_MomentDescription} (+{2_EraScoreAmount} aikakauden pistettä)</Text>
+			<Text>Kansamme juhlii historiallista hetkeä! {1_MomentDescription} (+{2_EraScoreAmount} kausien pistettä)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
 			<Text>Käskynhaltija on asettunut kaupunkiin {1_CityName}</Text>
@@ -251,10 +251,10 @@
 			<Text>Pelin siirryttyä uudeen aikakauteen on tullut aika valita kansamme ponnistus, joka vie meidät halutunlaista tulevaisuutta kohti.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
-			<Text>Ponnistusetu toteutui</Text>
+			<Text>Ponnistus toteutui</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
-			<Text>{1_DedicationBonusTriggerSentence} Tämän ansiosta ponnistusetu tuo meille aikakauden pisteitä!</Text>
+			<Text>{1_DedicationBonusTriggerSentence} Täten saamme kausien pisteitä valitsemaltamme ponnistukselta!</Text>
 		</Replace>
 		<!--TUTORIAL EVENTS TEXT-->
 	</LocalizedText>

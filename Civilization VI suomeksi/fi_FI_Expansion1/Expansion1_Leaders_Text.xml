@@ -149,7 +149,7 @@
 			<Text>Babylonin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
-			<Text>+2 [ICON_SCIENCE] tiedettä jokaisesta [ICON_GreatWork_WRITING] kirjallisuuden merkkiteoksesta. +1 [ICON_SCIENCE] tiedettä jokaisesta [ICON_GreatWork_RELIC] muinaismuistosta ja [ICON_GreatWork_Artifact] artefaktista.</Text>
+			<Text>+2 [ICON_SCIENCE] tiedettä jokaisesta [ICON_GreatWork_WRITING] kirjallisuuden merkkiteoksesta. +1 [ICON_SCIENCE] tiedettä jokaisesta [ICON_GreatWork_RELIC] pyhäinjäännöksestä ja [ICON_GreatWork_Artifact] artefaktista.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_ADJECTIVE">
 			<Text>Babylonin</Text>

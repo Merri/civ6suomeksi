@@ -74,7 +74,7 @@
 		</Replace>
 		<!--Goody Huts -->
 		<Replace Language="en_US" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
-			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} muinaismuisto[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} muinaisjäännös[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>

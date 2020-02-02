@@ -377,7 +377,7 @@
 			<Text>Kampuksia ja teatteriaukioita (jotka ovat kaupunkialueita) voi ostaa [ICON_Faith] uskolla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
-			<Text>[ICON_GreatWork_Relic] Muinaismuistot antavat kolminkertaisesti sekä [ICON_Faith] uskoa että [ICON_Tourism] turismia.</Text>
+			<Text>[ICON_GreatWork_Relic] Muinaisjäännökset antavat kolminkertaisesti sekä [ICON_Faith] uskoa että [ICON_Tourism] turismia.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
 			<Text>Pyhätöt ja temppelit tarjoavat kumpainenkin +1 [ICON_Housing] asumusta.</Text>

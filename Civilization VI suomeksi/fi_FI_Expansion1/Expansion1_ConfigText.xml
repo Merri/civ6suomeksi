@@ -52,7 +52,7 @@
 			<Text>Musketti ja piikki|musketti ja piikki|musketin ja piikin|musketiksi ja piikiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION">
-			<Text>Myöhäinen renessanssin ratsuluokan torjuja.</Text>
+			<Text>Myöhäisen renessanssin ratsuluokan torjuja.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SUPPLY_CONVOY_NAME">
 			<Text>Huoltorekka|huoltorekka|huoltorekan|huoltorekaksi</Text>

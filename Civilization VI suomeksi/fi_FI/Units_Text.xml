@@ -154,7 +154,7 @@
 			<Text>Nopealiikkeinen maataisteluyksikkö, jolla on omanlaisensa ylennyskartta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
-			<Text>Kykenee löytämään ja kaivamaan [ICON_GreatWork_Artifact] artefaktit talteen [ICON_RESOURCE_ANTIQUITY_SITE] muinaisjäännöksistä, jotta ne saa näytille kotikaupungin museoon.</Text>
+			<Text>Kykenee löytämään ja kaivamaan [ICON_GreatWork_Artifact] artefaktit talteen [ICON_RESOURCE_ANTIQUITY_SITE] muinaiskohteista, jotta ne saa näytille kotikaupungin museoon.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_SPY_DESCRIPTION">
 			<Text>Suorittaa salaisia tehtäviä ulkovaltojen kaupungeissa tai suojaa kaupunkejamme vihollisvakoilijoilta.</Text>

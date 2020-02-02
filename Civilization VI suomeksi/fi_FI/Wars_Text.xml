@@ -5,7 +5,7 @@
 			<Text>Yllätyssota</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_FORMAL_WAR_NAME">
-			<Text>Muodollinen sota</Text>
+			<Text>Virallinen sota</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HOLY_WAR_NAME">
 			<Text>Pyhä sota</Text>
@@ -26,7 +26,7 @@
 			<Text>Herruussota</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PROTECTORATE_WAR_NAME">
-			<Text>Suojeluherruussota</Text>
+			<Text>Suojelussota</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COLONIAL_WAR_NAME">
 			<Text>Siirtomaasota</Text>

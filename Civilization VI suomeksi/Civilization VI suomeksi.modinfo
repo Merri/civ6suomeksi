@@ -87,6 +87,7 @@
 			<File>fi_FI/Macedonia_Persia_PackageText.xml</File>
 			<File>fi_FI/MultiplayerFrontEndText.xml</File>
 			<File>fi_FI/My2KText.xml</File>
+			<File>fi_FI/Notifications_Text.xml</File>
 			<File>fi_FI/Nubia_PackageText.xml</File>
 			<File>fi_FI/Poland_PackageText.xml</File>
 			<File>fi_FI/Projects_Text.xml</File>
@@ -151,6 +152,7 @@
 			<File>fi_FI_Expansion2/Expansion1_Leaders_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_Notifications_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		</UpdateText>
@@ -214,6 +216,7 @@
 			<File>fi_FI/Macedonia_Persia_PackageText.xml</File>
 			<File>fi_FI/MultiplayerFrontEndText.xml</File>
 			<File>fi_FI/My2KText.xml</File>
+			<File>fi_FI/Notifications_Text.xml</File>
 			<File>fi_FI/Nubia_PackageText.xml</File>
 			<File>fi_FI/Poland_PackageText.xml</File>
 			<File>fi_FI/Projects_Text.xml</File>
@@ -278,6 +281,7 @@
 			<File>fi_FI_Expansion2/Expansion1_Leaders_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_Notifications_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		</UpdateText>
@@ -352,6 +356,7 @@
 		<File>fi_FI/Macedonia_Persia_PackageText.xml</File>
 		<File>fi_FI/MultiplayerFrontEndText.xml</File>
 		<File>fi_FI/My2KText.xml</File>
+		<File>fi_FI/Notifications_Text.xml</File>
 		<File>fi_FI/Nubia_PackageText.xml</File>
 		<File>fi_FI/Poland_PackageText.xml</File>
 		<File>fi_FI/Projects_Text.xml</File>
@@ -390,6 +395,7 @@
 		<File>fi_FI_Expansion2/Expansion1_Leaders_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
+		<File>fi_FI_Expansion2/Expansion2_Notifications_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		<!-- DLC -->

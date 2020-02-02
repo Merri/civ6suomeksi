@@ -602,133 +602,133 @@
 		</Replace>
 		<!--Continents-->
 		<Replace Language="en_US" Tag="LOC_CONTINENT_AFRICA_DESCRIPTION">
-			<Text>Afrikka</Text>
+			<Text>Afrikka|Afrikaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_AMASIA_DESCRIPTION">
-			<Text>Amasia</Text>
+			<Text>Amaasia|Amaasiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_AMERICA_DESCRIPTION">
-			<Text>Amerikka</Text>
+			<Text>Amerikka|Amerikaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_ANTARCTICA_DESCRIPTION">
-			<Text>Antarktika</Text>
+			<Text>Antarktika|Antarktikaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_ARCTICA_DESCRIPTION">
-			<Text>Arktia</Text>
+			<Text>Arktis|Arktikseksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_ASIA_DESCRIPTION">
-			<Text>Aasia</Text>
+			<Text>Aasia|Aasiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_ASIAMERICA_DESCRIPTION">
-			<Text>Aasiamerikka</Text>
+			<Text>Aaserikka|Aaserikaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_ATLANTICA_DESCRIPTION">
-			<Text>Atlantika</Text>
+			<Text>Atlantika|Atlantikaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_ATLANTIS_DESCRIPTION">
-			<Text>Atlantis</Text>
+			<Text>Atlantis|Atlantikseksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_AUSTRALIA_DESCRIPTION">
-			<Text>Australia</Text>
+			<Text>Australia|Australiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_AVALONIA_DESCRIPTION">
-			<Text>Avalonia</Text>
+			<Text>Avaloonia|Avalooniaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_AZANIA_DESCRIPTION">
-			<Text>Asania</Text>
+			<Text>Asania|Asaniaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_BALTICA_DESCRIPTION">
-			<Text>Baltikka</Text>
+			<Text>Balttia|Balttiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_CIMMERIA_DESCRIPTION">
-			<Text>Kimmeria</Text>
+			<Text>Kimmeria|Kimmeriaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_COLUMBIA_DESCRIPTION">
-			<Text>Kolumbia</Text>
+			<Text>Kolumbia|Kolumbiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_CONGO_CRATON_DESCRIPTION">
-			<Text>Kongo Kratonia</Text>
+			<Text>Kongokratonia|Kongokratoniaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_EURAMERICA_DESCRIPTION">
-			<Text>Euramerikka</Text>
+			<Text>Eumerikka|Eumerikaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_EUROPE_DESCRIPTION">
-			<Text>Eurooppa</Text>
+			<Text>Eurooppa|Euroopaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_GONDWANA_DESCRIPTION">
-			<Text>Gondwana</Text>
+			<Text>Gondwana|Gondwanaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_KALAHARIA_DESCRIPTION">
-			<Text>Kalaharia</Text>
+			<Text>Kalaharia|Kalahariaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_KAZAKHSTANIA_DESCRIPTION">
-			<Text>Kazakhstania</Text>
+			<Text>Kazakstania|Kazakstaniaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_KERNORLAND_DESCRIPTION">
-			<Text>Kernorimaa</Text>
+			<Text>Kernorimaa|Kernorimaaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_KUMARI_KANDAM_DESCRIPTION">
-			<Text>Kumari Kandami</Text>
+			<Text>Kumarikandami|Kumarikandamiksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_LAURASIA_DESCRIPTION">
-			<Text>Lauraasia</Text>
+			<Text>Lauraasia|Lauraasia</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_LAURENTIA_DESCRIPTION">
-			<Text>Laurentia</Text>
+			<Text>Laurentia|Laurentiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_LEMURIA_DESCRIPTION">
-			<Text>Lemuria</Text>
+			<Text>Lemuria|Lemuriaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_MU_DESCRIPTION">
-			<Text>Mu</Text>
+			<Text>Mu|Mu'ksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_NENA_DESCRIPTION">
-			<Text>Nena</Text>
+			<Text>Nena|Nenaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_NORTH_AMERICA_DESCRIPTION">
-			<Text>Pohjois-Amerikka</Text>
+			<Text>Pohjois-Amerikka|Pohjois-Amerikaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_NOVOPANGAEA_DESCRIPTION">
-			<Text>Novopangaia</Text>
+			<Text>Novopangaia|Novopangaiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_NUNA_DESCRIPTION">
-			<Text>Nuna</Text>
+			<Text>Nuna|Nunaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_OCEANIA_DESCRIPTION">
-			<Text>Oseania</Text>
+			<Text>Oseania|Oseaniaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_PANGAEA_DESCRIPTION">
-			<Text>Pangaia</Text>
+			<Text>Pangaia|Pangaiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_PANGAEA_ULTIMA_DESCRIPTION">
-			<Text>Pangaia Ultima</Text>
+			<Text>Pangaia ultima|Pangaia ultimaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_PANNOTIA_DESCRIPTION">
-			<Text>Pannotia</Text>
+			<Text>Pannotia|Pannotiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_RODINIA_DESCRIPTION">
-			<Text>Rodinia</Text>
+			<Text>Rodinia|Rodiniaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_SIBERIA_DESCRIPTION">
-			<Text>Siperia</Text>
+			<Text>Siperia|Siperiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_SOUTH_AMERICA_DESCRIPTION">
-			<Text>Etelä-Amerikka</Text>
+			<Text>Etelä-Amerikka|Etelä-Amerikaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_TERRA_AUSTRALIS_DESCRIPTION">
-			<Text>Terra Australis</Text>
+			<Text>Terra australis|Terra australikseksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_UR_DESCRIPTION">
-			<Text>Ur</Text>
+			<Text>Ur|Ur'iksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_VAALBARA_DESCRIPTION">
-			<Text>Vaalbara</Text>
+			<Text>Vaalbara|Vaalbaraksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_VENDIAN_DESCRIPTION">
-			<Text>Vendia</Text>
+			<Text>Vendia|Vendiaksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CONTINENT_ZEALANDIA_DESCRIPTION">
-			<Text>Seelantia</Text>
+			<Text>Seelantia|Seelantiaksi</Text>
 		</Replace>
 		<!--Diplomatic States-->
 		<Replace Language="en_US" Tag="LOC_DIPLO_STATE_ALLIED_NAME">
@@ -820,7 +820,7 @@
 			<Text>Akvedukti|akvedukti|akveduktin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_SPACEPORT_NAME">
-			<Text>Avaruusportti|avaruusportti|avaruusportin</Text>
+			<Text>Laukaisukeskus|laukaisukeskus|laukaisukeskuksen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ACROPOLIS_NAME">
 			<Text>Akropolis|akropolis|akropoliin</Text>
@@ -1560,7 +1560,7 @@
 			<Text>Musiikki</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREAT_WORK_OBJECT_RELIC_NAME">
-			<Text>Muinaismuisto</Text>
+			<Text>Muinaisjäännös</Text>
 		</Replace>
 		<!-- Governments-->
 		<Replace Language="en_US" Tag="LOC_GOVERNMENT_ANARCHY_NAME">
@@ -2296,23 +2296,23 @@
 			<Text>Uraani|uraani</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_RESOURCE_ANTIQUITY_SITE_NAME">
-			<Text>Muinaisjäännös|muinaisjäännös</Text>
+			<Text>Muinaiskohde|muinaiskohde</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_RESOURCE_SHIPWRECK_NAME">
 			<Text>Hylky|hylky</Text>
 		</Replace>
 		<!-- Routes-->
 		<Replace Language="en_US" Tag="LOC_ROUTE_ANCIENT_ROAD_NAME">
-			<Text>Muinainen tie</Text>
+			<Text>Muinainen tie|muinaista tietä|muinaisia teitä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ROUTE_MEDIEVAL_ROAD_NAME">
-			<Text>Antiikin tie</Text>
+			<Text>Antiikin tie|antiikin tietä|antiikin teitä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ROUTE_INDUSTRIAL_ROAD_NAME">
-			<Text>Teollinen tie</Text>
+			<Text>Teollinen tie|teollista tietä|teollisia teitä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ROUTE_MODERN_ROAD_NAME">
-			<Text>Moderni tie</Text>
+			<Text>Moderni tie|modernia tietä|moderneja teitä</Text>
 		</Replace>
 		<!-- Slots-->
 		<Replace Language="en_US" Tag="LOC_SLOT_ECONOMIC_NAME">

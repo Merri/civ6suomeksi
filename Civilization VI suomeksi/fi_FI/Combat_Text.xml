@@ -210,7 +210,7 @@
 			<Text>[COLOR_RED]Kaupungin polttaminen voi aiheuttaa merkittävän sodanlietsojan haitan![ENDCOLOR][NEWLINE][NEWLINE]Sodanlietsojan haitta tämän kaupungin polttamisesta on: {1_WarmongerLevel}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
-			<Text>Sodanlietsojan haitta on [COLOR_RED]KOLMINKERTAISESTI[ENDCOLOR] tämän aikakauden muodollisen sodan haitan verran jos poltamme tämän pelaajan viimeisen kaupungin.</Text>
+			<Text>Sodanlietsojan haitta on [COLOR_RED]KOLMINKERTAISESTI[ENDCOLOR] tämän aikakauden virallisen sodan haitan verran jos poltamme tämän pelaajan viimeisen kaupungin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
 			<Text>Emme voi polttaa kansakunnan alkuperäistä pääkaupunkia emmekä kaupunkia jonka me tai liittolaisemme on perustanut tai omisti sodan alussa.</Text>

@@ -463,7 +463,7 @@
 		</Replace>
 		<!-- Unit Abilities  -->
 		<Replace Language="en_US" Tag="LOC_ABILITY_MARTYR_DESCRIPTION">
-			<Text>Yksikön kuolema uskontaiston seurauksena palkitsee [ICON_GreatWork_Relic] muinaismuistolla.</Text>
+			<Text>Yksikön kuolema uskontaiston seurauksena palkitsee [ICON_GreatWork_Relic] muinaisjäännöksellä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PROMOTION_JONG_DESCRIPTION">
 			<Text>+{1_Amount} etu muodostelmassa</Text>

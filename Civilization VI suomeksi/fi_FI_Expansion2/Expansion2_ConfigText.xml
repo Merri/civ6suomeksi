@@ -95,7 +95,7 @@
 			<Text>Maailman työpaja</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION">
-			<Text>Rauta- ja hiilikaivosten tuotto kertyy kahdella enemmän vuoroa kohden. +100% [ICON_PRODUCTION] tuotantoa sotilasinsinöörien kouluttamiseen. Sotilasinsinöörit saavat +2 työstöä. Rakennukset joille [ICON_POWER] virta tarjoaa lisää tuottoa saavat +2 kyseistä tuottoa. +20% [ICON_PRODUCTION] tuotantoa teollisuusalueen rakennuksille. Satamien rakennukset kasvattavat strategisten resurssien kokonaisvarantoa +10:llä standardinopeulla.</Text>
+			<Text>Rauta- ja hiilikaivosten tuotto kertyy kahdella enemmän vuoroa kohden. +100% [ICON_PRODUCTION] tuotantoa sotilasinsinöörien kouluttamiseen. Sotilasinsinöörit saavat +2 työstöä. Rakennukset joille [ICON_POWER] sähkö tarjoaa lisää tuottoa saavat +2 kyseistä tuottoa. +20% [ICON_PRODUCTION] tuotantoa teollisuusalueen rakennuksille. Satamien rakennukset kasvattavat strategisten resurssien kokonaisvarantoa +10:llä standardinopeulla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
 			<Text>Ilmainen meleeyksikkö ja lisäys [ICON_TradeRoute] kauppareittien kapasiteettiin perustettaessa ensimmäistä kaupunkia uudelle mantereelle, joka ei ole kansan kotimanner. Kuninkaallisen laivaston telakan valmistaminen tarjoaa kopion vahvimmasta rakennettavissa olevasta meriyksiköstä. Punatakki tulee saataville sotatieteen kehittämisen myötä.</Text>

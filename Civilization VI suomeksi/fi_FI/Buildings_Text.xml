@@ -105,7 +105,7 @@
 			<Text>+1 [ICON_TradeRoute] kauppareittien kapasiteettiin. Antaa kauppuriyksikön. Tulee rakentaa sataman ja maan vierustamaan rannikkoruutuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
-			<Text>Pyhien kaupunkien ja [ICON_GreatWork_Relic] muinaismuistojen [ICON_Tourism] turismin tuotto ei koe kolausta muiden kansakuntien kehitettyä valistuneisuuden normin. +100 [ICON_Tourism] turismia merenrannan lomakohteille kaikkilla valtakunnassamme. Tulee rakentaa mäelle.</Text>
+			<Text>Pyhien kaupunkien ja [ICON_GreatWork_Relic] muinaisjäännösten [ICON_Tourism] turismin tuotto ei koe kolausta muiden kansakuntien kehitettyä valistuneisuuden normin. +100 [ICON_Tourism] turismia merenrannan lomakohteille kaikkilla valtakunnassamme. Tulee rakentaa mäelle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
 			<Text>Kaikki kansakuntamme ruudut saavat +2 houkuttelevuutta. Tulee rakentaa kaupungin keskustan viereiselle tasaiselle maalle.</Text>

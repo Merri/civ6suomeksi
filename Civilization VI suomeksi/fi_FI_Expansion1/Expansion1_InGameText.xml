@@ -1468,7 +1468,7 @@
 			<Text>{OldReligion[2]} pyhä kaupunki, {OldCityName} on käännytetty {NewReligion[3]}. Vaikuttaa siltä, ettei {TargetName} ole halukas elämään rauhaisasti maailman muiden suurten uskontojen kanssa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS">
-			<Text>Kukin jäsen saa muinaismuiston.</Text>
+			<Text>Kukin jäsen saa muinaisjäännöksen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE">
 			<Text>Kohteen uskonnon paine purskahtaa kertaalleen kaikissa läheisissä kaupungeissa.</Text>
@@ -1694,7 +1694,7 @@
 			<Text>{1_PlayerCiv} tekee historiaa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HISTORY_MOMENT_EFFECTS">
-			<Text>{1_MomentDate}    \|    Vuoro {2_MomentTurn}    \|    {3_MomentScore} aikakauden pistettä</Text>
+			<Text>{1_MomentDate}    \|    Vuoro {2_MomentTurn}    \|    {3_MomentScore} kausien pistettä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
 			<Text>{1_MomentDate}    \|    Vuoro {2_MomentTurn}</Text>
@@ -1874,7 +1874,7 @@
 		</Replace>
 		<!-- Replay DataSets -->
 		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_ERASCORE_NAME">
-			<Text>Aikakauden pisteitä vuorossa</Text>
+			<Text>Kausien pisteitä vuorossa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPLAYDATASET_GOVERNORS_NAME">
 			<Text>Käskynhaltijoita</Text>

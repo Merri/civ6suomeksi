@@ -51,13 +51,13 @@
 			<Text>Maatiloja voi rakentaa mäkisille ruohikoille ja tasangoille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
-			<Text>Sallii kouluttaa yhden vakoilijan lisää. Kaksi samanlaista yksikköä voi muodostaa armeijakunnan tai laivaston. Allows one new Casus Belli that can be used to justify wars: Colonial War.</Text>
+			<Text>Sallii kouluttaa yhden vakoilijan lisää. Kaksi samanlaista yksikköä voi muodostaa armeijakunnan tai laivaston. Mahdollistaa uuden sodan perusteen: siirtomaasota.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
 			<Text>Tarjoaa kaksi [ICON_Envoy] edustajaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
-			<Text>Paljastaa [ICON_RESOURCE_ANTIQUITY_SITE] muinaisjäännökset. Sallii arkeologien kouluttamisen. Tarjoaa kaksi [ICON_Envoy] edustajaa.</Text>
+			<Text>Paljastaa [ICON_RESOURCE_ANTIQUITY_SITE] muinaiskohteet. Sallii arkeologien kouluttamisen. Tarjoaa kaksi [ICON_Envoy] edustajaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
 			<Text>Tarjoaa kaksi [ICON_Envoy] edustajaa.</Text>
@@ -66,7 +66,7 @@
 			<Text>Tarjoaa kolme [ICON_Envoy] edustajaa. Mahdollistaa luonnonpuistojen rakentamisen ja luonnonsuojelijan ostamisen [ICON_Faith] uskolla. Sallii rakentajien istuttaa uusia metsiä. Vanhat metsät (joita ei koskaan poistettu) saavat +1 houkuttelevuutta. Muurit alkavat tuottaa [ICON_TOURISM] turismia.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
-			<Text>Mahdollistaa puolustusliitot. Sallii kolmen samanlaisen yksikön muodostaa armeijan tai armadan. Mahdollistaa uuden casus bellin, jota käyttää oikeutuksena sotatoimille: alueiden laajennussota.</Text>
+			<Text>Mahdollistaa puolustusliitot. Sallii kolmen samanlaisen yksikön muodostaa armeijan tai armadan. Mahdollistaa uuden sodan perusteen: alueiden laajennussota.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
 			<Text>Sallii kouluttaa yhden vakoilijan lisää.</Text>
@@ -172,7 +172,7 @@
 			<Text>Rakenna seitsemän erilaista kaupunkialuetta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_NATIONALISM">
-			<Text>Julista sota casus belliä käyttäen.</Text>
+			<Text>Käytä sodan perustetta sodanjulistuksessa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
 			<Text>Rakenna taidemuseo.</Text>

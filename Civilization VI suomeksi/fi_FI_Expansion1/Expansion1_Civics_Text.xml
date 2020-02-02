@@ -151,7 +151,7 @@
 			<Text>Maatiloille +1 [ICON_Food] ruokaa. Kaikille kaupungeille +2 [ICON_Housing] asumusta. +100% teollisuusalueen läheisyyseduille.[NEWLINE]MUTTA: [ICON_GreatPerson] merkittävien henkilöiden pisteet karttuvat 50% hitaammin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
-			<Text>+50% [ICON_Production] tuotantoa ydinaseprojekteille ja ydinaseille.[NEWLINE]MUTTA: ei vaikutusvallan kertymää kohden [ICON_Envoy] lähettiläiden saamista.</Text>
+			<Text>+50% [ICON_Production] tuotantoa ydinaseprojekteille ja ydinaseille.[NEWLINE]MUTTA: ei vaikutusvallan kertymää kohden [ICON_Envoy] edustajien saamista.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
 			<Text>Tuotot ryöväilystä ja rannikon ryöväilystä pvat +100%.</Text>
@@ -176,7 +176,7 @@
 		</Replace>
 		<!-- Updated from base game -->
 		<Replace Language="en_US" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
-			<Text>Sallii kolmen samanlaisen yksikön yhdistämisen armeijaksi tai armadaksi. Mahdollistaa uuden Casus Bellin sodanjulistukseen: aluelaajennossota.</Text>
+			<Text>Sallii kolmen samanlaisen yksikön yhdistämisen armeijaksi tai armadaksi. Mahdollistaa uuden sodan perusteen: aluelaajennossota.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

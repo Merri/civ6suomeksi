@@ -15,7 +15,7 @@
 			<Text>Suurmestarin kappeli|suurmestarin kappeli|suurmestarin kappelin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
-			<Text>Ulkoministöriö|ulkoministeriö|ulkoministeriön</Text>
+			<Text>Ulkoministeriö|ulkoministeriö|ulkoministeriön</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_GOV_SPIES_NAME">
 			<Text>Tiedustelupalvelu|tiedustelupalvelu|tiedustelupalvelun</Text>
@@ -129,7 +129,7 @@
 			<Text>Kilwa Kisiwani|Kilwa Kisiwani|Kilwa Kisiwanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
-			<Text>+3 [ICON_ENVOY] lähettilästä valmistuessa. Ollessamme valta-asemassa kaupunkivaltioon tämä kaupunki saa +15% edun kaupunkivaltion tarjoamiin tyyppietuihin. Mikäli olemme valta-asemessa kahteen tai useampaan samantyyppiseen kaupunkivaltioon vielä +15% etu annetaan kaikille kaupungeillemme. Tulee rakentaa tasaiselle ruudulle rannalla.</Text>
+			<Text>+3 [ICON_ENVOY] edustajaa valmistuessa. Ollessamme valta-asemassa kaupunkivaltioon tämä kaupunki saa +15% edun kaupunkivaltion tarjoamiin tyyppietuihin. Mikäli olemme valta-asemessa kahteen tai useampaan samantyyppiseen kaupunkivaltioon vielä +15% etu annetaan kaikille kaupungeillemme. Tulee rakentaa tasaiselle ruudulle rannalla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_KOTOKU_IN_NAME">
 			<Text>Kōtoku-in|Kōtoku-in|Kōtoku-inin</Text>
@@ -153,7 +153,7 @@
 			<Text>Taj Mahal|Taj Mahal|Taj Mahalin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
-			<Text>Ihmeen valmistumisen jälkeen +1 aikakauden pistettä historiallisesta hetkestä mikäli se antaisi vähintään 2 aikakauden pistettä ilman tätä ihmettä. Tulee rakentaa joen varrelle.</Text>
+			<Text>Ihmeen valmistumisen jälkeen +1 kausien pistettä historiallisesta hetkestä mikäli se antaisi vähintään 2 kausien pistettä ilman tätä ihmettä. Tulee rakentaa joen varrelle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
 			<Text>Artemiin temppeli|Artemiin temppeli|Artemiin temppelin</Text>

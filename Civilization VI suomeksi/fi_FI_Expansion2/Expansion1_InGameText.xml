@@ -29,7 +29,7 @@
 			<Text>Kaupungissa koulutetut uudisasukkaat eivät vähennä [ICON_Citizen] asukaslukua.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
-			<Text>+1 [ICON_POWER] virtaa hiilivoimalan, öljyvoimalan tai ydinvoimalan käyttämästä luonnonvarasta ja antaa +2 [ICON_Production] tuottavuutta.</Text>
+			<Text>+1 [ICON_POWER] sähköä hiilivoimalan, öljyvoimalan tai ydinvoimalan käyttämästä luonnonvarasta ja antaa +2 [ICON_Production] tuottavuutta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
 			<Text>Yksiköiden valmistamiseen vaaditut strategisten luonnonvarojen kulut saavat 80% alennuksen.</Text>
