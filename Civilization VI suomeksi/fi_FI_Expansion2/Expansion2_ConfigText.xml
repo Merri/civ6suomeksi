@@ -347,7 +347,7 @@
 			<Text>Välimeren siirtokunnat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_DESCRIPTION">
-			<Text>Aloittaa pelin kirjoitustaidon [ICON_TechBoosted] heurekalla. Foinikian perustamat kaupungit, jotka sijaitsevat samalla mantereella kuin Foinikian [ICON_Capital] pääkaupunki ovat aina täysin uskollisia. Uudisasuttajat saavat +2 [ICON_Movement] liikkuvuutta ja +2 näkyvyyttä ollessaan uitossa. Uudisasukkaat eivät huomioi uittoon siirtymisestä ja rantautumisesta syntyviä kustannuksia [ICON_Movement] liikepisteisiin.</Text>
+			<Text>Aloittaa pelin kirjoitustaidon [ICON_TechBoosted] heurekalla. Foinikian perustamat kaupungit, jotka sijaitsevat samalla mantereella kuin Foinikian [ICON_Capital] pääkaupunki ovat aina täysin uskollisia. Uudisasuttajat saavat +2 [ICON_Movement] liikkuvuutta ja +2 näkyvyyttä ollessaan uitossa. Uudisasukkaat eivät huomioi vesille siirtymisestä ja rantautumisesta syntyviä kustannuksia [ICON_Movement] liikkumiseen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_DIDO_NAME">
 			<Text>Dido</Text>
@@ -484,7 +484,7 @@
 		</Replace>
 		<!-- England -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION2_DESCRIPTION">
-			<Text>Englannin oma sataman korvaava kaupunkialue. Poistaa ruudussaan uittoon siirtymisestä aiheutuvan [ICON_Movement] liikehaitan. Tulee rakentaa maan vierustamaan rannikko- tai järviruutuun.[NEWLINE][NEWLINE]+1 [ICON_Movement] liikkuvuutta kaikille telakalla valmistetuille laivoille[NEWLINE]+2 [ICON_Gold] kultaa ja +4 uskollisuutta vuorossa muilla kuin kotimantereella. Ei voi rakentaa riutalle.</Text>
+			<Text>Englannin oma sataman korvaava kaupunkialue. Poistaa ruudussaan vesille siirtymisestä ja rantautumisesta aiheutuvat kustannukset [ICON_Movement] liikkumiseen. Tulee rakentaa maan vierustamaan rannikko- tai järviruutuun.[NEWLINE][NEWLINE]+1 [ICON_Movement] liikkuvuutta kaikille telakalla valmistetuille laivoille[NEWLINE]+2 [ICON_Gold] kultaa ja +4 uskollisuutta vuorossa muilla kuin kotimantereella. Ei voi rakentaa riutalle.</Text>
 		</Replace>
 		<!-- France -->
 		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">

@@ -36,7 +36,7 @@
 			<Text>Kolmen maailman ylistetty jumalatar</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
-			<Text>Meriyksiköitä voi ostaa [ICON_FAITH] uskolla. Uskon yksiköt voivat siirtyä uittoon ja rantautua maksutta. +2[ICON_FAITH] uskoa kaupungin keskuksille, jotka ovat rannikolla tai järven vieressä.</Text>
+			<Text>Meriyksiköitä voi ostaa [ICON_FAITH] uskolla. Uskon yksiköt voivat siirtyä vesille ja rantautua maksutta. +2[ICON_FAITH] uskoa kaupungin keskuksille, jotka ovat rannikolla tai järven vieressä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
 			<Text>Jong|jong|jongin|jongiksi</Text>

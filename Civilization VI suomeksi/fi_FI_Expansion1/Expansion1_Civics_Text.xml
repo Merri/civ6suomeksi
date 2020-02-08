@@ -31,7 +31,7 @@
 		</Replace>
 		<!-- Policies -->
 		<Replace Language="en_US" Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
-			<Text>Toimen jälkeinen info</Text>
+			<Text>Toimintaraportit</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
 			<Text>Kaikki yksiköt saavat +25% taistelukokemusta.</Text>

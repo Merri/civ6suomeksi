@@ -472,7 +472,7 @@
 			<Text>+5 taisteluvoimakkuuteen muodostelmassa.[NEWLINE][ICON_Bullet]Muodostelman yksiköt jakavat Jongin liikkuvuuden.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_GITARJA_RELIGIOUS_NO_EMBARK_DISEMBARK_COST_DESCRIPTION">
-			<Text>Ei liikkumismaksua siirtymisestä uittoon ja rantautumisesta. (Gitarja)</Text>
+			<Text>Ei liikkumismaksua siirtymisestä vesille ja rantautumisesta. (Gitarja)</Text>
 		</Replace>
 		<!-- World Wonders -->
 		<Replace Language="en_US" Tag="LOC_BUILDING_ANGKOR_WAT_NAME">

@@ -11,7 +11,7 @@
 			<Text>Mahdollistaa metsän poishakkuun ja [ICON_RESOURCE_Copper] kuparin poiskorjuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_SAILING_DESCRIPTION">
-			<Text>Mahdollistaa rakentajien siirtymisen uittoon.</Text>
+			<Text>Mahdollistaa rakentajien siirtymisen vesille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
 			<Text>Mahdollistaa suon ojittamisen ja [ICON_RESOURCE_BANANAS] banaanien poiskorjuun.</Text>
@@ -23,10 +23,10 @@
 			<Text>Mahdollistaa sademetsän poishakkuun. Paljastaa [ICON_RESOURCE_IRON] raudan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
-			<Text>Mahdollistaa kaikkien maayksiköiden siirtymisen uittoon.</Text>
+			<Text>Mahdollistaa kaikkien maayksiköiden siirtymisen vesille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
-			<Text>Mahdollistaa kauppurien siirtymisen uittoon sekä [ICON_RESOURCE_FISH] kalan ja [ICON_RESOURCE_CRABS] ravun poiskorjuun.</Text>
+			<Text>Mahdollistaa kauppurien siirtymisen vesille sekä [ICON_RESOURCE_FISH] kalan ja [ICON_RESOURCE_CRABS] ravun poiskorjuun.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
 			<Text>+1 [ICON_Movement] liikkuvuutta kaikille meriyksiköille.</Text>
@@ -260,7 +260,7 @@
 			<Text>Tuhoa hävittäjäkone.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
-			<Text>Omista kolme panssarivaunua.</Text>
+			<Text>Omista kolme taisteluvaunua.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
 			<Text>Kehitä globalisaation normi.</Text>

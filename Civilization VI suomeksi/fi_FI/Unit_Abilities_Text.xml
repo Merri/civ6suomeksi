@@ -343,7 +343,7 @@
 			<Text>+1 [ICON_Movement] liikkuvuutta Faroksen majakasta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT_DESCRIPTION">
-			<Text>+1 [ICON_Movement] liikkuvuutta uittoon Faroksen majakasta.</Text>
+			<Text>+1 [ICON_Movement] liikkuvuutta vesillä ollessa Faroksen majakasta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
 			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR]etävoimakkuutta kaupunkialueita ja meriyksiköitä vastaan.</Text>
@@ -379,7 +379,7 @@
 			<Text>+30 [ICON_Damaged] hoivaantumista yksikön päihittämisen jälkeen. (Tomyris)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
-			<Text>Ei huomioi uittoon ja uitosta siirtymisestä aiheutuvia liikkumismaksuja. (Knarr)</Text>
+			<Text>Ei huomioi vesille siirtymisestä ja rantautumisesta aiheutuvia liikkumismaksuja. (Knarr)</Text>
 		</Replace>
 		<!--Great People Assigned-->
 		<Replace Language="en_US" Tag="LOC_ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS_DESCRIPTION">

@@ -8,10 +8,10 @@
 			<Text>Kansamme juhlii historiallista hetkeä! {1_MomentDescription} (+{2_EraScoreAmount} kausien pistettä)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
-			<Text>Käskynhaltija on asettunut kaupunkiin {1_CityName}</Text>
+			<Text>{1_CityName} on saanut käskynhaltijan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_SUMMARY">
-			<Text>Käskynhaltija, {1_GovernorName}, on asettunut kaupunkiin {2_CityName}</Text>
+			<Text>Käskynhaltija {1_GovernorName} on asettunut kaupunkiin {2_CityName}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_MESSAGE">
 			<Text>Uusi käskynhaltija osoitettavissa</Text>

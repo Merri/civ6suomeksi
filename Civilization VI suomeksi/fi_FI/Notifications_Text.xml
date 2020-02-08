@@ -144,7 +144,7 @@
 			<Text>Olemme kohdanneet uuden kaupunkivaltion</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_PLAYER_MET_SUMMARY">
-			<Text>Olemme kohdanneet {2_CivDesc[2]} hallitsijan {1_leader}.</Text>
+			<Text>Olemme kohdanneet {2_CivDesc[2]} hallitsijan {1_leader[2]}.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_MESSAGE">
 			<Text>{1_leader} {1_leader: plural 1?aloitti; other?aloittivat;} rajanvalvonnan</Text>

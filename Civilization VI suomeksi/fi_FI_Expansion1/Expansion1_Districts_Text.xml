@@ -17,7 +17,7 @@
 			<Text>Talouselämään ja kaupankäyntiin keskittyvä kaupunkialue.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_HARBOR_EXPANSION1_DESCRIPTION">
-			<Text>Merellisen läsnäolon kaupunkialue. Lisäksi poistaa ruudussaan [ICON_Movement] liikkuvuuden haitan uittoon siirtymisestä ja rantautumisesta. Tulee rakentaa rannikolle tai maan vierustamalle järviruudulle. Ei voi rakentaa riutalle.</Text>
+			<Text>Merellisen läsnäolon kaupunkialue. Lisäksi poistaa ruudussaan [ICON_Movement] liikkuvuuden haitan vesille siirtymisestä ja rantautumisesta. Tulee rakentaa rannikolle tai maan vierustamalle järviruudulle. Ei voi rakentaa riutalle.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_EXPANSION1_DESCRIPTION">
 			<Text>Väen iloisena pitävä kaupunkialue, joka kasvattaa [ICON_Amenities] elintasoa. Ei voi rakentaa kaupunkiin, jossa on vesipuisto.</Text>

@@ -5,7 +5,7 @@
 			<Text>Diplomaattivoiton pisteitä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_SUMMARY">
-			<Text>Maailmankongreassi on antanut meille {1_Value} diplomaattivoiton pistettä.</Text>
+			<Text>Maailmankongressi on antanut meille {1_Value} diplomaattivoiton pistettä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_MESSAGE">
 			<Text>Tulivuori herää</Text>
@@ -65,19 +65,19 @@
 			<Text>Hirveä myrsky!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_ARRIVED_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
+			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se todennäköisimmin suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_ARRIVED_LOSSES_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
+			<Text>{1_StormType} "{2_StormName}" on kehittynyt ja se todennäköisimmin suuntaa {3_Direction[2]}. Myrsky aiheuttaa tuhoa seuraavan kahden vuoron aikana. (Muodostumisensa myötä {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_MESSAGE">
 			<Text>Myrsky jatkuu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja suuntaa nyt {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
+			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja se jatkanee seuraavaksi {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} parani tuotoiltaan)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_MOVED_LOSSES_SUMMARY">
-			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja suuntaa nyt {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
+			<Text>{1_StormType} "{2_StormName}" jatkaa etenemistään ja se jatkanee seuraavaksi {3_Direction[2]}. (Tällä vuorolla {4_Tiles} {4_Tiles: plural 1?ruutu; other?ruutua;} vahingoittui, {5_Pop} [ICON_CITIZEN] {5_Pop: plural 1?asukas; other?asukasta;} menetettiin, {6_Units} {6_Units: plural 1?yksikkö; other?yksikköä;} tuhoutui, {7_Yields} {7_Yields: plural 1?ruutu; other?ruutua;} heikkeni tuotoiltaan)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_STORM_DISSIPATED_MESSAGE">
 			<Text>Myrsky laantuu</Text>

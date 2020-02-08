@@ -132,7 +132,7 @@
 		</Replace>
 		<!-- England -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
-			<Text>Englannin oma sataman korvaava kaupunkialue. Poistaa ruudussaan uittoon siirtymisestä aiheutuvan [ICON_Movement] liikehaitan. Tulee rakentaa maan vierustamaan rannikko- tai järviruutuun.[NEWLINE][NEWLINE]+1 [ICON_Movement] liikkuvuutta kaikille telakalla valmistetuille laivoille[NEWLINE]+2 [ICON_Gold] kultaa ja +4 uskollisuutta vuorossa muilla kuin kotimantereella. Ei voi rakentaa riutalle.</Text>
+			<Text>Englannin oma sataman korvaava kaupunkialue. Poistaa ruudussaan vesille siirtymisestä ja rantautumisesta aiheutuvat kustannukset [ICON_Movement] liikkumiseen. Tulee rakentaa maan vierustamaan rannikko- tai järviruutuun.[NEWLINE][NEWLINE]+1 [ICON_Movement] liikkuvuutta kaikille telakalla valmistetuille laivoille[NEWLINE]+2 [ICON_Gold] kultaa ja +4 uskollisuutta vuorossa muilla kuin kotimantereella. Ei voi rakentaa riutalle.</Text>
 		</Replace>
 		<!-- Lautaro-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAPUCHE_NAME">

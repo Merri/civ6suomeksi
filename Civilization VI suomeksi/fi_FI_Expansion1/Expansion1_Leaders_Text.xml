@@ -128,7 +128,7 @@
 			<Text>Antiokia</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ANTIOCH_DESCRIPTION">
-			<Text>Antiokian kaupunkivaltio</Text>
+			<Text>Antiokian kaupunkivaltio|Antiokian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
 			<Text>Antiokian valta-asemaetu</Text>
@@ -143,7 +143,7 @@
 			<Text>Babylon</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_DESCRIPTION">
-			<Text>Babylonin kaupunkivaltio</Text>
+			<Text>Babylonin kaupunkivaltio|Babylonin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
 			<Text>Babylonin valta-asemaetu</Text>

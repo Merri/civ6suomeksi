@@ -61,79 +61,79 @@
 		</Replace>
 		<!-- City-State Empire Names-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
-			<Text>Amsterdamin kaupunkivaltio</Text>
+			<Text>Amsterdamin kaupunkivaltio|Amsterdamin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
-			<Text>Bandar Seri Begawanin kaupunkivaltio</Text>
+			<Text>Bandar Seri Begawanin kaupunkivaltio|Bandar Seri Begawanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
-			<Text>Brysselin kaupunkivaltio</Text>
+			<Text>Brysselin kaupunkivaltio|Brysselin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
-			<Text>Buenos Airesin kaupunkivaltio</Text>
+			<Text>Buenos Airesin kaupunkivaltio|Buenos Airesin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
-			<Text>Karthagon kaupunkivaltio</Text>
+			<Text>Karthagon kaupunkivaltio|Karthagon</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
-			<Text>Geneven kaupunkivaltio</Text>
+			<Text>Geneven kaupunkivaltio|Geneven</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
-			<Text>Hattusan kaupunkivaltio</Text>
+			<Text>Hattusan kaupunkivaltio|Hattusan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
-			<Text>Hong Kongin kaupunkivaltio</Text>
+			<Text>Hong Kongin kaupunkivaltio|Hong Kongin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
-			<Text>Jakartan kaupunkivaltio</Text>
+			<Text>Jakartan kaupunkivaltio|Jakartan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
-			<Text>Jerusalemin kaupunkivaltio</Text>
+			<Text>Jerusalemin kaupunkivaltio|Jerusalemin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
-			<Text>Kabulin kaupunkivaltio</Text>
+			<Text>Kabulin kaupunkivaltio|Kabulin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
-			<Text>Kandyn kaupunkivaltio</Text>
+			<Text>Kandyn kaupunkivaltio|Kandyn</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
-			<Text>Kumasin kaupunkivaltio</Text>
+			<Text>Kumasin kaupunkivaltio|Kumasin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
-			<Text>La Ventan kaupunkivaltio</Text>
+			<Text>La Ventan kaupunkivaltio|La Ventan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
-			<Text>Lissabonin kaupunkivaltio</Text>
+			<Text>Lissabonin kaupunkivaltio|Lissabonin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
-			<Text>Mohenjo-Daron kaupunkivaltio</Text>
+			<Text>Mohenjo-Daron kaupunkivaltio|Mohenjo-Daron</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
-			<Text>Preslavin kaupunkivaltio</Text>
+			<Text>Preslavin kaupunkivaltio|Preslavin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
-			<Text>Nan Madolin kaupunkivaltio</Text>
+			<Text>Nan Madolin kaupunkivaltio|Nan Madolin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
-			<Text>Soulin kaupunkivaltio</Text>
+			<Text>Soulin kaupunkivaltio|Soulin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
-			<Text>Tukholman kaupunkivaltio</Text>
+			<Text>Tukholman kaupunkivaltio|Tukholman</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
-			<Text>Toronton kaupunkivaltio</Text>
+			<Text>Toronton kaupunkivaltio|Toronton</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
-			<Text>Vallettan kaupunkivaltio</Text>
+			<Text>Vallettan kaupunkivaltio|Vallettan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
-			<Text>Vilnan kaupunkivaltio</Text>
+			<Text>Vilnan kaupunkivaltio|Vilnan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
-			<Text>Jerevanin kaupunkivaltio</Text>
+			<Text>Jerevanin kaupunkivaltio|Jerevanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
-			<Text>Sansibarin kaupunkivaltio</Text>
+			<Text>Sansibarin kaupunkivaltio|Sansibarin</Text>
 		</Replace>
 		<!-- Adjectives -->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
@@ -387,7 +387,7 @@
 			<Text>Knarr</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
-			<Text>Yksiköt voivat seilata meriruutuihin laivanrakentamisen kehittämisen jälkeen. Meleelaivayksiköt hoivautuvat neutraaleilla mailla. Yksiköihin ei vaikuta ylimääräiset [ICON_Movement] liikekulut uittoontumisesta ja rantautumisesta.</Text>
+			<Text>Yksiköt voivat seilata meriruutuihin laivanrakentamisen kehittämisen jälkeen. Meleelaivayksiköt hoivautuvat neutraaleilla mailla. Vesille siirtymisestä ja rantautumisesta ei aiheudu ylimääräisiä kustannuksia [ICON_Movement] liikkumiseen.</Text>
 		</Replace>
 		<!-- Civilization Info -->
 		<Replace Language="en_US" Tag="LOC_CIVINFO_LOCATION">

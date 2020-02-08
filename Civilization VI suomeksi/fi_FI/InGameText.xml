@@ -2539,7 +2539,7 @@
 			<Text>Lahjoita museolle</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_EMBARK_DESCRIPTION">
-			<Text>Siirry uittoon</Text>
+			<Text>Siirry vesille</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_EVANGELIZE_BELIEF_DESCRIPTION">
 			<Text>Evankelioi uskomus</Text>
@@ -3072,7 +3072,7 @@
 			<Text>Mahdollistaa:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_BUILDING_CITIZEN_YIELDS_HEADER">
-			<Text>Asukastuotto (asukkasta kohden tässä kaupunkialueessa):</Text>
+			<Text>Asukastuotto (asukasta kohden tässä kaupunkialueessa):</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_DISTRICT_CITIZEN_YIELDS_HEADER">
 			<Text>Asukastuotto (asukasta kohden):</Text>

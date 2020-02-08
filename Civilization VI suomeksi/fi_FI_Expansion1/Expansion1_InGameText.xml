@@ -1628,7 +1628,7 @@
 			<Text>Lisää projektiin [ICON_Production] tuottavuutta. Vain kerran vuorossa kaupunkia kohden.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_PRIORITY_TARGET_DESCRIPTION">
-			<Text>Olennaisin kohde</Text>
+			<Text>Kohdistettu isku</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GOVERNOR_IDENTITY_PRESSURE">
 			<Text>Uskollisuuslisä</Text>
