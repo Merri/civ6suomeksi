@@ -257,7 +257,7 @@
 			<Text>Mana</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_DESCRIPTION">
-			<Text>Aloittaa pelin purjehduksella ja laivanrakennuksella, sekä kyvyllä ylittää meriruutuja. Uitossa olevat yksiköt saavat +2 [ICON_Movement] liikkuvuutta. Rakenteettomat metsät ja sademetsät saavat +1 [ICON_PRODUCTION] tuotantoa. Lisäksi merkantilismi tarjoaa +1 [ICON_PRODUCTION] tuotantoa ja ympäristönsuojelu +2 [ICON_PRODUCTION] tuotantoa. Kalastajat tarjoavat +1 [ICON_FOOD] ruokaa ja kulttuuripommittavat viereiset ruudut. Ei voi poistaa luonnonvaroja ruuduista. Ei saa [ICON_GreatWriter] merkittäviä kirjailijoita.</Text>
+			<Text>Aloittaa pelin purjehduksella ja laivanrakennuksella, sekä kyvyllä ylittää meriruutuja. Vesillä olevat yksiköt saavat +2 [ICON_Movement] liikkuvuutta. Rakenteettomat metsät ja sademetsät saavat +1 [ICON_PRODUCTION] tuotantoa. Lisäksi merkantilismi tarjoaa +1 [ICON_PRODUCTION] tuotantoa ja ympäristönsuojelu +2 [ICON_PRODUCTION] tuotantoa. Kalastajat tarjoavat +1 [ICON_FOOD] ruokaa ja kulttuuripommittavat viereiset ruudut. Ei voi poistaa luonnonvaroja ruuduista. Ei saa [ICON_GreatWriter] merkittäviä kirjailijoita.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_KUPE_NAME">
 			<Text>Kupe</Text>
@@ -347,7 +347,7 @@
 			<Text>Välimeren siirtokunnat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_DESCRIPTION">
-			<Text>Aloittaa pelin kirjoitustaidon [ICON_TechBoosted] heurekalla. Foinikian perustamat kaupungit, jotka sijaitsevat samalla mantereella kuin Foinikian [ICON_Capital] pääkaupunki ovat aina täysin uskollisia. Uudisasuttajat saavat +2 [ICON_Movement] liikkuvuutta ja +2 näkyvyyttä ollessaan uitossa. Uudisasukkaat eivät huomioi vesille siirtymisestä ja rantautumisesta syntyviä kustannuksia [ICON_Movement] liikkumiseen.</Text>
+			<Text>Aloittaa pelin kirjoitustaidon [ICON_TechBoosted] heurekalla. Foinikian perustamat kaupungit, jotka sijaitsevat samalla mantereella kuin Foinikian [ICON_Capital] pääkaupunki ovat aina täysin uskollisia. Uudisasuttajat saavat +2 [ICON_Movement] liikkuvuutta ja +2 näkyvyyttä ollessaan vesillä. Uudisasukkaat eivät huomioi vesille siirtymisestä ja rantautumisesta syntyviä kustannuksia [ICON_Movement] liikkumiseen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_DIDO_NAME">
 			<Text>Dido</Text>

@@ -668,7 +668,7 @@
 			<Text>+5 [ICON_Faith] uskoa jokaisesta uskonnon muodostaneesta kansakunnasta (Intia mukaanlukien) jonka he ovat kohdanneet ja jota vastaan he eivät ole sodassa. Vastaan taistelevat kansakunnat kärsivät kaksinkertaisesti sotaväsymyksestä sotiessaan Gandhia vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
-			<Text>Sallii rannikon ryöväilyn kaikille meleelaivoille ja +50% [ICON_PRODUCTION] tuotantoa kaikille meleelaivoille.</Text>
+			<Text>Sallii rannikon ryöväilyn kaikille meleelaivoille. +50% [ICON_PRODUCTION] tuotantoa meleelaivoihin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
 			<Text>Muinaisuuden ja antiikin ihmeiden rakentamista voidaan vauhdittaa rakentajien työstöillä. Kukin työstö vastaa 15% ihmeen alkuperäisestä rakennuskustannuksesta. Rakentajilla on yksi työstö normaalia enemmän.</Text>

@@ -1,11 +1,11 @@
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_MESSAGE">
-			<Text>Diplomaattivoiton pisteitä</Text>
+			<Text>Diplomaattivoiton pisteet</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_SUMMARY">
-			<Text>Maailmankongressi on antanut meille {1_Value} diplomaattivoiton pistettä.</Text>
+			<Text>Maailmankongressi on antanut meille {1_Value: plural 1?yhden diplomaattivoiton pisteen; other?{1_Value} diplomaattivoiton pistettä;}.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_MESSAGE">
 			<Text>Tulivuori herää</Text>

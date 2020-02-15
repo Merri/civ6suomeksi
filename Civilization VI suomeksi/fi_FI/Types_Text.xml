@@ -2924,22 +2924,22 @@
 		</Replace>
 		<!-- Yields -->
 		<Replace Language="en_US" Tag="LOC_YIELD_CULTURE_NAME">
-			<Text>Kulttuuri</Text>
+			<Text>Kulttuuri|kulttuuri|kulttuurin|kulttuuria</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_YIELD_FAITH_NAME">
-			<Text>Usko</Text>
+			<Text>Usko|usko|uskon|uskoa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_YIELD_FOOD_NAME">
-			<Text>Ruoka</Text>
+			<Text>Ruoka|ruoka|ruoan|ruokaa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_YIELD_GOLD_NAME">
-			<Text>Kulta</Text>
+			<Text>Kulta|kulta|kullan|kultaa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_YIELD_PRODUCTION_NAME">
-			<Text>Tuotanto</Text>
+			<Text>Tuotanto|tuotanto|tuotannon|tuotantoa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_YIELD_SCIENCE_NAME">
-			<Text>Tiede</Text>
+			<Text>Tiede|tiede|tieteen|tiedettä</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

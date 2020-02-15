@@ -6,7 +6,7 @@
 			<Text>Kantausko</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_RELIGION_BUDDHISM">
-			<Text>Buddhalaisuus|Buddhalaisuuden|buddalaisuuteen</Text>
+			<Text>Buddhalaisuus|Buddhalaisuuden|buddhalaisuuteen</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_RELIGION_CATHOLICISM">
 			<Text>Katolilaisuus|Katolilaisuuden|katolilaisuuteen</Text>
@@ -314,7 +314,7 @@
 			<Text>Kasvattaa hoivausta +30:lla pyhässä paikassa ja sen viereisissä ruuduissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Kahdeksan ruudun sisällä pyhästä paikasta tuhottu vihollisyksikkö tarjoaa puolet voimastaan [ICON_Faith] uskona.</Text>
+			<Text>Kahdeksan ruudun sisällä pyhästä paikasta tuhottu sotayksikkö tarjoaa puolet voimastaan [ICON_Faith] uskona.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
 			<Text>+50 [ICON_Faith] uskoa jokaisesta tuhotusta barbaarien etuvartiosta.</Text>
@@ -374,7 +374,7 @@
 			<Text>Pyhätöt ja temppelit tarjoavat [ICON_Food] ruokaa puolella ominaisesta [ICON_Faith] uskontuotostaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
-			<Text>Kampuksia ja teatteriaukioita (jotka ovat kaupunkialueita) voi ostaa [ICON_Faith] uskolla.</Text>
+			<Text>Kampuksille ja teatteriaukioille voi ostaa rakennuksia [ICON_Faith] uskolla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
 			<Text>[ICON_GreatWork_Relic] Muinaisjäännökset antavat kolminkertaisesti sekä [ICON_Faith] uskoa että [ICON_Tourism] turismia.</Text>
@@ -424,7 +424,7 @@
 			<Text>Pyhän paikan valmistuessa sen viereiset ruudut kulttuuripommittuvat omistukseemme.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
-			<Text>Taisteluyksiköt saavat +10 [ICON_Strength] taisteluvoimakkuutta ollessaan tätä uskontoa noudattavien ystävällisten kaupunkien rajojen sisäpuolella.</Text>
+			<Text>Taisteluyksiköt saavat +5 [ICON_Strength] taisteluvoimakkuutta ollessaan tätä uskontoa noudattavien ystävällisten kaupunkien rajojen sisäpuolella.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
 			<Text>Lähetyssaarnaajat ja apostolit ovat 30% edullisempia hankkia.</Text>
@@ -433,7 +433,7 @@
 			<Text>Uskonto leviää 30% kauempana oleviin kaupunkeihin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
-			<Text>Taisteluyksiköt saavat +10 [ICON_Strength] taisteluvoimakkuutta ollessaan lähellä ulkomaisia kaupunkeja, jotka noudattavat tätä uskontoa.</Text>
+			<Text>Taisteluyksiköt saavat +10 [ICON_Strength] taisteluvoimakkuutta ollessaan ulkomaisten kaupunkien mailla, jotka noudattavat tätä uskontoa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
 			<Text>Uskonnolliset yksiköt eivät huomioi maaston ja sen piirteiden [ICON_Movement] liikkumismaksuja.</Text>

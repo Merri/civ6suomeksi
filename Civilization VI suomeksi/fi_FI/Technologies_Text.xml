@@ -38,10 +38,10 @@
 			<Text>Kiinan muuri antaa [ICON_Culture] kulttuuria läheisyysetuna. Catherine de Medici saa ilmaisen vakoilijan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
-			<Text>+2 [ICON_Gold] kultaa kalastajista. Kaikki meriyksiköt ja uitossa olevat yksiköt voivat mennä meriruutuihin.</Text>
+			<Text>+2 [ICON_Gold] kultaa kalastajista. Kaikki meriyksiköt ja vesillä olevat yksiköt voivat mennä meriruutuihin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
-			<Text>+1 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>
+			<Text>+1 [ICON_Movement] liikkuvuutta vesillä oleville yksiköille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_BANKING_DESCRIPTION">
 			<Text>+2 [ICON_Gold] kultaa louhoksista.</Text>
@@ -62,7 +62,7 @@
 			<Text>Porraskaivot tarjoavat 1 [ICON_Housing] asumusta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
-			<Text>+2 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>
+			<Text>+2 [ICON_Movement] liikkuvuutta vesillä oleville yksiköille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
 			<Text>Kaikki [ICON_Culture] kulttuuria tarjoavat rakenteet tarjoavat saman verran myös [ICON_Tourism] turismia.</Text>
@@ -74,7 +74,7 @@
 			<Text>+1 [ICON_Production] tuotantoa sahoista. Mahdollistaa asutuskeskusten suojat, jotka antavat kaikille kaupungeille 400 linnoitusvoimakkuutta sekä kyvyn tulittaa. Kaikki aiemmat muurit vanhenevat ja piirittämisen tukiyksiköt ovat hyödyttömiä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
-			<Text>+1 [ICON_Movement] liikkuvuutta uitossa oleville yksiköille.</Text>
+			<Text>+1 [ICON_Movement] liikkuvuutta vesillä oleville yksiköille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
 			<Text>+1 [ICON_Production] tuotantoa louhoksista.</Text>

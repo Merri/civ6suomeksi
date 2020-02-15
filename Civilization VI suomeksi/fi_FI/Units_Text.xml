@@ -375,7 +375,7 @@
 			<Text>Sumerin muinaisuuden yksikkö. Voimakkaampi kuin ainutkaan toinen aloittava yksikkö. Ei haittoja ratsuja torjuvia yksiköitä vastaan. 4 [ICON_Movement] liikkuvuutta aloittaessaan avoimesta maastosta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
-			<Text>Englannin teollisen ajan yksikkö Victorian ollessa hallitsija. +10 [ICON_Strength] taisteluvoimakkuutta taistellessaan eri mantereella kuin millä pääkaupunki on. Ei maksua uitosta.</Text>
+			<Text>Englannin teollisen ajan yksikkö Victorian ollessa hallitsija. +10 [ICON_Strength] taisteluvoimakkuutta taistellessaan eri mantereella kuin millä pääkaupunki on. Ei maksua vesille siirtymisestä ja rantautumisesta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
 			<Text>Amerikan teollisen ajan yksikkö Teddy Rooseveltin ollessa hallitsija. Pääkaupungin mantereella tehdyistä tapoista ansaitaan [ICON_Culture] kulttuuria. +10 [ICON_Strength] taisteluvoimakkuutta mäellä. Alhaisemmat ylläpitokulut.</Text>

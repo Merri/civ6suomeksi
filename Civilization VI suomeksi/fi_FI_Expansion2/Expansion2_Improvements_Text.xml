@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Improvements-->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa chateaun, joka on Ranskalle ominainen.[NEWLINE][NEWLINE]+2 [ICON_Culture] kulttuuria. +1 houkuttelevuutta. +1 [ICON_Culture] kulttuuria ihmeen vieressä. +1 [ICON_Gold] kultaa ylellisen luonnonvaran vieressä. Voi rakentaa ainoastaan joen rannalle, mukaanlukien tulvatasangolle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa zigguratin, joka on Sumerille ominainen.[NEWLINE][NEWLINE]+2 [ICON_Science] tiedettä. +1 [ICON_Culture] kulttuuria joen varrella. Ei voi rakentaa mäelle, mutta voi rakentaa tulvatasangolle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_NAME">
+			<Text>Geoterminen voimala|geoterminen voimala|geotermisen voimalan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa geotermisen voimalan.[NEWLINE][NEWLINE]+1 [ICON_Science] tiedettä. +2 [ICON_Production] tuotantoa. Tarjoaa 4 [ICON_Power] sähköä vuorossa. Tulee rakentaa geotermiseen halkeamaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SOLAR_FARM_NAME">
+			<Text>Aurinkopuisto|aurinkopuisto|aurinkopuiston</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SOLAR_FARM_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa aurinkopuiston.[NEWLINE][NEWLINE]+1 [ICON_Gold] kultaa. +1 [ICON_Production] tuotantoa. Tarjoaa 2 [ICON_Power] sähköä vuorossa. Tulee rakentaa tasaiseen maastoon. Ei voi rakentaa lumeen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_WIND_FARM_NAME">
+			<Text>Tuulipuisto|tuulipuisto|tuulipuiston</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_WIND_FARM_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa tuulipuiston.[NEWLINE][NEWLINE]+2 [ICON_Gold] kultaa. +1 [ICON_Production] tuotantoa. Tarjoaa 2 [ICON_Power] sähköä vuorossa. Tulee rakentaa mäelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_NAME">
+			<Text>Rannan tuulipuisto|rannan tuulipuisto|rannan tuulipuiston</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa rannan tuulipuiston.[NEWLINE][NEWLINE]+2 [ICON_Production] tuotantoa. Tarjoaa 2 [ICON_Power] sähköä vuorossa. Tulee rakentaa rannikolle tai järvelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SEASTEAD_NAME">
+			<Text>Meritila|meritila|meritilan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SEASTEAD_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa meritilan.[NEWLINE][NEWLINE]+2 [ICON_FOOD] ruokaa. +1 [ICON_Production] tuotantoa jokaisesta viereisestä kalastajasta. Kalastajat saavat +1 [ICON_Production] tuotantoa jokaisesta viereisestä meritilasta. +1 [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia jokaisesta viereisestä riutasta. +2 [ICON_HOUSING] asumusta. Tulee rakentaa rannikolle, järvelle tai merelle. Ei voi rakentaa toisen meritilan viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOAI_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa moai-patsaan.[NEWLINE][NEWLINE]+1 [ICON_Culture] kulttuuria. +1 [ICON_Culture] kulttuuria jokaisesta kahdesta viereisestä moai'sta. +2 [ICON_Culture] kulttuuria tuliperäisen maan ruudussa tai sen vieressä. +1 [ICON_Culture] kulttuuria rannikon tai järviruudun vierellä. Lisää [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia edettäessä tekniikassa ja normeissa. Voi rakentaa tasangolle, tasangon mäelle, ruohikolle, ruohikon mäelle tai tuliperäiselle maalle. Ei voi sijoittaa metsän tai sademetsän viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUND_NAME">
+			<Text>Temppelikumpu|temppelikumpu|temppelikummun</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUND_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa temppelikummun.[NEWLINE][NEWLINE]+3 [ICON_GOLD] kultaa. Kaupungit saavat +1 [ICON_AMENITIES] elintasoa ensimmäisestä temppelikummustaan. Luonnonhistorian kehittämisen myötä kaupungit saavat +1 [ICON_AMENITIES] elintasoa toisesta temppelikummustaan. +1 [ICON_FOOD] ruokaa jokaisesta kahdesta viereisestä kaupunkialueesta feodalismin kehittämisen myötä tai jokaisesta viereisestä kaupunkialueesta vaihto-osien kehittämisen myötä. Tarjoaa +1 [ICON_HOUSING] asumusta. Lisää [ICON_HOUSING] asumuksia kulttuuriperinnön kehittämisen myötä. Ei voi rakentaa toisen temppelikummun viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_NAZCA_LINE_NAME">
+			<Text>Nazcan linja|Nazcan linja|Nazcan linjan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa Nazcan linjan.[NEWLINE][NEWLINE]+1 [ICON_Faith] uskoa viereisille ruuduille. +1 [ICON_Faith] uskoa viereisille ruuduille, joissa on luonnonvara. +1 [ICON_FOOD] ruokaa viereisille aavikko- ja aavikkomäkiruuduille kansalaispalveluksen kehittämisen myötä. +1 [ICON_PRODUCTION] tuotantoa tasaisille ruuduille massatuotannon kehittämisen myötä. +1 houkuttelevuutta. Voi rakentaa ainoastaan tasaiselle aavikolle. Ruutua ei voi työstää.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOAI_NAME">
+			<Text>Moai|moai|moai-patsaan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SKI_RESORT_NAME">
+			<Text>Laskettelukeskus|laskettelukeskus|laskettelukeskuksen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_SKI_RESORT_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa laskettelukeskuksen.[NEWLINE][NEWLINE]Tarjoaa [ICON_Tourism] turismia ruudun houkuttelevuuden edestä. Tarjoaa [ICON_AMENITIES] elintasoa. Voi rakentaa ainoastaan vuorelle. Ei voi rakentaa toisen laskettelukeskuksen viereen. Ruutua ei voi ryövätä, työstää eikä poistaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_NAME">
+			<Text>Vuoritunneli|vuoritunneli|vuoritunnelin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_DESCRIPTION">
+			<Text>Sallii sotilasinsinöörin rakentaa vuoritunnelin.[NEWLINE][NEWLINE]Toimii liikkumiskeinona vuorijonojen lävitse sallien yksiköiden siirtyä tunneliin ja poistua sieltä käyttämällä 2 [ICON_Movement] liikkuvuutta. Tunnelin lävitse kulkevat [ICON_TradeRoute] kauppareitit kykenevät moninkertaistamaan tuottamansa [ICON_Gold] kullan kohteen kaupunkialueista. Voi rakentaa ainoastaan viereiselle vuorolle. Ei voi ryövätä eikä poistaa.</Text>
+		</Replace>
+		<!--Goody Huts -->
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_DIPLOMACY_GOVERNOR_TITLE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_DIPLOMATIC]+1 [ICON_Governor] käskynhaltijan virkaa[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_DIPLOMACY_ENVOY_DESCRIPTION">
+			<Text>[COLOR_FLOAT_DIPLOMATIC]+{1_Num} [ICON_Envoy] edustaja[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_DIPLOMACY_FAVOR_DESCRIPTION">
+			<Text>[COLOR_FLOAT_DIPLOMATIC]+{1_Num} [ICON_FAVOR] diplomaattista suosiota[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOODYHUT_MILITARY_RESOURCES_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]+{1_Num} [ICON_{2_Icon}] {3_Resources}[ENDCOLOR]</Text>
+		</Replace>
+		<!-- Updates-->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_ALCAZAR_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa alcázarin.[NEWLINE][NEWLINE]+2 [ICON_Culture] kulttuuria. Tarjoaa [ICON_SCIENCE] tiedettä 50%:llä ruudun houkuttelevuuden edestä. Miehittävä yksikkö saa +4 [ICON_Strength] puolustusvoimakkuutta, sekä saa 2 vuoron edestä vartioetua. Tarjoaa [ICON_TOURISM] turismia lentämisen kehittämisen myötä. Ei voi rakentaa toisen alcázarin viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_CAMP_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa leirejä.[NEWLINE][NEWLINE]+2 [ICON_Gold] kultaa. Voi rakentaa ainoastaan soveltuvien luonnonvarojen ruutuihin.[NEWLINE][NEWLINE]Ylelliset luonnonvarat tulevat kaupungin hyödynnettäväksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa valtavia kivipäitä.[NEWLINE][NEWLINE]+2 [ICON_Faith] uskoa. +1 [ICON_Faith] uskoa jokaisesta kahdesta viereisestä sademetsästä tai jokaisesta viereisestä sademetsästä humanismin kehittämisen jälkeen. +1 [ICON_Faith] uskoa jokaisesta kahdesta viereisestä metsäst tai jokaisesta viereisestä metsästä humanismin kehittämisen jälkeen. [ICON_TOURISM] Turismia [ICON_FAITH] uskosta lentämisen kehittämisen myötä. Ei voi rakentaa lumelle tai lumimäelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_MONASTERY_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa luostarin.[NEWLINE][NEWLINE]+2 [ICON_Faith] uskoa. +15 HP hoivausta ystävällisille uskonnollisille yksiköille, jotka eivät ole hyökänneet samalla vuorolla. +1 [ICON_FAITH] uskoa jokaisesta kahdesta viereisestä kaupunkialueesta. Tarjoaa +1 [ICON_HOUSING] asumusta. Lisää [ICON_HOUSING] asumuksia kolonialismin kehittämisen myötä. Ei voi rakentaa toisen luostarin viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_LUMBER_MILL_EXPANSION2_DESCRIPTION">
+			<Text>Sallii rakentajien rakentaa sahoja.[NEWLINE][NEWLINE]+2 [ICON_Production] tuottavuutta. Voi rakentaa ainoastaan metsiin. Voi rakentaa myös sademetsiin merkantilismin kehittämisen myötä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_HEALING">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} HP[ENDCOLOR]</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

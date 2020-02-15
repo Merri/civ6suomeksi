@@ -720,7 +720,7 @@
 			<Text>[COLOR_RED]{1_Value} vahingoittunut kaupunkialue[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_EMBARKED_UNIT_STRENGTH">
-			<Text>[COLOR_RED]Muuttunut perusvoimakkuus uitossa[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Muuttunut perusvoimakkuus vesillä[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COMBAT_PREVIEW_DISTRICT_ATTACK_BONUS">
 			<Text>+{1 Value} tulitushyökkäysetua</Text>
@@ -2964,7 +2964,7 @@
 			<Text>Ylläpito: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_BUILDING_DISTRICT_COPY">
-			<Text>{1_ToYieldIcon} {2_ToYieldName} etua läheisyydestä {3_FromYieldIcon} {4_FromYieldName} etuun kaupunkialueesta.</Text>
+			<Text>Lisää {1_ToYieldIcon} {2_ToYieldName[4]} kaupunkialueen {3_FromYieldIcon} {4_FromYieldName[3]} läheisyysedun mukaisesti.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_BUILDING_REQUIRES">
 			<Text>Vaatimukset:</Text>
@@ -3379,7 +3379,7 @@
 			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] elintasoa viereisestä ruudusta, jossa on {2_AdjacentObject}.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS">
-			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} jokaisesta viereisestä ruudusta, jossa on {5_AdjacentObject}.</Text>
+			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName[4]} jokaisesta viereisestä ruudusta, jossa on {5_AdjacentObject}.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] elintasoa jokaisesta viereisestä ruudusta, jossa on {2_AdjacentObject}.</Text>
@@ -4370,7 +4370,7 @@
 			<Text>3 [ICON_Envoy] edustajaa ja enemmän kuin millään toisella kansalla:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_SUZERAIN_UNIQUE_BONUS">
-			<Text>{1_CityStateName} Erityinen etu:</Text>
+			<Text>{1_CityStateName} tarjoaa edun:</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS">
 			<Text>Valta-aseman diplomaattinen etu:[NEWLINE][ICON_Bolt]Kaupunkivaltio kulkee kanssamme sotaan ja rauhaan toisia pelaajia vastaan.[NEWLINE][ICON_Bolt]Kaupunkivaltion maista tulee ystävälliset: yksikkömme voivat kulkea, hoivaantua ja päivittää siellä.[NEWLINE][ICON_Bolt]Rakentajamme voivat tehdä rakenteita kaupunkivaltion maille.[NEWLINE][ICON_Bolt]Voimme nähdä kaupunkivaltiota ympäröivät maat kolmen ruudun päähän.[NEWLINE][ICON_Bolt]Voimme värvätä [ICON_Gold] kullalla kaupunkivaltion armeijan väliaikaisesti käyttöömme.[NEWLINE][ICON_Bolt]Saamme omistajuuden kaikille kaupunkivaltion luonnonvaroille.</Text>

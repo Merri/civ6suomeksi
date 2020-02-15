@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
 		<!--Turn-Blocking Notifications -->
@@ -156,13 +155,13 @@
 			<Text>Ystävyys vanheni</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_SUMMARY">
-			<Text>Ystävyytemme hallitsijan {1_leader} kanssa on tullut päätökseen ja tulee uusia erikseen.</Text>
+			<Text>Ystävyytemme {1_leader[2]} kanssa on tullut päätökseen ja tulee uusia erikseen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_MESSAGE">
 			<Text>Liitto vanheni</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
-			<Text>Liittomme hallitsijan {1_leader} kanssa on tullut päätökseensä ja tulee uusia erikseen.</Text>
+			<Text>Liittomme {1_leader[2]} kanssa on tullut päätökseensä ja tulee uusia erikseen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_MESSAGE">
 			<Text>Uusi sodan peruste</Text>
@@ -362,7 +361,7 @@
 			<Text>Etu kaupunkivaltion kohtaamisesta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
-			<Text>Ensimmäisenä kaupunkivaltion {1_CityStateName} kohdanneena suurena kansakuntana olemme ansainneet sinne {2_NumEnvoys : plural 1?yhden [ICON_Envoy] edustajan; other?{2_NumEnvoys} [ICON_Envoy] edustajaa;}.</Text>
+			<Text>Ensimmäisenä {1_CityStateName[2]} kohdanneena suurena kansakuntana olemme ansainneet sinne {2_NumEnvoys : plural 1?yhden [ICON_Envoy] edustajan; other?{2_NumEnvoys} [ICON_Envoy] edustajaa;}.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_MESSAGE">
 			<Text>Valta-aseman menetys</Text>

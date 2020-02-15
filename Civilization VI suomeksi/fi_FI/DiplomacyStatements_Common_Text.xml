@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
 		<Replace Language="en_US" Tag="LOC_DIPLO_PERSON_CLEO">
@@ -27,7 +26,7 @@
 			<Text>[SIZE_16]Muodosta suurlähetystö[NEWLINE][SIZE_12]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DENOUNCE">
-			<Text>Tuomitse</Text>
+			<Text>[SIZE_16]Tuomitse[NEWLINE][SIZE_12]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
 			<Text>[SIZE_16]Julista yllätyssota[NEWLINE][SIZE_12]</Text>
@@ -86,7 +85,7 @@
 		<Replace Language="en_US" Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
 			<Text>Kaksi kohteen kaupungeista on 10 ruudun sisällä kahden vastustajansa kaupungeista.</Text>
 		</Replace>
-	 <Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
 			<Text>Haluammeko varmasti aloittaa sodan?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_ARE_YOU_SURE_YES">

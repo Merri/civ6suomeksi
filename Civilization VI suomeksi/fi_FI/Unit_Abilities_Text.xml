@@ -274,7 +274,7 @@
 			<Text>Kykenee liikkumaan hyökättyään.[NEWLINE][ICON_Bullet]+5 [ICON_Strength] taisteluvoimakkuutta maillamme sekä niiden vieressä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
-			<Text>+10 [ICON_Strength] taisteluvoimakkuutta muun kuin [ICON_Capital] pääkaupunkimme mantereella.[NEWLINE][ICON_Bullet]Ei [ICON_Movement] liikkumismaksua uitosta poistumisesta.</Text>
+			<Text>+10 [ICON_Strength] taisteluvoimakkuutta muun kuin [ICON_Capital] pääkaupunkimme mantereella.[NEWLINE][ICON_Bullet]Ei [ICON_Movement] liikkumismaksua vesiltä poistumisesta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_VARU_DESCRIPTION">
 			<Text>-5 [ICON_Strength] taisteluvoimakkuutta viereisille vihollisyksiköille.</Text>

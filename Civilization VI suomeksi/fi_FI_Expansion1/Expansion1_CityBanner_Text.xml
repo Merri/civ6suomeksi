@@ -8,7 +8,7 @@
             <Text>Kaupunki on {1_CivName[2]} hallinnassa</Text>
         </Replace>
         <Replace Language="en_US" Tag="LOC_CITY_BELONGS_FREECITY_TT">
-            <Text>Kaupunki on vapaiden kaupunkien hallussa</Text>
+            <Text>Itsenäinen vapaa kaupunki</Text>
         </Replace>
         <Replace Language="en_US" Tag="LOC_CITY_BANNER_TT">
             <Text>{1_CityName} ({2_CivName[2]})</Text>

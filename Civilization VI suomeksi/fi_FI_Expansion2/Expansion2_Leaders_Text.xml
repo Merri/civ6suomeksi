@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Agenda Names-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_ANGEVIN_EMPIRE_NAME">
+			<Text>Angevinit</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_NAME">
+			<Text>Kanadan tutkimusjoukot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_KAITIAKITANGA_NAME">
+			<Text>Kaitiakitanga</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LAWGIVER_NAME">
+			<Text>Laintuoja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LORD_OF_MINES_NAME">
+			<Text>Kaivosten herra</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_RAVEN_BANNER_NAME">
+			<Text>Korppitunnus</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PATRON_OF_ARTS_NAME">
+			<Text>Lukutoukka</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SAPA_INCA_NAME">
+			<Text>Sapa inca</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SICILIAN_WARS_NAME">
+			<Text>Sisilian sodat</Text>
+		</Replace>
+		<!--Random Agenda Names-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_DEMAGOGUE_NAME">
+			<Text>Kansankiihottaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DESTINATION_CIV_NAME">
+			<Text>Kohdekansa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_EXPANSIONIST_NAME">
+			<Text>Laajentuja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLAT_EARTHER_NAME">
+			<Text>Tiedevastainen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_GREAT_WHITE_FLEET_NAME">
+			<Text>Suuri valkoinen laivasto</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_INTOLERANT_NAME">
+			<Text>Suvaitsematon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LIBERTARIAN_NAME">
+			<Text>Vapauksien kannattaja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PILLAGER_NAME">
+			<Text>Ryöväri</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TURTLER_NAME">
+			<Text>Suojautuja</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ZEALOT_NAME">
+			<Text>Uskonkiihoilija</Text>
+		</Replace>
+		<!--Agenda Description-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_ANGEVIN_EMPIRE_DESCRIPTION">
+			<Text>Rakentaa väkirikkaita kaupunkeja. Pitää lähellään olevista kansoista, joilla on [ICON_Citizen] väkirikkaita kaupunkeja. Ei pidä kansoista, joilla on lähellä pieniä ja siten helposti epäuskollisia kaupunkeja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_DESCRIPTION">
+			<Text>Ottaa osaa niin moneen hätätilaan ja pistekilpailuun kuin mahdollista. Pitää muista, jotka ottavat niihin osaa. Ei pidä heistä, jotka jättävät ne välistä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_KAITIAKITANGA_DESCRIPTION">
+			<Text>Säilyttää luonnonpiirteet maillaan ja rakentaa kansallispuistoja. Pitää kansoista, jotka arvostavat ympäristöä. Ei pidä heistä, jotka kohtelevat planeettaa kaltoin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LAWGIVER_DESCRIPTION">
+			<Text>Pitää kansalaisensa onnellisina ja uskollisina. Arvostaa muita samoin toimivia, erityisesti mikäli kykenevät siihen myös muiden perustamissa kaupungeissa. Ei pidä onnellisuus- tai uskollisuusongelmissa vellovista tai joilla on vain vähän muilta otettuja kaupunkeja.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LORD_OF_MINES_DESCRIPTION">
+			<Text>Pyrkii kohottamaan kaupunkien ja [ICON_TradeRoute] kauppareittien [ICON_Gold] kullan tuottoa. Arvostaa samoin toimivia kansoja, ei pidä heistä jotka toimivat toisin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_RAVEN_BANNER_DESCRIPTION">
+			<Text>Värvää kaupunkivaltioiden joukkoja. Pitää kansoista, jotka käyttävät kaupunkivaltioiden joukkoja. Ei pidä kansoista jotka eivät käytä palkkasotilaita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PATRON_OF_ARTS_DESCRIPTION">
+			<Text>Haluaa omistaa enemmän merkkiteoksia kuin kukaan muu. Pitää heistä jotka jättävät merkkiteokset hänelle. Ei pidä muista, joilla on paljon merkkiteoksia.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SAPA_INCA_DESCRIPTION">
+			<Text>Haluaa asettautua lähelle vuoria. Pitää vuoristoiset alueet rauhaan jättävistä, ei pidä vuorille asettuvista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_SICILIAN_WARS_DESCRIPTION">
+			<Text>Haluaa asettautua rannikolle. Pitää sisämaat asuttavista. Ei pidä heistä, joilla on lähinnä rantakaupunkeja.</Text>
+		</Replace>
+		<!--Updated Base Game Agenda Descriptions-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Ei koskaan anna mitään vastineeksi rauhanehdoissa ja pitää kansoista, jotka toimivat samoin. Ei pidä kansoista, jotka antautuvat tai eivät ikinä sodi. Kaunat tätä hallitsijaa vastaan laskevat kaksinkertaisella tahdilla.</Text>
+		</Replace>
+		<!--Random Agenda Descriptions-->
+		<Replace Language="en_US" Tag="LOC_AGENDA_DEMAGOGUE_DESCRIPTION">
+			<Text>Haluaa olla eniten [ICON_FAVOR] diplomaattista suosiota nauttiva kansakunta, ei pidä muista jotka keräävät [ICON_FAVOR] diplomaattista suosiota.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_DESTINATION_CIV_DESCRIPTION">
+			<Text>Haluaa kansansa keräävän osaakseen eniten [ICON_Tourism] turismia, ei pidä muista jotka kisaavat [ICON_Tourism] turismissa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_FLAT_EARTHER_DESCRIPTION">
+			<Text>Haluaa estää ihmiskuntaa kulkemasta maailman ympäri ja menemästä avaruuteen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_LIBERTARIAN_DESCRIPTION">
+			<Text>Ei pidä kansoista, jotka pyrkivät saavuttamaan diplomaattisen voiton.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_PILLAGER_DESCRIPTION">
+			<Text>Pyrkii tärvelemään ruutuja ryöväämällä. Arvostaa muita, jotka ryöväilevät.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_TURTLER_DESCRIPTION">
+			<Text>Haluaa olla suojassa valloittajilta. Ei pidä muiden pelaajien pääkaupunkeja vallanneista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
+			<Text>Pyrkii saavuttamaan uskonnollisen voiton. Pitää kansoista, jotka ovat antautuneet hänen uskolleen.</Text>
+		</Replace>
+		<!--City-States-->
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AKKAD_NAME">
+			<Text>Akkad</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AKKAD_DESCRIPTION">
+			<Text>Akkadin kaupunkivaltio|Akkadin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_AKKAD_ADJECTIVE">
+			<Text>Akkadin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AKKAD_NAME">
+			<Text>Akkadin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_AKKAD_DESCRIPTION">
+			<Text>Melee- ja ratsutorjuntayksiköt tekevät täyden vahingon kaupunkien muureihin.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BOLOGNA_NAME">
+			<Text>Bologna</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION">
+			<Text>Bolognan kaupunkivaltio|Bolognan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BOLOGNA_NAME">
+			<Text>Bolognan valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BOLOGNA_DESCRIPTION">
+			<Text>Rakennuksen sisältävät kaupunkialueemme tarjoavat +1 [ICON_GreatPerson] merkittävien henkilöiden pistettä tyyppinsä mukaisesti (rakennuksen sisältävä teatteriaukio saa [ICON_GreatWriter] merkittävän kirjailijan, [ICON_GreatArtist] merkittävän taiteilijan ja [ICON_GreatMusician] merkittävän muusikon).</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BOLOGNA_ADJECTIVE">
+			<Text>Bolognan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAHOKIA_NAME">
+			<Text>Cahokia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAHOKIA_DESCRIPTION">
+			<Text>Cahokian kaupunkivaltio|Cahokian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CAHOKIA_ADJECTIVE">
+			<Text>Cahokian</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CAHOKIA_NAME">
+			<Text>Cahokian valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CAHOKIA_DESCRIPTION">
+			<Text>Rakentajamme kykenevät luomaan temppelikumpuja.[NEWLINE][NEWLINE]Temppelikummut tarjoavat +3 [ICON_GOLD] kultaa. Kaupungit saavat +1 [ICON_AMENITIES] elintasoa ensimmäisestä temppelikummustaan. Luonnonhistorian kehittämisen myötä kaupungit saavat +1 [ICON_AMENITIES] elintasoa toisesta temppelikummustaan. +1 [ICON_FOOD] ruokaa jokaisesta kahdesta viereisestä kaupunkialueesta feodalismin kehittämisen myötä tai jokaisesta viereisestä kaupunkialueesta vaihto-osien kehittämisen myötä. Tarjoaa +1 [ICON_HOUSING] asumusta. Lisää [ICON_HOUSING] asumuksia kulttuuriperinnön kehittämisen myötä. Ei voi rakentaa toisen temppelikummun viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARDIFF_NAME">
+			<Text>Cardiff</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARDIFF_DESCRIPTION">
+			<Text>Cardiffin kaupunkivaltio|Cardiffin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_CARDIFF_ADJECTIVE">
+			<Text>Cardiffin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARDIFF_NAME">
+			<Text>Cardiffin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARDIFF_DESCRIPTION">
+			<Text>Kaupungit saavat +2 [ICON_Power] sähköä jokaisesta sataman rakennuksesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FEZ_NAME">
+			<Text>Fez</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FEZ_DESCRIPTION">
+			<Text>Fezin kaupunkivaltio|Fezin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_FEZ_ADJECTIVE">
+			<Text>Fezin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_FEZ_NAME">
+			<Text>Fezin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
+			<Text>Käännyttessämme kaupungin uskoomme uskonnollisella yksiköllämme saamme 20 [ICON_SCIENCE] tiedettä kaupungin [ICON_Citizen] asukasta kohden.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_CITY_NAME">
+			<Text>México</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_CITY_DESCRIPTION">
+			<Text>Méxicon kaupunkivaltio|Méxicon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_CITY_ADJECTIVE">
+			<Text>Méxicon</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_HATTUSA_EXPANSION2_DESCRIPTION">
+			<Text>Tarjoaa 2 strategista luonnonvaraa per vuoro jokaisen sellaisen paljastamamme strategisen luonnonvaran osalta, jota emme ole rakentaneet ainuttakaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_MEXICO_CITY_NAME">
+			<Text>Méxicon valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_MEXICO_CITY_DESCRIPTION">
+			<Text>Alueelliset vaikutukset teollisuusalueista ja viihdekomplekseista yltää 3 ruutua kauemmas.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAZCA_NAME">
+			<Text>Nazca</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAZCA_DESCRIPTION">
+			<Text>Nazcan kaupunkivaltio|Nazcan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NAZCA_ADJECTIVE">
+			<Text>Nazcan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NAZCA_NAME">
+			<Text>Nazcan valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NAZCA_DESCRIPTION">
+			<Text>Rakentajamme voivat tehdä Nazcan linjoja.[NEWLINE][NEWLINE]Nazcan linjat tarjoavat +1 [ICON_Faith] uskoa viereisille ruuduille. +1 [ICON_Faith] uskoa viereisille ruuduille, joissa on luonnonvara. +1 [ICON_FOOD] ruokaa viereisille aavikko- ja aavikkomäkiruuduille kansalaispalveluksen kehittämisen myötä. +1 [ICON_PRODUCTION] tuotantoa tasaisille ruuduille massatuotannon kehittämisen myötä. +1 houkuttelevuutta. Voi rakentaa ainoastaan tasaiselle aavikolle. Ruutua ei voi työstää.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME">
+			<Text>Ngazargamu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION">
+			<Text>Ngazargamun kaupunkivaltio|Ngazargamun</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_NGAZARGAMU_ADJECTIVE">
+			<Text>Ngazargamun</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NGAZARGAMU_NAME">
+			<Text>Ngazargamun valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_NGAZARGAMU_DESCRIPTION">
+			<Text>Maataistelu- ja tukiyksiköt ovat 20% edullisempia ostaa [ICON_GOLD] kullalla kutakin varuskunnan rakennusta kohden.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RAPA_NUI_NAME">
+			<Text>Rapa Nui</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RAPA_NUI_DESCRIPTION">
+			<Text>Rapa Nuin kaupunkivaltio|Rapa Nuin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVILIZATION_RAPA_NUI_ADJECTIVE">
+			<Text>Rapa Nuin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_RAPA_NUI_NAME">
+			<Text>Rapa Nuin valta-asemaetu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_RAPA_NUI_DESCRIPTION">
+			<Text>Rakentajamme voivat rakentaa Moai-patsaita.[NEWLINE][NEWLINE]Moai tarjoaa +1 [ICON_Culture] kulttuuria. +1 [ICON_Culture] kulttuuria jokaisesta kahdesta viereisestä moai'sta. +2 [ICON_Culture] kulttuuria tuliperäisen maan ruudussa tai sen vieressä. +1 [ICON_Culture] kulttuuria rannikon tai järviruudun vierellä. Lisää [ICON_Culture] kulttuuria ja [ICON_Tourism] turismia edettäessä tekniikassa ja normeissa. Voi rakentaa tasangolle, tasangon mäelle, ruohikolle, ruohikon mäelle tai tuliperäiselle maalle. Ei voi sijoittaa metsän tai sademetsän viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ARMAGH_EXPANSION2_DESCRIPTION">
+			<Text>Rakentajamme voivat rakentaa luostareita.[NEWLINE][NEWLINE]Luostarit tarjoavat +2 [ICON_Faith] uskoa. +15 HP hoivausta ystävällisille uskonnollisille yksiköille, jotka eivät ole hyökänneet samalla vuorolla. +1 [ICON_FAITH] uskoa jokaisesta kahdesta viereisestä kaupunkialueesta. Tarjoaa +1 [ICON_HOUSING] asumusta. Lisää [ICON_HOUSING] asumuksia kolonialismin kehittämisen myötä. Ei voi rakentaa toisen luostarin viereen.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_LA_VENTA_EXPANSION2_DESCRIPTION">
+			<Text>Rakentajamme voivat rakentaa valtavia kivipäitä.[NEWLINE][NEWLINE]Valtava kivipää tarjoaa +2 [ICON_Faith] uskoa. +1 [ICON_Faith] uskoa jokaisesta kahdesta viereisestä sademetsästä tai jokaisesta viereisestä sademetsästä humanismin kehittämisen jälkeen. +1 [ICON_Faith] uskoa jokaisesta kahdesta viereisestä metsäst tai jokaisesta viereisestä metsästä humanismin kehittämisen jälkeen. [ICON_TOURISM] Turismia [ICON_FAITH] uskosta lentämisen kehittämisen myötä. Ei voi rakentaa lumelle tai lumimäelle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_GRANADA_EXPANSION2_DESCRIPTION">
+			<Text>Rakentajamme voivat rakentaa alcázarin.[NEWLINE][NEWLINE]Alcázar tarjoaa +2 [ICON_Culture] kulttuuria. Tarjoaa [ICON_SCIENCE] tiedettä 50%:llä ruudun houkuttelevuuden edestä. Miehittävä yksikkö saa +4 [ICON_Strength] puolustusvoimakkuutta, sekä saa 2 vuoron edestä vartioetua. Tarjoaa [ICON_TOURISM] turismia lentämisen kehittämisen myötä. Ei voi rakentaa toisen alcázarin viereen.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

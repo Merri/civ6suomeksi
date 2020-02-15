@@ -152,7 +152,10 @@
 			<File>fi_FI_Expansion2/Expansion1_InGameText.xml</File>
 			<File>fi_FI_Expansion2/Expansion1_Leaders_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_CityNames_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_Improvements_Text.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_Leaders_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_Notifications_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
@@ -282,7 +285,10 @@
 			<File>fi_FI_Expansion2/Expansion1_InGameText.xml</File>
 			<File>fi_FI_Expansion2/Expansion1_Leaders_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_CityNames_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_Improvements_Text.xml</File>
+			<File>fi_FI_Expansion2/Expansion2_Leaders_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_Notifications_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
@@ -397,7 +403,10 @@
 		<File>fi_FI_Expansion2/Expansion1_InGameText.xml</File>
 		<File>fi_FI_Expansion2/Expansion1_Leaders_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion1_Notifications_Text.xml</File>
+		<File>fi_FI_Expansion2/Expansion2_CityNames_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_ConfigText.xml</File>
+		<File>fi_FI_Expansion2/Expansion2_Improvements_Text.xml</File>
+		<File>fi_FI_Expansion2/Expansion2_Leaders_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_Notifications_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
 		<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
