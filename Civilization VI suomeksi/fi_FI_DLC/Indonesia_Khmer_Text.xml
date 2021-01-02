@@ -454,13 +454,6 @@
 		<Replace Language="en_US" Tag="LOC_CITY_NAME_ANINDITAPURA">
 			<Text>Aninditapura</Text>
 		</Replace>
-		<!-- Natural Wonders -->
-		<Replace Language="en_US" Tag="LOC_FEATURE_HA_LONG_BAY_NAME">
-			<Text>Hạ Longin lahti</Text>
-		</Replace>
-		<Replace Language="en_US" Tag="LOC_FEATURE_HA_LONG_BAY_DESCRIPTION">
-			<Text>Kahden ruudun luonnonihme, joka sijaitsee rannikolla ja tarjoaa +3 [ICON_FOOD] ruokaa, +1 [ICON_PRODUCTION] tuottavuutta ja +1 [ICON_CULTURE] kulttuuria. +15 [ICON_Strength] taisteluvoimakkuutta ruutua puolustettaessa.</Text>
-		</Replace>
 		<!-- Unit Abilities  -->
 		<Replace Language="en_US" Tag="LOC_ABILITY_MARTYR_DESCRIPTION">
 			<Text>Yksikön kuolema uskontaiston seurauksena palkitsee [ICON_GreatWork_Relic] muinaisjäännöksellä.</Text>

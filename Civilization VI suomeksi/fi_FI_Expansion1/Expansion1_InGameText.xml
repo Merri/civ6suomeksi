@@ -793,7 +793,7 @@
 			<Text>Alppitreeni</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION">
-			<Text>+3 [ICON_Strength] taisteluvoimakkuutta taisteluihin mäellä ja mäkinen maasto ei hidasta kulkemista (Matterhorn)</Text>
+			<Text>Alppitreeni: +3 [ICON_Strength] taisteluvoimakkuutta taisteluihin mäellä ja mäkinen maasto ei hidasta kulkemista (Matterhorn)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ALPINE_TRAINING_COMBAT_HILLS_MODIFIER_DESCRIPTION">
 			<Text>+3 [ICON_Strength] taisteluvoimakkuutta mäellä taistellessa</Text>

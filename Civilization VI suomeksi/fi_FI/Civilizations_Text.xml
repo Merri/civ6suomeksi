@@ -273,7 +273,7 @@
 			<Text>Amazon</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
-			<Text>Sademetsäruudut tarjoavat +1 läheisyysetua kaupunkialueista kampuksille, kaupallisille keskuksille, pyhille paikoille ja teatteriaukioille. Sademetsät tarjoavat +1 [ICON_Housing] asumusta viereisille lähiöille.</Text>
+			<Text>Sademetsäruudut tarjoavat +1 läheisyysetua kaupunkialueista kampuksille, kaupallisille keskuksille, pyhille paikoille ja teatteriaukioille, sekä +1 houkuttelevuutta viereisille ruuduille normaalin -1 sijasta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
 			<Text>Dynastinen kierre</Text>

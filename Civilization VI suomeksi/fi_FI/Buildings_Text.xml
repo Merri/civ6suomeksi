@@ -77,7 +77,7 @@
 			<Text>Tarjoaa muurit kaupungin keskustan ja varuskunnan ympärille. Muurit mahdollistavat [ICON_Ranged] tulittamisen kaupungin keskustasta ja varuskunnasta, jotka tulee tuhota ennen kuin kaupunkiin voi hyökätä. Tarjoaa 1 [ICON_TOURISM] turismia ympäristönsuojelun normin kehittämisen jälkeen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
-			<Text>Kukin [ICON_RESOURCE_RICE] riisi ja [ICON_RESOURCE_WHEAT] vehnä tarjoaa +1 [ICON_Food] ruokaa. Kaupungin tulee olla joen varrella.</Text>
+			<Text>Jokainen maatilalla käyttöön otettu hyödyllinen luonnonvara tarjoaa +1 [ICON_Food] ruokaa. Kaupungin tulee olla joen varrella.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BUILDING_ZOO_DESCRIPTION">
 			<Text>Etu yltää jokaiseen kuuden ruudun sisällä olevaan kaupungin keskustaan ja se on kertaluonteinen jokaista kaupunkia kohden: toinen eläintarha ei kasvata vaikutusta.</Text>

@@ -125,34 +125,34 @@
 			<Text>+2 [ICON_Production] tuotantoa ihmeiden, rakennusten ja kaupunkialueiden valmistukseen jokaiselle tehtaan omaavalle kaupungille.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ANTIOCH_NAME">
-			<Text>Antiokia</Text>
+			<Text>Venetsia</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ANTIOCH_DESCRIPTION">
-			<Text>Antiokian kaupunkivaltio|Antiokian</Text>
+			<Text>Venetsian kaupunkivaltio|Venetsian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
-			<Text>Antiokian valta-asemaetu</Text>
+			<Text>Venetsian valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
 			<Text>Ulkomaille menevät [ICON_TradeRoute] kauppareittimme saavat +1 [ICON_Gold] kultaa jokaisesta kohteen ylellisestä luonnonvarasta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_ANTIOCH_ADJECTIVE">
-			<Text>Antiokian</Text>
+			<Text>Venetsian</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_NAME">
-			<Text>Babylon</Text>
+			<Text>Anshan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_DESCRIPTION">
-			<Text>Babylonin kaupunkivaltio|Babylonin</Text>
+			<Text>Anshanin kaupunkivaltio|Anshanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
-			<Text>Babylonin valta-asemaetu</Text>
+			<Text>Anshanin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
 			<Text>+2 [ICON_SCIENCE] tiedettä jokaisesta [ICON_GreatWork_WRITING] kirjallisuuden merkkiteoksesta. +1 [ICON_SCIENCE] tiedettä jokaisesta [ICON_GreatWork_RELIC] pyhäinjäännöksestä ja [ICON_GreatWork_Artifact] artefaktista.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_BABYLON_ADJECTIVE">
-			<Text>Babylonin</Text>
+			<Text>Anshanin</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
 			<Text>Maataisteluyksiköt ovat 20% edullisempia ostaa [ICON_GOLD] kullalla kertautuen jokaista varuskunnan rakennusta kohden.</Text>

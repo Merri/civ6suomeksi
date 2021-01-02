@@ -61,6 +61,15 @@
 		<Replace Language="en_US" Tag="LOC_RELIGION_MARTYRED_APOSTLE">
 			<Text>Marttyyriapostoli</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIC_TRIBAL_VILLAGE">
+			<Text>Heimokylä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIC_GOVERNOR">
+			<Text>Käskynhaltija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_RELIC_CITY_STATE">
+			<Text>Valta-asema</Text>
+		</Replace>
 		<!--PANTHEON NAMES-->
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
@@ -314,7 +323,7 @@
 			<Text>Kasvattaa hoivausta +30:lla pyhässä paikassa ja sen viereisissä ruuduissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Kahdeksan ruudun sisällä pyhästä paikasta tuhottu sotayksikkö tarjoaa puolet voimastaan [ICON_Faith] uskona.</Text>
+			<Text>Kahdeksan ruudun sisällä pyhästä paikasta tuhottu sotayksikkö tarjoaa puolet voimastaan [ICON_Faith] uskona (standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
 			<Text>+50 [ICON_Faith] uskoa jokaisesta tuhotusta barbaarien etuvartiosta.</Text>

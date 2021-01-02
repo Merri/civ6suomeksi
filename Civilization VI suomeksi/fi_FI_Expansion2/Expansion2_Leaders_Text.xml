@@ -188,7 +188,7 @@
 			<Text>Fezin valta-asemaetu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
-			<Text>Käännyttessämme kaupungin uskoomme uskonnollisella yksiköllämme saamme 20 [ICON_SCIENCE] tiedettä kaupungin [ICON_Citizen] asukasta kohden.</Text>
+			<Text>Käännyttessämme kaupungin uskoomme uskonnollisella yksiköllämme saamme 20 [ICON_SCIENCE] tiedettä kaupungin [ICON_Citizen] asukasta kohden (standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_CITY_NAME">
 			<Text>México</Text>

@@ -192,6 +192,9 @@
 		<Replace Language="en_US" Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
 			<Text>Ihmevimmainen</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ZEALOT_NAME">
+			<Text>Kiihkoilija</Text>
+		</Replace>
 		<!--Agenda Description-->
 		<Replace Language="en_US" Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
 			<Text>Pitää kansoista, jotka hakeutuvat pitkiin liittoihin. Ei pidä ystäviensä ja liittolaistensa tuomitsijoista saati heitä vastaan hyökkäävistä.</Text>
@@ -315,6 +318,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
 			<Text>Pyrkii tutkimaan koko kartan ja pitää kansoista, jotka ovat tutkineet karttaa vähemmän kuin hän. Ei pidä kansoista, jotka ovat tutkineet karttaa enemmän kuin hän.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
+			<Text>Pyrkii voittamaan uskonnollisen voiman. Pitää kansoista, jotka ovat jo omaksuneet hänen uskontonsa.</Text>
 		</Replace>
 		<!-- City-State Traits-->
 		<Replace Language="en_US" Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
@@ -632,7 +638,7 @@
 		</Replace>
 		<!--Leader Trait Descriptions-->
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
-			<Text>Voitot taisteluista antavat [ICON_Culture] kulttuuria puolet päihitetyn yksikön [ICON_Strength] taisteluvoimasta.</Text>
+			<Text>Voitot taisteluista antavat [ICON_Culture] kulttuuria puolet päihitetyn yksikön [ICON_Strength] taisteluvoimasta (standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
 			<Text>Voi julistaa sodan liittolaista vastaan sotivaa vastaan ilman sodanlietsojan haittoja. Yhteistä vihollista vastaan sotiessa liitossa olevat yksiköt jakavat ryöväilyn tuotot ja taistelukokemuksen ollessaan viiden ruudun sisällä toisistaan.</Text>

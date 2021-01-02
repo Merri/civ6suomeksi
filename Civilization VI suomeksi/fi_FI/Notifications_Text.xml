@@ -123,6 +123,12 @@
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_LOST_TO_WATER_DAMAGE">
 			<Text>{1_UnitName} on menetetty veden myrkyllisyyden vuoksi.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_LOST_LIFESPAN_EXPIRED_MESSAGE">
+			<Text>Elinkaaren pää</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_UNIT_LOST_LIFESPAN_EXPIRED_SUMMARY">
+			<Text>{1_UnitName} saavutti [ICON_Lifespan] elinkaarensa lopun.</Text>
+		</Replace>
 		<!-- Diplomacy Notifications-->
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
 			<Text>Sodanjulistus</Text>
@@ -283,6 +289,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_MESSAGE">
 			<Text>Vakoilija pakenee</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_ALLIANCE_SUMMARY">
+			<Text>Agenttimme {1_unitName} on poistunut kaupungista {2_CityName} kunnioittaakseen sen omistajan uutta liittoa kanssamme.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_FLED_CITY_ALLIANCE_MESSAGE">
+			<Text>Vakoilija poistuu kaupungista</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_SUMMARY">
 			<Text>{2_mission} epäonnistui kaupungissa {3_cityName} kun {1_unitName} epäonnistui tehtävässään.</Text>

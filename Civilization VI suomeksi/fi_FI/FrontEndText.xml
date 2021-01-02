@@ -23,6 +23,21 @@
 		<Replace Language="en_US" Tag="LOC_GENERIC_CONFIRM_BUTTON">
 			<Text>Vahvista</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_SELECTION_NOTHING">
+			<Text>Ei valintaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SELECTION_EVERYTHING">
+			<Text>Kaikki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SELECTION_CUSTOM">
+			<Text>Muokattu ({1_Count})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SELECT_ALL">
+			<Text>Valitse kaikki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SELECT_NONE">
+			<Text>Poista valinnat</Text>
+		</Replace>
 		<!-- Front End Popups -->
 		<Replace Language="en_US" Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
 			<Text>Grafiikkakortin kykyjen arviointi ei onnistunut.[NEWLINE][NEWLINE]Määritä grafiikka-asetukset itse.</Text>
@@ -139,6 +154,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SAVE_CONFIG">
 			<Text>Tallenna asetukset</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SAVE_OBSERVER_MODE_TT">
+			<Text>Tarkkailijana ei ole mahdollista tallentaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
 			<Text>Pilvitallennusten suurin sallittu määrä on saavutettu. Ylikirjoita tai poista tallennus.</Text>
@@ -470,6 +488,9 @@
 		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_MODS">
 			<Text>Lisäsisältö</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_GAMEMODES_OFFICIAL">
+			<Text>Viralliset pelimuodot:</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
 			<Text>Virallinen sisältö:</Text>
 		</Replace>
@@ -713,6 +734,12 @@
 		<Replace Language="en_US" Tag="LOC_SLOTTYPE_HUMANREQ_TT">
 			<Text>Avoimet paikat vaativat ihmispelaajan, jotta peli voi alkaa.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_OBSERVER">
+			<Text>Tarkkailija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTTYPE_OBSERVER_TT">
+			<Text>Seuraa peliä ottamatta suoraan osaa peliin.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_SLOTLABEL_HOST">
 			<Text>[ICON_Host] Isäntä</Text>
 		</Replace>
@@ -724,6 +751,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SLOTLABEL_OPEN">
 			<Text>Avoin</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_OBSERVER">
+			<Text>Tarkkailija</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SLOTLABEL_OBSERVER_HOST">
+			<Text>[ICON_Host] Tarkkailija</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SLOTTYPE_AI">
 			<Text>Tekoäly</Text>
@@ -769,6 +802,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_READY_COUNTDOWN_FORMAT">
 			<Text>Valmistaudu</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_FORMAT">
+			<Text>Odotetaan pelaajia</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
 			<Text>Pelaaja</Text>
@@ -954,6 +990,9 @@
 		<Replace Language="en_US" Tag="LOC_PRESENCE_INVITED_OFFLINE">
 			<Text>[COLOR:ButtonCS]Kutsuttu[ENDCOLOR]</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_PRESENCE_WORLD_BUILDER">
+			<Text>[COLOR:ConnectionStatus_Connected]Maailmanrakentaja[ENDCOLOR]</Text>
+		</Replace>
 		<!-- Player Connection EVents -->
 		<Replace Language="en_US" Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
 			<Text>Yhdistetty</Text>
@@ -1015,6 +1054,12 @@
 		<Replace Language="en_US" Tag="LOC_SETUP_MAP_SIZE">
 			<Text>Valitse kartan koko</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_MODE_SELECT">
+			<Text>Pelimuodot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_NO_GAME_MODES">
+			<Text>Pelimuotoja ei ole käytettävissä</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_DELETE_AI">
 			<Text>Poista</Text>
 		</Replace>
@@ -1052,7 +1097,7 @@
 			<Text>Kartan valinta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
-			<Text>Luo peli - valitse kartta</Text>
+			<Text>Valitse kartta</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SETUP_MAP_SELECT_MAP">
 			<Text>Valitse kartta</Text>
@@ -1119,6 +1164,18 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
 			<Text>Odotetaan lisää pelaajia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED_TT">
+			<Text>Pelin aloittaminen onnistuu vasta kun kaikki pelaajille osoitetut paikat on täytetty.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_BLOCKED_READY_COUNTDOWN_TT">
+			<Text>Peli alkaa laskurin valmistuttua tai kun peli on täynnä ja kaikki ilmoittaneet olevansa valmiita.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_READY_COUNTDOWN_TT">
+			<Text>Merkkaannut valmiiksi kun laskuri saavuttaa nollan. Napsauta ilmoittaaksesi olevasi valmis.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_TT">
+			<Text>Odotetaan lisää pelaajia. Peli alkaa kun laskuri saavuttaa nollan tai kunnes kaikki ovat ilmoittaneet olevansa valmiita.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SETUP_ERROR_INVALID_OPTION">
 			<Text>Kelvoton asetus</Text>
@@ -1358,6 +1415,32 @@
 		<Replace Language="en_US" Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
 			<Text>Valtava kartta kahdelletoista.</Text>
 		</Replace>
+		<!-- City-State Exclusion -->
+		<Replace Language="en_US" Tag="LOC_EXCLUDE_CITY_STATES_NAME">
+			<Text>Valitse kaupunkivaltiot</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EXCLUDE_CITY_STATES_DESC">
+			<Text>Valitse peliin sallitut kaupunkivaltiot.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PICKER_SORT_BY">
+			<Text>Järjestys:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PICKER_SORT_NAME">
+			<Text>Nimi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PICKER_SORT_TYPE">
+			<Text>Tyyppi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_STATE_PICKER_COUNT_WARNING">
+			<Text>[COLOR_RED]Vähintään {1_Min} kaupunkivaltiota tulee valita. Valitse ainakin {2_Remaining} lisää.[ENDCOLOR]</Text>
+		</Replace>
+		<!-- Natural Wonder Exclusion -->
+		<Replace Language="en_US" Tag="LOC_EXCLUDE_NATURAL_WONDER_NAME">
+			<Text>Valitse luonnonihmeet</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EXCLUDE_NATURAL_WONDER_DESC">
+			<Text>Valitse peliin sallitut luonnonihmeet.</Text>
+		</Replace>
 		<!-- Turn Timer Settings -->
 		<Replace Language="en_US" Tag="LOC_TURNTIMER_NONE">
 			<Text>Ei vuorokelloa</Text>
@@ -1483,6 +1566,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_GAME_START_ERA">
 			<Text>Aloitusaika</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE">
+			<Text>Potkuäänestys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_TT">
+			<Text>Potkuäänestyksellä suurin äänimäärä päättää potkitaanko pelaaja pelistä ulos.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MAP_SCRIPT">
 			<Text>Kartta</Text>
@@ -1725,7 +1814,7 @@
 		</Replace>
 		<!-- Copyright screen -->
 		<Replace Language="en_US" Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991-2018 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2018 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2018 by RAD Game Tools Inc.  Fork Copyright © 2018 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2018 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2018 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
+			<Text>© 1991-2021 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2021 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2021 by RAD Game Tools Inc.  Fork Copyright © 2021 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2021 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2021 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Jatka</Text>
@@ -1951,7 +2040,7 @@
 			<Text>Pidä pohjassa 5 sekuntia kopioidaksesi.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MOD_SCOUT_CAT_TITLE">
-			<Text>DLC: tiedustelukissa</Text>
+			<Text>Lisäosa: tiedustelukissa</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_MOD_SCOUT_CAT_TEASER">
 			<Text>Korvaa tiedustelijan koiran kissajengillä.</Text>

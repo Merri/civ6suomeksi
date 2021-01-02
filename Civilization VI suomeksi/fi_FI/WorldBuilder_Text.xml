@@ -68,7 +68,7 @@
 			<Text>Piirre</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
-			<Text>Piirteen suunta</Text>
+			<Text>Piirteen kallistus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
 			<Text>Luonnonvara</Text>

@@ -165,7 +165,7 @@
 			<Text>{1_WarActionType} ei onnistu[NEWLINE]Meidän tulee odottaa vuoroon {2_TurnNumber} voidaksemme julistaa sodan merkittävälle kansakunnalle tässä pelissä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
-			<Text>{1_ActionType} ei onnistu[NEWLINE]Tarvitsemme {2_GoldRequirement} [ICON_Gold] kultaa.</Text>
+			<Text>{1_ActionType} ei onnistu[NEWLINE][COLOR_RED]Tarvitsemme {2_GoldRequirement} [ICON_Gold] kultaa.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
 			<Text>{1_WarActionType} ei onnistu[NEWLINE]Meidän tulee odottaa {2_Turns} vuoroa sodanjulistuksen jälkeen (odota {3_Remaining} vuoroa).</Text>

@@ -24,6 +24,64 @@
 		<Replace Language="en_US" Tag="LOC_VICTORY_DIPLOMATIC_TEXT">
 			<Text>Harmonia ja rauha ovat yliajaneet sodan ja väkivallan. Ihmisten väliset erilaisuudet ja erimielisyydet voi aina ratkaista hyvällä tahdolla. Kun kamppailut ovat nyt takana päin, mitä lie kunniaa jaettu tulevaisuus tuokaan muassaan?</Text>
 		</Replace>
+		<!-- Natural Wonders-->
+		<Replace Language="en_US" Tag="LOC_FEATURE_CHOCOLATEHILLS_NAME">
+			<Text>Suklaakukkulat</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_CHOCOLATEHILLS_DESCRIPTION">
+			<Text>Neljän ruudun luonnonihme. Tarjoaa +1 [ICON_Food] ruokaa, +2 [ICON_Production] tuottavuutta ja +1 [ICON_Science] tiedettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_DEVILSTOWER_NAME">
+			<Text>Mato Tipila</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_DEVILSTOWER_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonihme. Tarjoaa +1 [ICON_FAITH] uskoa ja +1 [ICON_Production] tuottavuutta viereisille ruuduille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_GOBUSTAN_NAME">
+			<Text>Gobustan</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_GOBUSTAN_DESCRIPTION">
+			<Text>Kolmen ruudun luonnonihme. Tarjoaa +3 [ICON_CULTURE] kulttuuria ja +1 [ICON_Production] tuottavuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_IKKIL_NAME">
+			<Text>Ik-Kil</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_IKKIL_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonihme. +50% [ICON_Production] tuottavuutta ihmeiden ja kaupunkialueiden rakentamiseen viereisiin ruutuihin. Tarjoaa makeaa vettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_PAMUKKALE_NAME">
+			<Text>Pamukkale</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_PAMUKKALE_DESCRIPTION">
+			<Text>Kahden ruudun kulkukelvoton luonnonihme. +1 [ICON_AMENITIES] elintasoa. Tarjoaa ylimääräistä [ICON_AMENITIES] elintasoa ollessaan viihdekompleksin vieressä. Merkittävä läheisyysetu teatteriaukiolle, kampukselle ja kaupalliselle keskukselle. Normaali läheisyysetu pyhälle paikalle. Tarjoaa makeaa vettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_VESUVIUS_NAME">
+			<Text>Vesuvius</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_VESUVIUS_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonihme. Lasketaan tulivuoreksi ja tarjoaa +1 [ICON_Production] tuottavuutta viereisille ruuduille. Antaa purkautuessaan korkeat tuotot viereisille ruuduille, mutta myös merkittävän [ICON_Citizen] väkiluvun menetyksen. On aina toiminnassa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_WHITEDESERT_NAME">
+			<Text>Sahara el Beyda</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_WHITEDESERT_DESCRIPTION">
+			<Text>Neljän ruudun luonnonihme. Tarjoaa +1 [ICON_SCIENCE] tiedettä, +1 [ICON_Culture] kulttuuria ja +4 [ICON_GOLD] kultaa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_EYJAFJALLAJOKULL_XP2_DESCRIPTION">
+			<Text>Kahden ruudun kulkukelvoton luonnonihme. Lasketaan tulivuoreksi ja tarjoaa +1 [ICON_Culture] kulttuuria ja +1 [ICON_Food] ruokaa. Antaa purkautuessaan keskikokoiset tuotot ja todennäköisesti aiheuttaa vahinkoa rakennuksille ja kaupunkialueille. Purkautuu harvoin, mutta on aina toiminnassa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_KILIMANJARO_XP2_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonihme. Lasketaan tulivuoreksi ja tarjoaa +2 [ICON_Food] ruokaa viereisille ruuduille. Antaa purkautuessaan pienet tuotot ja todennäköisesti aiheuttaa vahinkoa rakenteille ja rakennuksille. Purkautuu harvoin, mutta on aina toiminnassa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_CLIFFS_DOVER_XP2_DESCRIPTION">
+			<Text>Kahden ruudun luonnonihme. Lasketaan rannikon jyrkänteeksi ja tarjoaa +3 [ICON_Culture] kulttuuria ja +2 [ICON_Gold] kultaa. Tarjoaa +4 houkuttelevuutta viereisille ruudulle poiketen normaalista luonnonihmeiden +2 houkuttelevuudesta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_YOSEMITE_XP2_DESCRIPTION">
+			<Text>Kahden ruudun kulkukelvoton luonnonihme. Tarjoaa +1 [ICON_Gold] kultaa, +1 [ICON_Food] ruokaa ja +1 [ICON_Science] tiedettä viereisille ruuduille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_XP2_DESCRIPTION">
+			<Text>Kolmen ruudun luonnonihme. Tarjoaa +2 [ICON_PRODUCTION] tuottavuutta ja +1 [ICON_SCIENCE] tiedettä. Atomiajan alkamisen myötä tarjoaa lisäksi +1 [ICON_PRODUCTION] tuottavuutta ja +3 [ICON_SCIENCE] tiedettä.</Text>
+		</Replace>
 		<!-- New Maps -->
 		<Replace Language="en_US" Tag="LOC_MAP_CONTINENTS_ISLANDS_NAME">
 			<Text>Mantereet ja saaret</Text>
@@ -95,7 +153,7 @@
 			<Text>Maailman työpaja</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION">
-			<Text>Rauta- ja hiilikaivosten tuotto kertyy kahdella enemmän vuoroa kohden. +100% [ICON_PRODUCTION] tuotantoa sotilasinsinöörien kouluttamiseen. Sotilasinsinöörit saavat +2 työstöä. Rakennukset joille [ICON_POWER] sähkö tarjoaa lisää tuottoa saavat +2 kyseistä tuottoa. +20% [ICON_PRODUCTION] tuotantoa teollisuusalueen rakennuksille. Satamien rakennukset kasvattavat strategisten resurssien kokonaisvarantoa +10:llä standardinopeulla.</Text>
+			<Text>Rauta- ja hiilikaivosten tuotto kertyy kahdella enemmän vuoroa kohden. +100% [ICON_PRODUCTION] tuotantoa sotilasinsinöörien kouluttamiseen. Sotilasinsinöörit saavat +2 työstöä. Rakennukset joille [ICON_POWER] sähkö tarjoaa lisää tuottoa saavat +2 kyseistä tuottoa. +20% [ICON_PRODUCTION] tuotantoa teollisuusalueen rakennuksille. Satamien rakennukset kasvattavat strategisten resurssien kokonaisvarantoa +10:llä (standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
 			<Text>Ilmainen meleeyksikkö ja lisäys [ICON_TradeRoute] kauppareittien kapasiteettiin perustettaessa ensimmäistä kaupunkia uudelle mantereelle, joka ei ole kansan kotimanner. Kuninkaallisen laivaston telakan valmistaminen tarjoaa kopion vahvimmasta rakennettavissa olevasta meriyksiköstä. Punatakki tulee saataville sotatieteen kehittämisen myötä.</Text>
@@ -241,7 +299,7 @@
 			<Text>Mandekaluratsu|mandekaluratsu|mandekaluratsun|mandekaluratsuksi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_DESCRIPTION">
-			<Text>Malille ominainen keskiaikainen yksikkö, joka korvaa ritarin. Kauppureita ei voida ryöstää, mikäli ne ovat maaruudussa neljän ruudun sisällä mandekaluratsusta. Taisteluvoitot tarjoavat [ICON_GOLD] kultaa vastaten 100% kukistetun yksikön [ICON_Strength] taisteluvoimakkuudesta.</Text>
+			<Text>Malille ominainen keskiaikainen yksikkö, joka korvaa ritarin. Kauppureita ei voida ryöstää, mikäli ne ovat maaruudussa neljän ruudun sisällä mandekaluratsusta. Taisteluvoitot tarjoavat [ICON_GOLD] kultaa vastaten 100% kukistetun yksikön [ICON_Strength] taisteluvoimakkuudesta (standardinopeudella).</Text>
 		</Replace>
 		<!--Maori-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_MAORI_NAME">
@@ -515,6 +573,14 @@
 		<!-- German -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_HANSA_EXPANSION2_DESCRIPTION">
 			<Text>Saksalle ominainen teollisen toiminnan kaupunkialue. Korvaa teollisuusalueen ja on edullisempi valmistaa.[NEWLINE][NEWLINE]+ 2[ICON_Production] tuotantoetua jokaisesta viereisestä kaupallisesta keskuksesta, akveduktista, kanaalista ja padosta. +1 [ICON_Production] tuotantoetua jokaisesta viereisestä luonnonvarasta. +1 [ICON_Production] tuotantoetua jokaisesta kahdesta viereisestä kaupunkialueesta.</Text>
+		</Replace>
+		<!-- Scotland-->
+		<Replace Language="en_US" Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION">
+			<Text>Sallii rakentajan rakentaa golfkentän, joka on Skotlannille ominainen.[NEWLINE][NEWLINE]+2 [ICON_AMENITIES] elintasoa ja +2 [ICON_GOLD] kultaa. +1 [ICON_CULTURE] kulttuuria kaupungin keskustan vieressä ja +1 [ICON_CULTURE] kulttuuria mikäli viihdekompleksin vieressä. Lisää [ICON_TOURISM] turismia ja [ICON_HOUSING] asumuksia normien ja tekniikan edistyessä. Ei voi sijoittaa aavikolle eikä aavikon mäelle. Yksi kaupunkia kohden. Golfkenttiä ei voi vaihtaa kaupunkien välillä. +1 houkuttelevuutta.</Text>
+		</Replace>
+		<!-- Greece-->
+		<Replace Language="en_US" Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION2_DESCRIPTION">
+			<Text>Kreikan oma kaupunkialue kulttuurikohteille. Korvaa teatteriaukion ja on edullisempi rakentaa. Antaa yhden [ICON_Envoy] edustajan valmistuessaan.[NEWLINE][NEWLINE]+1 [ICON_Culture] kulttuuria jokaisesta viereisestä kaupunkialueesta ja ylimääräinen +1 [ICON_Culture] kulttuurietu viereisestä kaupungin keskuksesta. +2 [ICON_Culture] kulttuuria jokaisesta viereisestä ihmeestä, viihdekompleksista ja vesipuistosta. Voi rakentaa ainoastaan mäelle.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

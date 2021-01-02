@@ -1039,6 +1039,9 @@
 		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_SIMON_BOLIVAR_NAME">
 			<Text>Simón Bolívar</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOSE_DE_SAN_MARTIN_NAME">
+			<Text>José de San Martín</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_GREAT_PERSON_INDIVIDUAL_JOHN_MONASH_NAME">
 			<Text>John Monash</Text>
 		</Replace>

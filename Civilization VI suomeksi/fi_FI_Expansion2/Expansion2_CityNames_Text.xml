@@ -70,7 +70,7 @@
 			<Text>Stratford</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_NAME_SAINT_CATHERINES">
-			<Text>Saint Catherines</Text>
+			<Text>Saint Catharines</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_NAME_WATERLOO">
 			<Text>Waterloo</Text>

@@ -125,7 +125,7 @@
 			<Text>[ICON_GLORY_NORMAL_AGE] NORMAALI KAUSI</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_EFFECT">
-			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita kolme ponnistusta, jotka kukin tarjoavat voimakkaita etuja aikakauden kuluessa.</Text>
+			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita kolme ponnistusta, joista kukin tarjoaa voimakkaita etuja aikakauden kuluessa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT">
 			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita ponnistuksen, joka tarjoaa voimakkaan edun aikakauden kuluessa.</Text>
@@ -147,6 +147,30 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT">
 			<Text>Meillä on menossa [ICON_GLORY_NORMAL_AGE] normaali aikakausi.[NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa normaalin 1 uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita 3 ponnistuista, joista kukin tarjoaa merkittävän edun aikakauden kuluessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita ponnistuksen, joka tarjoaa merkittävän edun aikakauden kuluessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita ponnistuksen, joka tarjoaa meille ylimääräisen kausipisteiden lähteen aikakauden kuluessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Voimme valita ponnistuksen, joka tarjoaa meille ylimääräisen kausipisteiden lähteen aikakauden kuluessa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT_PARAM">
+			<Text>Meillä on menossa [ICON_GLORY_SUPER_GOLDEN_AGE] sankarkausi![NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa {Amount} uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. On siis helpompaa ylläpitää kaupunkiemme uskollisuutta ja haastaa ulkomaisten kaupunkien uskollisuus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM">
+			<Text>Meillä on menossa [ICON_GLORY_GOLDEN_AGE] kultakausi![NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa {Amount} uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. On siis helpompaa ylläpitää kaupunkiemme uskollisuutta ja haastaa ulkomaisten kaupunkien uskollisuus.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM">
+			<Text>Meillä on menossa [ICON_GLORY_DARK_AGE] synkkä kausi.[NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa {Amount} uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys. On täten hankalampaa ylläpitää kaupunkiemme uskollisuutta ja kilpailla ulkomaisten kaupunkien uskollisuuden kanssa.[NEWLINE][NEWLINE][ICON_BULLET]Hallintomme voi ottaa käyttöön voimakkaita synkän aikakauden linjauksia, joilla on kuitenkin hintansa.[NEWLINE][NEWLINE][ICON_BULLET]Pääsemme sankarkaudelle seuraavalla aikakaudella, mikäli onnistumme saavuttamaan riittävästi kausien pisteitä saadaksemme kultakauden. Sankarkausi tarjoaa useamman ponnistuksen ja siten monta vahvaa etua.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT_PARAM">
+			<Text>Meillä on menossa [ICON_GLORY_NORMAL_AGE] normaali aikakausi.[NEWLINE][NEWLINE][ICON_BULLET]Kukin [ICON_Citizen] asukkaamme aiheuttaa {Amount} uskollisuuspainetta kaupungistaan. Tämä paine vaikuttaa myös muihin kaupunkeihin yhdeksän ruudun säteellä, mutta on vaikutukseltaan 10% heikompi per ruudun etäisyys.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_PRIDE_MOMENTS">
 			<Text>Historialliset hetket (+1 &hellip; +6 kukin)</Text>
@@ -207,6 +231,15 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_GREAT_PEOPLE_EARNED">
 			<Text>Ponnistus: värvätyt merkittävät henkilöt (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CURRENT_TECH_COMPLETIONS">
+			<Text>Nykyisellä tai seuraavilta aikakausilta valmistuneet tekniikat (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CURRENT_CIVIC_COMPLETIONS">
+			<Text>Nykyisellä tai seuraavilta aikakausilta valmistuneet normit (+{1_ScoreIncrement} kustakin)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_UNIT_PROMOTIONS_EARNED">
+			<Text>Ensimmäisen ylennyksen jälkeiset yksikön ylennykset (+{1_ScoreIncrement} kustakin)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_UNKNOWN_SOURCE">
 			<Text>Muut lähteet</Text>

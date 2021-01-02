@@ -24,6 +24,49 @@
 		<Replace Language="en_US" Tag="LOC_MAP_EUROPE_DESCRIPTION">
 			<Text>Mukaelma Euroopasta, jonka luonnonvarat, maasto ja maastonpiirteet kuvastavat historiallisia vastaavuuksiaan.</Text>
 		</Replace>
+		<!-- Natural Wonders -->
+		<Replace Language="en_US" Tag="LOC_FEATURE_DELICATE_ARCH_NAME">
+			<Text>Delicate Arch</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_DELICATE_ARCH_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonihme. Tarjoaa +2 [ICON_FAITH] uskoa ja +1 [ICON_GOLD] kultaa viereisille ruuduille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_NAME">
+			<Text>Saharan silmä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_DESCRIPTION">
+			<Text>Kolmen ruudun luonnonihme. Tarjoaa +1 [ICON_PRODUCTION] tuotantoa. Atomiajan saavuttamisen myötä tarjoaa lisäksi +1 [ICON_PRODUCTION] tuottavuutta ja +3 [ICON_SCIENCE] tiedettä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_MATTERHORN_NAME">
+			<Text>Matterhorn</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_MATTERHORN_DESCRIPTION">
+			<Text>Yhden ruudun kulkukelvoton luonnonihme. Lasketaan vuoreksi ja tarjoaa +1 [ICON_CULTURE] kulttuuria viereisille ruuduille. Matterhornin vierellä käyvät maataisteluyksiköt eivät enää huomioi mäkiä ja saavat +3 [ICON_Strength] taisteluvoimakkuutta taistellessaan mäellä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_RORAIMA_NAME">
+			<Text>Monte Roraima</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_RORAIMA_DESCRIPTION">
+			<Text>Neljän ruudun kulkukelvoton luonnonihme. Lasketaan vuoreksi ja tarjoaa +1 [ICON_FAITH] uskoa ja +1 [ICON_SCIENCE] tiedettä viereisille ruuduille.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_UBSUNUR_HOLLOW_NAME">
+			<Text>Ubsunurin allas</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION">
+			<Text>Neljän ruudun luonnonihme. Lasketaan suoksi ja tarjoaa +2 [ICON_FAITH] uskoa, +1 [ICON_FOOD] ruokaa ja +1 [ICON_PRODUCTION] tuottavuutta.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_ZHANGYE_DANXIA_NAME">
+			<Text>Zhangye Danxia</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_ZHANGYE_DANXIA_DESCRIPTION">
+			<Text>Kolmen ruudun kulkukelvoton luonnonihme. Lasketaan vuoreksi ja tarjoaa 2 [ICON_GREATGENERAL] merkittävien kenraalien pistettä ja 2 [ICON_GREATMERCHANT] merkittävien kauppiaiden pistettä mikäli omistamme vähintään yhden ruuduista.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_LAKE_RETBA_NAME">
+			<Text>Retba</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_FEATURE_LAKE_RETBA_DESCRIPTION">
+			<Text>Kahden ruudun luonnonihme. Lasketaan järveksi ja tarjoaa +2 [ICON_CULTURE] kulttuuria, +2 [ICON_GOLD] kultaa ja +1 [ICON_PRODUCTION] tuottavuutta. Ei tarjoa makeaa vettä.</Text>
+		</Replace>
 		<!-- Player Config Text -->
 		<!-- District Config Text -->
 		<Replace Language="en_US" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME">
@@ -340,6 +383,9 @@
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">
 			<Text>Voi muodostaa laivastoja ja armadoja tavanomaista aiemmin (merkantilismi). [ICON_TradeRoute] Kauppareitit useamman mantereen välillä saavat lisää [ICON_Gold] kultaa reiteistä muihin kansakuntiin ja lisää [ICON_Food] ruokaa ja [ICON_Production] tuotantoa reiteistä omien kaupunkien välillä. +2 uskollisuutta vuorossa kaupungeille joiden kaupungin keskustan vieressä on lähetystö, mikäli kaupunki sijaitsee muulla kuin alkuperäisen [ICON_Capital] pääkaupungin mantereella.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION1_DESCRIPTION">
+			<Text>Kreikan oma kaupunkialue kulttuurikohteille. Korvaa teatteriaukion ja on edullisempi rakentaa. Antaa yhden [ICON_Envoy] edustajan valmistuessaan.[NEWLINE][NEWLINE]+1  [ICON_Culture] kulttuuria jokaisesta viereisestä kaupunkialueesta ja ylimääräinen +1 [ICON_Culture] kulttuurietu viereisestä kaupungin keskuksesta. +2 [ICON_Culture] kulttuuria jokaisesta viereisestä ihmeestä. Voi rakentaa ainoastaan mäelle.</Text>
+		</Replace>
 		<!-- Tamar-->
 		<Replace Language="en_US" Tag="LOC_CIVILIZATION_GEORGIA_NAME">
 			<Text>Georgia|georgialaisten</Text>
@@ -354,7 +400,7 @@
 			<Text>Yhtenäisyyden voima</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
-			<Text>Kultakauden alussa valittu antaumus antaa kultakauden edun lisäksi myös tavanomaisen kauden kausipisteet.</Text>
+			<Text>Kultakauden alussa valittu ponnistus antaa kultakauden edun lisäksi myös tavanomaisen kauden kausipisteet. +50% [ICON_Production] tuottavuutta puolustusrakennelmiin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_LEADER_TAMAR_NAME">
 			<Text>Tamar|Tamarin</Text>

@@ -299,6 +299,15 @@
 		<Replace Language="en_US" Tag="LOC_COMMON_DIALOG_NO_BUTTON_CAPTION">
 			<Text>EI</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_END_GAME_MENU_OBSERVE">
+			<Text>Tarkkaile</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_OBSERVING">
+			<Text>TARKKAILU</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_ACTION_PANEL_END_OBSERVER_MODE">
+			<Text>Päätä tarkkailu</Text>
+		</Replace>
 		<!-- ==================== Game Settings Panel ==================== -->
 		<Replace Language="en_US" Tag="LOC_GAME_SETTINGS_TITLE">
 			<Text>Pelin asetukset</Text>
@@ -489,7 +498,7 @@
 			<Text>Vahinko</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_CHARGES">
-			<Text>Latauksia</Text>
+			<Text>Toimia</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_BUILDS">
 			<Text>Työstöjä</Text>
@@ -508,6 +517,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_LEVEL_ABBREVIATION">
 			<Text>Taso</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_LIFESPAN">
+			<Text>Elinkaari</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_XP_TT">
 			<Text>{1_Current} / {2_Max} tasolle {3_Level}</Text>
@@ -557,8 +569,14 @@
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_VS">
 			<Text>VS</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_LINKED">
+			<Text>LINKITETTY</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_WATER_AVAILABILITY_GUIDE">
 			<Text>VEDENSAANTIOPAS</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_SETTLING_LOCATION_GUIDE">
+			<Text>ASUTUSSIJAINNIN OPAS</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_FRESH_WATER">
 			<Text>Makeaa vettä</Text>
@@ -568,6 +586,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_NO_WATER">
 			<Text>Ei vettä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_VALID_LOCATION">
+			<Text>Käypä asutussijainti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_TOO_CLOSE_TO_CITY">
 			<Text>Liian lähellä kaupunkia tai maaston tukkima</Text>
@@ -861,7 +882,7 @@
 			<Text>Liikepisteet ovat loppuneet.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_NEAR_GOODY_HUT">
-			<Text>Liian lähellä heimokylää</Text>
+			<Text>{1_Improvement_Name} on liian lähellä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_FORMATION">
 			<Text>Muodostelmassa muiden yksiköiden kanssa</Text>
@@ -1417,6 +1438,9 @@
 		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_FAITH">
 			<Text>Uskoa</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_REDDEATH_ELIMINATED">
+			<Text>Punaisen kuoleman korjaama</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_HUD_RIBBON_MODE_STATS_ALWAYS_HIDE">
 			<Text>Piilota tilastot aina</Text>
 		</Replace>
@@ -1583,6 +1607,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_PROJECT_ADVANCE_LOCATION_OCCUPIED_BY_ENEMY">
 			<Text>Soveltuva projektin sijainti on vihollisyksikön hallussa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_FAILED_RESOURCE_REQUIREMENT">
+			<Text>Projekti voi edetä vasta kun {1_ResourceName[2]} on käytettävissä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PROJECT_FAILED_PREREQ_PILLAGED">
+			<Text>{1_ObjectName} on tärvelty, mutta projekti tarvitsisi sen.</Text>
 		</Replace>
 		<!-- ==================== Leader Viewer Debug ==================== -->
 		<Replace Language="en_US" Tag="LOC_LEADER_VIEWER_BACK">
@@ -2095,6 +2125,9 @@
 		<Replace Language="en_US" Tag="LOC_TECH_BOOST_CAPTURED_CITY">
 			<Text>Olemme saaneet käsiimme tieteellistä tietoa vallattuamme tämän kaupungin.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_BOOST_TRADING_POST">
+			<Text>Kauppiaamme tuovat uusia ajatuksia kaukaisista maista.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TECH_BOOST_COMPLETE">
 			<Text>{1_techString} on kehitetty toimestamme!</Text>
 		</Replace>
@@ -2486,6 +2519,12 @@
 		<Replace Language="en_US" Tag="LOC_GOVT_NO_LEGACY_BONUS">
 			<Text>Perinne-edut ovat säilyviä etuja, jotka säilyvät hallitusmuodon vaihtumisen jälkeenkin. Ajan kuluessa opittavan linjauksen symboli on esitetty ohessa.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_FILTER_BACK_HELP">
+			<Text>Vieritä linjaustyyppien listaa vasemmalle.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_GOVT_FILTER_FORWARD_HELP">
+			<Text>Vieritä linjaustyyppien listaa oikealle.</Text>
+		</Replace>
 		<!-- ==================== Unit Operations ==================== -->
 		<Replace Language="en_US" Tag="LOC_UNITOPERATION_BUILD_DISTRICT">
 			<Text>Rakenna kaupunkialue</Text>
@@ -2841,6 +2880,18 @@
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_UNOWNED_TILE">
 			<Text>Tulee olla omistamattomassa ruudussa.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ENEMY_TERRITORY">
+			<Text>Tulee olla vihollisen omistamassa ruudussa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_NONHOSTILE_TERRITORY">
+			<Text>Tulee olla ulkomaisessa ruudussa, jonka omistaja ei ole vihamielinen meitä kohtaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_CITY_STATE_TERRITORY">
+			<Text>Tulee olla kaupunkivaltion ruudussa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_SUZERAIN_TERRITORY">
+			<Text>Tulee olla kaupunkivaltion ruudussa, johon olemme valta-asemassa.</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ADJACENT_TO_OWNED_TILE">
 			<Text>Tulee olla omistamamme ruudun vieressä.</Text>
 		</Replace>
@@ -2855,6 +2906,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_MILITARY_UNIT">
 			<Text>Tulee olla sotilasyksikön sisältävässä ruudussa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_EXPERIENCE_UNIT">
+			<Text>Tulee olla ruudussa, jossa on kokemusta kerryttämään kykevä yksikkö.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_DOMAIN_TYPE">
 			<Text>Tulee olla soveltuvan alan sotilasyksikön sisältävässä ruudussa.</Text>
@@ -2900,6 +2954,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ON_MISSING_BUILDING">
 			<Text>{1_BuildingName} ei saa löytyä kaupungista, jossa yksikkö on.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_NEARBY_VALID_UNIT">
+			<Text>Tulee olla kahden ruudun sisällä käyvästä yksiköstä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNITCOMMAND_DISTRICT_PRODUCTION_DESCRIPTION">
 			<Text>Lisää tuotantoa kaupunkialueeseen.</Text>
@@ -3058,6 +3115,12 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_BOMBARD_STRENGTH">
 			<Text>[ICON_Bombard] Tulitusvoima: {1_Bombard} ([ICON_Range] kantama: {2_Range})</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_LIFESPAN">
+			<Text>[ICON_Lifespan] Elinkaari: {1_Amount}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_UNIT_ACTION_CHARGES">
+			<Text>[ICON_Charges] Toimia: {1_Amount}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_MOVEMENT">
 			<Text>[ICON_Movement] Liikkuvuus: {1_Movement}</Text>
@@ -3221,6 +3284,9 @@
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_WITH_SHIELD_OR_ON_IT">
 			<Text>Arvostaa sotaan käyviä, jotka eivät koskaan antaudu rauhaan</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ZEALOT">
+			<Text>Pitää kansoista, jotka ovat omaksuneet hänen uskontonsa</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_LUXURY_RESOURCE">
 			<Text>Ylellinen luonnonvara</Text>
 		</Replace>
@@ -3253,6 +3319,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_RIVER">
 			<Text>Joki</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOOLTIP_CLIFF">
+			<Text>Jyrkänne</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_IMPROVEMENT_RECOMMENDATION">
 			<Text>Suositeltu rakenne: {1_ImprovementName}</Text>
@@ -3320,6 +3389,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_AIRSLOTS">
 			<Text>Kapasiteetti lentokoneille: {1_Amount}</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_APPEAL">
+			<Text>Houkuttelevuus viereisille ruuduille: {1_Amount}</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_ENVOYS">
 			<Text>Tarjoaa {1_Count : plural 1?yhden [ICON_Envoy] edustajan; other?{1_Count} [ICON_Envoy] edustajaa;}</Text>
@@ -3428,6 +3500,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_PILLAGE_AWARD_HEALING">
 			<Text>Hoivaantuminen</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TYPE_TRAIT_CANNOT_EARN_EXPERIENCE">
+			<Text>Ei saa kokemusta eikä ylennyksiä</Text>
 		</Replace>
 		<!-- ==================== Calendar Text ==================== -->
 		<Replace Language="en_US" Tag="LOC_TIME_AD">
@@ -4533,6 +4608,15 @@
 			<Text>Tuntematon pelaaja</Text>
 		</Replace>
 		<!-- ==================== Chat Panel Text ==================== -->
+		<Replace Language="en_US" Tag="LOC_CLICK_TO_DRAG">
+			<Text>Napsauta ja pidä vetääksesi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CLICK_TO_RESIZE">
+			<Text>Vaihda kokoa napsauttamalla</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_COLLAPSE_AND_RESET">
+			<Text>Pienennä ja nollaa chattinäkymä</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_TO_ALL">
 			<Text>Kaikille</Text>
 		</Replace>
@@ -4562,6 +4646,49 @@
 		</Replace>
 		<Replace Language="en_US" Tag="PLAYERACTION_FRIENDREQUEST_TOOLTIP">
 			<Text>Lisää tämä pelaaja ystäväksi Steamissa.</Text>
+		</Replace>
+		<!-- ==================== Kick Vote ==================== -->
+		<Replace Language="en_US" Tag="LOC_PLAYERACTION_STARTKICKVOTE">
+			<Text>Käynnistä potkuäänestys</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYERACTION_STARTKICKVOTE_TOOLTIP">
+			<Text>Käynnistä äänestys jolla tämä pelaaja potkitaan pelistä.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CONFIRM_START_KICK_VOTE_DESC">
+			<Text>Haluatko varmasti aloittaa äänestyksen jolla pelaaja {1_player} potkitaan pelistä?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_STARTED_CHAT_ENTRY">
+			<Text>[COLOR:ChatMessage_Help]Potkuäänestys on aloitettu pelaajaa {1_player} vastaan.[NEWLINE]Peruste: {2_reason}.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_SUCCEEDED_CHAT_ENTRY">
+			<Text>[COLOR:ChatMessage_Help]Potkuäänestys onnistui.[NEWLINE]{1_player} on potkittu pois pelistä.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_FAILED_CHAT_ENTRY">
+			<Text>[COLOR:ChatMessage_Help]Potkuäänestys pelaajaa {1_player} vastaan ei onnistunut.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_TIME_ELAPSED_CHAT_ENTRY">
+			<Text>[COLOR:ChatMessage_Help]Potkuäänestys pelaajaa {1_player} vastaan erääntyi.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_NOT_ENOUGH_PLAYERS_CHAT_ENTRY">
+			<Text>[COLOR:ChatMessage_Help]Potkuäänestys pelaajaa {1_player} vastaan peruttiin. Pelaajia ei ole riittävästi äänestyksen pitämiseksi.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_REASON_AFK">
+			<Text>Poissaoleva</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_REASON_CHEATING">
+			<Text>Huijaa</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_REASON_GRIEFING">
+			<Text>Häiriköi</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_LABEL">
+			<Text>Potki {1_player}?</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_YES_BUTTON_TOOLTIP">
+			<Text>Äänestä pelaajan {1_player} potkimiseksi.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_KICK_VOTE_NO_BUTTON_TOOLTIP">
+			<Text>Äänestä ettei pelaajaa {1_player} potkita.</Text>
 		</Replace>
 		<!-- ==================== Map Pin List Panel Text ==================== -->
 		<Replace Language="en_US" Tag="LOC_MAP_PIN_DEFAULT_NAME">
@@ -5437,25 +5564,25 @@
 			<Text>Järjestä kansakunnat</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_ORDER_AMOUNT">
-			<Text>määrä</Text>
+			<Text>Määrä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_ORDER_PLAYER">
-			<Text>pelaaja</Text>
+			<Text>Pelaaja</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_ORDER_PLAYER_SLOT">
-			<Text>pelaajapaikka</Text>
+			<Text>Pelaajapaikka</Text>
 		</Replace>		
 		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_BY">
 			<Text>Järjestä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_NAME">
-			<Text>nimi</Text>
+			<Text>Nimi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_TYPE">
-			<Text>tyyppi</Text>
+			<Text>Tyyppi</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_SCARCITY">
-			<Text>harvinaisuus</Text>
+			<Text>Harvinaisuus</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_REPORTS_SORT_BY_RESOURCE_NAME">
 			<Text>Järjestä luonnonvaran nimellä</Text>
@@ -5578,6 +5705,9 @@
 		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_GOLD_FROM_TRIBUTARIES">
 			<Text>{Value : number +#.#;-#.#} kaupunkivaltioista joihin meillä on valta-asema</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_GOLD_FROM_INTEREST">
+			<Text>{Value : number +#.#;-#.#} varannon koroista (korkeintaan 1000)</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_PLAYER_YIELD_GOLD_FROM_OTHER">
 			<Text>{Value : number +#.#;-#.#} muusta</Text>
 		</Replace>
@@ -5699,11 +5829,17 @@
 		<Replace Language="en_US" Tag="LOC_CITY_YIELD_FROM_RELIGIOUS_FOLLOWERS_TOOLTIP">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) {1}:sta uskonnon noudattajasta</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_YIELD_FROM_FAITH">
+			<Text>{Value : number +#.##;-#.##} uskosta</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_YIELD_FROM_PASSING_TRADE_ROUTES_TOOLTIP">
 			<Text>{Value : number +#.##;-#.##} läpikulkevista kauppareiteistä</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_YIELD_FROM_INCOMING_TRADE_ROUTES_TOOLTIP">
 			<Text>{Value : number +#.#;-#.#} tuonnin kauppareiteistä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CITY_YIELD_FROM_MAJOR_TRADE_PARTNERS_TOOLTIP">
+			<Text>{Value : number +#.#;-#.#} kansojen lukumäärästä, johon tällä kaupungilla on kauppareitti</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_YIELD_FROM_OUTGOING_TRADE_ROUTES_TOOLTIP">
 			<Text>{Value : number +#.#;-#.#} viennin kauppareiteistä</Text>
@@ -5780,6 +5916,18 @@
 		<Replace Language="en_US" Tag="LOC_WORLDTRACKER_HIDE_TEXT">
 			<Text>Näytä tai piilota valvomo.</Text>
 		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDTRACKER_UNIT_LIST">
+			<Text>Yksikkölista</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDTRACKER_NO_UNITS">
+			<Text>Ei yksiköitä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDTRACKER_UNITS_SEARCH_TT">
+			<Text>Etsi yksiköitä</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WORLDTRACKER_NO_ROOM">
+			<Text>Ei riittävästi tilaa</Text>
+		</Replace>
 		<Replace Language="en_US" Tag="LOC_PRODUCTION_HIDE_DESCRIPTION">
 			<Text>Ei näytettävää sisältöä. Voit nähdä listan poistamalla valinnan &quot;piilota ne joita ei voi käyttää&quot;.</Text>
 		</Replace>
@@ -5849,6 +5997,9 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Rakennusten tai merkittävien henkilöiden aiheuttama turismi: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_DISTRICT_YIELDS_TOOLTIP">
+			<Text>{1_TourismInfo}Turismi kaupunkialueen tuotoista: +{2_DistrictTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Merkkiteosten aiheuttama turismi rakennuksessa {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] turismia[NEWLINE]</Text>
@@ -5993,7 +6144,7 @@
 			<Text>VARHAISEN PELIN LUONNONVAROJA</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_LUXURY_RESOURCES">
-			<Text>käyttämätön</Text>
+			<Text>LUONNONVARAT</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES">
 			<Text>LUONNONVARAT</Text>
@@ -6171,6 +6322,18 @@
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_UNIT_PANEL_ABILITIES_HEADER">
 			<Text>Kyvyt:</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVICS_TREE_NOT_REVEALED_CIVIC">
+			<Text>Paljastamaton</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CIVICS_TREE_NOT_REVEALED_TOOLTIP">
+			<Text>Tutki edeltäviä normeja paljastaaksesi tämän normin ja sen mahdollistamat kyvyt.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_TREE_NOT_REVEALED_TECH">
+			<Text>Paljastumaton</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TECH_TREE_NOT_REVEALED_TOOLTIP">
+			<Text>Tutki edeltäviä tekniikoita paljastaaksesi tämän tekniikan ja sen mahdollistamat kyvyt.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

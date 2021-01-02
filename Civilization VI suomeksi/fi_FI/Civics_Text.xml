@@ -713,7 +713,7 @@
 			<Text>Haavoittuneiden yksiköiden [ICON_Strength] taisteluvoimakkuus heikkenee 50% vähemmän.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
-			<Text>Voitot taisteluista aiempien aikakausien yksiköitä vastaan tarjoavat [ICON_Gold] kultaa 50% voitetun yksikön [ICON_Strength] taisteluvoimakkuuden edestä.</Text>
+			<Text>Voitot taisteluista aiempien aikakausien yksiköitä vastaan tarjoavat [ICON_Gold] kultaa 50% voitetun yksikön [ICON_Strength] taisteluvoimakkuuden edestä (standardinopeudella).</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
 			<Text>+100% kampuksen läheisyyseduille.</Text>

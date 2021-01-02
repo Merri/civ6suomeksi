@@ -182,7 +182,7 @@
 			<Text>Teloloapan</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_NAME_MITLA">
-			<Text>Mitla</Text>
+			<Text>Mixquic</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_CITY_NAME_TLATELOLCO">
 			<Text>Tlatelolco</Text>

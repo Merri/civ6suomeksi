@@ -166,7 +166,7 @@
 			<Text>+10 [ICON_Strength] taisteluvoimakkuutta kevyitä ja raskaita ratsuyksiköitä vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
-			<Text>+10 [ICON_Strength] taisteluvoimakkuutta ratsujen torjujia vastaan.</Text>
+			<Text>+5 [ICON_Strength] taisteluvoimakkuutta ratsujen torjujia vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
 			<Text>+1 [ICON_Movement] liikkuvuutta aloitettaessa aavikolta, tasangolta, ruohikolta tai tundralta.</Text>
@@ -295,7 +295,7 @@
 			<Text>+10 [ICON_Strength] taisteluvoimakkuutta meriruutujen taisteluissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
-			<Text>Vihollisyksikön päihittämisestä [ICON_Capital] pääkaupungin mantereella tulee [ICON_Culture] kulttuuria 50% kyseisen yksikön perustason [ICON_Strength] taisteluvoimakkuudesta taisteltaessa [ICON_Capital] pääkaupungin mantereella.[NEWLINE][ICON_Bullet]+10 [ICON_Strength] taisteluvoimakkuutta taisteltaessa mäellä.</Text>
+			<Text>Vihollisyksikön päihittämisestä [ICON_Capital] pääkaupungin mantereella tulee [ICON_Culture] kulttuuria 50% kyseisen yksikön perustason [ICON_Strength] taisteluvoimakkuudesta taisteltaessa [ICON_Capital] pääkaupungin mantereella (standardinopeudella).[NEWLINE][ICON_Bullet]+10 [ICON_Strength] taisteluvoimakkuutta taisteltaessa mäellä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
 			<Text>+5 [ICON_Strength] taisteluvoimakkuutta hävittäjäkoneita vastaan[NEWLINE][ICON_Bullet]+50% kokemusta taisteluista.</Text>
@@ -462,7 +462,7 @@
 			<Text>Sallii meleeyksiköiden ohittaa muurit.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
-			<Text>+10 [ICON_Strength] taisteluvoimaa ratsujen torjujia vastaan.</Text>
+			<Text>+5 [ICON_Strength] taisteluvoimaa ratsujen torjujia vastaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
 			<Text>+1 [ICON_Ranged] kantamaa lähellä oleville piirityslaitteille.</Text>
