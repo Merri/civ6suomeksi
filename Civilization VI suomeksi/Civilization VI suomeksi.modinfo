@@ -43,6 +43,48 @@
 			<LeaderPlayable>Players:StandardPlayers::LEADER_JADWIGA,StandardPlayers::LEADER_JADWIGA,Players:Expansion1_Players::LEADER_JADWIGA,Players:Expansion2_Players::LEADER_JADWIGA</LeaderPlayable>
 			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
 		</Criteria>
+		<!-- DLC: Babylon -->
+		<Criteria id="Babylon" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_HAMMURABI,Players:Expansion1_Players::LEADER_HAMMURABI Players:Expansion2_Players::LEADER_HAMMURABI</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Byzantium & Gaul -->
+		<Criteria id="ByzantiumGaul" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_BASIL,Players:StandardPlayers::LEADER_AMBIORIX,StandardPlayers::LEADER_BASIL,StandardPlayers::LEADER_AMBIORIX,Players:Expansion1_Players::LEADER_BASIL,Players:Expansion2_Players::LEADER_AMBIORIX,Players:Expansion2_Players::LEADER_BASIL,Players:Expansion2_Players::LEADER_AMBIORIX</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Catherine de Medici -->
+		<Criteria id="CatherineDeMedici" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_CATHERINE_DE_MEDICI,StandardPlayers::LEADER_CATHERINE_DE_MEDICI,Players:Expansion1_Players::LEADER_CATHERINE_DE_MEDICI,Players:Expansion2_Players::LEADER_CATHERINE_DE_MEDICI</LeaderPlayable>
+			<LeaderPlayable>Players:StandardPlayers::LEADER_CATHERINE_DE_MEDICI_ALT,StandardPlayers::LEADER_CATHERINE_DE_MEDICI_ALT,Players:Expansion1_Players::LEADER_CATHERINE_DE_MEDICI_ALT,Players:Expansion2_Players::LEADER_CATHERINE_DE_MEDICI_ALT</LeaderPlayable>
+		</Criteria>
+		<!-- DLC: Ethiopia -->
+		<Criteria id="Ethiopia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_MENELIK StandardPlayers::LEADER_MENELIK,Players:Expansion1_Players::LEADER_MENELIK Players:Expansion2_Players::LEADER_MENELIK</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Gran Colombia & Maya -->
+		<Criteria id="GranColombiaMaya" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_SIMON_BOLIVAR,Players:StandardPlayers::LEADER_LADY_SIX_SKY,StandardPlayers::LEADER_SIMON_BOLIVAR,StandardPlayers::LEADER_LADY_SIX_SKY,Players:Expansion1_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY,Players:Expansion2_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Pirates -->
+		<Criteria id="PiratesScenario">
+			<RuleSetInUse>RULESET_SCENARIO_PIRATES</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Teddy Roosevelt -->
+		<Criteria id="TeddyRoosevelt" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_T_ROOSEVELT,Players:StandardPlayers::LEADER_T_ROOSEVELT_ROUGHRIDER,StandardPlayers::LEADER_T_ROOSEVELT,StandardPlayers::LEADER_T_ROOSEVELT_ROUGHRIDER,Players:Expansion1_Players::LEADER_T_ROOSEVELT,Players:Expansion1_Players::LEADER_T_ROOSEVELT_ROUGHRIDER,Players:Expansion2_Players::LEADER_T_ROOSEVELT,Players:Expansion2_Players::LEADER_T_ROOSEVELT_ROUGHRIDER</LeaderPlayable>
+		</Criteria>
+		<!-- DLC: Tree Randomizer -->
+		<Criteria id="TreeRandomizer_Mode">
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_TREE_RANDOMIZER</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
 	</ActionCriteria>
 	<!-- these are loaded before displaying the main menu, but not before the initial "Loading game, please wait" -->
 	<FrontEndActions>
@@ -64,13 +106,10 @@
 			<File>fi_FI/Aztec_Montezuma_ConfigText.xml</File>
 			<File>fi_FI/Aztec_Montezuma_GameplayText.xml</File>
 			<File>fi_FI/Aztec_Montezuma_PackageText.xml</File>
-			<File>fi_FI/Babylon_PackageText.xml</File>
 			<File>fi_FI/BalanceMaps_ConfigText.xml</File>
 			<File>fi_FI/BenchmarkText.xml</File>
 			<File>fi_FI/Building_Huey_Teocalli_Text.xml</File>
 			<File>fi_FI/Buildings_Text.xml</File>
-			<File>fi_FI/Byzantium_Gaul_PackageText.xml</File>
-			<File>fi_FI/CatherineDeMedici_PackageText.xml</File>
 			<File>fi_FI/CityNames_Text.xml</File>
 			<File>fi_FI/Civics_Text.xml</File>
 			<File>fi_FI/Civilizations_Text.xml</File>
@@ -81,12 +120,10 @@
 			<File>fi_FI/Difficulties_Text.xml</File>
 			<File>fi_FI/DiplomacyStatements_Common_Text.xml</File>
 			<File>fi_FI/EarthMaps_ConfigText.xml</File>
-			<File>fi_FI/Ethiopia_PackageText.xml</File>
 			<File>fi_FI/Expansion1_PackageText.xml</File>
 			<File>fi_FI/Expansion2_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
-			<File>fi_FI/GranColombia_Maya_PackageText.xml</File>
 			<File>fi_FI/Improvements_Text.xml</File>
 			<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
 			<File>fi_FI/InGameText.xml</File>
@@ -96,7 +133,6 @@
 			<File>fi_FI/My2KText.xml</File>
 			<File>fi_FI/Notifications_Text.xml</File>
 			<File>fi_FI/Nubia_PackageText.xml</File>
-			<File>fi_FI/PiratesScenario_PackageText.xml</File>
 			<File>fi_FI/Poland_PackageText.xml</File>
 			<File>fi_FI/Projects_Text.xml</File>
 			<File>fi_FI/Quests_Text.xml</File>
@@ -104,8 +140,6 @@
 			<File>fi_FI/ReligiousCombatScenario_Text.xml</File>
 			<File>fi_FI/Routes_Text.xml</File>
 			<File>fi_FI/Technologies_Text.xml</File>
-			<File>fi_FI/TeddyRoosevelt_PackageText.xml</File>
-			<File>fi_FI/TreeRandomizer_PackageText.xml</File>
 			<File>fi_FI/Types_Text.xml</File>
 			<File>fi_FI/UI_Civilopedia_Text.xml</File>
 			<File>fi_FI/UI_EndGame_Text.xml</File>
@@ -169,6 +203,20 @@
 			<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		</UpdateText>
+		<!-- New Frontier Pass -->
+		<UpdateText id="PackageTextFinnish">
+			<Properties>
+				<LoadOrder>40</LoadOrder>
+			</Properties>
+			<File>fi_FI_DLC/Babylon_PackageText.xml</File>
+			<File>fi_FI_DLC/Byzantium_Gaul_PackageText.xml</File>
+			<File>fi_FI_DLC/CatherineDeMedici_PackageText.xml</File>
+			<File>fi_FI_DLC/Ethiopia_PackageText.xml</File>
+			<File>fi_FI_DLC/GranColombia_Maya_PackageText.xml</File>
+			<File>fi_FI_DLC/PiratesScenario_PackageText.xml</File>
+			<File>fi_FI_DLC/TeddyRoosevelt_PackageText.xml</File>
+			<File>fi_FI_DLC/TreeRandomizer_PackageText.xml</File>
+		</UpdateText>
 		<!-- DLC: Australia -->
 		<UpdateText id="AustraliaTextFinnish" criteria="Australia">
 			<Properties>
@@ -192,6 +240,54 @@
 			</Properties>
 			<File>fi_FI_DLC/Macedonia_Persia_ConfigText.xml</File>
 			<File>fi_FI_DLC/Macedonia_Persia_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Babylon -->
+		<UpdateText id="BabylonTextFinnish" criteria="Babylon">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Byzantium & Gaul -->
+		<UpdateText id="ByzantiumGailTextFinnish" criteria="ByzantiumGaul">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Catherine de Medici -->
+		<UpdateText id="CatherineDeMediciTextFinnish" criteria="CatherineDeMedici">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Ethiopia -->
+		<UpdateText id="EthiopiaTextFinnish" criteria="Ethiopia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Gran Colombia & Maya -->
+		<UpdateText id="GranColombiaTextFinnish" criteria="GranColombiaMaya">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Pirates -->
+		<UpdateText id="PiratesScenarioTextFinnish" criteria="PiratesScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Teddy Roosevelt -->
+		<UpdateText id="TeddyRooseveltTextFinnish" criteria="TeddyRoosevelt">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Tree Randomizer -->
+		<UpdateText id="TreeRandomizerModeTextFinnish" criteria="TreeRandomizer_Mode">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
 		</UpdateText>
 	</FrontEndActions>
 	<!-- these are loaded when starting to play a game -->
@@ -207,13 +303,10 @@
 			<File>fi_FI/Aztec_Montezuma_ConfigText.xml</File>
 			<File>fi_FI/Aztec_Montezuma_GameplayText.xml</File>
 			<File>fi_FI/Aztec_Montezuma_PackageText.xml</File>
-			<File>fi_FI/Babylon_PackageText.xml</File>
 			<File>fi_FI/BalanceMaps_ConfigText.xml</File>
 			<File>fi_FI/BenchmarkText.xml</File>
 			<File>fi_FI/Building_Huey_Teocalli_Text.xml</File>
 			<File>fi_FI/Buildings_Text.xml</File>
-			<File>fi_FI/Byzantium_Gaul_PackageText.xml</File>
-			<File>fi_FI/CatherineDeMedici_PackageText.xml</File>
 			<File>fi_FI/CityNames_Text.xml</File>
 			<File>fi_FI/Civics_Text.xml</File>
 			<File>fi_FI/Civilizations_Text.xml</File>
@@ -224,12 +317,10 @@
 			<File>fi_FI/Difficulties_Text.xml</File>
 			<File>fi_FI/DiplomacyStatements_Common_Text.xml</File>
 			<File>fi_FI/EarthMaps_ConfigText.xml</File>
-			<File>fi_FI/Ethiopia_PackageText.xml</File>
 			<File>fi_FI/Expansion1_PackageText.xml</File>
 			<File>fi_FI/Expansion2_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
-			<File>fi_FI/GranColombia_Maya_PackageText.xml</File>
 			<File>fi_FI/Improvements_Text.xml</File>
 			<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
 			<File>fi_FI/InGameText.xml</File>
@@ -239,7 +330,6 @@
 			<File>fi_FI/My2KText.xml</File>
 			<File>fi_FI/Notifications_Text.xml</File>
 			<File>fi_FI/Nubia_PackageText.xml</File>
-			<File>fi_FI/PiratesScenario_PackageText.xml</File>
 			<File>fi_FI/Poland_PackageText.xml</File>
 			<File>fi_FI/Projects_Text.xml</File>
 			<File>fi_FI/Quests_Text.xml</File>
@@ -247,8 +337,6 @@
 			<File>fi_FI/ReligiousCombatScenario_Text.xml</File>
 			<File>fi_FI/Routes_Text.xml</File>
 			<File>fi_FI/Technologies_Text.xml</File>
-			<File>fi_FI/TeddyRoosevelt_PackageText.xml</File>
-			<File>fi_FI/TreeRandomizer_PackageText.xml</File>
 			<File>fi_FI/Types_Text.xml</File>
 			<File>fi_FI/UI_Civilopedia_Text.xml</File>
 			<File>fi_FI/UI_EndGame_Text.xml</File>
@@ -312,6 +400,20 @@
 			<File>fi_FI_Expansion2/Expansion2_Units_Text.xml</File>
 			<File>fi_FI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		</UpdateText>
+		<!-- New Frontier Pass -->
+		<UpdateText id="PackageTextFinnish">
+			<Properties>
+				<LoadOrder>40</LoadOrder>
+			</Properties>
+			<File>fi_FI_DLC/Babylon_PackageText.xml</File>
+			<File>fi_FI_DLC/Byzantium_Gaul_PackageText.xml</File>
+			<File>fi_FI_DLC/CatherineDeMedici_PackageText.xml</File>
+			<File>fi_FI_DLC/Ethiopia_PackageText.xml</File>
+			<File>fi_FI_DLC/GranColombia_Maya_PackageText.xml</File>
+			<File>fi_FI_DLC/PiratesScenario_PackageText.xml</File>
+			<File>fi_FI_DLC/TeddyRoosevelt_PackageText.xml</File>
+			<File>fi_FI_DLC/TreeRandomizer_PackageText.xml</File>
+		</UpdateText>
 		<!-- DLC: Australia -->
 		<UpdateText id="AustraliaTextFinnish" criteria="Australia">
 			<Properties>
@@ -335,6 +437,54 @@
 			</Properties>
 			<File>fi_FI_DLC/Macedonia_Persia_ConfigText.xml</File>
 			<File>fi_FI_DLC/Macedonia_Persia_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Babylon -->
+		<UpdateText id="BabylonTextFinnish" criteria="Babylon">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Byzantium & Gaul -->
+		<UpdateText id="ByzantiumGailTextFinnish" criteria="ByzantiumGaul">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Catherine de Medici -->
+		<UpdateText id="CatherineDeMediciTextFinnish" criteria="CatherineDeMedici">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Ethiopia -->
+		<UpdateText id="EthiopiaTextFinnish" criteria="Ethiopia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Gran Colombia & Maya -->
+		<UpdateText id="GranColombiaTextFinnish" criteria="GranColombiaMaya">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Pirates -->
+		<UpdateText id="PiratesScenarioTextFinnish" criteria="PiratesScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Teddy Roosevelt -->
+		<UpdateText id="TeddyRooseveltTextFinnish" criteria="TeddyRoosevelt">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+		</UpdateText>
+		<!-- DLC: Tree Randomizer -->
+		<UpdateText id="TreeRandomizerModeTextFinnish" criteria="TreeRandomizer_Mode">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
 		</UpdateText>
 	</InGameActions>
 	<LocalizedText>
@@ -360,13 +510,10 @@
 		<File>fi_FI/Aztec_Montezuma_ConfigText.xml</File>
 		<File>fi_FI/Aztec_Montezuma_GameplayText.xml</File>
 		<File>fi_FI/Aztec_Montezuma_PackageText.xml</File>
-		<File>fi_FI/Babylon_PackageText.xml</File>
 		<File>fi_FI/BalanceMaps_ConfigText.xml</File>
 		<File>fi_FI/BenchmarkText.xml</File>
 		<File>fi_FI/Building_Huey_Teocalli_Text.xml</File>
 		<File>fi_FI/Buildings_Text.xml</File>
-		<File>fi_FI/Byzantium_Gaul_PackageText.xml</File>
-		<File>fi_FI/CatherineDeMedici_PackageText.xml</File>
 		<File>fi_FI/CityNames_Text.xml</File>
 		<File>fi_FI/Civics_Text.xml</File>
 		<File>fi_FI/Civilizations_Text.xml</File>
@@ -377,12 +524,10 @@
 		<File>fi_FI/Difficulties_Text.xml</File>
 		<File>fi_FI/DiplomacyStatements_Common_Text.xml</File>
 		<File>fi_FI/EarthMaps_ConfigText.xml</File>
-		<File>fi_FI/Ethiopia_PackageText.xml</File>
 		<File>fi_FI/Expansion1_PackageText.xml</File>
 		<File>fi_FI/Expansion2_PackageText.xml</File>
 		<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 		<File>fi_FI/FrontEndText.xml</File>
-		<File>fi_FI/GranColombia_Maya_PackageText.xml</File>
 		<File>fi_FI/Improvements_Text.xml</File>
 		<File>fi_FI/Indonesia_Khmer_PackageText.xml</File>
 		<File>fi_FI/InGameText.xml</File>
@@ -392,7 +537,6 @@
 		<File>fi_FI/My2KText.xml</File>
 		<File>fi_FI/Notifications_Text.xml</File>
 		<File>fi_FI/Nubia_PackageText.xml</File>
-		<File>fi_FI/PiratesScenario_PackageText.xml</File>
 		<File>fi_FI/Poland_PackageText.xml</File>
 		<File>fi_FI/Projects_Text.xml</File>
 		<File>fi_FI/Quests_Text.xml</File>
@@ -400,8 +544,6 @@
 		<File>fi_FI/ReligiousCombatScenario_Text.xml</File>
 		<File>fi_FI/Routes_Text.xml</File>
 		<File>fi_FI/Technologies_Text.xml</File>
-		<File>fi_FI/TeddyRoosevelt_PackageText.xml</File>
-		<File>fi_FI/TreeRandomizer_PackageText.xml</File>
 		<File>fi_FI/Types_Text.xml</File>
 		<File>fi_FI/UI_Civilopedia_Text.xml</File>
 		<File>fi_FI/UI_EndGame_Text.xml</File>
@@ -445,5 +587,14 @@
 		<File>fi_FI_DLC/Indonesia_Khmer_Text.xml</File>
 		<File>fi_FI_DLC/Macedonia_Persia_ConfigText.xml</File>
 		<File>fi_FI_DLC/Macedonia_Persia_Text.xml</File>
+		<!-- New Frontier Pass (broken) -->
+		<File>fi_FI_DLC/Babylon_PackageText.xml</File>
+		<File>fi_FI_DLC/Byzantium_Gaul_PackageText.xml</File>
+		<File>fi_FI_DLC/CatherineDeMedici_PackageText.xml</File>
+		<File>fi_FI_DLC/Ethiopia_PackageText.xml</File>
+		<File>fi_FI_DLC/GranColombia_Maya_PackageText.xml</File>
+		<File>fi_FI_DLC/PiratesScenario_PackageText.xml</File>
+		<File>fi_FI_DLC/TeddyRoosevelt_PackageText.xml</File>
+		<File>fi_FI_DLC/TreeRandomizer_PackageText.xml</File>
 	</Files>
 </Mod>
