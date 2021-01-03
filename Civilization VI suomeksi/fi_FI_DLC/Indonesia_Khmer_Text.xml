@@ -13,13 +13,13 @@
 			<Text>Kärsimyksen loppu</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_AGENDA_END_TO_SUFFERING_DESCRIPTION">
-			<Text>Pitää kansoista, joilla on monia pyhiä paikkoja ja keskimäärin korkea kaupunkien [ICON_Citizen] väkiluku. Ei pidä kansoista, mikäli jompikumpi näistä ei ole kunnossa.</Text>
+			<Text>Pitää kansoista joilla on monia pyhiä paikkoja ja keskimäärin korkea kaupunkien [ICON_Citizen] väkiluku. Ei pidä kansoista joilla jompikumpi näistä ei ole kunnossa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_AGENDA_ARCHIPELAGIC_STATE_NAME">
 			<Text>Saaristovaltio</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_AGENDA_ARCHIPELAGIC_STATE_DESCRIPTION">
-			<Text>Pitää kansoista, jotka jättävät veden ympäröivät pienet maamassat asuttamatta ja niillä sijaitsevat kaupungit valtaamatta. Vihaa ketä tahansa, jolla on lukuisia kaupunkeja saarilla.</Text>
+			<Text>Pitää kansoista jotka jättävät veden ympäröimät pienet maamassat asuttamatta sekä valtaamatta niillä sijaitsevat kaupungit. Vihaa ketä tahansa, jolla on lukuisia kaupunkeja saarilla.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ARCHIPELAGIC_STATE">
 			<Text>Haluaa hallita kaikkia saaria</Text>
@@ -495,7 +495,7 @@
 			<Text>En menisi niin pitkälle, että kutsuisin sinua "ystäväksi". Meidän tulee jatkaa nykyisellä mallilla kunnes olen varma todellisista aikeistanne.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GITARJA_ANY">
-			<Text>Kansamme kokee kansanne mieluisaksi kohdata. Julistakaamme tämä maailman kuultavaksi, mikäli sama pätee teille Indonesiasta!</Text>
+			<Text>Kansamme kokee kansanne mieluisaksi kohdata. Julistakaamme tämä maailman kuultavaksi, mikäli pohditte samaa Indonesiasta!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GITARJA_ANY">
 			<Text>Hyvä, hyvä.</Text>
@@ -504,31 +504,31 @@
 			<Text>Ette kai pidä minua pilkkananne?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GITARJA_ANY">
-			<Text>Oikeasti? Ettekä tiedä kostoni saattavan monsuunit häpeään? Pian tämä käy teille tutuksi.</Text>
+			<Text>Oikeasti? Ettekö tiedä kostoni jättävän jopa monsuunit häpeään? Tämä käy teille tutuksi ja sassiin.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GITARJA_ANY">
-			<Text>Ennen kuin tämä sota laantuu, te saatte tuntea tuhansien laivojen vimman.</Text>
+			<Text>Saatte tuntea tuhansien laivojen vimman ennen tämän sodan laantumista.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GITARJA_ANY">
 			<Text>Valtuuskuntanne ei nolannut itseään. Tämä kertoo hyvää kansastanne.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GITARJA_ANY">
-			<Text>Ei juuri nyt. Ikävä virtaus puskee päälle — on parempi ettei kansamme yhdistä sitä omaanne.</Text>
+			<Text>Ei juuri nyt. Virtaus kertoo ikävistä asioista — on parempi ettei kansamme yhdistä sitä omaanne.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GITARJA_ANY">
 			<Text>Valtuuskuntamme tuo oncom-itiökakkuja. Punaiset vaativat inkiväärikastikkeen, mutta mustat ovat herkullisia sellaisenaan.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GITARJA_ANY">
-			<Text>Tuotako väität loukkaukseksi? Se jos mikä on mitätön yritelmä kuoriutuneelta takiaiselta!</Text>
+			<Text>Tuotako väität loukkaukseksi? Mitätön yritelmä kuorettomalta takiaiselta!</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GITARJA_ANY">
-			<Text>Olette kuin lieju, joka leviää laivoihin rauhallisilla vesillä. Kuten sitä, myös teitä on parempi välttää ja purjehtia toisaalle. (Tuomitsee meidät)</Text>
+			<Text>Olette kuin laivoihin rauhallisilla vesillä tarrautuva lieju. Teitä kuten sitä käy välttäminen ja on parempi purjehtia toisaalle. (Tuomitsee meidät)</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_LEADER_GITARJA_ANY">
-			<Text>Olen Gitarja, Indonesian kuningatar ja suojelija. He jotka pitivät meitä heikkona ovat nyt roskaa meren pohjassa.</Text>
+			<Text>Olen Gitarja, Indonesian kuningatar ja suojelija. Meitä heikoksi luulleet ovat jätettä merten syvyyksissä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GITARJA_ANY">
-			<Text>Kaupunkimme on lähellä. TUlkaa, vierailkaa! Käykää kulkemasssa kampungissa.</Text>
+			<Text>Kaupunkimme on lähellä. Tulkaa, vierailkaa! Käykää kulkemasssa kampungissa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GITARJA_ANY">
 			<Text>Tiesin että teistä on tähän.</Text>
@@ -555,13 +555,13 @@
 			<Text>Tuo tarjoaus on melkein loukkaava.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GITARJA_ANY">
-			<Text>Riittää. Tämä taisto ei aiheuta muuta kuin houkutuksen todellisille vihollisillemme.</Text>
+			<Text>Riittää. Tämä taisto on vain houkute todellisille vihollisillemme.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GITARJA_ANY">
 			<Text>Tämä käy, meillä ei ole piilotettavaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GITARJA_ANY">
-			<Text>Ei. Jos haluat katsella Indonesian maita, tehkää se etäältä.</Text>
+			<Text>Ei. Jos haluatte katsella Indonesian maita&hellip; tehkää se etäältä.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GITARJA_ANY">
 			<Text>Maanne kiinnostavat Indonesian kansaa. Avoimin rajoin voisimme tutkia niitä.</Text>
@@ -589,7 +589,7 @@
 			<Text>Taivas hymyilee teille — aivan kuten khmeritkin. Maailman tulisi tietää ystävyydestämme. Julistaisemmeko sen?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JAYAVARMAN_ANY">
-			<Text>Tämä on viisas teko teiltä.</Text>
+			<Text>Tämä on teiltä viisas teko.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JAYAVARMAN_ANY">
 			<Text>Hmm. Kappas vain.</Text>
@@ -607,7 +607,7 @@
 			<Text>Emme voi hyväksyä. Khmerit eivät kaipaa kummallisuuksia kaukaisilta mailta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JAYAVARMAN_ANY">
-			<Text>Valtuuskuntamme tuo teille paistettua a-pingia. On paras syödä jalat ennen kuin syötte loput tarantellasta.</Text>
+			<Text>Valtuuskuntamme tuo teille paistettua a-pingia. On paras syödä jalat ensin ja vasta sitten loput tarantellasta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
 			<Text>Uhmaatte taivasta karuilla sanoillanne. Tämä luontunee teiltä usein!</Text>
@@ -634,10 +634,10 @@
 			<Text>Henkisen kärsimyksen lopettaminen on yhtä tärkeää kuin fyysisen vaivan helpottaminen. Ymmärrätte tämän.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JAYAVARMAN_ANY">
-			<Text>Kuinka kansanne oppii jumalaisuuden ilman merkkiä siitä?</Text>
+			<Text>Kuinka kansanne oppii jumalaisuuden jos ette näytä sen mallia?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JAYAVARMAN_ANY">
-			<Text>Toimenne osoittavat teidän olevan riittävän lähellä taivasta, jotta liitto olisi sovelias. Khmerit ja te, jatkammeko yhdessä?</Text>
+			<Text>Toimenne osoittavat teidän olevan riittävän lähellä taivasta ja tämä tekisi liitosta soveliaan. Khmerit ja te, olemmeko yhtä?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JAYAVARMAN_ANY">
 			<Text>Rauhan muodostamisessa on suuri viisaus. Voin hyväksyä tämän.</Text>
@@ -646,13 +646,13 @@
 			<Text>Tästä ei olisi hyötyä kansalleni.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JAYAVARMAN_ANY">
-			<Text>Molempien kansat kärsivät. Lakkauttaisimmeko tämän hyödyttömän sodan?</Text>
+			<Text>Molempien kansat kärsivät. Eikö tämä sota ole hyödytön meille molemmille?</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
-			<Text>Sovittu. Kansanne tulee kokea khmerien elämäntapa, mikäli he aikovat elää paremmin.</Text>
+			<Text>Sovittu. Kansanne tulee kokea khmerien tapa elää mikäli he kaihoavat parempaa elämäntapaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JAYAVARMAN_ANY">
-			<Text>Liiat vaikutteet toisaalta myrkyttävät khmrin elämäntavan. En voi sallia tätä. En tällä kertaa.</Text>
+			<Text>Liiat vaikutteet toisaalta myrkyttävät khmerien elämäntavan. En voi sallia tätä. En tällä kertaa.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JAYAVARMAN_ANY">
 			<Text>Kansojemme välillä ei tulisi olla esteitä. Oletteko samaa mieltä?</Text>
@@ -664,7 +664,7 @@
 			<Text>Tappio opettaa nöyryyttä. Rukoilen teidän kokevan suurimman nöyryytyksen.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JAYAVARMAN_ANY">
-			<Text>Viisaus ei asu tässä.</Text>
+			<Text>Tässä ei asu viisautta.</Text>
 		</Replace>
 		<Replace Language="en_US" Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JAYAVARMAN_ANY">
 			<Text>Kyllä. Tämä on hyvä khmereille.</Text>
