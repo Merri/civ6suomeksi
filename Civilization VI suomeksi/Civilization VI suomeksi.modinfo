@@ -83,6 +83,7 @@
 			<File>fi_FI/EarthMaps_ConfigText.xml</File>
 			<File>fi_FI/Ethiopia_PackageText.xml</File>
 			<File>fi_FI/Expansion1_PackageText.xml</File>
+			<File>fi_FI/Expansion2_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
 			<File>fi_FI/GranColombia_Maya_PackageText.xml</File>
@@ -225,6 +226,7 @@
 			<File>fi_FI/EarthMaps_ConfigText.xml</File>
 			<File>fi_FI/Ethiopia_PackageText.xml</File>
 			<File>fi_FI/Expansion1_PackageText.xml</File>
+			<File>fi_FI/Expansion2_PackageText.xml</File>
 			<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 			<File>fi_FI/FrontEndText.xml</File>
 			<File>fi_FI/GranColombia_Maya_PackageText.xml</File>
@@ -377,6 +379,7 @@
 		<File>fi_FI/EarthMaps_ConfigText.xml</File>
 		<File>fi_FI/Ethiopia_PackageText.xml</File>
 		<File>fi_FI/Expansion1_PackageText.xml</File>
+		<File>fi_FI/Expansion2_PackageText.xml</File>
 		<File>fi_FI/FeaturesAndTerrains_Text.xml</File>
 		<File>fi_FI/FrontEndText.xml</File>
 		<File>fi_FI/GranColombia_Maya_PackageText.xml</File>

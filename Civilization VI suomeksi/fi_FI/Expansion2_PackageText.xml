@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_TITLE">
+			<Text>Laajennos: Kehkeytyvä myrsky</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_TEASER">
+			<Text>Pelin laajennos, joka tuo maailmankongressin, muuttuvan ympäristön ja katastrofit, sähkön, uusia kansakuntia ja hallitsijoita, sekä kovin paljon muuta!</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+			<Text>Peli käyttää Kehkytyvä myrsky -laajennosta, joka tuo peliin maailmankongressin, muuttuvan ympäristön ja katastrofit, sähkön ja muuta. Kykenetkö johtamaan kansasi lävitse muuttuvan maailman yllätysten, joka kestää ajasta iäisyyteen?</Text>
+		</Replace>
+		<!-- Black Death Scenario -->
+		<Replace Language="en_US" Tag="LOC_BLACKDEATH_MOD_TITLE">
+			<Text>Skenaario: Musta surma</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+			<Text>Kykenetkö johdattamaan kansasi läpi taudin tuoman kärsimysten? 4 pelaajaa, 85 vuoroa.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+			<Text>Tässä skenaariossa ohjastat keskiaikaista kansaa lävitse Mustan surman aikakauden, yrittäen pitää tieteen ja kulttuurin rattaat pyörimässä väen vähetessä ja uskon romahtaessa. Rutto leviää aaltoina ja kylvää tuhoa ruutuihin. Kykenetkö kestämään kyllin kauan saavuttaaksesi valistuneisuuden aikakauden vai näetkö kansakuntasi romahtavan uskottomuuteen ja epätoivoon?</Text>
+		</Replace>
+		<!-- War Machine Scenario -->
+		<Replace Language="en_US" Tag="LOC_WARMACHINE_MOD_TITLE">
+			<Text>Moninpeliskenaario: Sotakone</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+			<Text>Kaksinpeliskenaario jossa Ensimmäisen maailmansodan alussa Saksa hyökkää Ranskaan.</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+			<Text>Tässä skenaariossa komennat Ranskaa tahi Saksaa Ensimmäisen maailmansodan ensimmäisen kuukauden aikana. Hallitset valtavaa taisteluvalmista armeijaa, teollista valtakuntaa joka kykenee sitä tukemaan ja vain 40 vuoroa joiden aikana puolustaa tahi vallata Pariisi. Kykenetkö saavuttamaan voiton yhdessä suurimmista koitoksista maailmanhistoriassa, vai saavatko suuret mittasuhteet yliotteen sinusta?</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
