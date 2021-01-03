@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Languages>
+		<InsertOrIgnore>
+			<Locale>fi_FI</Locale>
+			<Name>Suomi</Name>
+			<PluralRule>2</PluralRule>
+			<SupportsSmallCaps>1</SupportsSmallCaps>
+		</InsertOrIgnore>
+		<InsertOrIgnore>
+			<Locale>fi_FI</Locale>
+			<Name>Suomi</Name>
+			<Collator>NULL</Collator>
+			<PluralRule>2</PluralRule>
+			<SupportsSmallCaps>1</SupportsSmallCaps>
+		</InsertOrIgnore>
+	</Languages>
+</GameData>

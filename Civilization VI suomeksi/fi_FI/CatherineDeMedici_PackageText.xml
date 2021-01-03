@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+		<Replace Language="en_US" Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE">
+			<Text>Lisäosa: Katariina de' Medici</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER">
+			<Text>Persoonat Katariina de' Medici (musta kuningatar) ja Katariina de' Medici (suurenmoinen)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION">
+			<Text>Sisältää persoonat Katariina de' Medici (musta kuningatar) ja Katariina de' Medici (suurenmoinen) joilla on erilainen ulkonäkö, erilaiset kyvyt ja eri pelityyli.</Text>
+		</Replace>
+   </LocalizedText>
+</GameData>

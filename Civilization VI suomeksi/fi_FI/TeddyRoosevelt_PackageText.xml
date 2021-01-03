@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+		<Replace Language="en_US" Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE">
+			<Text>Lisäosa: Teddy Roosevelt</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER">
+			<Text>Persoonat Teddy Roosevelt (edistyspuolue) ja Teddy Roosevelt (rosoratsu)</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION">
+			<Text>Sisältää persoonat Teddy Roosevelt (edistyspuolue) ja Teddy Roosevelt (rosoratsu) joilla on erilainen ulkonäkö, erilaiset kyvyt ja eri pelityyli.</Text>
+		</Replace>
+   </LocalizedText>
+</GameData>
